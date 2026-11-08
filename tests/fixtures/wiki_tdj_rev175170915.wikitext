@@ -1,0 +1,131 @@
+{{Ficha de organismo oficial
+| nombre = Tribunal de Disciplina Judicial
+| nombre_original = 
+| nombre_oficial = 
+| nombre_cooficial = 
+| acrónimo = TDJ
+| logo = TDJ Logo.png
+| ancho_logo = 300px
+| título_logo = 
+| sello = 
+| ancho_sello = 
+| título_sello = 
+| imagen = 
+| ancho_imagen = 
+| título_imagen = 
+| sistema = 
+| tipo = Órgano centralizado del [[Poder Judicial de la Federación]]
+| creado = 15 de septiembre de 2024<ref name=Reforma>{{cita web|url=http://sil.gobernacion.gob.mx/Archivos/Documentos/2024/02/asun_4696973_20240205_1707785928.pdf|título=Iniciativa con Proyecto de Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial|sitio web=Sistema de Información Legislativa de la Secretaría de Gobernación|fecha=5 de febrero de 2024|fechaacceso=1 de junio de 2025}}</ref><ref name=Decreto>{{cita web|url=https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_258_15sep24.pdf|título=DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.|sitio web=Cámara de Diputados|fecha=15 de septiembre de 2024|fechaacceso=1 de junio de 2025}}</ref>
+| predecesora = 
+| disuelto = 
+| sucesora = 
+| jurisdicción = [[Poder Judicial de la Federación (México)|
+Poder Judicial de la Federación]]
+| ámbito = 
+| país = {{MEX}}
+| sede = Insurgentes Sur 2417, colonia [[San Ángel (Distrito Federal)|San Ángel]], [[Delegación Álvaro Obregón|Alcaldía Álvaro Obregón]], C.P. 01000, [[Ciudad de México]].
+| latd = 
+| latm = 
+| lats = 
+| latNS = 
+| longd = 
+| longm = 
+| longs = 
+| longEW = 
+| region_code = 
+| empleados = 
+| presupuesto = 
+| ministro = 
+| ministro_par = 
+| director = 
+| director_pos = 
+| titular_tipo = Magistrado presidente (a)
+| titular_nom = [[Celia Maya García]]
+| titular_pos = 
+| composición = 
+| dependiente_de = 
+| superior = 
+| bajo_su_dependencia = 
+| relacionados = [[Suprema Corte de Justicia de la Nación]]<br/> [[Órgano de Administración Judicial]]<br/>[[Tribunal Electoral del Poder Judicial de la Federación]]
+| salario = 
+| sitio_web = https://www.tdj.gob.mx/
+| notas = 
+}}
+
+El '''Tribunal de Disciplina Judicial''' es uno de los órganos depositarios del [[Poder Judicial de la Federación]] en [[México]]; es la institución que tiene a su cargo la investigación y resolución de los procedimientos de responsabilidades administrativas de los servidores públicos, que desempeñan funciones jurídicas en el Poder Judicial, así como la resolución de los recursos de revisión en los procedimientos administrativos del personal, tratándose de faltas graves; es de igual manera encargado de la evaluación y seguimiento del desempeño de las Magistrados y Jueces de todos los organismos y, el encargado de resolver los conflictos entre el Poder Judicial de la Federación y sus integrantes, así como los que se susciten entre la Suprema Corte de Justicia de la Nación y sus trabajadores.
+
+Está integrado por cinco miembros electos por voto popular. Todos los magistrados durarán seis años en su cargo, ejercerán de manera rotativa, y por dos años la presidencia del mismo. Son sustituidos de manera escalonada, y no pueden ser electos para un nuevo periodo. Los magistrados no representan a quien los designa, por lo que deben ejercer su función con independencia e imparcialidad. El Tribunal funciona en Pleno o en comisiones.<ref name="dup-0-94">{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-100.pdf|título=Artículo 100 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=31 de mayo de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículos del 134 al 181 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref><ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-096.pdf|título=Artículo 96 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=31 de mayo de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+== Estructura orgánica y funcionamiento ==
+
+El '''Pleno del Tribunal''' reunirá a los cinco personas titulares de las magistraturas, pero podrá operar con cuatro presentes. Este es el máximo órgano del tribunal y tiene como principal responsabilidad la emisión de sentencias y fallos respecto a los temas de su competencia, especialmente aquellos que tienen que ver con sanciones a miembros de los órganos jurisdiccionales que le competen (Tribunales de Apelación y de Circuito, y Juzgados de distrito). Las determinaciones se decidirán por la mayoría de cuatro votos.
+
+El pleno podrá designar comisiones de tres miembros del Tribunal para sesionar de manera separada, y resolver asuntos menores contemplado por la ley, y de igual manera emitir resoluciones, constituyéndose como la primera instancia.
+
+Para el cumplimiento de sus funciones el Tribunal de Disciplina Judicial está compuesto por los siguientes órganos con estas responsabilidades:<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículos del 139 al 179 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+* '''Órgano de Investigación de Responsabilidades Administrativas:''' Encargado de investigar los hechos, omisiones o faltas que constituyan responsabilidades administrativas de los titulares y miembros de los órganos jurisdiccionales, de conformidad con las leyes, reglamentos, acuerdos o lineamientos del Poder Judicial; Conduce el proceso de deslinde de responsabilidades y presenta las evidencias necesarias para la resolución del caso.<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículo 179 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la publicación de la nueva ley el 20 de diciembre de 2024}}</ref> 
+
+* '''Órgano de Evaluación del Desempeño Judicial:''' Es el encargado de dar seguimiento a la labor de los titulares y miembros de los órganos jurisdiccionales a fin de consolidar el ejercicio óptimo e íntegro del Poder Judicial. Estará compuesto por visitadores judiciales que basaran sus evaluaciones en los siguientes criterios → Conocimientos y competencias de carácter ético, profesional y técnico; dictado y cumplimiento oportuno de resoluciones; gestión de recursos humanos y materiales; satisfacción de los usuarios; capacitación y actualización; y el avance en la resolución de los casos.<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículo 166 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+== Facultades ==
+
+Las obligaciones, prerrogativas y atribuciones del Tribunal están determinados en el artículo 100 de la Constitución, y ampliado en los títulos VII y VIII de la ''Ley Orgánica del Poder Judicial de la Federación''; el conjunto de estas se resume en los siguientes puntos:<ref name="dup-0-94" /><ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Títulos séptimo y octavo de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+* Aplicar sanciones como amonestación, suspensión, multa e inhabilitación, a los integrantes del Poder Judicial que resulten responsables de las faltas contempladas en la jurisdicción del Tribunal. Con excepción de los ministros de la [[Suprema Corte de Justicia de la Nación|Suprema Corte]] y magistrados del [[Tribunal Electoral del Poder Judicial de la Federación|Tribunal Electoral]], cuya remoción compete al [[Senado de México|Senado de la República]].
+* Ordenar, oficiosamente o por denuncia, investigaciones referentes a los temas de su competencia.
+* Dar visto al ministerio público para que proceda, en caso de que las faltas graves estén consideradas como delito.
+* Solicitar ante la [[Cámara de Diputados de México|Cámara de Diputados]], el procedimiento de juicio político a las personas juzgadoras electas por voto popular.
+* Evaluar el desempeño de los titulares en los Tribunales de Circuito y Juzgados de distrito, en el primer año de su ejercicio.
+* Atraer los casos de faltas graves que estén señalados como delito, gestionados por los tribunales de disciplina de las entidades federativas.
+* Reglamentar los planes, programas, proyectos, especificaciones y parámetros, destinados a la evaluación del desempeño judicial.
+* Coordinarse con el Sistema Nacional Anticorrupción para la implementación de medidas preventivas de faltas administrativas y hechos de corrupción.
+* Resolver y emitir resolución sobre los casos de responsabilidad administrativa que el [[Órgano de Administración Judicial]] le remita.
+* Intervenir en cualquier caso judicial que exceda el tiempo mínimo de resolución, en los términos del artículo 20 constitucional, para evaluar el desempeño del órgano responsable, revisar el proceso judicial y las razones del retraso, así como emitir medidas para la rápida resolución, en caso de que la falta sea imputable al titular del órgano responsable.
+
+== Composición ==
+
+Estará integrado por cinco personas titulares denominados «Magistradas o Magistrados», electos por voto popular para seis años, sin opción a reelegirse; la presidencia se elegirá entre los miembros de manera rotativa y durará dos años en el cargo.
+
+{| class="wikitable"
+! Titular
+! Periodo
+! Elección
+|-
+| [[Celia Maya García]]  (Magistrada presidenta)||rowspan=5| 1 de septiembre de 2025- ||rowspan=5| [[Elecciones federales judiciales extraordinarias de México de 2025|2025]]<ref>{{cita web|url=https://centralelectoral.ine.mx/2025/06/16/declara-ine-validez-de-la-eleccion-de-magistraturas-del-tribunal-de-disciplina-judicial-sala-superior-y-salas-regionales-del-tepjf/|título=Declara INE validez de la elección de magistraturas del Tribunal de Disciplina Judicial, Sala Superior y Salas Regionales del TEPJF|sitio web=Central Electoral del INE|fecha=16 de junio de 2025|fechaacceso=1 de septiembre de 2025}}</ref>
+|-
+| [[Eva Verónica De Gyves Zárate]]
+|-
+| [[Bernardo Bátiz]]
+|-
+| [[Indira Isabel García Pérez]]
+|-
+| [[Rufino H. León Tovar]]
+|}
+
+== Requisitos para acceder al cargo ==
+
+Las personas que aspiren a una magistratura del Tribunal de Disciplina Judicial, deberá contar con los siguientes requisitos según el artículo 137 de la Ley Orgánica del Poder Judicial de la Federación.<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículo 137 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref> 
+
+* Poseer al 1 de septiembre del año anterior a la elección, título profesional de licenciatura en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias de la licenciatura, especialidad, maestría o doctorado, relacionadas con el cargo de Magistrada o Magistrado según determine el Comité de Evaluación en términos de la Ley General de Instituciones y Procedimientos Electorales y demás legislación aplicable; y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
+* Haber residido en el país durante los dos años anteriores, al día 1 de septiembre del año previo a la elección;
+* No haber sido Secretaria o Secretario de Estado, Fiscal General de la República, Senador o Senadora, Diputado o Diputada Federal ni Titular del Poder Ejecutivo en alguna entidad federativa, durante el año previo a la convocatoria del registro de candidaturas, y
+* Las Magistradas y Magistrados del Tribunal de Disciplina Judicial serán elegidos de manera libre, directa y secreta por la ciudadanía a nivel nacional el día que se realicen las elecciones federales ordinarias del año que corresponda.
+
+== Elección ==
+
+De acuerdo con el artículo 96 de la constitución, la elección de las personas titulares del Tribunal de Disciplina Judicial se realiza de la siguiente manera:<ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-096.pdf|título=Artículo 96 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref>{{cita web|url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf|título=Ley General de Instituciones y Procedimientos Electorales — LIBRO NOVENO: De la Integración del Poder Judicial de la Federación y de las Entidades Federativas (Artículos del 494 al 535)|sitio web=Cámara de Diputados|fechaacceso=7 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+* El [[Senado de México|Senado de la República]] lanzará la convocatoria un máximo de 30 días después de la apertura de su primer periodo de sesiones, del año anterior a la elección. 
+* Cada uno de los tres [[Poderes de la Unión]] ([[Presidente de México|Presidente de la República]], [[Congreso de la Unión]] y la [[Suprema Corte de Justicia de la Nación]]) abrirá un proceso de registro de candidaturas, postulando tres aspirantes por cada uno de los cinco cargos de magistrado, es decir 15 cada poder. Los aspirantes a candidatos son designados por cada poder en los términos que la ley establece; la presidenta de la república de manera directa; el Congreso de la Unión con el voto favorable de las dos terceras partes de los legisladores presentes; la Suprema Corte con el voto favorable de seis miembros del pleno. 
+* De manera simultánea, cada uno integrará comités de evaluación, compuestos por cinco personalidades del ámbito jurídico, para calificar el cumplimiento de los requisitos constitucionales, medir la trayectoria, capacidad, habilidades, actitudes y aptitudes en el ramo de los postulantes; de este proceso de selección surgirán los diez perfiles mejor evaluados; finalmente mediante sorteo público se depurará la lista para poder mantener el requisito constitucional de la paridad de género y definir las cinco candidaturas definitivas. Una persona podrá ser postulada por más de uno de los poderes.
+* Los comicios se realizarán el primer domingo de junio del año de la elección conforme a las normas y procesos del [[Instituto Nacional Electoral]], y la validación y calificación del [[Tribunal Electoral del Poder Judicial de la Federación|Tribunal Electoral]].
+
+== Notas ==
+{{listaref|group="nota"}}
+
+== Referencias ==
+{{listaref|2}}
+
+{{Control de autoridades}}
+[[Categoría:Poder Judicial de México]]

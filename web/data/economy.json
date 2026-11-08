@@ -1,0 +1,979 @@
+{
+  "minimum_wage": {
+    "year": 2026,
+    "general": 315.04,
+    "border": 440.87,
+    "effective_from": "2026-01-01",
+    "unit": "pesos diarios",
+    "border_municipalities": [
+      "02001",
+      "02002",
+      "02003",
+      "02004",
+      "02005",
+      "02006",
+      "02007",
+      "05002",
+      "05012",
+      "05013",
+      "05014",
+      "05022",
+      "05023",
+      "05025",
+      "05038",
+      "08005",
+      "08015",
+      "08028",
+      "08035",
+      "08037",
+      "08042",
+      "08052",
+      "08053",
+      "19005",
+      "26002",
+      "26004",
+      "26017",
+      "26019",
+      "26039",
+      "26043",
+      "26048",
+      "26055",
+      "26059",
+      "26060",
+      "26070",
+      "28007",
+      "28014",
+      "28015",
+      "28022",
+      "28024",
+      "28025",
+      "28027",
+      "28032",
+      "28033",
+      "28040"
+    ],
+    "citation": {
+      "source": "conasami",
+      "source_name": "CONASAMI, Tabla de salarios mínimos generales y profesionales vigentes a partir del 1 de enero de 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1041076/Tabla_de_Salarios_M_nimos_2026.pdf",
+      "published_at": null,
+      "retrieved_at": "2026-11-07T21:03:29Z"
+    }
+  },
+  "employment": {
+    "period": "segundo trimestre de 2026",
+    "next_release": "2026-11-25",
+    "national": {
+      "employed": 60040094,
+      "unemployed": 1636604,
+      "participation": 59.1,
+      "unemployment": 2.7,
+      "informality": 55.1
+    },
+    "states": {
+      "01": {
+        "employed": 711129,
+        "unemployed": 19152,
+        "participation": 59.7,
+        "unemployment": 2.6,
+        "informality": 42.5,
+        "rank_by_unemployment": 15,
+        "rank_by_informality": 26
+      },
+      "02": {
+        "employed": 1798778,
+        "unemployed": 53772,
+        "participation": 59.4,
+        "unemployment": 2.9,
+        "informality": 36.2,
+        "rank_by_unemployment": 10,
+        "rank_by_informality": 29
+      },
+      "03": {
+        "employed": 500048,
+        "unemployed": 11616,
+        "participation": 66.7,
+        "unemployment": 2.3,
+        "informality": 39.6,
+        "rank_by_unemployment": 21,
+        "rank_by_informality": 27
+      },
+      "04": {
+        "employed": 434186,
+        "unemployed": 12234,
+        "participation": 59.7,
+        "unemployment": 2.7,
+        "informality": 61.4,
+        "rank_by_unemployment": 13,
+        "rank_by_informality": 11
+      },
+      "05": {
+        "employed": 1572870,
+        "unemployed": 61191,
+        "participation": 60.2,
+        "unemployment": 3.7,
+        "informality": 35.5,
+        "rank_by_unemployment": 3,
+        "rank_by_informality": 30
+      },
+      "06": {
+        "employed": 398610,
+        "unemployed": 6405,
+        "participation": 65.5,
+        "unemployment": 1.6,
+        "informality": 46.2,
+        "rank_by_unemployment": 30,
+        "rank_by_informality": 21
+      },
+      "07": {
+        "employed": 2218580,
+        "unemployed": 49934,
+        "participation": 54.1,
+        "unemployment": 2.2,
+        "informality": 76.9,
+        "rank_by_unemployment": 23,
+        "rank_by_informality": 3
+      },
+      "08": {
+        "employed": 1851002,
+        "unemployed": 50891,
+        "participation": 60.3,
+        "unemployment": 2.7,
+        "informality": 35.1,
+        "rank_by_unemployment": 14,
+        "rank_by_informality": 31
+      },
+      "09": {
+        "employed": 4873434,
+        "unemployed": 212709,
+        "participation": 62.9,
+        "unemployment": 4.2,
+        "informality": 45.3,
+        "rank_by_unemployment": 1,
+        "rank_by_informality": 22
+      },
+      "10": {
+        "employed": 878505,
+        "unemployed": 26356,
+        "participation": 60.7,
+        "unemployment": 2.9,
+        "informality": 55.5,
+        "rank_by_unemployment": 11,
+        "rank_by_informality": 15
+      },
+      "11": {
+        "employed": 2936908,
+        "unemployed": 97267,
+        "participation": 60.7,
+        "unemployment": 3.2,
+        "informality": 54.8,
+        "rank_by_unemployment": 5,
+        "rank_by_informality": 18
+      },
+      "12": {
+        "employed": 1542295,
+        "unemployed": 17722,
+        "participation": 58.1,
+        "unemployment": 1.1,
+        "informality": 77.6,
+        "rank_by_unemployment": 31,
+        "rank_by_informality": 2
+      },
+      "13": {
+        "employed": 1476369,
+        "unemployed": 33244,
+        "participation": 58.9,
+        "unemployment": 2.2,
+        "informality": 72.0,
+        "rank_by_unemployment": 24,
+        "rank_by_informality": 4
+      },
+      "14": {
+        "employed": 3822914,
+        "unemployed": 95178,
+        "participation": 56.4,
+        "unemployment": 2.4,
+        "informality": 46.5,
+        "rank_by_unemployment": 17,
+        "rank_by_informality": 20
+      },
+      "15": {
+        "employed": 8102275,
+        "unemployed": 256251,
+        "participation": 57.4,
+        "unemployment": 3.1,
+        "informality": 55.3,
+        "rank_by_unemployment": 8,
+        "rank_by_informality": 16
+      },
+      "16": {
+        "employed": 2218946,
+        "unemployed": 40099,
+        "participation": 59.4,
+        "unemployment": 1.8,
+        "informality": 71.3,
+        "rank_by_unemployment": 26,
+        "rank_by_informality": 6
+      },
+      "17": {
+        "employed": 920190,
+        "unemployed": 15680,
+        "participation": 57.6,
+        "unemployment": 1.7,
+        "informality": 67.2,
+        "rank_by_unemployment": 28,
+        "rank_by_informality": 9
+      },
+      "18": {
+        "employed": 668986,
+        "unemployed": 16541,
+        "participation": 66.7,
+        "unemployment": 2.4,
+        "informality": 58.9,
+        "rank_by_unemployment": 18,
+        "rank_by_informality": 14
+      },
+      "19": {
+        "employed": 2966006,
+        "unemployed": 77218,
+        "participation": 60.7,
+        "unemployment": 2.5,
+        "informality": 34.8,
+        "rank_by_unemployment": 16,
+        "rank_by_informality": 32
+      },
+      "20": {
+        "employed": 1936523,
+        "unemployed": 15534,
+        "participation": 61.2,
+        "unemployment": 0.8,
+        "informality": 80.1,
+        "rank_by_unemployment": 32,
+        "rank_by_informality": 1
+      },
+      "21": {
+        "employed": 3111161,
+        "unemployed": 57052,
+        "participation": 61.2,
+        "unemployment": 1.8,
+        "informality": 70.3,
+        "rank_by_unemployment": 27,
+        "rank_by_informality": 7
+      },
+      "22": {
+        "employed": 1217940,
+        "unemployed": 28618,
+        "participation": 60.8,
+        "unemployment": 2.3,
+        "informality": 39.2,
+        "rank_by_unemployment": 22,
+        "rank_by_informality": 28
+      },
+      "23": {
+        "employed": 1025532,
+        "unemployed": 25427,
+        "participation": 66.4,
+        "unemployment": 2.4,
+        "informality": 45.0,
+        "rank_by_unemployment": 19,
+        "rank_by_informality": 23
+      },
+      "24": {
+        "employed": 1329458,
+        "unemployed": 43437,
+        "participation": 60.0,
+        "unemployment": 3.2,
+        "informality": 54.9,
+        "rank_by_unemployment": 6,
+        "rank_by_informality": 17
+      },
+      "25": {
+        "employed": 1405556,
+        "unemployed": 44420,
+        "participation": 57.8,
+        "unemployment": 3.1,
+        "informality": 49.0,
+        "rank_by_unemployment": 9,
+        "rank_by_informality": 19
+      },
+      "26": {
+        "employed": 1469932,
+        "unemployed": 41769,
+        "participation": 62.7,
+        "unemployment": 2.8,
+        "informality": 43.9,
+        "rank_by_unemployment": 12,
+        "rank_by_informality": 25
+      },
+      "27": {
+        "employed": 1085768,
+        "unemployed": 45640,
+        "participation": 57.5,
+        "unemployment": 4.0,
+        "informality": 66.2,
+        "rank_by_unemployment": 2,
+        "rank_by_informality": 10
+      },
+      "28": {
+        "employed": 1648786,
+        "unemployed": 54149,
+        "participation": 58.4,
+        "unemployment": 3.2,
+        "informality": 44.4,
+        "rank_by_unemployment": 7,
+        "rank_by_informality": 24
+      },
+      "29": {
+        "employed": 670569,
+        "unemployed": 23798,
+        "participation": 61.8,
+        "unemployment": 3.4,
+        "informality": 72.0,
+        "rank_by_unemployment": 4,
+        "rank_by_informality": 5
+      },
+      "30": {
+        "employed": 3310652,
+        "unemployed": 64397,
+        "participation": 52.2,
+        "unemployment": 1.9,
+        "informality": 69.1,
+        "rank_by_unemployment": 25,
+        "rank_by_informality": 8
+      },
+      "31": {
+        "employed": 1255687,
+        "unemployed": 21876,
+        "participation": 64.1,
+        "unemployment": 1.7,
+        "informality": 59.1,
+        "rank_by_unemployment": 29,
+        "rank_by_informality": 13
+      },
+      "32": {
+        "employed": 680499,
+        "unemployed": 17027,
+        "participation": 54.0,
+        "unemployment": 2.4,
+        "informality": 61.2,
+        "rank_by_unemployment": 20,
+        "rank_by_informality": 12
+      }
+    },
+    "citation": {
+      "source": "inegi_enoe",
+      "source_name": "INEGI, Encuesta Nacional de Ocupación y Empleo, segundo trimestre de 2026 (comunicado de prensa, cuadro 5)",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08.pdf",
+      "published_at": "2026-08-25",
+      "retrieved_at": "2026-11-07T21:03:29Z"
+    }
+  },
+  "poverty": {
+    "year": 2024,
+    "national": {
+      "poverty_people": 38489971,
+      "poverty_pct": 29.56,
+      "extreme_people": 6951103,
+      "extreme_pct": 5.34
+    },
+    "states": {
+      "01": {
+        "poverty_people": 255437,
+        "poverty_pct": 17.07,
+        "extreme_people": 8667,
+        "extreme_pct": 0.58,
+        "rank_by_poverty": 23
+      },
+      "02": {
+        "poverty_people": 373406,
+        "poverty_pct": 9.87,
+        "extreme_people": 13437,
+        "extreme_pct": 0.36,
+        "rank_by_poverty": 32
+      },
+      "03": {
+        "poverty_people": 89268,
+        "poverty_pct": 10.17,
+        "extreme_people": 10704,
+        "extreme_pct": 1.22,
+        "rank_by_poverty": 31
+      },
+      "04": {
+        "poverty_people": 347450,
+        "poverty_pct": 36.75,
+        "extreme_people": 55276,
+        "extreme_pct": 5.85,
+        "rank_by_poverty": 7
+      },
+      "05": {
+        "poverty_people": 421807,
+        "poverty_pct": 12.38,
+        "extreme_people": 25572,
+        "extreme_pct": 0.75,
+        "rank_by_poverty": 29
+      },
+      "06": {
+        "poverty_people": 108771,
+        "poverty_pct": 14.98,
+        "extreme_people": 6916,
+        "extreme_pct": 0.95,
+        "rank_by_poverty": 27
+      },
+      "07": {
+        "poverty_people": 3865978,
+        "poverty_pct": 65.97,
+        "extreme_people": 1589725,
+        "extreme_pct": 27.13,
+        "rank_by_poverty": 1
+      },
+      "08": {
+        "poverty_people": 587293,
+        "poverty_pct": 15.11,
+        "extreme_people": 86925,
+        "extreme_pct": 2.24,
+        "rank_by_poverty": 26
+      },
+      "09": {
+        "poverty_people": 1843513,
+        "poverty_pct": 19.73,
+        "extreme_people": 169547,
+        "extreme_pct": 1.81,
+        "rank_by_poverty": 20
+      },
+      "10": {
+        "poverty_people": 528986,
+        "poverty_pct": 27.88,
+        "extreme_people": 82321,
+        "extreme_pct": 4.34,
+        "rank_by_poverty": 15
+      },
+      "11": {
+        "poverty_people": 1642852,
+        "poverty_pct": 25.99,
+        "extreme_people": 109101,
+        "extreme_pct": 1.73,
+        "rank_by_poverty": 17
+      },
+      "12": {
+        "poverty_people": 2092625,
+        "poverty_pct": 58.06,
+        "extreme_people": 768998,
+        "extreme_pct": 21.34,
+        "rank_by_poverty": 2
+      },
+      "13": {
+        "poverty_people": 1140491,
+        "poverty_pct": 35.31,
+        "extreme_people": 182586,
+        "extreme_pct": 5.65,
+        "rank_by_poverty": 10
+      },
+      "14": {
+        "poverty_people": 1626417,
+        "poverty_pct": 18.63,
+        "extreme_people": 114163,
+        "extreme_pct": 1.31,
+        "rank_by_poverty": 21
+      },
+      "15": {
+        "poverty_people": 5530396,
+        "poverty_pct": 31.2,
+        "extreme_people": 657137,
+        "extreme_pct": 3.71,
+        "rank_by_poverty": 13
+      },
+      "16": {
+        "poverty_people": 1694055,
+        "poverty_pct": 34.3,
+        "extreme_people": 269023,
+        "extreme_pct": 5.45,
+        "rank_by_poverty": 12
+      },
+      "17": {
+        "poverty_people": 697233,
+        "poverty_pct": 35.36,
+        "extreme_people": 96401,
+        "extreme_pct": 4.89,
+        "rank_by_poverty": 9
+      },
+      "18": {
+        "poverty_people": 292077,
+        "poverty_pct": 23.5,
+        "extreme_people": 46196,
+        "extreme_pct": 3.72,
+        "rank_by_poverty": 18
+      },
+      "19": {
+        "poverty_people": 648457,
+        "poverty_pct": 10.58,
+        "extreme_people": 29574,
+        "extreme_pct": 0.48,
+        "rank_by_poverty": 30
+      },
+      "20": {
+        "poverty_people": 2203484,
+        "poverty_pct": 51.61,
+        "extreme_people": 694565,
+        "extreme_pct": 16.27,
+        "rank_by_poverty": 3
+      },
+      "21": {
+        "poverty_people": 2865015,
+        "poverty_pct": 43.44,
+        "extreme_people": 481214,
+        "extreme_pct": 7.3,
+        "rank_by_poverty": 5
+      },
+      "22": {
+        "poverty_people": 414001,
+        "poverty_pct": 16.33,
+        "extreme_people": 28259,
+        "extreme_pct": 1.11,
+        "rank_by_poverty": 25
+      },
+      "23": {
+        "poverty_people": 339835,
+        "poverty_pct": 17.75,
+        "extreme_people": 50031,
+        "extreme_pct": 2.61,
+        "rank_by_poverty": 22
+      },
+      "24": {
+        "poverty_people": 874848,
+        "poverty_pct": 30.41,
+        "extreme_people": 145720,
+        "extreme_pct": 5.06,
+        "rank_by_poverty": 14
+      },
+      "25": {
+        "poverty_people": 533081,
+        "poverty_pct": 17.0,
+        "extreme_people": 45649,
+        "extreme_pct": 1.46,
+        "rank_by_poverty": 24
+      },
+      "26": {
+        "poverty_people": 431668,
+        "poverty_pct": 14.11,
+        "extreme_people": 45178,
+        "extreme_pct": 1.48,
+        "rank_by_poverty": 28
+      },
+      "27": {
+        "poverty_people": 881517,
+        "poverty_pct": 34.8,
+        "extreme_people": 164169,
+        "extreme_pct": 6.48,
+        "rank_by_poverty": 11
+      },
+      "28": {
+        "poverty_people": 720445,
+        "poverty_pct": 20.15,
+        "extreme_people": 52364,
+        "extreme_pct": 1.46,
+        "rank_by_poverty": 19
+      },
+      "29": {
+        "poverty_people": 598684,
+        "poverty_pct": 40.81,
+        "extreme_people": 63888,
+        "extreme_pct": 4.35,
+        "rank_by_poverty": 6
+      },
+      "30": {
+        "poverty_people": 3601908,
+        "poverty_pct": 44.5,
+        "extreme_people": 713945,
+        "extreme_pct": 8.82,
+        "rank_by_poverty": 4
+      },
+      "31": {
+        "poverty_people": 633644,
+        "poverty_pct": 26.64,
+        "extreme_people": 85298,
+        "extreme_pct": 3.59,
+        "rank_by_poverty": 16
+      },
+      "32": {
+        "poverty_people": 605329,
+        "poverty_pct": 36.43,
+        "extreme_people": 58554,
+        "extreme_pct": 3.52,
+        "rank_by_poverty": 8
+      }
+    },
+    "citation": {
+      "source": "inegi_pm",
+      "source_name": "INEGI, Pobreza Multidimensional 2024, tabulados por entidad federativa (metodología del Coneval, ENIGH 2024)",
+      "url": "https://www.inegi.org.mx/contenidos/desarrollosocial/pm/tabulados/pm_ef_2024.xlsx",
+      "published_at": "2025-08-13",
+      "retrieved_at": "2026-11-07T21:03:29Z"
+    }
+  },
+  "income": {
+    "period": "segundo trimestre de 2026",
+    "states": {
+      "01": {
+        "up_to_1": 34.0,
+        "from_1_to_2": 32.4,
+        "from_2_to_3": 5.5,
+        "from_3_to_5": 2.3,
+        "over_5": 0.9,
+        "none": 1.8,
+        "unspecified": 23.0,
+        "rank_by_up_to_1": 29
+      },
+      "02": {
+        "up_to_1": 43.4,
+        "from_1_to_2": 35.9,
+        "from_2_to_3": 3.9,
+        "from_3_to_5": 0.8,
+        "over_5": 0.2,
+        "none": 0.9,
+        "unspecified": 14.9,
+        "rank_by_up_to_1": 21
+      },
+      "03": {
+        "up_to_1": 29.7,
+        "from_1_to_2": 40.2,
+        "from_2_to_3": 16.0,
+        "from_3_to_5": 6.9,
+        "over_5": 1.8,
+        "none": 0.7,
+        "unspecified": 4.7,
+        "rank_by_up_to_1": 31
+      },
+      "04": {
+        "up_to_1": 54.1,
+        "from_1_to_2": 27.5,
+        "from_2_to_3": 5.2,
+        "from_3_to_5": 2.4,
+        "over_5": 0.6,
+        "none": 6.6,
+        "unspecified": 3.6,
+        "rank_by_up_to_1": 8
+      },
+      "05": {
+        "up_to_1": 36.2,
+        "from_1_to_2": 40.3,
+        "from_2_to_3": 8.5,
+        "from_3_to_5": 4.0,
+        "over_5": 1.3,
+        "none": 0.9,
+        "unspecified": 8.9,
+        "rank_by_up_to_1": 28
+      },
+      "06": {
+        "up_to_1": 38.3,
+        "from_1_to_2": 41.2,
+        "from_2_to_3": 9.6,
+        "from_3_to_5": 3.8,
+        "over_5": 0.9,
+        "none": 2.4,
+        "unspecified": 3.9,
+        "rank_by_up_to_1": 27
+      },
+      "07": {
+        "up_to_1": 65.1,
+        "from_1_to_2": 17.6,
+        "from_2_to_3": 2.5,
+        "from_3_to_5": 0.9,
+        "over_5": 0.1,
+        "none": 12.1,
+        "unspecified": 1.7,
+        "rank_by_up_to_1": 1
+      },
+      "08": {
+        "up_to_1": 40.2,
+        "from_1_to_2": 39.2,
+        "from_2_to_3": 6.1,
+        "from_3_to_5": 2.5,
+        "over_5": 0.7,
+        "none": 1.3,
+        "unspecified": 9.9,
+        "rank_by_up_to_1": 25
+      },
+      "09": {
+        "up_to_1": 41.2,
+        "from_1_to_2": 33.9,
+        "from_2_to_3": 10.3,
+        "from_3_to_5": 5.5,
+        "over_5": 2.9,
+        "none": 1.4,
+        "unspecified": 4.9,
+        "rank_by_up_to_1": 23
+      },
+      "10": {
+        "up_to_1": 49.7,
+        "from_1_to_2": 30.1,
+        "from_2_to_3": 4.7,
+        "from_3_to_5": 1.6,
+        "over_5": 0.4,
+        "none": 4.1,
+        "unspecified": 9.4,
+        "rank_by_up_to_1": 16
+      },
+      "11": {
+        "up_to_1": 51.8,
+        "from_1_to_2": 28.9,
+        "from_2_to_3": 3.6,
+        "from_3_to_5": 1.0,
+        "over_5": 0.5,
+        "none": 3.1,
+        "unspecified": 11.0,
+        "rank_by_up_to_1": 12
+      },
+      "12": {
+        "up_to_1": 51.1,
+        "from_1_to_2": 21.1,
+        "from_2_to_3": 2.5,
+        "from_3_to_5": 0.8,
+        "over_5": 0.1,
+        "none": 17.9,
+        "unspecified": 6.5,
+        "rank_by_up_to_1": 13
+      },
+      "13": {
+        "up_to_1": 58.4,
+        "from_1_to_2": 23.4,
+        "from_2_to_3": 3.9,
+        "from_3_to_5": 1.4,
+        "over_5": 0.7,
+        "none": 6.5,
+        "unspecified": 5.8,
+        "rank_by_up_to_1": 3
+      },
+      "14": {
+        "up_to_1": 32.3,
+        "from_1_to_2": 44.7,
+        "from_2_to_3": 10.3,
+        "from_3_to_5": 1.9,
+        "over_5": 0.5,
+        "none": 2.3,
+        "unspecified": 8.1,
+        "rank_by_up_to_1": 30
+      },
+      "15": {
+        "up_to_1": 44.4,
+        "from_1_to_2": 36.5,
+        "from_2_to_3": 7.1,
+        "from_3_to_5": 2.0,
+        "over_5": 0.4,
+        "none": 3.2,
+        "unspecified": 6.4,
+        "rank_by_up_to_1": 19
+      },
+      "16": {
+        "up_to_1": 58.6,
+        "from_1_to_2": 25.1,
+        "from_2_to_3": 3.4,
+        "from_3_to_5": 1.4,
+        "over_5": 0.2,
+        "none": 3.8,
+        "unspecified": 7.5,
+        "rank_by_up_to_1": 2
+      },
+      "17": {
+        "up_to_1": 51.9,
+        "from_1_to_2": 26.6,
+        "from_2_to_3": 2.2,
+        "from_3_to_5": 0.6,
+        "over_5": 0.1,
+        "none": 4.2,
+        "unspecified": 14.4,
+        "rank_by_up_to_1": 11
+      },
+      "18": {
+        "up_to_1": 43.6,
+        "from_1_to_2": 35.8,
+        "from_2_to_3": 6.5,
+        "from_3_to_5": 2.4,
+        "over_5": 0.3,
+        "none": 5.4,
+        "unspecified": 6.0,
+        "rank_by_up_to_1": 20
+      },
+      "19": {
+        "up_to_1": 25.8,
+        "from_1_to_2": 37.6,
+        "from_2_to_3": 7.9,
+        "from_3_to_5": 5.0,
+        "over_5": 1.8,
+        "none": 1.1,
+        "unspecified": 20.8,
+        "rank_by_up_to_1": 32
+      },
+      "20": {
+        "up_to_1": 50.2,
+        "from_1_to_2": 17.6,
+        "from_2_to_3": 2.7,
+        "from_3_to_5": 0.7,
+        "over_5": 0.3,
+        "none": 18.6,
+        "unspecified": 9.8,
+        "rank_by_up_to_1": 14
+      },
+      "21": {
+        "up_to_1": 57.3,
+        "from_1_to_2": 24.4,
+        "from_2_to_3": 3.9,
+        "from_3_to_5": 1.0,
+        "over_5": 0.2,
+        "none": 7.5,
+        "unspecified": 5.8,
+        "rank_by_up_to_1": 4
+      },
+      "22": {
+        "up_to_1": 39.5,
+        "from_1_to_2": 41.3,
+        "from_2_to_3": 6.6,
+        "from_3_to_5": 2.3,
+        "over_5": 0.8,
+        "none": 2.7,
+        "unspecified": 6.8,
+        "rank_by_up_to_1": 26
+      },
+      "23": {
+        "up_to_1": 40.7,
+        "from_1_to_2": 40.7,
+        "from_2_to_3": 7.8,
+        "from_3_to_5": 2.7,
+        "over_5": 0.9,
+        "none": 3.4,
+        "unspecified": 3.8,
+        "rank_by_up_to_1": 24
+      },
+      "24": {
+        "up_to_1": 50.2,
+        "from_1_to_2": 26.8,
+        "from_2_to_3": 4.3,
+        "from_3_to_5": 2.1,
+        "over_5": 0.5,
+        "none": 5.5,
+        "unspecified": 10.8,
+        "rank_by_up_to_1": 15
+      },
+      "25": {
+        "up_to_1": 42.3,
+        "from_1_to_2": 35.8,
+        "from_2_to_3": 7.0,
+        "from_3_to_5": 3.3,
+        "over_5": 0.6,
+        "none": 1.8,
+        "unspecified": 9.2,
+        "rank_by_up_to_1": 22
+      },
+      "26": {
+        "up_to_1": 44.8,
+        "from_1_to_2": 34.3,
+        "from_2_to_3": 7.1,
+        "from_3_to_5": 3.0,
+        "over_5": 1.0,
+        "none": 1.7,
+        "unspecified": 8.1,
+        "rank_by_up_to_1": 18
+      },
+      "27": {
+        "up_to_1": 52.3,
+        "from_1_to_2": 22.8,
+        "from_2_to_3": 3.1,
+        "from_3_to_5": 1.1,
+        "over_5": 0.3,
+        "none": 3.9,
+        "unspecified": 16.4,
+        "rank_by_up_to_1": 10
+      },
+      "28": {
+        "up_to_1": 55.7,
+        "from_1_to_2": 27.5,
+        "from_2_to_3": 3.8,
+        "from_3_to_5": 1.2,
+        "over_5": 0.3,
+        "none": 1.7,
+        "unspecified": 9.7,
+        "rank_by_up_to_1": 6
+      },
+      "29": {
+        "up_to_1": 55.3,
+        "from_1_to_2": 18.8,
+        "from_2_to_3": 3.1,
+        "from_3_to_5": 0.9,
+        "over_5": 0.1,
+        "none": 7.4,
+        "unspecified": 14.4,
+        "rank_by_up_to_1": 7
+      },
+      "30": {
+        "up_to_1": 56.1,
+        "from_1_to_2": 23.5,
+        "from_2_to_3": 3.4,
+        "from_3_to_5": 1.6,
+        "over_5": 0.3,
+        "none": 5.7,
+        "unspecified": 9.3,
+        "rank_by_up_to_1": 5
+      },
+      "31": {
+        "up_to_1": 49.4,
+        "from_1_to_2": 30.8,
+        "from_2_to_3": 5.4,
+        "from_3_to_5": 2.9,
+        "over_5": 1.1,
+        "none": 4.8,
+        "unspecified": 5.7,
+        "rank_by_up_to_1": 17
+      },
+      "32": {
+        "up_to_1": 52.5,
+        "from_1_to_2": 27.4,
+        "from_2_to_3": 3.8,
+        "from_3_to_5": 1.2,
+        "over_5": 0.2,
+        "none": 6.3,
+        "unspecified": 8.6,
+        "rank_by_up_to_1": 9
+      }
+    },
+    "citation": {
+      "source": "inegi_enoe",
+      "source_name": "INEGI, ENOE, segundo trimestre de 2026, comunicados por entidad federativa (cuadro de nivel de ingresos)",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Ags.pdf",
+      "published_at": "2026-08-25",
+      "retrieved_at": "2026-11-07T21:03:29Z"
+    },
+    "bulletins": {
+      "01": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Ags.pdf",
+      "02": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_BC.pdf",
+      "03": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_BCS.pdf",
+      "04": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Camp.pdf",
+      "05": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Coah.pdf",
+      "06": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Col.pdf",
+      "07": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Chis.pdf",
+      "08": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Chih.pdf",
+      "09": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_CdMx.pdf",
+      "10": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Dgo.pdf",
+      "11": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Gto.pdf",
+      "12": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Gro.pdf",
+      "13": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Hgo.pdf",
+      "14": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Jal.pdf",
+      "15": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Mex.pdf",
+      "16": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Mich.pdf",
+      "17": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Mor.pdf",
+      "18": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Nay.pdf",
+      "19": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_NL.pdf",
+      "20": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Oax.pdf",
+      "21": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Pue.pdf",
+      "22": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Qro.pdf",
+      "23": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_QRoo.pdf",
+      "24": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_SLP.pdf",
+      "25": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Sin.pdf",
+      "26": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Son.pdf",
+      "27": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Tab.pdf",
+      "28": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Tamps.pdf",
+      "29": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Tlax.pdf",
+      "30": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Ver.pdf",
+      "31": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Yuc.pdf",
+      "32": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Zac.pdf"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.9 26.1 0.2 
+Medianos establecimientos2/  498 684  537 067  38 383 14.9 16.0 1.1 
+Grandes establecimientos2/  278 761  257 992 -20 769 8.4 7.7 -0.7 
+Gobierno2/  98 849  96 638 -2 211 3.0 2.9 -0.1 
+Otros2/  159 145  157 048 -2 097 4.8 4.7 -0.1 
+No especificado  200 123  126 467 -73 656 5.2 3.3 -1.9 
+Nivel de ingresos3/ 3 874 934 3 822 914 -52 020 100.0 100.0   
+Hasta un salario mínimo  816 148 1 232 911  416 763 21.1 32.3 11.2 
+Más de 1 hasta 2 salarios mínimos 1 598 540 1 708 074  109 534 41.3 44.7 3.4 
+Más de 2 hasta 3 salarios mínimos  475 921  392 157 -83 764 12.3 10.3 -2.0 
+Más de 3 hasta 5 salarios mínimos  126 813  73 308 -53 505 3.3 1.9 -1.4 
+Más de 5 salarios mínimos 26 860 18 717 -8 143 0.7 0.5 -0.2 
+No recibe ingresos 56 687  88 776  32 089 1.5 2.3 0.8 
+No especificado  773 965  308 971 -464 994 20.0 8.1 -11.9 
+ 
+ Nota:    La suma de los porcentajes puede no coincidir con los totales, debido al redondeo de las cifras. 
+1/ Valor relativo respecto a la población ocupada. 
+2/ Valor relativo respecto al ámbito no agropecuario. 
+3/ Para efecto de comparar en el tiempo indicadores que toman como referencia salarios mínimos, es necesario considerar la evolución 
+del Índice Nacional de Precios al Consumidor (INPC) y construir salarios mínimos equivalentes con un año base como referencia. 
+Fuente: INEGI. Encuesta Nacional de Ocupación y Empleo (ENOE), segundo trimestre de 2026. 
+ 
+ 
+ 
+BOLETÍN DE INDICADOR 517/26 
+ENCUESTA NACIONAL DE OCUPACIÓN 
+Y EMPLEO (ENOE), JALISCO 
+Segu

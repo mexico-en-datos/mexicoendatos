@@ -1,0 +1,75 @@
+{{Ficha de persona
+| nombre = Claudia Sheinbaum
+| imagen = Claudia Sheinbaum Argentina v Spain 19 July 2026-281 (3x4 close up cropped).jpg
+| tamaño = 
+| pie de imagen = Sheinbaum en 2026
+| escudo = Seal of the Government of Mexico.svg
+| cargo = [[Presidenta de México|Presidenta de los Estados Unidos Mexicanos]]<ref group='n.'>El término '''Presidenta''', está oficializado en dos documentos de mandato constitucional; el [https://www.te.gob.mx/EE/SUP/2024/EEP/1/SUP_2024_EEP_1-1498426.pdf Dictamen de la resolución final del Tribunal Electoral, respecto a la declaratoria de «Presidenta electa», para la candidata ganadora de las elecciones de 2024]; y el [https://www.diputados.gob.mx/LeyesBiblio/marjur/marco/Bando_02sep24.pdf Bando solemne que emite la Cámara de Diputados para divulgar la declaratoria de «Presidenta electa»]. Además está debidamente validado en las normas del idioma español por la [https://dle.rae.es/presidente RAE] y el [https://www.rae.es/dpd/presidente DPD].</ref>
+| inicio = {{fecha|1|10|2024}}
+| gabinete = [[Anexo:Gabinete de Claudia Sheinbaum|Gabinete de Claudia Sheinbaum]]
+| predecesor = [[Andrés Manuel López Obrador]]
+| escudo2 = Alianza del Pacífico-Logo.PNG
+| cargo2 = [[Presidente pro tempore de la Alianza del Pacífico|Presidenta ''pro tempore'' de la Alianza del Pacífico]]
+| inicio2 = {{Fecha|30|1|2026}}
+| predecesor2 = [[Gustavo Petro]]
+| escudo3 = Coat of arms of Mexico City, Mexico.svg
+| cargo3 = [[Jefa de Gobierno de la Ciudad de México]]
+| gabinete3 = [[Anexo:Gabinete de Claudia Sheinbaum (Ciudad de México)|Gabinete de Claudia Sheinbaum]]
+| inicio3 = 5 de diciembre de 2018
+| final3 = 16 de junio de 2023
+| predecesor3 = [[José Ramón Amieva]]
+| sucesor3 = [[Martí Batres]]
+| escudo4 = Escudo Delegacional TLALPAN.svg
+| cargo4 = [[Tlalpan#Jefes delegacionales|Jefa delegacional de Tlalpan]]
+| inicio4 = 1 de octubre de 2015
+| final4 = 6 de diciembre de 2017
+| predecesor4 = [[Héctor Hugo Hernández Rodríguez]]
+| sucesor4 = [[Fernando Hernández Palacios]]
+| escudo5 = Coat of arms of Mexico City, Mexico.svg
+| cargo5 = [[Secretaría del Medio Ambiente de la Ciudad de México|Secretaria de Medio Ambiente del Distrito Federal]]
+| inicio5 = 5 de diciembre de 2000
+| final5 = 15 de mayo de 2006
+| jefe5 = [[Andrés Manuel López Obrador]] {{small|(2000-2005)}}<br>[[Alejandro Encinas Rodríguez]] {{small|(2005-2006)}}
+| predecesor5 = [[Alejandro Encinas Rodríguez]]
+| sucesor5 = Eduardo Vega López
+| lengua_materna = [[Español mexicano|Español]]
+| color de ojos = no
+| color de cabello = no
+| religión = no
+| nombre de nacimiento = Claudia Sheinbaum Pardo
+| fecha de nacimiento = {{fecha|24|6|1962|edad}}
+| lugar de nacimiento = [[Ciudad de México]], [[México]]
+| nacionalidad = [[Nacionalidad mexicana|Mexicana]]
+| residencia = [[Palacio Nacional (México)|Palacio Nacional]], [[Ciudad de México]]
+| altura =  {{altura|m=1.63}} <ref>{{Cita web|url=https://politico.mx/2024/12/07/cuanto-mide-claudia-sheinbaum-la-primera-mujer-presidenta-de-mexico/|título=¿Cuánto mide Claudia Sheinbaum, la primera MUJER PRESIDENTA de México?|fechaacceso=2026-07-03|fecha=2024-12-06|sitioweb=Político MX|idioma=es}}</ref>
+| padres = [[Carlos Sheinbaum Yoselevitz]]<br>[[Annie Pardo Cemo]]
+| cónyuge = [[Carlos Imaz Gispert]]<br />{{matrimonio|()=smaller||1987|2016|fin=div.}}<br />[[Jesús María Tarriba]]<br />{{matrimonio|()=smaller||2023||fin=}}
+| hijos = Mariana Imaz Sheinbaum
+| educación = [[Doctorado]] en [[ingeniería ambiental]] {{small|(1993-1995)}}<br>[[maestría]] en [[ingeniería de la energía]] {{small|(1990-1992)}}<br>[[licenciatura]] en [[física]] {{small|(1984-1989)}}
+| almamáter = [[Archivo:Escudo-UNAM-escalable.svg|20px]] [[Universidad Nacional Autónoma de México]]
+| supervisor doctoral = [[Manuel Martínez Fernández]]
+| posgrado = Universidad Nacional Autónoma de México<br/>[[Archivo:Seal of University of California, Berkeley.svg|20px]] [[Universidad de California en Berkeley]]
+| ocupación = [[Científica]], [[político|política]] y [[académica]]
+| salario = {{esd|134 290}} [[MXN]] <small>(mensuales en 2026)</small><ref name=Presupuesto2026>{{cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf|título= Presupuesto de Egresos de la Federación 2026: Anexo 23.1.2. (página 62) Remuneración total líquida mensual de la Presidenta de la República (pesos) |sitio web=Cámara de Diputados|fecha=1 de enero de 2026|fechaacceso=2 de enero de 2026|cita=}}</ref>
+| partido = [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]] {{pequeño|(2014–presente)}}<br>[[Archivo:PRD logo (Mexico).svg|20px]] [[Partido de la Revolución Democrática]] {{pequeño|(1989-2014)}}
+| área = [[Energía]], [[medio ambiente natural|medio ambiente]] y [[física]]
+| miembro de = *[[Sistema Nacional de Investigadores]]
+*[[Academia Mexicana de Ciencias]]<ref>{{Cita web |autor=Academia Mexicana de Ciencias |url=https://amc.edu.mx/amc/membresia/MEMBRESIA2023.pdf |formato=PDF |título=Membresías 2023 |fecha=febrero de 2023 |fechaacceso=21 de julio de 2023}}</ref>
+| empleador = no
+| años activa = desde 1986
+| premios = *Premio Anual de Investigación Económica Maestro Jesús Silva Herzog<ref name="Premios UNAM">{{Cita noticia|apellidos=Rosagel|nombre=Shaila|título=Claudia Sheinbaum Pardo|url=http://www.sinembargo.mx/14-12-2015/1574062|fechaacceso=7 de junio de 2018|periódico=SinEmbargo MX}}</ref>
+*Premio Joven Investigador de la Universidad Nacional Autónoma de México en Innovación Tecnológica<ref name="Premios UNAM"></ref>
+*[[Reconocimiento Sor Juana Inés de la Cruz]]<ref>{{Cita publicación|url=http://www.claudiacdmx.com/documentos/sintesisCurricular.pdf|título=CLAUDIA SHEINBAUM PARDO|publicación=|fechaacceso=8 de junio de 2018|urlarchivo=https://web.archive.org/web/20180612141023/http://www.claudiacdmx.com/documentos/sintesisCurricular.pdf|fechaarchivo=12 de junio de 2018}}</ref>
+*Medalla a la Contribución Sobresaliente en Sostenibilidad<ref>{{Cita web|url=https://www.gob.mx/se/prensa/premio-de-sostenibilidad-2024-nobel-sustainability-trust|título=Premio de Sostenibilidad 2024 - Nobel Sustainability Trust|fechaacceso=2025-01-09|sitioweb=gob.mx}}</ref>
+| firma = Firma de Claudia Sheinbaum.svg
+| sitio web = 
+}}
+'''Claudia Sheinbaum Pardo''' ([[Ciudad de México]], 24 de junio de 1962) es una [[político|política]], [[científica]] y [[académica]] [[mexicana]]. Es la [[presidenta de México]] desde el 1 de octubre de 2024, siendo la primera mujer en la [[Historia de México|historia de su país]] en ejercer el cargo.<ref>{{cita web|url=https://www.te.gob.mx/EE/SUP/2024/EEP/1/SUP_2024_EEP_1-1498426.pdf|título=Dictamen relativo al cómputo final de la elección de la Presidencia de los Estados Unidos Mexicanos, la declaración de validez de la elección y declaración de Presidenta electa|sitio web=Tribunal Electoral del Poder Judicial de la Federación|fecha=20 de agosto de 2024|fechaacceso=23 de agosto de 2024|formato=PDF|cita=Subtema número 10, página 74, de la resolución final de la Sala Superior del Tribunal Federal Electoral que declara a Claudia Sheinbaum Pardo como Presidenta Electa.}}</ref><ref>{{Cita noticia|título=Claudia Sheinbaum: 60 claves de su biografía en su aniversario 60|url=https://politica.expansion.mx/cdmx/2022/06/24/claudia-sheinbaum-60-claves-biografia-aniversario-60|fecha=24 de junio de 2022|fechaacceso=22 de marzo de 2023|periódico=Expansión|fechaarchivo=3 de agosto de 2023|urlarchivo=https://web.archive.org/web/20230803003925/https://politica.expansion.mx/cdmx/2022/06/24/claudia-sheinbaum-60-claves-biografia-aniversario-60|deadurl=yes}}</ref><ref>{{Cita noticia|título=Claudia Sheinbaum es la primera persona judía en llegar a la presidencia en México|url=https://www.nytimes.com/es/2024/06/03/espanol/claudia-sheinbaum-judia-presidente-mexico.html|fecha=3 de junio de 2024|fechaacceso=11 de noviembre de 2024|periódico=The New York Times}}</ref>
+
+Antes de asumir la presidencia de México, Sheinbaum participó activamente en el servicio público, ocupando diversos cargos de liderazgo. Fue [[jefa de Gobierno de la Ciudad de México]] de 2018 a 2023, convirtiéndose en la primera alcaldesa electa de la ciudad.<ref>{{Cita web|url=https://www.conago.org.mx/miembros/detalle/Claudia-Sheinbaum-Pardo|título=Dra. Claudia Sheinbaum Pardo|fechaacceso=5 de diciembre de 2018|autor=[[Conferencia Nacional de Gobernadores]]|fecha=5 de diciembre de 2018}}</ref><ref>{{Cita noticia|nombre=López Castro, Fernanda|título=¡Es oficial! Claudia Sheinbaum no es más jefa de Gobierno de CDMX; Congreso aprueba renuncia|url=https://www.infobae.com/mexico/2023/06/16/congreso-de-cdmx-aprueba-renuncia-de-sheinbaum-a-jefatura-de-gobierno/|fecha=16 de junio de 2023|periódico=Infobae|fechaacceso=8 de julio de 2023}}</ref> Su administración priorizó la seguridad urbana, las iniciativas ambientales y los programas sociales, incluidas notables expansiones en el transporte público y los sistemas de apoyo educativo. Su mandato también incluyó respuestas a desafíos complejos, como el [[Accidente del Metro de la Ciudad de México de 2021|colapso de la Línea 12 del Metro de la Ciudad de México]] y la [[Pandemia de COVID-19 en la Ciudad de México|gestión de la pandemia de COVID-19]], que le valieron tanto reconocimiento como críticas.
+
+La trayectoria política de Sheinbaum comenzó en el [[Partido de la Revolución Democrática]] (PRD), pero más tarde se alineó con el [[Morena (partido político)|Movimiento Regeneración Nacional]] (Morena), uniéndose al partido de [[Andrés Manuel López Obrador]] en 2014.<ref>{{Cita noticia|título=El Morena es ahora una asociación civil, para transformar la vida pública del país|url=https://www.jornada.com.mx/2011/10/03/politica/006n1pol|fecha=3 de octubre de 2011|fechaacceso=22 de marzo de 2023|periódico=La Jornada}}</ref> 
+
+En 2024, tras ganar la nominación de Morena, se aseguró la presidencia con una [[victoria arrolladora]] sobre la candidata opositora [[Xóchitl Gálvez]].<ref>{{Cita web|url=https://prep2024.ine.mx/publicacion/nacional/presidencia/nacional/candidatura|título=Avance Nacional Elecciones Federales 2024}}</ref> A fines de ese año, ''[[Forbes]]'' la situó como [[Lista Forbes de las 100 mujeres más poderosas del mundo|la cuarta mujer más poderosa del mundo]],<ref>{{Cita noticia|título=La revista ‘Forbes’ elige a Claudia Sheinbaum como la cuarta mujer más poderosa del mundo|url=https://elpais.com/mexico/2024-12-12/la-revista-forbes-elige-a-claudia-sheinbaum-la-cuarta-mujer-mas-poderosa-del-mundo.html|fecha=11 de diciembre de 2024|fechaacceso=16 de diciembre de 2024|periódico=El País}}</ref> mientras que ''[[Time]]'', la reconoció como una de las 100 líderes mundiales más influyentes a favor del medio ambiente.<ref>{{Cita noticia|título=Time reconoce a Claudia Sheinbaum como una de las líderes más influyentes a favor del medio ambiente|url=https://www.infobae.com/mexico/2024/11/15/time-reconoce-a-claudia-sheinbaum-como-una-de-las-lideres-mas-influyentes-a-favor-del-medio-ambiente/|fecha=15 de noviembre de 2024|fechaacceso=16 de diciembre de 2024|periódico=Infobae}}</ref> En abril de 2025, la misma publicación la incluyó en su [[Time 100|lista anual de las 100 personas más influyentes del mundo]].<ref>{{Cita noticia|título=La revista Time incluye a Claudia Sheinbaum en su lista de las 100 personas más influyentes de 2025|url=https://elpais.com/mexico/2025-04-16/la-revista-time-incluye-a-claudia-sheinbaum-en-su-lista-de-las-100-personas-mas-influyentes-de-2025.html|fecha=16 de abril de 2025|fechaacceso=18 de abril de 2025|periódico=El País}}</ref>
+
+Durante su gobierno, la presidenta Sheinbaum promulgó una serie de reformas constitucionales con el apoyo de su [[Mayoría cualificada|supermayoría legislativa]], incluyendo la consagración de programas sociales en la [[Constitución Política de los Estados Unidos Mexicanos|Constitución]],<ref>{{Cita noticia|título=Sheinbaum ofrece garantía de permanencia y ampliación de los programas sociales tras aranceles de Trump|url=https://www.infobae.com/mexico/2025/04/03/sheinbaum-ofrece-garantia-de-permanencia-y-ampliacion-de-los-programas-sociales-tras-aranceles-de-trump/|fecha=3 de abril de 2025|fechaacceso=21 de abril de 2025|periódico=Infobae}}</ref> la reversión de aspectos clave de la [[Reforma energética de México de 2013|reforma energética de 2013]] para fortalecer el control estatal sobre el sector energético<ref>{{Cita noticia|título=Sheinbaum propondrá 12 reformas clave en el nuevo periodo legislativo|url=https://oem.com.mx/elsoldemexico/mexico/sheinbaum-propondra-12-reformas-clave-en-el-nuevo-periodo-legislativo-21537139|fecha=4 de febrero de 2025|fechaacceso=21 de abril de 2025|periódico=El Sol de México}}</ref> y el mandato de que el [[Anexo:Salario mínimo en México|salario mínimo]] aumente por encima de la [[Inflación|tasa de inflación]].<ref>{{Cita noticia|título=Senado aprueba reforma para que salarios mínimos estén por encima de la inflación|url=https://www.milenio.com/politica/senado-aprueba-reforma-sobre-salario-minimo-por-encima-de-inflacion|fecha=9 de octubre de 2024|fechaacceso=21 de abril de 2025|periódico=Milenio}}</ref>

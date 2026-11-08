@@ -1,0 +1,57 @@
+Filas reales, copiadas tal cual de varios anexos (Veracruz, Chihuahua, San Luis Potosí, Jalisco, Chiapas, Puebla),
+reunidas en una sola tabla para probar los casos poco comunes.
+
+== Presidentes municipales por ayuntamiento ==
+{| class="wikitable"
+! Municipio
+! Presidente municipal
+! colspan="2" |Partido
+|-
+| rowspan=2|[[Municipio de Naranjos Amatlán|Naranjos Amatlán]]
+| rowspan=2|Humberto Ancelin Cruz
+| bgcolor=#DA251D|
+|[[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]] {{small|(2025)}}
+|-
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]] {{small|(desde 12 de marzo de 2026)}}<ref name="Alcalde Julio 2026">{{cita web|título=#HUMBERTO #ANCELÍN CRUZ, ALCALDE DE NARANJOS AMATLÀN SE UNE A MORENA.|url=https://www.facebook.com/story.php?story_fbid=1554311740027984&id=MasSucesos|fecha=12 de marzo de 2026|fechaacceso=20 de septiembre de 2026|obra=Mas sucesos}}</ref>
+|-
+| rowspan="2" |[[Municipio de Ocampo (Chihuahua)|Ocampo]]
+| colspan="3" |''Concejo municipal'' {{Small|(2024-2025)}}
+|-
+| Rafael Solís Martínez {{Small|(desde 2025)}}<ref>{{Cita web|url=https://cafeciudadano.com/gana-rafa-solis-la-presidencia-del-municipio-de-ocampo/|título=Gana Rafa Solís la presidencia del Municipio de Ocampo|fechaacceso=2025-06-03|fecha=2024-12-09}}</ref>
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+| rowspan="2" | [[Municipio de Tancanhuitz|Tancanhuitz]]
+| Jesús Eduardo Franco Lárraga {{small|(2024)}}
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+| colspan="3" |''Vacante<ref>{{Cita web|url=https://elpais.com/mexico/2024-12-16/asesinado-jesus-franco-alcalde-de-tancanhuitz-en-san-luis-potosi.html|título=Asesinado Jesús Franco, alcalde de Tancanhuitz, en San Luis Potosí|fechaacceso=2024-12-17|apellido=Ferri|nombre=Pablo|fecha=2024-12-16|sitioweb=El País México}}</ref>''
+|-
+| rowspan="2" | [[Municipio de Teuchitlán|Teuchitlán]]
+| José Ascensión Murguia Santiago {{Small|(2024-2025)}}
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político)|Movimiento Ciudadano]]
+|-
+|Jaime Rodríguez Ballesteros {{Small|(desde 2025)}}<ref>{{cita web|url=https://www.launion.com.mx/morelos/nacional/noticias/271239-nuevo-alcalde-interino-toma-protesta-en-teuchitlan-jalisco.html|título=Designan a Jaime Rodríguez como nuevo|fechaacceso=12 de mayo de 2025|fecha=12 de mayo de 2025|editorial=La Unión}}</ref>
+| colspan="2" |''Interino''
+|-
+| rowspan=2|[[Municipio de Cintalapa|Cintalapa]]
+| Ernesto Cruz Díaz {{small|(2024-2026)}}
+| bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| Eva Elia Guzmán Gutiérrez {{small|(desde 2026)}}<ref>{{cita web |url=https://www.milenio.com/estados/designan-eva-elia-guzman-alcaldesa-sustituta-cintalapa |título=Designan a Eva Elia Guzmán como presidenta municipal sustituta de Cintalapa, Chiapas |fecha=7 de enero de 2026 |fechaacceso=13 de julio de 2026 |editorial=[[Milenio (periódico)|Milenio]] |autor=Abraham Jiménez }}</ref>
+| bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| rowspan="3" | [[Municipio de Tlachichuca|Tlachichuca]]
+| Giovanni González Vieyra {{Small|(2024-2025)}}
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político)|Movimiento Ciudadano]]
+|-
+| colspan="3" |Iván Ortega Muñoz {{Small|(2025)}}<ref>{{Cita web|url=https://josecardenas.com/2025/03/hay-nuevos-alcaldes-en-tlachichuca-y-ciudad-serdan-puebla/|título=Hay nuevos alcaldes en Tlachichuca y Ciudad Serdán, Puebla|fechaacceso=2025-04-10|apellido=Bustamante|nombre=Guadalupe|fecha=2025-03-16|sitioweb=José Cárdenas}}</ref>
+|-
+| colspan="3" |Carmelo Amador Fuentes Bailón {{Small|(desde 2025)}}<ref>{{cita web|url=https://www.publimetro.com.mx/puebla/2025/05/21/congreso-desaparece-ayuntamiento-de-tlachichuca-y-nombra-concejo-municipal/|título=Tlachichuca tendrá Concejo Municipal tras renuncia masiva de alcalde suplente y regidores|fechaacceso=29 de mayo de 2025|fecha=21 de mayo de 2025|editorial=Publímetro}}</ref>
+|}

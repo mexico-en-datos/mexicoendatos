@@ -1,0 +1,131 @@
+Los '''presidentes municipales de Campeche para el periodo 2024-2027''' son los alcaldes de los [[Anexo:Municipios de Campeche|13 ayuntamientos]] que componen al estado de [[Campeche]], [[México]], elegidos mediante el voto popular en las [[Elecciones estatales de Campeche de 2024|elecciones estatales de 2024]]. Iniciaron su mandato el 1 de octubre de 2024 y por ley concluirán su encargo el 30 de septiembre de 2027, manteniéndose tres años en el cargo.<ref>{{Cita web|url=https://www.prepcampeche2024.mx/ayuntamientos/municipios|título=Elecciones Estatales de Campeche de 2024|fechaacceso=6 de junio de 2024|fecha=6 de junio de 2024|editorial=Instituto Electoral del Estado de Campeche}}</ref>
+
+== Distribución por partidos ==
+{| class="wikitable"
+! colspan="2" |Partido
+! Municipios
+|-
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+| {{escaños|5|13|hex=#B5261E}}
+|-
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+| {{escaños|4|13|hex=#FFA500}}
+|-
+| bgcolor=#DA251D|
+| [[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+| {{escaños|2|13|hex=#DA251D}}
+|-
+| bgcolor=#009150|
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+| {{escaños|1|13|hex=#009150}}
+|-
+| bgcolor=#50B747|
+| [[Archivo:PVE_logo_(Mexico).svg|20px]] [[Partido Verde Ecologista de México]]
+| {{escaños|1|13|hex=#50B747}}
+|-
+! colspan=2|Total
+! 13
+|}
+
+== Presidentes municipales por ayuntamientos ==
+{| class="wikitable"
+! Municipio
+! Presidente municipal
+! colspan="2" |Partido
+|-
+| [[Municipio de Calkiní|Calkiní]]
+| Milton Ulises Millán Atoche
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|-
+| [[Municipio de Campeche|Campeche]]
+| Bibi Karen Rabelo de la Torre
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|-
+| rowspan=2|[[Municipio de Carmen (Campeche)|Carmen]]
+| [[Pablo Gutiérrez Lazarus]] {{small|(2024-2026)}}
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| Priscila Heredia Novelo {{small|(desde 2026)}}<ref>{{cita web |url=https://caucecampeche.com/asume-priscilla-heredia-novelo-la-presidencia-municipal-de-carmen/ |título=Asume Priscilla Heredia Novelo la presidencia municipal de Carmen |fecha=26 de junio de 2026 |fechaacceso=28 de octubre de 2026 |editorial= |autor=Luis E. Martínez R. }}</ref>
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| rowspan=2|[[Municipio de Champotón|Champotón]]
+| Claudeth Sarricolea Castillejo {{small|(2024-2026)}}
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| Ramón Rosado Jiménez {{small|(desde 2026)}}<ref>{{cita web |url=https://www.novedadescampeche.com.mx/claudeth-sarricolea-licencia-champoton/ |título=Claudeth Sarricolea solicita licencia para dejar alcaldía de Champotón y buscar |fecha=5 de octubre de 2026 |fechaacceso=28 de octubre de 2026 |editorial=Novedades Campeche |autor=Diego Soler }}</ref>
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| [[Municipio de Hecelchakán|Hecelchakán]]
+| José Cevastián Yam Poot
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|-
+| [[Municipio de Hopelchén|Hopelchén]]
+| Hiram Aranda Calderón
+| bgcolor=#009150|
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+| rowspan="2" | [[Municipio de Palizada|Palizada]]
+| Pedro Javier Ayala Cámara {{small|(2024-2026)}}
+| bgcolor=#DA251D|
+| [[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|-
+|Ambrosio Gutiérrez Pérez {{small|(desde 2026)}}<ref>{{Cita web|url=https://www.lajornadamaya.mx/campeche/269736/cabildo-de-palizada-separa-a-pedro-ayala-de-la-presidencia-municipal-campeche|título=Cabildo de Palizada separa a Pedro Ayala de la presidencia municipal; Ambrosio Gutiérrez, nuevo alcalde|fechaacceso=2026-10-28|apellido=Magaña|nombre=Jairo|sitioweb=www.lajornadamaya.mx }}</ref>
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| [[Municipio de Tenabo|Tenabo]]
+| Mariela Sánchez Espinoza
+| bgcolor=#50B747|
+| [[Archivo:PVE_logo_(Mexico).svg|20x20px]] [[Partido Verde Ecologista de México]]
+|-
+| [[Municipio de Escárcega|Escárcega]]
+| Juan Carlos Hernández Rath
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| [[Municipio de Calakmul|Calakmul]]
+| Guadalupe Acevedo Rodríguez
+| bgcolor="#DA251D" |
+| [[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|-
+| [[Municipio de Candelaria (Campeche)|Candelaria]]
+| Jaime Muñóz Morfín
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| [[Municipio de Dzitbalché|Dzitbalché]]
+| Luis Antonio Chan Puc
+| bgcolor=#FFA500|
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|-
+| [[Municipio de Seybaplaya|Seybaplaya]]
+| Magdalena del Socorro Jiménez Pacheco
+| bgcolor=#DA251D|
+| [[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|}
+
+== Véase también ==
+* [[Anexo:Presidentes municipales de México]]
+* [[Anexo:LXV Legislatura del Congreso del Estado de Campeche|LXV Legislatura del Congreso del Estado de Campeche]]
+
+== Referencias ==
+{{Listaref}}
+
+{{Sucesión
+|título     = Presidentes municipales de Campeche
+|período    = 2024-2027
+|predecesor = [[Anexo:Presidentes municipales de Campeche (2021-2024)|Presidentes municipales de Campeche<br>(2021-2024)]]
+|sucesor    = 
+}}
+
+{{control de autoridades}}
+[[Categoría:Presidentes municipales de Campeche por periodo| 2024]]

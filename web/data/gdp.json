@@ -1,0 +1,210 @@
+{
+  "year": 2024,
+  "unit": "miles de millones de pesos a precios de 2018",
+  "national": {
+    "gdp_previous": 25027,
+    "gdp": 25365,
+    "growth": 1.4
+  },
+  "states": {
+    "01": {
+      "gdp_previous": 334,
+      "gdp": 328,
+      "growth": -1.9,
+      "share": 1.29
+    },
+    "02": {
+      "gdp_previous": 948,
+      "gdp": 948,
+      "growth": 0.0,
+      "share": 3.74
+    },
+    "03": {
+      "gdp_previous": 181,
+      "gdp": 187,
+      "growth": 3.5,
+      "share": 0.74
+    },
+    "04": {
+      "gdp_previous": 509,
+      "gdp": 473,
+      "growth": -6.9,
+      "share": 1.86
+    },
+    "05": {
+      "gdp_previous": 928,
+      "gdp": 922,
+      "growth": -0.6,
+      "share": 3.63
+    },
+    "06": {
+      "gdp_previous": 153,
+      "gdp": 157,
+      "growth": 2.5,
+      "share": 0.62
+    },
+    "07": {
+      "gdp_previous": 380,
+      "gdp": 390,
+      "growth": 2.7,
+      "share": 1.54
+    },
+    "08": {
+      "gdp_previous": 940,
+      "gdp": 931,
+      "growth": -1.0,
+      "share": 3.67
+    },
+    "09": {
+      "gdp_previous": 3806,
+      "gdp": 3886,
+      "growth": 2.1,
+      "share": 15.32
+    },
+    "10": {
+      "gdp_previous": 309,
+      "gdp": 324,
+      "growth": 4.7,
+      "share": 1.28
+    },
+    "11": {
+      "gdp_previous": 1126,
+      "gdp": 1171,
+      "growth": 4.0,
+      "share": 4.62
+    },
+    "12": {
+      "gdp_previous": 311,
+      "gdp": 314,
+      "growth": 1.1,
+      "share": 1.24
+    },
+    "13": {
+      "gdp_previous": 442,
+      "gdp": 454,
+      "growth": 2.8,
+      "share": 1.79
+    },
+    "14": {
+      "gdp_previous": 1850,
+      "gdp": 1864,
+      "growth": 0.8,
+      "share": 7.35
+    },
+    "15": {
+      "gdp_previous": 2266,
+      "gdp": 2313,
+      "growth": 2.1,
+      "share": 9.12
+    },
+    "16": {
+      "gdp_previous": 676,
+      "gdp": 681,
+      "growth": 0.7,
+      "share": 2.68
+    },
+    "17": {
+      "gdp_previous": 268,
+      "gdp": 271,
+      "growth": 1.3,
+      "share": 1.07
+    },
+    "18": {
+      "gdp_previous": 162,
+      "gdp": 160,
+      "growth": -1.4,
+      "share": 0.63
+    },
+    "19": {
+      "gdp_previous": 1992,
+      "gdp": 2060,
+      "growth": 3.4,
+      "share": 8.12
+    },
+    "20": {
+      "gdp_previous": 443,
+      "gdp": 467,
+      "growth": 5.4,
+      "share": 1.84
+    },
+    "21": {
+      "gdp_previous": 853,
+      "gdp": 882,
+      "growth": 3.5,
+      "share": 3.48
+    },
+    "22": {
+      "gdp_previous": 614,
+      "gdp": 622,
+      "growth": 1.3,
+      "share": 2.45
+    },
+    "23": {
+      "gdp_previous": 399,
+      "gdp": 383,
+      "growth": -3.9,
+      "share": 1.51
+    },
+    "24": {
+      "gdp_previous": 574,
+      "gdp": 580,
+      "growth": 1.1,
+      "share": 2.29
+    },
+    "25": {
+      "gdp_previous": 517,
+      "gdp": 514,
+      "growth": -0.5,
+      "share": 2.03
+    },
+    "26": {
+      "gdp_previous": 827,
+      "gdp": 823,
+      "growth": -0.5,
+      "share": 3.24
+    },
+    "27": {
+      "gdp_previous": 647,
+      "gdp": 605,
+      "growth": -6.5,
+      "share": 2.39
+    },
+    "28": {
+      "gdp_previous": 746,
+      "gdp": 765,
+      "growth": 2.5,
+      "share": 3.02
+    },
+    "29": {
+      "gdp_previous": 149,
+      "gdp": 152,
+      "growth": 1.5,
+      "share": 0.6
+    },
+    "30": {
+      "gdp_previous": 1062,
+      "gdp": 1095,
+      "growth": 3.1,
+      "share": 4.32
+    },
+    "31": {
+      "gdp_previous": 388,
+      "gdp": 403,
+      "growth": 3.9,
+      "share": 1.59
+    },
+    "32": {
+      "gdp_previous": 229,
+      "gdp": 241,
+      "growth": 4.9,
+      "share": 0.95
+    }
+  },
+  "citation": {
+    "source": "inegi_pibe",
+    "source_name": "INEGI. Producto Interno Bruto por Entidad Federativa 2024, cifras preliminares (comunicado 156/25, cuadro 1)",
+    "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/pibent/PIBE2024_CP.pdf",
+    "published_at": "2025-12-05",
+    "retrieved_at": "2026-11-07T14:52:09Z"
+  }
+}

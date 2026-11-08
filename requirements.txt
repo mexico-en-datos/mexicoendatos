@@ -1,0 +1,8 @@
+py7zr
+pypdf
+pyproj
+pyshp
+pytest>=8.0
+requests>=2.31
+shapely>=2.0
+topojson>=1.9

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>México en datos: mapas políticos</title>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Mapas políticos de México: gubernaturas, Senado, Cámara de Diputados y ayuntamientos por partido, y los poderes de la Unión con sus escaños. Cada persona lleva su fuente y su fecha.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__title">
+      <h1>México en datos</h1>
+      <p>Un mapa por cargo: quién encabeza cada gobierno estatal y cada ayuntamiento, quién ocupa cada senaduría y cada diputación, por partido, con los escaños de cada cámara. Pulsa un nombre o un escaño para ver los datos de esa persona. Cada dato lleva su fuente y la fecha en que se consultó.</p>
+      <nav class="tabs" aria-label="Secciones">
+        <a href="index.html">Explorar México</a>
+        <a href="mapas-politicos.html" aria-current="page">Mapas políticos</a>
+        <a href="mapas-economicos.html">Mapas económicos</a>
+        <a href="mapas-seguridad.html">Mapas de seguridad</a>
+        <a href="poderes.html">Poderes de la Nación</a>
+      </nav>
+    </div>
+    <div class="masthead__status">
+      <p id="data-date"></p>
+      <button type="button" id="refresh" class="button" hidden>Actualizar datos</button>
+      <p id="refresh-msg" role="status"></p>
+    </div>
+  </header>
+
+  <main>
+    <p id="load-error" class="notice" hidden></p>
+
+    <section class="atlas" aria-label="Mapa y ficha de la entidad">
+      <div class="sheet">
+        <div class="sheet__bar">
+          <div class="views" role="group" aria-label="Qué muestra el mapa">
+            <button type="button" data-view="governor" aria-pressed="true">Gubernaturas</button>
+            <button type="button" data-view="senator" aria-pressed="false">Senado</button>
+            <button type="button" data-view="deputy" aria-pressed="false">Diputados</button>
+            <button type="button" data-view="mayor" aria-pressed="false">Municipios</button>
+          </div>
+          <label class="toggle"><input type="checkbox" id="show-munis"> Mostrar municipios</label>
+          <div class="zoom" role="group" aria-label="Acercamiento del mapa">
+            <button type="button" id="zoom-out" aria-label="Alejar">−</button>
+            <button type="button" id="zoom-in" aria-label="Acercar">+</button>
+            <button type="button" id="zoom-reset">Ver todo el país</button>
+          </div>
+        </div>
+
+        <div class="map-area">
+          <div class="map" id="map">
+            <canvas aria-hidden="true"></canvas>
+            <svg role="img" aria-label="Mapa de México dividido en entidades. La tabla «Todas las personas» contiene la misma información."></svg>
+            <p class="map__hint">Pulsa una entidad para ver a sus titulares. Arrastra para mover el mapa; Ctrl + rueda para acercar.</p>
+            <p class="map__credit" id="map-credit"></p>
+          </div>
+          <figure class="inset chamber" id="inset">
+            <figcaption></figcaption>
+            <svg role="img" aria-label="Escaños de la cámara, uno por persona, con el color de su partido."></svg>
+            <div class="chamber__body"></div>
+          </figure>
+          <div class="tooltip" id="tooltip" hidden></div>
+        </div>
+        
+
+      </div>
+
+      <aside class="ficha" aria-label="Ficha de la entidad">
+        <label class="ficha__picker">
+          <span>Entidad</span>
+          <select id="state-picker"></select>
+        </label>
+        <div id="ficha" aria-live="polite"></div>
+      </aside>
+    </section>
+
+    <section class="roster" id="padron">
+      <h2>Todas las personas</h2>
+      <div class="filters">
+        <label><span>Buscar por nombre</span><input type="search" id="f-name" autocomplete="off"></label>
+        <label><span>Cargo</span>
+          <select id="f-office">
+            <option value="">Todos</option>
+            <option value="governor">Gubernaturas</option>
+            <option value="senator">Senado</option>
+            <option value="deputy">Cámara de Diputados</option>
+            <option value="mayor">Presidencias municipales</option>
+            <option value="justice">Suprema Corte</option>
+            <option value="magistrate_tepjf">Tribunal Electoral</option>
+            <option value="magistrate_tdj">Tribunal de Disciplina Judicial</option>
+            <option value="president">Presidencia</option>
+            <option value="secretary">Gabinete</option>
+          </select>
+        </label>
+        <label><span>Partido</span><select id="f-party"></select></label>
+        <label><span>Entidad</span><select id="f-state"></select></label>
+        <p id="f-count" class="filters__count" role="status"></p>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Nombre</th>
+              <th scope="col">Cargo</th>
+              <th scope="col">Partido</th>
+              <th scope="col">Entidad o lista</th>
+              <th scope="col">Asumió el cargo</th>
+              <th scope="col">Termina su periodo</th>
+              <th scope="col">Fuente y fecha</th>
+            </tr>
+          </thead>
+          <tbody id="roster-body"></tbody>
+        </table>
+      </div>
+      <button type="button" id="roster-more" class="button button--quiet" hidden></button>
+      <p class="table-note">La fecha de término de senadurías y diputaciones se calcula con reglas constitucionales; el detalle está en <a href="#fuentes">Fuentes</a>.</p>
+    </section>
+
+    <section class="sources" id="fuentes">
+      <h2>Fuentes</h2>
+      <div id="sources"></div>
+    </section>
+  </main>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="vendor/topojson-client.min.js"></script>
+  <script src="common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

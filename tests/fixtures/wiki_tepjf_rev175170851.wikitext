@@ -1,0 +1,449 @@
+{{Ficha de organismo oficial
+| nombre = Tribunal Electoral del Poder Judicial de la Federación
+| nombre_original = 
+| nombre_oficial = 
+| nombre_cooficial = 
+| acrónimo = TEPJF
+| logo = Logo Tribunal Electoral del Poder Judicial de la Federación México.svg
+| ancho_logo = 
+| título_logo = 
+| sello = 
+| ancho_sello = 
+| título_sello = 
+| imagen = FACHADA TEPJF01.jpg
+| ancho_imagen = 
+| título_imagen = Sede de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación
+| sistema = 
+| tipo = [[Tribunal electoral]]
+| creado = 22 de agosto de 1996
+| predecesora = [[Tribunal Federal Electoral]]
+| disuelto = 
+| sucesora = 
+| jurisdicción = 
+| ámbito = 
+| país = {{MEX}}
+| sede = Carlota Armero 5000, Colonia C.T.M., Culhuacán, [[Coyoacán]], {{MEX|DIF}}
+| latd = 
+| latm = 
+| lats = 
+| latNS = N
+| longd = 
+| longm = 
+| longs = 
+| longEW = W
+| region_code = 
+| empleados = 
+| presupuesto = 
+| ministro = Gilberto de Guzmán Bátiz García, Claudia Valle Aguilasocho, Mónica Aralí Soto Fregoso, Felipe de la Mata Pizaña, Felipe Alfredo Fuentes Barrera, Reyes Rodríguez Mondragón.
+| ministro_par = 
+| director = 
+| director_pos = 
+| titular_tipo = Magistrado Presidente
+| titular_nom = [[Gilberto de Guzmán Bátiz García]]
+| titular_pos = 
+| composición = 
+| dependiente_de = 
+| superior = [[Poder Judicial de la Federación (México)|Poder Judicial de la Federación]]
+| bajo_su_dependencia = Sala Regional Ciudad de México
+Sala Regional Xalapa
+Sala Regional Monterrey
+Sala Regional Guadalajara
+Sala Regional Toluca
+| relacionados = 
+| sitio_web = [https://www.te.gob.mx/]
+| notas = 
+}}
+
+El '''Tribunal Electoral del [[Poder Judicial de la Federación]]''' es uno de los órganos depositarios del Poder Judicial en [[México]], es la institución especializada en materia electoral, encargada de resolver controversias en este aspecto, proteger los derechos político-electorales de los ciudadanos e impartir justicia en esta área del derecho; dada su condición de ente jurisdiccional en la materia, representa la última instancia, por lo que ante sus determinaciones no existe recurso de apelación. Entre sus responsabilidades más relevantes está la de calificar, validar, y en consecuencia declarar electas a las autoridades de los tres [[Poderes de la Unión]] que surjan de los procesos y [[Elecciones federales de México|comicios federales]]. 
+
+Está integrado por una Sala Superior y hasta siete salas regionales, cinco de ellas deberán coincidir con las [[Anexo:Circunscripciones electorales de México|circunscripciones electorales]] previstas en el artículo 53 de la Constitución, y las dos restantes podrán ser creadas por el [[Órgano de Administración Judicial]]; la sala superior la integrarán siete magistradas y magistrados, electos popularmente para un periodo de seis años sin posibilidad de reelección; las sesiones de resolución deben ser públicas.<ref name="dup-0-12">{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-099.pdf|título=Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículos del 251 al 297 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref><ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-097.pdf|título=Artículo 97 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref name="dup-1-83">{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-096.pdf|título=Artículo 96 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+== Funciones ==
+El Tribunal Electoral es —de acuerdo con la [[Constitución Política de los Estados Unidos Mexicanos|Constitución mexicana]]— la máxima autoridad jurisdiccional en materia electoral, y tiene la competencia para resolver, en forma definitiva e inatacable, los siguientes tipos de controversias electorales:<ref name="dup-0-12" />
+
+* Las impugnaciones en las elecciones federales de diputados y senadores
+* Las impugnaciones en las elecciones de los titulares de los órganos judiciales ([[Suprema Corte de Justicia de la Nación|Suprema Corte]], [[Tribunal de Disciplina Judicial|Tribunal de Disciplina]], Tribunales de Circuito y Juzgados de distrito; las relacionadas con este mismo Tribunal son atendidas por la Suprema Corte)
+* Las impugnaciones que se presenten sobre la elección de [[Presidente de los Estados Unidos Mexicanos]], resueltas en única instancia por la Sala Superior; solo esta podrá realizar el cómputo y declarar la validez o nulidad de la elección. Dado el caso, debe emitir la declaratoria de presidente electo de los Estados Unidos Mexicanos, acompañada de un dictamen de los resolutivos sobre el proceso electoral y cómputo final.
+* Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas anteriormente, que violen normas constitucionales o legales.
+* Las impugnaciones de actos o resoluciones definitivos y firmes de los institutos y tribunales electorales locales (es decir, de las autoridades competentes de las entidades federativas para organizar y calificar los comicios, o resolver las controversias que surjan durante estos) que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones.
+* Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar, ser votado y de afiliación.
+* Los conflictos o diferencias laborales entre el Tribunal Electoral y sus funcionarios; así como entre el [[Instituto Nacional Electoral (México)|Instituto Nacional Electoral]] y sus servidores públicos.
+* La determinación e imposición de sanciones por parte del Instituto Nacional Electoral a partidos, agrupaciones y personas físicas o morales.
+* La resolución de procedimientos sancionadores, relacionados con la violación a las normas que regulan el acceso a radio y televisión de los partidos y candidatos, la aplicación imparcial de recursos públicos, la propaganda de entes públicos, propaganda electoral, así como actos anticipados de precampaña y campaña.
+* Dictar jurisprudencia sobre derecho electoral.
+
+== Organización y funcionamiento ==
+La '''Sala Superior''' se integrará por siete magistrados o magistradas y tendrá su sede en la [[Ciudad de México]]. Bastará la presencia de cuatro integrantes para que pueda sesionar y sus resoluciones se tomarán por unanimidad, mayoría calificada en los casos expresamente señalados en las leyes o mayoría simple de sus miembros. La ausencia temporal de un integrante, que no exceda de treinta días, será cubierta a través del método de insaculación pública de entre la totalidad de titulares de la Salas Regionales del mismo género que el de la ausencia que se cubre.
+
+Para hacer la declaración de validez de la elección presidencial y dado el caso de «Presidente electo», o para declarar la nulidad de tal elección, la Sala Superior deberá sesionar con la presencia de por lo menos seis de sus integrantes. Los miembros sólo podrán abstenerse de votar cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto. En caso de empate la persona titular de la presidencia de la sala tendrá voto de calidad. Cuando un titular disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
+
+Las siete '''Salas Regionales''' se integrarán por tres magistrados o magistradas, cada una. Cinco salas regionales tendrán su sede en la ciudad designada como cabecera de cada una de las [[Anexo:Circunscripciones electorales de México|circunscripciones plurinominales]] en que se divida el país, de conformidad con lo dispuesto por el artículo 53 de la Constitución y la ley de la materia; la creación y la sede de las dos Salas Regionales restantes será determinada por el [[Órgano de Administración Judicial]].
+
+Las salas regionales sesionarán con la presencia de los tres magistrados o magistradas y sus resoluciones se adoptarán por unanimidad o mayoría de votos. Los integrantes no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal. Cuando un miembro disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf|título=Artículos del 254 al 261 de la Ley Orgánica del Poder Judicial de la Federación|sitio web=Cámara de Diputados|fechaacceso=6 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+Estas atenderán y emitirán resolución de controversias electorales respecto a:
+* Los recursos de apelación contra disposiciones del INE, salvo las su órgano central, competencia solo de la superior.
+* Los juicios de inconformidad en las elecciones del poder legislativo bajo el principio de mayoría relativa.
+* Los juicios de revisión a la normativa electoral local cuando contravenga a la constitución federal.
+* Resolver los juicios de protección a los derechos políticos electorales cuando estos sean violentados.
+
+== Integración de la Sala superior ==
+La Sala Superior del TEPJF está compuesta por siete magistraturas, una vacante desde el 31 de octubre del 2025 y tiene su sede en la Ciudad de México:<ref>{{Cita web|url=https://www.te.gob.mx/front3/contenidos/index/5|título=Integración de la Sala Superior del TEPJF}}</ref>
+{| class="wikitable" style="text-align: center;margin-left: auto; margin-right: auto"
+|+'''Composición actual'''
+! colspan="2" |Magistrado (a) !! Fecha de elección 
+|-
+| Magistrada presidenta || [[Mónica Aralí Soto Fregoso]]|| {{fecha|4|11|2016}}
+|-
+| Magistrado|| [[Felipe de la Mata Pizaña]] || {{fecha|4|11|2016}}
+|-
+| Silla vacante
+|-
+| Magistrado || [[Reyes Rodríguez Mondragón]] || {{fecha|4|11|2016}}
+|-
+| Magistrado || [[Felipe Alfredo Fuentes Barrera]]|| {{fecha|4|11|2016}}
+|-
+| Magistrada || [[Claudia Valle Aguilasocho]] || {{fecha|1|6|2025}}<ref name="dup-0-56">{{cita web|url=https://centralelectoral.ine.mx/2025/06/16/declara-ine-validez-de-la-eleccion-de-magistraturas-del-tribunal-de-disciplina-judicial-sala-superior-y-salas-regionales-del-tepjf/|título=Declara INE validez de la elección de magistraturas del Tribunal de Disciplina Judicial, Sala Superior y Salas Regionales del TEPJF|sitio web=Central Electoral del INE|fecha=16 de junio de 2025|fechaacceso=1 de septiembre de 2025}}</ref>
+|-
+| Magistrado || [[Gilberto De Guzmán Bátiz García]] || {{fecha|1|6|2025}}<ref name="dup-0-56" />
+|-
+|}
+==== Primera integración (1996-2006) ====
+* [[Leonel Castillo González]]
+* [[José Luis de la Peza]]
+* [[Eloy Fuentes Cerda]]
+* [[Alfonsina Berta Navarro Hidalgo]]
+* [[J. Fernando Ojesto Martínez Porcayo]]
+* [[José de Jesús Orozco Henríquez]]
+* [[Mauro Miguel Reyes Zapata]]
+* [[José Alejandro Luna Ramos]]
+
+==== Segunda integración (2006-2016) ====
+* [[María del Carmen Alanís Figueroa]]
+* [[Constancio Carrasco Daza]]
+* [[Flavio Galván Rivera]]
+* [[Manuel González Oropeza]]
+* [[Salvador O. Nava Gomar]]
+* [[Pedro Esteban Penagos López]]
+* [[José Alejandro Luna Ramos]] (2005-2015)
+
+==== Tercera integración (2016-2026) ====
+* [[Felipe Fuentes Barrera]]
+* [[Indalfer Infante Gonzales|Indalfer Ifante Gonzales]]
+* [[Felipe de la Mata Pizaña]]
+* [[Janine M. Otálora Malassis]]
+* [[Reyes Rodríguez Mondragón]]
+* [[Mónica Aralí Soto Fregoso]]
+* [[José Luis Vargas Valdez]]
+
+== Delimitación de las salas regionales ==
+Las '''salas regionales''' del TEPJF son órganos permanentes –ordinariamente terminales– que tienen competencia para conocer algunas de las impugnaciones que se presenten en cada una de las cinco [[Circunscripciones electorales de México|circunscripciones plurinominales]] en las que se divide el país. 
+
+Están integradas por tres magistrados y se identifican por la ciudad en que reside la cabecera de cada circunscripción. 
+
+{| class="wikitable" style="text-align: center;margin-left: auto; margin-right: auto"
+|+ Salas regionales del Tribunal Electoral del Poder Judicial de la Federación
+|-
+! Circunscripción !! Sede !! Entidades
+|-
+| Primera || Guadalajara || [[Baja California]], [[Baja California Sur]], [[Chihuahua]], [[Durango]], [[Jalisco]], [[Nayarit]], [[Sinaloa]] y [[Sonora]].
+|-
+| Segunda|| Monterrey || [[Aguascalientes]], [[Coahuila]], [[Guanajuato]], [[Nuevo León]], [[San Luis Potosí]], [[Tamaulipas]] y [[Zacatecas]].
+|-
+| Tercera || Xalapa || [[Campeche]], [[Chiapas]], [[Oaxaca]], [[Quintana Roo]], [[Tabasco]], [[Veracruz]] y [[Yucatán]].
+|-
+| Cuarta || Ciudad de México || [[Ciudad de México]], [[Guerrero]], [[Hidalgo]], [[Morelos]], [[Puebla]] y [[Tlaxcala]].
+|-
+| Quinta || Toluca || [[Colima]], [[Estado de México]], [[Michoacán]] y [[Querétaro]].
+|}
+
+== Elección ==
+
+=== Requisitos para el cargo ===
+
+Según el Artículo 99 de la Carta Magna, para ser magistrado electoral, se requieren las mismas características que para ser ministro de la Suprema Corte:<ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-095.pdf|título=Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref name="dup-0-12" />
+
+{{Cita|
+*I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+*II. Se deroga
+*III. Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
+*IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+*V. Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución; y
+*VI. No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal, ni titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución
+}}
+
+=== Proceso ===
+
+De acuerdo con el artículo 96 de la constitución, la elección de los titulares del Tribunal Electoral se realiza de la siguiente manera:<ref name="dup-1-83" /><ref>{{cita web|url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf|título=Ley General de Instituciones y Procedimientos Electorales — LIBRO NOVENO: De la Integración del Poder Judicial de la Federación y de las Entidades Federativas (Artículos del 494 al 535)|sitio web=Cámara de Diputados|fechaacceso=7 de enero de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+* El [[Senado de México|Senado de la República]] lanzará la convocatoria un máximo de 30 días después de la apertura de su primer periodo de sesiones, del año anterior a la elección. 
+* Cada uno de los tres [[Poderes de la Unión]] ([[Presidente de México|Presidente de la República]], [[Congreso de la Unión]] y la [[Suprema Corte de Justicia de la Nación]]) abrirá un proceso de registro de candidaturas, postulando tres aspirantes por cada uno de los siete cargos de magistrado, es decir 21 cada poder. Los aspirantes a candidatos son designados por cada poder en los términos que la ley establece; la presidenta de la república de manera directa; el Congreso de la Unión con el voto favorable de las dos terceras partes de los legisladores presentes; la Suprema Corte con el voto favorable de seis miembros del pleno. 
+* De manera simultánea, cada uno integrará comités de evaluación, compuestos por cinco personalidades del ámbito jurídico, para calificar el cumplimiento de los requisitos constitucionales, medir la trayectoria, capacidad, habilidades, actitudes y aptitudes en el ramo de los postulantes; de este proceso de selección surgirán los diez perfiles mejor evaluados; finalmente mediante sorteo público se depurará la lista para poder mantener el requisito constitucional de la paridad de género y definir las siete candidaturas definitivas. Una persona podrá ser postulada por más de uno de los poderes.
+* Los comicios se realizarán el primer domingo de junio del año de la elección conforme a las normas y procesos del [[Instituto Nacional Electoral]], y la validación y calificación, en este caso para evitar el conflicto de interés, el pleno de la Suprema Corte.
+
+== Presidentes del TEPJF ==
+{| class="wikitable" style="text-align: center"
+|+'''Lista'''
+|-
+! Presidente (a) !! Periodo
+! Notas
+|-
+| [[José Luis de la Peza]] || 25 de agosto de 1996-2000
+|
+|-
+| J. Fernando Ojesto Martínez Porcayo || 2000-2004
+|
+|-
+| Eloy Fuentes Cerda || 2004-2005
+|
+|-
+| [[Leonel Castillo González]] || 2005-2006
+|
+|-
+| [[José Alejandro Luna Ramos]]|| 2006
+|Interino
+|-
+| [[Flavio Galván Rivera]] || 2006-6 de agosto de 2007
+|Renunció por causas de salud
+|-
+| [[María del Carmen Alanís Figueroa]] || 6 de agosto de 2007-5 de agosto de 2011
+|
+|-
+| [[José Alejandro Luna Ramos]] || 5 de agosto de 2011-13 de abril de 2015
+|
+|-
+| [[Constancio Carrasco Daza]] || 13 de abril de 2015-4 de agosto de 2016<ref>{{Cita noticia|título=Eligen a Constancio Carrasco Daza Magistrado Presidente del TEPJF|url=https://www.radioformula.com.mx/noticias/mexico/20150413/eligen-a-constancio-carrasco-daza-magistrado-presidente-del-tepjf/|fecha=13 de abril de 2015|fechaacceso=19 de septiembre de 2021|periódico=Radio Fórmula|fechaarchivo=20 de septiembre de 2021|urlarchivo=https://web.archive.org/web/20210920212645/https://www.radioformula.com.mx/noticias/mexico/20150413/eligen-a-constancio-carrasco-daza-magistrado-presidente-del-tepjf/|deadurl=yes}}</ref>
+|
+|-
+| [[Janine M. Otálora Malassis]] || 4 de agosto de 2016-23 de enero de 2019
+|
+|-
+| [[Felipe Alfredo Fuentes Barrera]] || 23 de enero de 2019-3 de noviembre de 2020
+|Interino
+|-
+| José Luis Vargas Valdez || 3 de noviembre de 2020-9 de agosto de 2021
+| rowspan="2" |[[Crisis política del Tribunal Electoral del Poder Judicial de la Federación|Cargo en disputa entre el 4 y 9 de agosto de 2021]]
+|-
+| [[Reyes Rodríguez Mondragón]] || 4 de agosto de 2021-10 de agosto de 2021
+|-
+| [[Felipe Alfredo Fuentes Barrera]] || 10 de agosto de 2021-2 de septiembre de 2021<ref>{{cita noticia|apellidos1=Uribe|nombre1=Sarahi|título=¿Quién es Felipe Fuentes Barrera, el actual presidente del TEPJF?|url=https://www.elsoldemexico.com.mx/mexico/politica/felipe-fuentes-barrera-quien-es-el-nuevo-presidente-del-tepjf-7069452.html|fechaacceso=19 de septiembre de 2021|obra=El Sol de México|fecha=10 de agosto de 2021}}</ref>
+|Interino
+|-
+| [[Reyes Rodríguez Mondragón]] || 2 de septiembre de 2021-31 de diciembre de 2023
+|Renunció antes de conclusión como Presidente del Tribunal
+|-
+| [[Mónica Aralí Soto Fregoso]] || 1 de enero de 2024-31 de octubre de 2025
+|
+|-
+| [[Gilberto de Guzmán Bátiz García]] || 1 de noviembre de 2025-presente
+|
+|}
+
+== Casos relevantes ==
+
+=== Elecciones federales 2006 ===
+{{AP|Elecciones generales de México (2006)}}
+Tras el 2 de julio, la [[Coalición Por el Bien de Todos]] y su candidato [[Andrés Manuel López Obrador]], AMLO, exigieron al Tribunal el recuento total de votos mediante una impugnación.
+
+El Tribunal dictaminó el 5 de agosto por unanimidad que la petición de la [[Coalición Por el Bien de Todos]] estaba jurídicamente mal diseñada, no obstante, acordó hacer un recuento en 9.07% de las casillas. Si en las casillas a revisión se detectaban irregularidades notables, se procedería a una revisión más extensa. [http://www.eluniversal.com.mx/notas/366854.html] Mientras tanto la [[Coalición Por el Bien de Todos]] desestimó el dictamen [http://www.eluniversal.com.mx/notas/366935.html].
+
+El 5 de septiembre, dictaminó la validez de la elección y el cómputo de la elección desestimando la posición de anular la elección presidencial exigida por la [[Coalición Por el Bien de Todos]] y declaró presidente electo a [[Felipe Calderón Hinojosa]].
+
+=== Elecciones federales 2012 ===
+Lunes 2 de julio, el candidato de la coalición Movimiento Progresista ([[Partido de la Revolución Democrática|PRD]]-[[Partido del Trabajo (México)|PT]]-[[Movimiento Ciudadano (partido político de México)|MC]]), [[Andrés Manuel López Obrador]], solicitó la invalidez de la elección presidencial por presuntas irregularidades que se presentaron en el proceso electoral federal 2011-2012, para lo cual presentó el juicio de inconformidad que se registró con el expediente SUP-JIN-359/2012.
+
+El 30 de agosto de 2012, la Sala Superior resolvió el juicio de inconformidad SUP-JIN-359/2012, señalando que los planteamientos de nulidad de la coalición eran infundados. Posteriormente, el 31 de agosto de 2012, la Sala emitió el “cómputo final, calificación jurisdiccional de la elección, declaración de validez y de presidente electo de los Estados Unidos Mexicanos”, en la que declaró presidente electo a [[Enrique Peña Nieto]], postulado por la coalición Compromiso por México (PRI, PVEM).[http://eleconomista.com.mx/sociedad/2012/08/31/tepjf-entrega-constancia-presidente-electo-pena-nieto]
+
+==== Cómputo final ====
+Se precisa que el candidato de la coalición Compromiso por México obtuvo el mayor número de votos en la elección de Presidente de los Estados Unidos Mexicanos, con una ventaja del 6.6% de los votos de acuerdo con el cómputo final siguiente:
+ 
+{| class="wikitable"
+|-
+! [[Partido Acción Nacional|1) Partido Acción Nacional]] !! [[Compromiso por México|2) Compromiso por México]]  ([[Partido Revolucionario Institucional|PRI]]-[[Partido Verde Ecologista de México|PVEM]]) !! 3) [[Movimiento Progresista]] ([[Partido de la Revolución Democrática|PRD]]-[[Partido del Trabajo (México)|PT]] y [[Movimiento Ciudadano (partido político de México)|MC]]). !! [[Nueva Alianza (partido político)|4) Nueva Alianza]] !! 5) Candidatos No Registrados !! 6) Nulos !! Votación Total
+|-
+| 12,732,630 || 19,158,592 || 15,848,827 || 1,146,085 || 20,625 || 1,236,857 || 50,143,616
+|}
+<graph>{
+	"version": 2,
+	"width": 738,
+	"height": 308,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 1,
+					"y": 12732630
+				},
+				{
+					"x": 2,
+					"y": 19158592
+				},
+				{
+					"x": 3,
+					"y": 15848827
+				},
+				{
+					"x": 4,
+					"y": 1146085
+				},
+				{
+					"x": 5,
+					"y": 20625
+				},
+				{
+					"x": 6,
+					"y": 1236857
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "ordinal",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "rect",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"fill": {
+						"value": "steelblue"
+					},
+					"width": {
+						"scale": "x",
+						"band": "true",
+						"offset": -1
+					}
+				}
+			}
+		}
+	]
+}</graph>
+
+==== Validez de la elección ====
+En el proyecto se hace patente que se cumplieron a cabalidad las etapas del proceso electoral y se realizaron los actos de cada una de ellas en los términos previstos en la [[Constitución Política de los Estados Unidos Mexicanos]], así como en el [[Código Federal de Instituciones y Procedimientos Electorales]], mientras que las irregularidades denunciadas fueron analizadas y resueltas por la autoridad administrativa electoral y, en su caso, por este Tribunal Electoral.
+ 
+En consecuencia, se consideró que en el proceso electoral federal 2011-2012 prevalecieron los principios y valores constitucionales en materia electoral, como son los derechos fundamentales de votar y ser votado, el de acceso de los ciudadanos en condiciones de igualdad a las funciones públicas del país, el de elecciones libres, auténticas y periódicas; de sufragio universal, libre, secreto y directo, de maximización de la libertad de expresión y del derecho a la información en el debate público que precede a las elecciones.
+ 
+==== Declaración de presidente electo ====
+El dictamen da cuenta del análisis de la documentación presentada por Enrique Peña Nieto al momento de registrar su candidatura. Tras la revisión del expediente se determinó que satisfacía los requisitos establecidos en el artículo 82 de la Constitución federal, por lo cual no existía impedimento legal para declararlo presidente electo.
+[https://web.archive.org/web/20130419014040/http://portal.te.gob.mx/prensa/boletin-prensa/emite-tepjf-dictamen-computo-final-declaracion-validez-del-proceso-electoral-y-declar]
+
+=== Conflicto con el Partido Verde (2015) ===
+
+Después de que el [[Partido Verde Ecologista de México]] fue el más multado durante las campañas electorales por difundir propaganda de sus informes, el TEPJF decidió reducir otra multa a dicho partido, la cual era de 11 millones 400 mil pesos y terminó en un millón 189 mil.
+
+Otra de dichas multas fue la que se le impuso por la entrega de despensas en [[Quintana Roo]] por medio de la "Familia Verde", la cual fue de 70 mil 100 pesos. La despensa contenía: tres paquetes de [[galleta]]s, pasta de dientes, jabones, dos kilos de [[harina]], un litro de [[leche]], papel higiénico y dos sobres de sazonador.<ref>{{cita noticia|título=El tribunal electoral decide reducir 90 por ciento otra multa al Verde Ecologista|fechaacceso=3 de junio de 2015|agencia=La Jornada|fecha=3 de junio de 2015}}</ref>
+
+== Órganos especializados ==
+
+=== Contraloría Interna ===
+
+La [[Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación]] es la entidad encargada de vigilar que la normativa del tribunal sea cumplida. De la misma manera también vigila que se lleven a cabo los acuerdos que emite la Comisión de Administración.<ref name="article99">{{cite web
+| url = http://www.diputados.gob.mx/LeyesBiblio/pdf/1_080520.pdf
+| título = Artículo 108 - De las Responsabilidades de los Servidores Públicos
+| fechaacceso = 2 Septiembre 2020
+| fecha = 8 Mayo 2020
+| obra = Constitución Política de los Estados Unidos Mexicanos
+| idioma = Español
+| fechaarchivo = 18 de septiembre de 2020
+| urlarchivo = https://web.archive.org/web/20200918083844/http://www.diputados.gob.mx/LeyesBiblio/pdf/1_080520.pdf
+| deadurl = yes
+}}</ref>
+
+Esta contraloría utiliza auditorías, revisiones de control así como evaluaciones de cumplimiento para vigilar la gestión de los recursos de las unidades administrativas.
+
+=== Centro de Documentación ===
+
+El Centro de Documentación del Tribunal Electoral del Poder Judicial de la Federación es un reservorio de información especializada en temas electorales que proporciona servicios de información al personal del tribunal así como al público en general.<ref name="Bodies2">{{cite web 
+| url=https://www.te.gob.mx/front3/contents/index/14 
+| título = Centro de Documentación 
+| fechaacceso = 28 Agosto 2020 
+| idioma = Español
+}}
+</ref>
+
+En la actualidad existen siete centros de documentación:
+
+*Centro de Documentación de la Sala Superior
+*Centro de Documentación de la Sala Regional Guadalajara
+*Centro de Documentación de la Sala Regional Monterrey
+*Centro de Documentación de la Sala Regional Xalapa
+*Centro de Documentación de la Sala Regional Ciudad de México
+*Centro de Documentación de la Sala Regional Toluca
+*Centro de Documentación de la Sala Regional Especializada
+
+=== Escuela Judicial Electoral ===
+
+Es una institución educativa dependiente del Tribunal Electoral del Poder Judicial de la Federación, especializada en tareas de formación, investigación, capacitación y difusión en la materia electoral.
+Su oferta educativa abarca programas de posgrado, cursos de capacitación y actualización, eventos académicos como seminarios, conferencias, talleres, además de generar y gestionar investigación especializada en la materia jurisdiccional electoral, así como coordinar obras editoriales.<ref name="eje1">{{cite web
+| url = https://www.te.gob.mx/eje/front/QuienesSomos
+| título= Sitio del Tribunal Electoral del Poder Judicial de la Federación, Escuela Judicial Electoral. ¿Quiénes somos?
+| fechaacceso= 3 Octubre 2020
+| idioma = Español
+}}
+</ref>
+
+== Véase también ==
+* {{Portal|Derecho}}
+* [[Colegio Electoral Federal]]
+* [[Instituto Federal Electoral (México)|Instituto Federal Electoral]]
+* [[Elecciones federales de México de 2006]]
+
+== Referencias ==
+{{listaref|2}}
+{{listaref|group="n"}}
+
+== Enlaces externos ==
+* [https://www.te.gob.mx Sitio web del Tribunal Electoral del Poder Judicial de la Federación]
+* [https://www.te.gob.mx/eje/ Sitio web de la Escuela Judicial Electoral]
+
+{{Control de autoridades}}
+[[Categoría:Poder Judicial de México]]
+[[Categoría:Tribunal Electoral del Poder Judicial de la Federación| ]]
+[[Categoría:Organismos electorales de México]]
+[[Categoría:Tribunales electorales|México]]

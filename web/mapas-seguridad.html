@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>México en datos: mapas de seguridad</title>
+  <meta name="description" content="Mapas de seguridad de México: víctimas de homicidio doloso y feminicidio por entidad y por municipio, en número y por cada 100 mil habitantes, según el SESNSP, con fuente y fecha.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-tema="seguridad">
+  <header class="masthead">
+    <div class="masthead__title">
+      <h1>México en datos</h1>
+      <p>Un mapa por cifra de seguridad: víctimas de homicidio doloso y de feminicidio registradas por las fiscalías (SESNSP), de enero a septiembre de 2026 y en todo 2025, por entidad y por municipio, en número y por cada 100 mil habitantes. Cada cifra lleva su fuente y la fecha en que se leyó.</p>
+      <nav class="tabs" aria-label="Secciones">
+        <a href="index.html">Explorar México</a>
+        <a href="mapas-politicos.html">Mapas políticos</a>
+        <a href="mapas-economicos.html">Mapas económicos</a>
+        <a href="mapas-seguridad.html" aria-current="page">Mapas de seguridad</a>
+        <a href="poderes.html">Poderes de la Nación</a>
+      </nav>
+    </div>
+    <div class="masthead__status">
+      <p id="data-date"></p>
+    </div>
+  </header>
+
+  <main>
+    <p id="load-error" class="notice" hidden></p>
+
+    <section class="atlas" aria-label="Mapa por cifra y lista de entidades">
+      <div class="sheet">
+        <div class="sheet__bar">
+          <div class="views" role="group" aria-label="Qué cifra muestra el mapa"></div>
+          <div class="zoom" role="group" aria-label="Acercamiento del mapa">
+            <button type="button" id="zoom-out" aria-label="Alejar">−</button>
+            <button type="button" id="zoom-in" aria-label="Acercar">+</button>
+            <button type="button" id="zoom-reset">Ver todo el país</button>
+          </div>
+        </div>
+        <div class="map-area">
+          <div class="map" id="map">
+            <canvas aria-hidden="true"></canvas>
+            <svg role="img" aria-label="Mapa de México coloreado por la cifra elegida. La lista de la derecha da el valor de cada entidad."></svg>
+            <p class="map__credit" id="map-credit"></p>
+          </div>
+          <figure class="inset legend-box" id="legend"></figure>
+          <div class="tooltip" id="tooltip" hidden></div>
+        </div>
+      </div>
+
+      <aside class="ficha" aria-label="Cifras y lugares">
+        <div id="ficha" aria-live="polite"></div>
+      </aside>
+    </section>
+  </main>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="vendor/topojson-client.min.js"></script>
+  <script src="common.js"></script>
+  <script src="tematicos.js"></script>
+</body>
+</html>

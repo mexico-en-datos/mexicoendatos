@@ -1,0 +1,1866 @@
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHE22ZZ05R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BHE22ZZ05R');
+</script>
+<!-- Termina Google tag   -->
+
+<meta http-equiv="Content-Language" content="es-mx">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>
+	SIL - Sistema de Información Legislativa-PopUp Legislador
+</title>
+<link href="../../template/skin/style.css" rel="stylesheet" type="text/css">
+<style>
+body{
+	background-color: #dec9a2;
+}
+
+.tituloL{
+	font-size: 30px;
+	background-color: #9F284C;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.tituloN{
+	font-size: 18px;
+	color: #9F284C;
+}
+	
+.tituloP{
+	font-size: 12px;
+	color: #000000;
+	width: 70%;
+}
+	
+.fondoImg{
+	border-collapse: collapse;
+	background: #FFFFFF;
+	border-radius: 10px;
+	width: 170px;
+	height: 190px;
+	align-content: center;
+	vertical-align: middle;
+}
+	
+.bordeImg{
+	background: #bc945a;
+	border-style: solid;
+	border-radius: 20px;
+	border-color: #9F284C;
+	border-right-width: 10px;
+	border-left-width: 10px;
+	border-top-width: 10px;
+	border-bottom-width: 10px;
+	width: 180px;
+	height: 200px;
+	align-content: center;
+	vertical-align: middle;
+}
+
+.datosL{
+	font-size: 15px;
+	background-color: #F6F4F4;
+	color: #9F284C;
+	border-radius: 10px;
+	width: 90%;
+	align-self: center;
+}
+	
+.datosLM{
+	font-size: 15px;
+	background-color: #F6F4F4;
+	color: #000000;
+	border-radius: 10px;
+}
+
+.datosL2{
+	font-size: 15px;
+	color: #FFFFFF;
+	background-color: #9F284C;
+	border-radius: 20px;
+	alignment-baseline: center;
+	height: 60px;
+}
+
+.datosIzq{
+	font-size: 15px;
+	color: #9F284C;
+	font-weight: bold;
+}
+
+.datosDer{
+	font-size: 15px;
+	color: #9F284C;
+}
+
+.TFtable{
+	width: 90%; 
+	border-collapse: collapse;
+	align-self: center;
+	font-size: 15px;
+	color: #9F284C;
+}
+	
+.TFtableN{
+	font-family: Montserrat;
+	font-size: 12px;
+	color: #000000;
+}
+
+.TFtable td{ 
+	padding:7px; 
+}
+
+.TFtable tr{
+	background: #F6F4F4;
+}
+
+.TFtable tr:nth-child(odd){ 
+	background: #F6F4F4;
+	}
+
+.TFtable tr:nth-child(even){
+	background: #dec9a2;
+}
+
+.TFtable2{
+	color: #9F284C;
+	font-size: 15px;
+	background-color: #DDD2AF;
+	alignment-baseline: center;
+	border-style: solid;
+	border-radius: 20px;
+	border-color: #FFFFFF;
+	border-right-width: 10px;
+	border-left-width: 10px;
+	border-top-width: 10px;
+	border-bottom-width: 10px;
+}
+
+.TFtable2 th{ 
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.TFtable2 td, tr{ 
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.TFtable2 tr:nth-child(odd){ 
+	background: #DDD2AF;
+	}
+
+.TFtable2 tr:nth-child(even){
+	background: #FFFFFF;
+}
+
+</style>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+ <link href="/template/skin/m.style.css" rel="stylesheet" type="text/css"><script>
+//Inicia el codigo javascript
+
+        function Tipos(Tipo,Valor,PrioridadAsunto)
+        {
+          this.Subtipos=new Array();
+          this.Tipo=Tipo;
+          this.Valor=Valor;
+          this.PrioridadAsunto=PrioridadAsunto;
+        }
+
+        function SubTipos(ValorTipo,SubTipo,Valor)
+        {
+          this.ValorTipo=ValorTipo
+          this.SubTipo=SubTipo;
+          this.Valor=Valor;
+        }
+
+        var TiposSub=new Array();
+		TiposSub[0]=new Tipos('Iniciativa',11,1);
+			TiposSub[0].Subtipos[0]=new SubTipos(11,'Iniciativa de carácter administrativo o de gobierno interior',1955462);
+			TiposSub[0].Subtipos[1]=new SubTipos(11,'Ley Secundaria',1);
+			TiposSub[0].Subtipos[2]=new SubTipos(11,'Reforma Constitucional',2);
+		TiposSub[1]=new Tipos('Acuerdo parlamentario',1,0);
+			TiposSub[1].Subtipos[0]=new SubTipos(1,'Creación de comisiones o grupos de trabajo',1805773);
+			TiposSub[1].Subtipos[1]=new SubTipos(1,'Designación de servidores públicos',2042409);
+			TiposSub[1].Subtipos[2]=new SubTipos(1,'Exhorto al Poder Ejecutivo',551202);
+			TiposSub[1].Subtipos[3]=new SubTipos(1,'Otro',9);
+			TiposSub[1].Subtipos[4]=new SubTipos(1,'Preguntas parlamentarias',2042412);
+			TiposSub[1].Subtipos[5]=new SubTipos(1,'Ratificación de servidores públicos',2042411);
+			TiposSub[1].Subtipos[6]=new SubTipos(1,'Solicitud de comparecencia',551204);
+			TiposSub[1].Subtipos[7]=new SubTipos(1,'Solicitud de información al Ejecutivo',1805761);
+		TiposSub[2]=new Tipos('Agenda Política',2,0);
+			TiposSub[2].Subtipos[0]=new SubTipos(2,'Agenda Política',1955509);
+		TiposSub[3]=new Tipos('Comparecencia',4,0);
+			TiposSub[3].Subtipos[0]=new SubTipos(4,'Comparecencia',2042380);
+		TiposSub[4]=new Tipos('Comunicado',5,0);
+			TiposSub[4].Subtipos[0]=new SubTipos(5,'Ampliación de plazo para dictamen',2042405);
+			TiposSub[4].Subtipos[1]=new SubTipos(5,'De viaje del Ejecutivo',2042400);
+			TiposSub[4].Subtipos[2]=new SubTipos(5,'Exhorto / solicitud al Poder Legislativo',1805768);
+			TiposSub[4].Subtipos[3]=new SubTipos(5,'Exhorto al Poder Ejecutivo',551202);
+			TiposSub[4].Subtipos[4]=new SubTipos(5,'Modificación/Rectificación/ampliación de turno',2042375);
+			TiposSub[4].Subtipos[5]=new SubTipos(5,'Notificación interna del Poder Legislativo',2042397);
+			TiposSub[4].Subtipos[6]=new SubTipos(5,'Notificación/solicitud de Congresos locales',2042396);
+			TiposSub[4].Subtipos[7]=new SubTipos(5,'Notificación/solicitud de gobiernos estatales',2042401);
+			TiposSub[4].Subtipos[8]=new SubTipos(5,'Notificación/solicitud de órganos autónomos',2042404);
+			TiposSub[4].Subtipos[9]=new SubTipos(5,'Notificación/solicitud del Poder Ejecutivo federal',2042402);
+			TiposSub[4].Subtipos[10]=new SubTipos(5,'Notificación/solicitud del Poder Judicial federal',2042403);
+			TiposSub[4].Subtipos[11]=new SubTipos(5,'Otro',9);
+			TiposSub[4].Subtipos[12]=new SubTipos(5,'Respuesta a punto de acuerdo',2042407);
+			TiposSub[4].Subtipos[13]=new SubTipos(5,'Solicitud de comparecencia',551204);
+			TiposSub[4].Subtipos[14]=new SubTipos(5,'Solicitud de información',2042406);
+		TiposSub[5]=new Tipos('Declaratoria de reforma constitucional',12731,0);
+			TiposSub[5].Subtipos[0]=new SubTipos(12731,'Reforma Constitucional',2);
+		TiposSub[6]=new Tipos('Designación de servidores públicos',2015618,0);
+			TiposSub[6].Subtipos[0]=new SubTipos(2015618,'Designación de servidores públicos',2042409);
+		TiposSub[7]=new Tipos('Dictamen a discusión',23,0);
+			TiposSub[7].Subtipos[0]=new SubTipos(23,'Designación de servidores públicos',2042409);
+			TiposSub[7].Subtipos[1]=new SubTipos(23,'Instrumento internacional',3);
+			TiposSub[7].Subtipos[2]=new SubTipos(23,'Ley Secundaria',1);
+			TiposSub[7].Subtipos[3]=new SubTipos(23,'Otro',9);
+			TiposSub[7].Subtipos[4]=new SubTipos(23,'Para ausentarse del país',2042394);
+			TiposSub[7].Subtipos[5]=new SubTipos(23,'Para autorizar salida/entrada de fuerzas armadas',2042399);
+			TiposSub[7].Subtipos[6]=new SubTipos(23,'Proposición con punto de acuerdo',2042376);
+			TiposSub[7].Subtipos[7]=new SubTipos(23,'Propuesta de la Junta de Coordinación Política',1955519);
+			TiposSub[7].Subtipos[8]=new SubTipos(23,'Ratificación de nombramientos',1955520);
+			TiposSub[7].Subtipos[9]=new SubTipos(23,'Reforma Constitucional',2);
+			TiposSub[7].Subtipos[10]=new SubTipos(23,'Solicitud de permiso de condecoración',204411);
+			TiposSub[7].Subtipos[11]=new SubTipos(23,'Solicitud de permiso de servicios a gobierno extranjero',17525);
+		TiposSub[8]=new Tipos('Dictamen de declaración de procedencia',1486787,0);
+			TiposSub[8].Subtipos[0]=new SubTipos(1486787,'Declaración de procedencia',1486789);
+		TiposSub[9]=new Tipos('Dictamen de primera lectura / Declaratoria de publicidad',6,0);
+			TiposSub[9].Subtipos[0]=new SubTipos(6,'Designación de servidores públicos',2042409);
+			TiposSub[9].Subtipos[1]=new SubTipos(6,'Instrumento internacional',3);
+			TiposSub[9].Subtipos[2]=new SubTipos(6,'Ley Secundaria',1);
+			TiposSub[9].Subtipos[3]=new SubTipos(6,'Otro',9);
+			TiposSub[9].Subtipos[4]=new SubTipos(6,'Para ausentarse del país',2042394);
+			TiposSub[9].Subtipos[5]=new SubTipos(6,'Para autorizar salida/entrada de fuerzas armadas',2042399);
+			TiposSub[9].Subtipos[6]=new SubTipos(6,'Proposición con punto de acuerdo',2042376);
+			TiposSub[9].Subtipos[7]=new SubTipos(6,'Propuesta de la Junta de Coordinación Política',1955519);
+			TiposSub[9].Subtipos[8]=new SubTipos(6,'Ratificación de nombramientos',1955520);
+			TiposSub[9].Subtipos[9]=new SubTipos(6,'Reforma Constitucional',2);
+			TiposSub[9].Subtipos[10]=new SubTipos(6,'Solicitud de permiso de condecoración',204411);
+			TiposSub[9].Subtipos[11]=new SubTipos(6,'Solicitud de permiso de servicios a gobierno extranjero',17525);
+		TiposSub[10]=new Tipos('Dictamen de segunda lectura',74896,0);
+			TiposSub[10].Subtipos[0]=new SubTipos(74896,'Designación de servidores públicos',2042409);
+			TiposSub[10].Subtipos[1]=new SubTipos(74896,'Instrumento internacional',3);
+			TiposSub[10].Subtipos[2]=new SubTipos(74896,'Ley Secundaria',1);
+			TiposSub[10].Subtipos[3]=new SubTipos(74896,'Otro',9);
+			TiposSub[10].Subtipos[4]=new SubTipos(74896,'Para ausentarse del país',2042394);
+			TiposSub[10].Subtipos[5]=new SubTipos(74896,'Para autorizar salida/entrada de fuerzas armadas',2042399);
+			TiposSub[10].Subtipos[6]=new SubTipos(74896,'Proposición con punto de acuerdo',2042376);
+			TiposSub[10].Subtipos[7]=new SubTipos(74896,'Propuesta de la Junta de Coordinación Política',1955519);
+			TiposSub[10].Subtipos[8]=new SubTipos(74896,'Ratificación de nombramientos',1955520);
+			TiposSub[10].Subtipos[9]=new SubTipos(74896,'Reforma Constitucional',2);
+			TiposSub[10].Subtipos[10]=new SubTipos(74896,'Solicitud de permiso de condecoración',204411);
+			TiposSub[10].Subtipos[11]=new SubTipos(74896,'Solicitud de permiso de servicios a gobierno extranjero',17525);
+		TiposSub[11]=new Tipos('Dictamen en sentido negativo',74639,0);
+			TiposSub[11].Subtipos[0]=new SubTipos(74639,'Designación de servidores públicos',2042409);
+			TiposSub[11].Subtipos[1]=new SubTipos(74639,'Instrumento internacional',3);
+			TiposSub[11].Subtipos[2]=new SubTipos(74639,'Ley Secundaria',1);
+			TiposSub[11].Subtipos[3]=new SubTipos(74639,'Otro',9);
+			TiposSub[11].Subtipos[4]=new SubTipos(74639,'Para ausentarse del país',2042394);
+			TiposSub[11].Subtipos[5]=new SubTipos(74639,'Para autorizar salida/entrada de fuerzas armadas',2042399);
+			TiposSub[11].Subtipos[6]=new SubTipos(74639,'Proposición con punto de acuerdo',2042376);
+			TiposSub[11].Subtipos[7]=new SubTipos(74639,'Propuesta de la Junta de Coordinación Política',1955519);
+			TiposSub[11].Subtipos[8]=new SubTipos(74639,'Ratificación de nombramientos',1955520);
+			TiposSub[11].Subtipos[9]=new SubTipos(74639,'Reforma Constitucional',2);
+			TiposSub[11].Subtipos[10]=new SubTipos(74639,'Solicitud de permiso de condecoración',204411);
+			TiposSub[11].Subtipos[11]=new SubTipos(74639,'Solicitud de permiso de servicios a gobierno extranjero',17525);
+		TiposSub[12]=new Tipos('Efemérides',7,0);
+			TiposSub[12].Subtipos[0]=new SubTipos(7,'Efemérides',2042382);
+		TiposSub[13]=new Tipos('Elección de integrantes de la Comisión Permanente',8,0);
+			TiposSub[13].Subtipos[0]=new SubTipos(8,'Elección de integrantes de la Comisión Permanente',2042383);
+		TiposSub[14]=new Tipos('Elección de integrantes de la Mesa Directiva',57224,0);
+			TiposSub[14].Subtipos[0]=new SubTipos(57224,'Elección de integrantes de la Mesa Directiva',2042384);
+		TiposSub[15]=new Tipos('Excitativa',9,0);
+			TiposSub[15].Subtipos[0]=new SubTipos(9,'Excitativa',1955501);
+		TiposSub[16]=new Tipos('Glosa del informe de gobierno',579435,0);
+			TiposSub[16].Subtipos[0]=new SubTipos(579435,'Glosa del informe de gobierno',2042385);
+		TiposSub[17]=new Tipos('Informe',10,0);
+			TiposSub[17].Subtipos[0]=new SubTipos(10,'Del poder Ejecutivo',2042377);
+			TiposSub[17].Subtipos[1]=new SubTipos(10,'Del poder Legislativo',2042378);
+			TiposSub[17].Subtipos[2]=new SubTipos(10,'Otro',9);
+		TiposSub[18]=new Tipos('Iniciativa de inicio en Cámara de Diputados',133702,0);
+			TiposSub[18].Subtipos[0]=new SubTipos(133702,'Iniciativa de inicio en Cámara de Diputados',1955465);
+		TiposSub[19]=new Tipos('Instrumento internacional',20275,0);
+			TiposSub[19].Subtipos[0]=new SubTipos(20275,'Instrumento internacional',3);
+		TiposSub[20]=new Tipos('Integración de comisiones de trabajo de la Comisión Permanente',13,0);
+			TiposSub[20].Subtipos[0]=new SubTipos(13,'Integración de las Comisiones de Trabajo de la Comisión Permanente',2042387);
+		TiposSub[21]=new Tipos('Intervención de funcionaria/funcionario',73979,0);
+			TiposSub[21].Subtipos[0]=new SubTipos(73979,'Intervención de funcionaria/funcionario',2042388);
+		TiposSub[22]=new Tipos('Intervención de la Mesa Directiva',16960,0);
+			TiposSub[22].Subtipos[0]=new SubTipos(16960,'Intervención de la Mesa Directiva',2042389);
+		TiposSub[23]=new Tipos('Intervención de legisladora/legislador',14,0);
+			TiposSub[23].Subtipos[0]=new SubTipos(14,'Intervención de legisladora/legislador',2042390);
+		TiposSub[24]=new Tipos('Licencia / reincorporación',2015615,0);
+			TiposSub[24].Subtipos[0]=new SubTipos(2015615,'Licencia',2016797);
+			TiposSub[24].Subtipos[1]=new SubTipos(2015615,'Reincorporación',2042374);
+			TiposSub[24].Subtipos[2]=new SubTipos(2015615,'Renuncia',2042398);
+		TiposSub[25]=new Tipos('Minuta',17,0);
+			TiposSub[25].Subtipos[0]=new SubTipos(17,'Ley Secundaria',1);
+			TiposSub[25].Subtipos[1]=new SubTipos(17,'Otro',9);
+			TiposSub[25].Subtipos[2]=new SubTipos(17,'Para ausentarse del país',2042394);
+			TiposSub[25].Subtipos[3]=new SubTipos(17,'Reforma Constitucional',2);
+			TiposSub[25].Subtipos[4]=new SubTipos(17,'Solicitud de permiso de condecoración',204411);
+			TiposSub[25].Subtipos[5]=new SubTipos(17,'Solicitud de permiso de servicios a gobierno extranjero',17525);
+		TiposSub[26]=new Tipos('Modificación en la integración de comisiones',2015616,0);
+			TiposSub[26].Subtipos[0]=new SubTipos(2015616,'Modificación en la integración de comisiones',2042392);
+		TiposSub[27]=new Tipos('Observaciones del Ejecutivo Federal',1957523,0);
+			TiposSub[27].Subtipos[0]=new SubTipos(1957523,'Observaciones del Ejecutivo Federal',607179);
+		TiposSub[28]=new Tipos('Oficio',18,0);
+			TiposSub[28].Subtipos[0]=new SubTipos(18,'Oficio',2042393);
+		TiposSub[29]=new Tipos('Permiso al Ejecutivo',20278,0);
+			TiposSub[29].Subtipos[0]=new SubTipos(20278,'Para ausentarse del país',2042394);
+			TiposSub[29].Subtipos[1]=new SubTipos(20278,'Para autorizar salida/entrada de fuerzas armadas',2042399);
+		TiposSub[30]=new Tipos('Proposición con punto de acuerdo',19,0);
+			TiposSub[30].Subtipos[0]=new SubTipos(19,'Creación de comisiones o grupos de trabajo',1805773);
+			TiposSub[30].Subtipos[1]=new SubTipos(19,'Exhorto / solicitud al Poder Legislativo',1805768);
+			TiposSub[30].Subtipos[2]=new SubTipos(19,'Exhorto al Poder Ejecutivo',551202);
+			TiposSub[30].Subtipos[3]=new SubTipos(19,'Otro',9);
+			TiposSub[30].Subtipos[4]=new SubTipos(19,'Solicitud de comparecencia',551204);
+			TiposSub[30].Subtipos[5]=new SubTipos(19,'Solicitud de información al Ejecutivo',1805761);
+		TiposSub[31]=new Tipos('Protesta',20,0);
+			TiposSub[31].Subtipos[0]=new SubTipos(20,'Protesta',2042395);
+		TiposSub[32]=new Tipos('Ratificación de nombramientos',20280,0);
+			TiposSub[32].Subtipos[0]=new SubTipos(20280,'Ratificación de funcionarios superiores',295242);
+			TiposSub[32].Subtipos[1]=new SubTipos(20280,'Ratificación de grados militares',4);
+			TiposSub[32].Subtipos[2]=new SubTipos(20280,'Ratificación de grados navales',6);
+			TiposSub[32].Subtipos[3]=new SubTipos(20280,'Ratificación de ministros/magistrados',7);
+			TiposSub[32].Subtipos[4]=new SubTipos(20280,'Ratificación de personal diplomático',5);
+		TiposSub[33]=new Tipos('Respuestas de instancias en el Pleno',1957265,0);
+			TiposSub[33].Subtipos[0]=new SubTipos(1957265,'Respuestas de instancias en el pleno',1955448);
+		TiposSub[34]=new Tipos('Respuestas del Ejecutivo a preguntas parlamentarias',2015617,0);
+			TiposSub[34].Subtipos[0]=new SubTipos(2015617,'Respuestas del Ejecutivo a preguntas parlamentarias',2042408);
+		TiposSub[35]=new Tipos('Solicitud de permiso de condecoración',1957284,0);
+			TiposSub[35].Subtipos[0]=new SubTipos(1957284,'Solicitud de permiso de condecoración',204411);
+		TiposSub[36]=new Tipos('Solicitud de permiso de servicios a gobierno extranjero',1957288,0);
+			TiposSub[36].Subtipos[0]=new SubTipos(1957288,'Solicitud de permiso de servicios a gobierno extranjero',17525);
+        function EscribeIniciativas()
+        {
+          var i=0;
+          var prioridad=1;
+            for(i=0;i<TiposSub.length;i++)
+            {
+              if(prioridad>TiposSub[i].PrioridadAsunto)
+              {
+                document.write("<option value='null' disabled>------------------------------------------------------------------------</option>");
+                prioridad=0;
+              }
+	              document.write("<option value="+TiposSub[i].Valor+">"+TiposSub[i].Tipo+"</option>");
+            }
+        }
+
+        function EscribeSubtipos(parentid,id)
+        {
+            var HTML="";
+            var SubTipos=document.getElementById(id);
+            var TiposList=document.getElementById(parentid);
+            var Opciones=TiposList.options;
+            var grupos="";
+            var opciones="";
+
+
+
+            for(i=0;i<Opciones.length;i++)
+            {
+                if(Opciones[i].selected==true && Opciones[i].id!="sel" && Opciones[i].value!='null')
+                {
+                    try
+                    {
+                        if(TiposSub[i].PrioridadAsunto<1)
+                        {
+                            ialterno=i-1;
+                        }
+                        else
+                        {
+                            ialterno=i;
+                        }
+                    }
+                    catch(x)
+                    {
+                        ialterno=i-1;
+                    }
+
+                    if(TiposSub[ialterno].Subtipos.length>0)
+                    {
+                        //Este codigo es por compatibilidad con IExplorer
+                        if(navigator.appName=="Microsoft Internet Explorer"||navigator.appName=="Netscape")
+                        {
+                            objetonulo=SubTipos.childNodes.item(0);
+                            if(objetonulo.value==undefined)
+                            {
+                                SubTipos.removeChild(objetonulo);
+                            }
+                        }
+                        //Termina codigo de compatibilidad
+
+                        if(SubTipos.childNodes.item(0).value=='null')
+                        {
+                            SubTipos.size=10;
+                            SubTipos.innerHTML="";
+                            SubTipos.disabled=false;
+                        }
+
+
+                        grupos=document.createElement("optgroup");
+                        grupos.label=TiposSub[ialterno].Tipo;
+                        grupos.id= grupos.label=TiposSub[ialterno].Tipo;
+                        for(var j=0;j<TiposSub[ialterno].Subtipos.length;j++)
+                        {
+                            opciones=document.createElement("option");
+                            opciones.innerHTML=TiposSub[ialterno].Subtipos[j].SubTipo;
+                            opciones.value=TiposSub[ialterno].Valor+"#"+TiposSub[ialterno].Subtipos[j].Valor;
+                            grupos.insertBefore(opciones,null);
+                        }
+                        SubTipos.insertBefore(grupos,null);
+
+                    }
+                    Opciones[i].id="sel";
+                }
+                else
+                {
+                    if(Opciones[i].id=="sel" && Opciones[i].selected==false)
+                    {
+
+                      Opciones[i].id="";
+                      try
+                      {
+                          if(TiposSub[i].PrioridadAsunto<1)
+                            {
+                                ialterno=i-1;
+                            }
+                            else
+                            {
+                                ialterno=i;
+                            }
+                       }
+                       catch(x)
+                       {
+                            ialterno=i-1;
+                       }
+
+                      if(TiposSub[ialterno].Subtipos.length>0)
+                      {
+                        grupo=document.getElementById(TiposSub[ialterno].Tipo);
+                        SubTipos.removeChild(grupo);
+                      }
+                      //Mostradas--;
+                      if(SubTipos.childNodes.length<=0)
+                      {
+                            ResetSubtipos(SubTipos)
+                      }
+
+                    }
+                 }
+
+
+            }
+        }
+
+        function ResetSubtipos(object)
+        {
+            object.size="";
+            opciones=document.createElement("option");
+            opciones.innerHTML="________________________________________________";
+            opciones.value="null";
+            object.insertBefore(opciones,null);
+            object.disabled=true;
+        }
+
+        function OpenPresentador(objeto)
+        {
+            var opciones=objeto.options;
+            var valor=opciones[opciones.selectedIndex].value;
+            var ComboSeleccionadas=document.getElementById("OPC_SELECCIONADAS");
+            var Opciones=ComboSeleccionadas.options;
+            var Length=Opciones.length
+
+            switch(valor)
+            {
+                case "P":
+                    window.open("/Busquedas/Avanzada/PopsPresentador/pp_GrupoParlamentario.php?SID=","Presentador","scrollbars=yes");
+                break;
+                case "O":
+                    var Legislatura=document.getElementById("LEGISLATURA");
+                    var opciones=Legislatura.options;
+                    var valor=opciones[opciones.selectedIndex].value;
+                    if(valor==-1)
+                    {
+                        alert("Selecciona una legisltaura para mostrar sus comisiones");
+                    }
+                    else
+                    {
+                        window.open("/Busquedas/Avanzada/PopsPresentador/pp_Comisiones.php?SID=&CVE_LEGISLATURA="+valor,"Presentador","scrollbars=yes");
+                    }
+                break;
+                case "G":
+                    var Legislatura=document.getElementById("LEGISLATURA");
+                    var opciones=Legislatura.options;
+                    var valor=opciones[opciones.selectedIndex].value;
+                    if(valor==-1)
+                    {
+                        alert("Selecciona una legisltaura para mostrar sus Ã³rganos de gobierno");
+                    }
+                    else
+                    {
+                        window.open("/Busquedas/Avanzada/PopsPresentador/pp_Organos.php?SID=&CVE_LEGISLATURA="+valor,"Presentador","scrollbars=yes");
+                    }
+                break;
+                case "E":
+                    window.open("/Busquedas/Avanzada/PopsPresentador/pp_CongresoEsta.php?SID=","Presentador","scrollbars=yes");
+                break;
+				case "S":
+                    window.open("/Busquedas/Avanzada/PopsPresentador/pp_GobiernoEsta.php?SID=","Presentador","scrollbars=yes");
+                break;
+                case "L":
+                    var Legislatura=document.getElementById("LEGISLATURA");
+                    var opciones=Legislatura.options;
+                    var valor=opciones[opciones.selectedIndex].value;
+                    if(valor==-1)
+                    {
+                        window.open("/Busquedas/Avanzada/PopsPresentador/pp_ListLegislador.php?SID=","Presentador","scrollbars=yes");
+                    }
+                    else
+                    {
+                        window.open("/Busquedas/Avanzada/PopsPresentador/pp_ListLegislador.php?SID=&Legislatura="+valor,"Presentador","scrollbars=yes");
+                    }
+
+                break;
+
+                default:
+                    for(i=0;i<Length;i++)
+                        {
+                            ComboSeleccionadas.remove(0);
+                        }
+                break;
+            }
+
+
+        }
+function  Validar()
+{
+    var form=document.AVANZADA_FRM;
+    var tipolegislatura=0;
+
+
+
+    //Validamos que se haya seleccionado una  opcion de legislatura
+    tipolegislatura=form.LEGISLATURA.options[form.LEGISLATURA.selectedIndex].value;
+    if(tipolegislatura==-1)
+    {
+        alert("Selecciona una legislatura");
+        form.LEGISLATURA.focus();
+        return false;
+    }
+    else
+    {
+        if(ValidaPalabrasTipo())
+        {
+            if(tipolegislatura=="TODAS")
+            {
+                if (form.FECHA_INIC.value == "" && form.FECHA_FIN.value != "")
+                {
+                    alert("Selecciona la fecha inicial del rango de bÃºsqueda");
+                    form.FECHA_INIC.focus();
+                    return false;
+                }
+                else if (form.FECHA_INIC.value != "" && form.FECHA_FIN.value == "")
+                {
+                    alert("Selecciona la fecha final del rango de bÃºsqueda");
+                    form.FECHA_FIN.focus();
+                    return false;
+                }
+                else if (form.FECHA_INIC.value == "" && form.FECHA_FIN.value == "")
+                {
+                    alert("Selecciona un rango de fechas");
+                    return false;
+                }
+            }
+            else
+            {
+                if(form.FECHA_INIC.value == "" && form.FECHA_FIN.value != "")
+                {
+                    alert("Selecciona la fecha inicial del rango de bÃºsqueda");
+                    form.FECHA_FIN.focus();
+                    return false;
+                }
+
+            }
+            if(!ValidaFechasFormulario("AVANZADA_FRM","FECHA_INIC","FECHA_FIN",tipolegislatura,"mensaje"))
+            {
+                return false;
+            }
+
+        }
+        else
+        {
+            return false;
+        }
+
+    }
+
+	if (document.forms[0].ESTATUS.selectedIndex<0 && document.forms[0].ESTATUS.disabled==false) {
+		alert("Selecciona un Estatus");
+		document.forms[0].ESTATUS.focus();
+		return false;
+	}
+
+    if(form.PAGINAS.value<15 || form.PAGINAS.value>999)
+    {
+        alert("El valor de la paginaciÃ³n debe estar dentro de un rango de 15 a 999");
+        form.PAGINAS.focus();
+        return false;
+    }
+
+    return true;
+
+}
+
+
+
+//Valida las palabras o tipo de asunto de un formulario
+function ValidaPalabrasTipo()
+{
+    var selTasunto =document.getElementById("tipo");
+    var existeSelect= false;
+
+    if(document.forms[0].VALOR_TEXTO.value=="")
+        {
+            for (var i=0; i < selTasunto.options.length; i++)
+            {
+                    if (selTasunto.options[i].selected == true && selTasunto.options[i].value!='null')
+                    {
+                        existeSelect=true;
+                        break;
+                    }
+            }
+            if(!existeSelect)
+            {
+                alert("Captura una o varias palabra(s) clave(s) separadas por un espacio o selecciona un tipo de asunto");
+                return false;
+            }
+        }
+    return true;
+}
+
+function Limpiar()
+{
+    window.location.href="/Librerias/pp_PerfilLegislador.php?SID=";
+
+}
+
+function changeEstate(Estado)
+{
+
+    var selectedArray = eval("estatus" + Estado + "Array");
+    ESTATUS_OBJ = document.getElementById("ESTATUS");
+    TIPOASUNTO = document.getElementById("tipo");
+
+    if (!TIPOASUNTO.options[0].selected) 
+	{
+        selectedArray = eval("estatus9Array");
+    }
+
+    while (selectedArray.length < ESTATUS_OBJ.options.length) 
+	{
+        ESTATUS_OBJ.options[(ESTATUS_OBJ.options.length - 1)] = null;
+    }
+    	
+	for (var i=1; i < selectedArray.length+1; i++) 
+	{
+        eval("ESTATUS_OBJ.options[i]=" + "new Option" + selectedArray[i-1]);
+    }
+
+    if (!TIPOASUNTO.options[0].selected) {
+        eval("ESTATUS_OBJ.disabled=true");
+    } 
+	else 
+		{
+        if (Estado==1 || Estado==2) 
+		{
+            eval("ESTATUS_OBJ.disabled=false");
+        } 
+		
+		else 
+		{
+            eval("ESTATUS_OBJ.disabled=true");
+        }
+    }
+}
+</script><!-- #0# --><SCRIPT type="text/javascript">
+	function openPerfil(strURL) {
+		window.open(strURL, 'Legislador2','top=0, left=0,idth=100%,scrollbars=yes');
+	}
+
+	function  ValidarPerfil(){
+		var form=document.AVANZADA_FRM;
+		var tipolegislatura=0;
+		//Validamos que se haya seleccionado una  opcion de legislatura
+		tipolegislatura=form.LEGISLATURA.options[form.LEGISLATURA.selectedIndex].value;
+		if(tipolegislatura==-1)
+		{
+			alert("Selecciona una legislatura");
+			form.LEGISLATURA.focus();
+			return false;
+		}
+		else
+		{
+			if(ValidaPalabrasTipo())
+			{
+				if(tipolegislatura=="TODAS")
+				{
+					if (form.FECHA_INIC.value == "" && form.FECHA_FIN.value != "")
+					{
+						alert("Selecciona la fecha inicial del rango de búsqueda");
+						form.FECHA_INIC.focus();
+						return false;
+					}
+					else if (form.FECHA_INIC.value != "" && form.FECHA_FIN.value == "")
+					{
+						alert("Selecciona la fecha final del rango de búsqueda");
+						form.FECHA_FIN.focus();
+						return false;
+					}
+					else if (form.FECHA_INIC.value == "" && form.FECHA_FIN.value == "")
+					{
+						alert("Selecciona un rango de fechas");
+						return false;
+					}
+				}
+				else
+				{
+					if(form.FECHA_INIC.value == "" && form.FECHA_FIN.value != "")
+					{
+						alert("Selecciona la fecha inicial del rango de búsqueda");
+						form.FECHA_FIN.focus();
+						return false;
+					}
+
+				}
+				if(!ValidaFechasFormulario("AVANZADA_FRM","FECHA_INIC","FECHA_FIN",tipolegislatura,"mensaje"))
+				{
+					return false;
+				}
+			}
+			else
+			{
+				return false;
+			}
+	}
+
+	if(form.PAGINAS.value<15 || form.PAGINAS.value>999)
+	{
+		alert("El valor de la paginación debe estar dentro de un rango de 15 a 999");
+		form.PAGINAS.focus();
+		return false;
+    }
+
+	return true;
+}
+</SCRIPT>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name='PerfiLegislador'></a>
+<table style="background-color:#14332c; width:100%; height:50px;">
+	<tr>
+		<td align="left" style="padding-top:5px; padding-right:5px; padding-bottom:5px; padding-left:5px;">
+		<a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/segob" target="_blank"><span class="logoSegob" style="background-color:#14332c;"><img height="36px" src="../../../../../mkb.app/portal/views/default/img/logoheader.svg" alt="SEGOB" />
+		<td style="align:right; width:60px;"><a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/tramites" target="_blank"><span>Tr&aacute;mites</span></a></td>
+		<td style="align:right; width:60px;"><a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/gobierno" target="_blank" >G<span>obierno</span></a></td>
+		<td style="align:right; width:20px;"><a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/busqueda?utf8=?" target="_blank" ><img height="16px" src="../../../../../mkb.app/portal/views/default/img/lupa.png" alt="Buscar" /></a></td>
+	</tr>
+</table>
+<table style="background-color:#134237; width:100%; height:50px;">
+	<tr>
+		<td>
+			<td style="align:right; width:10px;"><a style="color:#ffffff;" title="Inicio" href="http://silvmqa.gobernacion.gob.mx/portal/" target="_blank"><span>Inicio</span></a></td>
+            <td style="align:right; width:60px; padding:10px;"><a style="color:#ffffff;" title="Bienvenida. El Sistema de Informaci&oacute;n Legislativa (SIL) surge el 19 de agosto de 2003 como una plataforma digital que pretende apoyar la relaci&oacute;n entre los poderes Ejecutivo y Legislativo; promover en la ciudadan&iacute;a el inter&eacute;s por los asuntos legislativos; y, contribuir a facilitar el compromiso de transparentar la informaci&oacute;n gubernamental.
+            El SIL permite acceder en tiempo real a las sesiones que se desarrollan en los plenos de las C&aacute;maras del H. Congreso de la Uni&oacute;n, a trav&eacute;s del m&oacute;dulo Minuto a Minuto; y, a la informaci&oacute;n generada durante &eacute;stas mediante los reportes que formula.
+            Adicionalmente es posible consultar el acervo de noticias legislativas; y, conocer el perfil curricular de las y los legisladores as&iacute; como el desarrollo de su actividad legislativa, sus votaciones e intervenciones en los asuntos que se discuten." href="http://silvmqa.gobernacion.gob.mx/portal/Contacto/acerca" target="_blank">A<span>cerca de</span></a></td>
+            <td style="align:right; width:10px;"><a style="color:#ffffff;" title="Contacto" href="http://silvmqa.gobernacion.gob.mx/portal/Contacto/contactanos" target="_blank">C<span>ontacto</span></a></td>
+		</td>
+	</tr>
+</table>
+<table style="background-color:#faf8f0; width:100%; background:../../../../../mkb.app/portal/views/default/img/fondo.png;">
+	<tr><td><img width="1000" src="../../../../../mkb.app/portal/views/default/img/encabezado3.png" alt="SEGOB" /></td></tr>
+</table><br>
+<!-- Titulo principal de la pagina  -->
+<table align="center" border="0" cellpadding="0" class="tituloL" width="80%">
+	<tr>
+		<td align="center"><br>Perfil &frasl; Actividad legislativa<br><br></td>
+	</tr>
+</table>
+<br>
+<!-- Se muestran los datos referentes al Perfil del Legislador -->
+<table align="center" border="0" width="85%">
+	<tr>
+		<td align="right">
+			
+							<div class="bordeImg" align="center">
+				<div id="Nombredelancla" class="fondoImg" align="center"><img src="/Archivos/Fotos/9228868.jpg" border="0" alt="Foto del Legislador" title="Foto del Legislador" width="145px" height="181"></div>
+				</div>
+						<br><br>
+			<table border="0" align="right">
+								<tr>
+					<td><a href="#Perfil" onClick="funPER()"><img src="../mkb.app/portal/views/default/img/PC.png" border='0' alt='Perfil curricular' title='Perfil curricular' width="260" height="61"></a></td>
+				</tr>
+														<tr>
+							<td><a href="#Comisiones" onClick="funCOM()" src="../mkb.app/portal/views/default/img/C.png" border='0' alt='Comisiones' title='Comisiones' width="260" height="61"></a></td>
+						</tr>
+								<tr>
+									</tr>
+					 
+				<tr>
+									</tr>
+				<tr>
+					<td>
+<!-------------------------------------INICIATIVAS------------------------------------------------>
+<SCRIPT type="text/javascript">
+var estatus9Array =  new Array();
+var estatus0Array =  new Array(
+"('Desechadas', '90')");
+var estatus1Array =  new Array(
+"('En comisiones de Cámara de origen', '10')",
+"('En primera lectura de Cámara de origen', '20')",
+"('Con turno a colegisladora (en carácter de minuta)', '30')",
+"('En primera lectura de Cámara revisora', '40')",
+"('Devueltas con observaciones del Poder Ejecutivo', '80')");
+var estatus2Array =  new Array(
+"('Turnadas a Congresos locales', '50')",
+"('Turnadas al Ejecutivo', '60')",
+"('Recibido por el Ejecutivo Federal', '61')",
+"('Publicadas en el DOF', '70')");
+var estatus3Array =  new Array(
+"('Retiradas', '95')");
+var estatus4Array =  new Array(
+"('Atendidas', '96')");
+</script>
+<script>
+    function loadDatosTiposAsunto(){
+        var legislatura;
+        selLegislatura  = document.getElementById('LEGISLATURA');
+        legislatura = selLegislatura.options[selLegislatura.selectedIndex].value;
+        EscribeIniciativas(document.getElementById('tipo'),legislatura);
+    }
+</script>
+<form name="AVANZADA_FRM" action="../Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID=&REFERENCIA=9228868&PELFILLEF=PL" method="post"  target="_blank" onSubmit="return(Validar());" >
+    <TABLE border="1" bgcolor="#FFFFFF" align="center" hidden="true">
+    <TR>
+        <td>
+            <table border="1" align="center" hidden="true">
+              <tr>
+				<td>
+                    <select name="LEGISLATURA" onChange="BorrarMensajeFechas('mensaje');" id="LEGISLATURA">
+                    <option value=66 selected>66</option>                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <select name="TASUNTO_AR[]" id="tipo" size=1 onChange="muestraINTSPLE();EscribeSubtipos('tipo','sub');">
+                           <option value="11" selected>Iniciativa</option>
+                    </select>
+
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <select title="Muestra la subclasificaci&oacuten segun el tipo de asunto" name="SUBCLASIFICACION_AR[]" id="sub" multiple disabled>
+                                <option value='null'>________________________________________________</option>
+                    </select>
+
+                </td>
+              </tr>         
+               <tr>
+                <td>
+                    <select title="Muestra los temas" name="TEMA_AR[]" id="tema"  multiple>
+                      					<option value=641470>Campo</option>					<option value=641473>Comunicaciones y Transportes</option>					<option value=641475>Derechos Humanos</option>					<option value=641477>Desarrollo Social</option>					<option value=641480>Economía</option>					<option value=641482>Educación y Cultura</option>					<option value=641485>Electoral</option>					<option value=641487>Energía</option>					<option value=641489>Federalismo</option>					<option value=641491>Indígenas</option>					<option value=641494>Laboral</option>					<option value=641508>Migración</option>					<option value=641513>Hacienda Pública</option>					<option value=641516>Población y Asuntos Religiosos</option>					<option value=641518>Poder Ejecutivo</option>					<option value=641520>Poder Judicial</option>					<option value=641522>Poder Legislativo</option>					<option value=641529>Reforma del Estado</option>					<option value=641531>Reformas constitucionales</option>					<option value=641536>Reformas estructurales</option>					<option value=641539>Relaciones exteriores</option>					<option value=641541>Salud</option>					<option value=641548>Seguridad Nacional</option>					<option value=641553>Seguridad Pública y Justicia</option>					<option value=641555>Sistema Financiero</option>					<option value=641557>Vivienda</option>					<option value=641560>No aplica</option>					<option value=641570>Medio Ambiente</option>					<option value=649615>Trámites Legislativos</option>					<option value=728254>Gobernabilidad</option>					<option value=1230427>Transparencia y Rendición de Cuentas</option>					<option value=1289303>Protección Civil</option>					<option value=1289304>Ordenamiento territorial</option>					<option value=1289305>Desarrollo Democrático</option>					<option value=1289306>Gobernación</option>					<option value=1289307>Seguridad Pública</option>					<option value=1289308>Justicia</option>                    </select>
+			<input name="OPCION_TEXTO" value="2">
+			<input type="text" name="VALOR_TEXTO" value="" >
+                </td>
+              </tr>
+            </table>
+       </td>
+    </TR>
+    <TR>
+        <td colspan=2>
+        	<table border="0" cellpadding="0" cellspacing="0" align="center" width="82%">
+               <tr>
+                    <td height="20px" class="simpletextmayor" colspan="2" align="center">
+                        <select NAME="PRESENTADOR" onChange="OpenPresentador(this);" id="PRESENTADOR">
+                            <option value="L">Legislador</option>
+                            </select>
+                        <select NAME="OPC_SELECCIONADAS" id="OPC_SELECCIONADAS" onChange="openPresentador();" multiple size=5 >
+                        	
+                            <option value="9228868"> <b>Diputada  Rocío Adriana Abreu Artiñano</b> </option>
+
+                        </select>
+
+                    </td>
+                </tr>
+                <tr>
+                    <TD rowspan="3"  class="simpletextmayor" align="right">
+                    </TD>
+                    <TD class="simpletextmayor"><INPUT TYPE='CHECKBOX' NAME="CAMARA_PRESENTADOR[]" VALUE="1" id="PDIPS" checked >
+                   <INPUT TYPE='CHECKBOX' NAME="CAMARA_PRESENTADOR[]" VALUE="2" id="PSEN" checked>
+<INPUT TYPE='CHECKBOX' NAME="CAMARA_PRESENTADOR[]" VALUE="5" id="PCOM" checked>
+                  <INPUT NAME="FECHA_INIC" TYPE="text" VALUE='' SIZE='6' maxlength="10" onChange="BorrarMensajeFechas('mensaje');">
+<INPUT NAME="FECHA_FIN" TYPE="text" VALUE='' SIZE='6' maxlength="10" onChange="BorrarMensajeFechas('mensaje');">
+ <select name="RESULTADO" id="RESULTADO" onChange="changeEstate(this.options[this.selectedIndex].value);">
+                    <option value="9">Selecciona...</option>
+										<option value='2'>Aprobado</option>					<option value='4'>Atendida</option>					<option value='0'>Desechado</option>					<option value='1'>Pendiente</option>					<option value='3'>Retirada</option>                      </select>
+                    <select name="ESTATUS" id="ESTATUS" disabled >
+		             <option value="9">Selecciona...</option>
+                     <option></option>
+                     <option></option>
+            </select>
+			<INPUT TYPE='TEXT' NAME='PAGINAS' SIZE='3' MAXLENGTH='3' VALUE='100'>
+                </td>
+                </tr>
+            </table>
+        </td>
+    </TR>
+    </TABLE>
+		<input type="image" value="Continuar" src="../mkb.app/portal/views/default/img/I.png" border='0' alt='Iniciativas' title='Iniciativas' width="260" height="61">
+</form>
+<!-------------------------------------FIN DE INICIATIVAS----------------------------------------------------------->
+					</td>
+				</tr>	
+				<tr>
+					<td>
+<!-------------------------------------Proposiciones con punto de acuerdo------------------------------------------------>
+<SCRIPT type="text/javascript">
+var estatus9Array =  new Array();
+var estatus0Array =  new Array(
+"('Desechadas', '90')");
+var estatus1Array =  new Array(
+"('En comisiones de Cámara de origen', '10')",
+"('En primera lectura de Cámara de origen', '20')",
+"('Con turno a colegisladora (en carácter de minuta)', '30')",
+"('En primera lectura de Cámara revisora', '40')",
+"('Devueltas con observaciones del Poder Ejecutivo', '80')");
+var estatus2Array =  new Array(
+"('Turnadas a Congresos locales', '50')",
+"('Turnadas al Ejecutivo', '60')",
+"('Recibido por el Ejecutivo Federal', '61')",
+"('Publicadas en el DOF', '70')");
+var estatus3Array =  new Array(
+"('Retiradas', '95')");
+var estatus4Array =  new Array(
+"('Atendidas', '96')");
+</script>
+<script>
+    function loadDatosTiposAsunto(){
+        var legislatura;
+        selLegislatura  = document.getElementById('LEGISLATURA');
+        legislatura = selLegislatura.options[selLegislatura.selectedIndex].value;
+        EscribeIniciativas(document.getElementById('tipo'),legislatura);
+    }
+</script>
+<form name="AVANZADA_FRM" action="../Busquedas/Avanzada/ProcesoBusquedaAvanzada.php?SID=&REFERENCIA=9228868&PELFILLEF=PL" method="post"  target="_blank" onSubmit="return(Validar());" >
+    <TABLE border="1" CELLSPACING="0" cellpadding="0" bgcolor="#FFFFFF" align="center" hidden="true">
+    <TR>
+        <td>
+            <table border="1" cellpadding="0" cellspacing="0" align="center" >
+              <tr>
+				<td>
+                    <select name="LEGISLATURA" onChange="BorrarMensajeFechas('mensaje');" id="LEGISLATURA">
+                    <option value=66 selected>66</option>                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <select name="TASUNTO_AR[]" id="tipo" size=1 onChange="muestraINTSPLE();EscribeSubtipos('tipo','sub');">
+                           <option value="19" selected>Proposiciones con punto de acuerdo</option>
+                    </select>
+
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <select title="Muestra la subclasificaci&oacuten segun el tipo de asunto" name="SUBCLASIFICACION_AR[]" id="sub" multiple disabled>
+                                <option value='null'>________________________________________________</option>
+                    </select>
+
+                </td>
+              </tr>         
+               <tr>
+                <td>
+                    <select title="Muestra los temas" name="TEMA_AR[]" id="tema"  multiple>
+                      					<option value=641470>Campo</option>					<option value=641473>Comunicaciones y Transportes</option>					<option value=641475>Derechos Humanos</option>					<option value=641477>Desarrollo Social</option>					<option value=641480>Economía</option>					<option value=641482>Educación y Cultura</option>					<option value=641485>Electoral</option>					<option value=641487>Energía</option>					<option value=641489>Federalismo</option>					<option value=641491>Indígenas</option>					<option value=641494>Laboral</option>					<option value=641508>Migración</option>					<option value=641513>Hacienda Pública</option>					<option value=641516>Población y Asuntos Religiosos</option>					<option value=641518>Poder Ejecutivo</option>					<option value=641520>Poder Judicial</option>					<option value=641522>Poder Legislativo</option>					<option value=641529>Reforma del Estado</option>					<option value=641531>Reformas constitucionales</option>					<option value=641536>Reformas estructurales</option>					<option value=641539>Relaciones exteriores</option>					<option value=641541>Salud</option>					<option value=641548>Seguridad Nacional</option>					<option value=641553>Seguridad Pública y Justicia</option>					<option value=641555>Sistema Financiero</option>					<option value=641557>Vivienda</option>					<option value=641560>No aplica</option>					<option value=641570>Medio Ambiente</option>					<option value=649615>Trámites Legislativos</option>					<option value=728254>Gobernabilidad</option>					<option value=1230427>Transparencia y Rendición de Cuentas</option>					<option value=1289303>Protección Civil</option>					<option value=1289304>Ordenamiento territorial</option>					<option value=1289305>Desarrollo Democrático</option>					<option value=1289306>Gobernación</option>					<option value=1289307>Seguridad Pública</option>					<option value=1289308>Justicia</option>
+                    </select>
+			<input type="hidden" name="OPCION_TEXTO" value="2">
+			<input type="text" name="VALOR_TEXTO" value="" >
+                </td>
+              </tr>
+            </table>
+       </td>
+    </TR>
+    <TR>
+        <td colspan=2>
+        	<table border="0" cellpadding="0" cellspacing="0" align="center" width="82%">
+               <tr>
+                    <td height="20px" class="simpletextmayor" colspan="2" align="center">
+                        <select NAME="PRESENTADOR" onChange="OpenPresentador(this);" id="PRESENTADOR">
+                            <option value="L">Legislador</option>
+                            </select>
+                        <select NAME="OPC_SELECCIONADAS" id="OPC_SELECCIONADAS" onChange="openPresentador();" multiple size=5 >
+                        	
+                            <option value="9228868"> <b>Diputada  Rocío Adriana Abreu Artiñano</b> </option>
+
+                        </select>
+
+                    </td>
+                </tr>
+                <tr>
+                    <TD rowspan="3"  class="simpletextmayor" align="right">
+                    </TD>
+                    <TD class="simpletextmayor"><INPUT TYPE='CHECKBOX' NAME="CAMARA_PRESENTADOR[]" VALUE="1" id="PDIPS" checked >
+                   <INPUT TYPE='CHECKBOX' NAME="CAMARA_PRESENTADOR[]" VALUE="2" id="PSEN" checked>
+<INPUT TYPE='CHECKBOX' NAME="CAMARA_PRESENTADOR[]" VALUE="5" id="PCOM" checked>
+                  <INPUT NAME="FECHA_INIC" TYPE="text" VALUE='' SIZE='6' maxlength="10" onChange="BorrarMensajeFechas('mensaje');">
+<INPUT NAME="FECHA_FIN" TYPE="text" VALUE='' SIZE='6' maxlength="10" onChange="BorrarMensajeFechas('mensaje');">
+ <select name="RESULTADO" id="RESULTADO" onChange="changeEstate(this.options[this.selectedIndex].value);">
+                    <option value="9">Selecciona...</option>
+										<option value='2'>Aprobado</option>					<option value='4'>Atendida</option>					<option value='0'>Desechado</option>					<option value='1'>Pendiente</option>					<option value='3'>Retirada</option>                      </select>
+                    <select name="ESTATUS" id="ESTATUS" disabled >
+		             <option value="9">Selecciona...</option>
+                     <option></option>
+                     <option></option>
+            </select>
+			<INPUT TYPE='TEXT' NAME='PAGINAS' SIZE='3' MAXLENGTH='3' VALUE='100'>
+                </td>
+                </tr>
+            </table>
+        </td>
+    </TR>
+    </TABLE>
+		<input  type="image" value="Continuar" src="../mkb.app/portal/views/default/img/PPA.png" border='0' alt='Propocisiones con punto de acuerdo' title='Propocisiones con punto de acuerdo' width="260" height="61">
+</form>
+<!------------------------------------- FIN Proposiciones con punto de acuerdo----------------------------------------------------------->
+					</td>
+				</tr>
+				<tr>
+					<td>
+<!-------------------------------------Votaciones nominales--------------------------------------------------------------->
+<script>
+    function openPresentador(controlHdn, control2Hdn, controlTxt, controlTable)
+    {
+        gbControlHdn = controlHdn;
+        gbControl2Hdn = control2Hdn;
+        gbControlTxt = controlTxt;
+
+		var Poder = document.getElementById('Poder').value;    
+        else if(Poder == ""){
+            alert("Es requerido seleccionar una Instancia");
+        }
+			else {
+				window.open("/Librerias/pp_ListLegislador.php?SID=&Legislatura=" + Legislatura + "&Camara="+Poder,"Presentador","top=0,left=0,scrollbars=yes");
+			}
+	}
+
+	function limpiar(){
+		var form=document.Votacion;
+		form.reset();
+		form.LEGISLATURA.value="";
+		form.TXTLEGISLADOR.value="";
+		form.HDN_CVELEGISLADOR.value="";
+		for (var i=0; i < selTema.options.length; i++)
+		{
+			selTema.options[i].selected =false;
+		}
+		form.reset();
+	}
+	function  Validar(form)
+	{
+		var tipolegislatura=0;
+
+		//Validamos que se haya seleccionado una  opcion de legislatura
+		tipolegislatura=form.LEGISLATURA.options[form.LEGISLATURA.selectedIndex].value;
+		if(form.LEGISLATURA.selectedIndex <= 0){
+			alert("Selecciona una legislatura");
+			form.LEGISLATURA.focus();
+			return false;
+		}
+		if(form.cmbPoder.selectedIndex <= 0){
+			alert("Selecciona una instancia");
+			form.cmbPoder.focus();
+			return false;
+		}
+		if(form.Legislador.value == ""){
+			alert("Selecciona un Legislador");
+			return false;
+		}
+		return true;
+	}
+</script>
+	<form name="Votacion" action="DetalleVotacionLegAsu.php" method="post"  target="_blank" onSubmit="return Validar(this);">
+		<input type="hidden" name="Resultados" value="1"/>
+		<input type="hidden" name="ctrlMainMenu" value=""/>
+	<table border="0" CELLSPACING="0" cellpadding="0" width="592px" bgcolor="#FFFFFF" align="center" hidden="true">
+		<tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" align="center" width="530px">
+					<tr>
+						<td>
+							<select name="LEGISLATURA" onChange="BorrarMensajeFechas('mensaje');" id="LEGISLATURA">
+															</select>
+						</td>
+					</tr>          
+					<tr>
+						<td>
+							<select name="cmbPoder" id="Poder">
+								<option value="1" selected>Cámara</option>
+							</select>
+						</td>
+					</tr>   
+					<tr>
+						<td>
+							<INPUT TYPE='image' src="/template/skin/mas.png" ONCLICK="openPresentador('Votacion.Legislador','Votacion.HDN_LEGISLATURA','Votacion.TXTLEGISLADOR', 'L'); return(false);">
+							<input name="Legislador" value='9228868'>
+							<input name="HDN_LEGISLATURA" value='66'>
+							<input type='text' name='TXTLEGISLADOR' id='HDN_CVELEGISLADOR' size='45' value='<b>Diputada  Rocío Adriana Abreu Artiñano</b>' readonly>
+						</td>
+					</tr>
+				</table>
+		</td>
+	</tr>
+	</table>
+		<input type="image" value="Continuar" src="../mkb.app/portal/views/default/img/VN.png" border='0' alt='Votaciones nominales' title='Votaciones nominales' width="260" height="61">
+	</form>
+<!-------------------------------------FIN Votaciones nominales----------------------------------------------------------->
+					</td>
+				</tr>
+				<tr>
+					<td>
+<!-------------------------------------Posicionamientos en pleno--------------------------------------------------------------->
+<script type="text/javascript">
+function openPresentador(controlHdn, control2Hdn, controlTxt, controlTable)
+{
+
+    gbControlHdn = controlHdn;
+    gbControl2Hdn = control2Hdn;
+    gbControlTxt = controlTxt;
+    var Legislatura = document.getElementById('SelLegislatura').value;
+    var Instancia = document.getElementById('SelInstancia').value;
+    var strCamara = "&Camara="+Instancia;
+    
+    window.open("/Reportes/DeclaracionEnPleno/popUp/pp_ListLegislador.php?Legislatura=" + Legislatura + strCamara,"Presentador","top=0,left=0,scrollbars=yes");
+}
+function Valida(){
+
+    var form=document.BUSQUEDA_DECLARACION;
+    var selTema = document.getElementById("tema");
+    var boolTema = "";
+    var boolLegislatura = false;
+var ValueLegislatura=form.Legislatura.options[form.Legislatura.selectedIndex].value;
+
+    with(document.BUSQUEDA_DECLARACION)
+    {
+        for(var i=0; i < selTema.options.length; i++)
+        {
+            if(selTema.options[i].selected==true)
+            {
+                boolTema=true;
+                break;
+            }
+        }
+	 if (form.Legislatura.selectedIndex==0 )
+	 		{
+            alert("Selecciona una legislatura");
+			form.Legislatura.focus();
+            return false;
+        }
+	 if (form.Instancia.selectedIndex==0 )
+	 		{
+            alert("Selecciona una instancia");
+			form.Instancia.focus();
+            return false;
+        }
+        if (form.TxtLegislador.value=="" && form.FECHA_INIC.value=="" 
+            && form.FECHA_FIN.value=="" && boolTema==false
+            && form.Partido.selectedIndex==0
+            && form.Postura.selectedIndex==0
+            && form.TINTER.selectedIndex==0
+            )
+        {
+            alert("Selecciona al menos un criterio de búsqueda aparte de la Legislatura y la Instancia");
+            return false;
+        }else{
+
+            if (form.FECHA_INIC.value == "" && form.FECHA_FIN.value != "")
+            {
+                alert("Selecciona la fecha inicial del rango de búsqueda");
+                form.FECHA_INIC.focus();
+                return false;
+            }
+            else if (form.FECHA_INIC.value != "" && form.FECHA_FIN.value == "")
+            {
+                alert("Selecciona la fecha final del rango de búsqueda");
+                form.FECHA_FIN.focus();
+                return false;
+            }
+
+        	if(form.Legislatura.selectedIndex!=0&&!ValidaFechasFormulario("BUSQUEDA_DECLARACION","FECHA_INIC","FECHA_FIN",ValueLegislatura,"mensaje"))
+        	{
+        		return false;
+        	}
+        }
+        submit();
+    }
+
+}
+</script>
+</head>
+<link href="/template/skin/style.css" rel="stylesheet" type="text/css">
+<form id="BUSQUEDA_DECLARACION" name="BUSQUEDA_DECLARACION" method="get" ACTION='../Reportes/DeclaracionEnPleno/DecPleno.php?PELFILLEF=PL' target="_blank">
+<input type="hidden" name="SID" value=""
+<br/>
+<table width="100%" hidden="true">  
+    <td width="739px" align="center" valign="top" colspan="2">
+    <!-- Area de Trabajo -->
+    <br><h1 class="categorias">Búsqueda de Intervenciones en el pleno</h1>
+    <hr width="90%" class="divisorHead"><br>
+        <table width="500px">
+            <tr>
+                <td width="120px" class="simpletextmayor">* Legislatura</td>
+                <td class="input">
+				<select name="Legislatura" onChange="BorrarMensajeFechas('mensaje');" id="Legislatura">
+                   <option value=66 selected>66</option>                  </select>
+                </td>
+            </tr>            
+            <tr>
+                <td height="20px"></td>
+            </tr>            
+            <tr>
+                <td class="simpletextmayor">* Instancia</td>
+                <td class="input">
+                    <select name="Instancia" id="SelInstancia">
+							<option value="1" selected>Cámara</option>
+					</select>
+                </td>                
+
+            </tr>               
+            <tr>
+                <td height="20px"></td>
+            </tr>                   
+            <tr>
+                <td class="simpletextmayor">Legislador</td>
+                <td class="input">
+                    
+                    <img src="/template/skin/mas.png" border="0" onClick="openPresentador('BUSQUEDA_DECLARACION.HDN_CVELEGISLADOR','BUSQUEDA_DECLARACION.LEGISLATURA','BUSQUEDA_DECLARACION.TxtLegislador', 'L'); return(false);"/>
+                    <input type='text' name='TxtLegislador' size='35' value='<b>Diputada  Rocío Adriana Abreu Artiñano</b>' readonly/>
+                    <input type="hidden" name="HDN_CVELEGISLADOR" value='9228868'/>
+                    <input type="hidden" name="LEGISLATURA" value='66'/>  
+                    <input type="hidden" name="PELFILLEF" value="PL"/>                              
+                </td>                
+            </tr> 
+            <tr>
+                <td height="20px"></td>
+            </tr>             
+            <tr>
+                <td class="simpletextmayor">Grupo parlamentario</td>
+                <td class="input">
+                    <select name="Partido" id="SelPartido">
+                        <option value="0">Selecciona ...
+    						<option value=""></option>                        
+                    </select>
+                </td>                
+            </tr> 
+            <tr>
+                <td height="20px"></td>
+            </tr>             
+            <tr>
+                <td class="simpletextmayor">Tema</td>
+                <td class="input">
+                    <select name="TEMA_AR[]" id="tema" size='10' multiple="true" style="width:300px;">
+    						<option value=""></option>
+                   </select>
+                </td>                
+            </tr> 
+            <tr>
+                <td height="20px"></td>
+            </tr>             
+            <tr>
+                <td class="simpletextmayor">Tipo asunto</td>
+                <td class="input">
+                    <select name="TASU[]" id="tasunto" size='10' multiple="true" style="width:300px;">
+						<option value=" "></option>
+                   </select>
+                </td>                
+            </tr> 
+            <tr>
+                <td height="20px"></td>
+            </tr>             
+            <tr>
+                <td class="simpletextmayor">Tipo de intervención</td>
+                <td class="input">
+                    <select name="TINTER" id="tintervencion"  style="width:300px;">
+                        <option value=''>Seleccionar ...</option>
+    						<option value=""></option>
+                                                 
+                   </select>
+                </td>                
+            </tr> 
+            <tr>
+                <td height="20px"></td>
+            </tr>             
+            <tr>
+                <td class="simpletextmayor">Postura</td>
+                <td class="input">                       
+                    <select name="Postura" id="postura"  style="width:300px;">
+                        <option value=''>Selecciona ...</option>
+                        <option value='F'>A favor</option>
+                        <option value='C'>En contra</option>
+                        <option value='N'>No aplica</option>
+                        <option value='S'>Sin postura</option>
+                   </select>
+                </td>                
+            </tr> 
+            <tr>
+                <td height="20px"></td>
+            </tr>   
+            <tr>
+                <td align="center" class="simpletextmayor" colspan="3">
+                    <div id="mensaje" class="simpletextorange"><div>
+                </td>
+            </tr>                      
+             <tr>
+                <td class="simpletextmayor">Fecha Inicial:</td>
+                <td class="simpletextmayor" colspan="2">
+                    <INPUT NAME="FECHA_INIC" TYPE="text" VALUE='' SIZE='10' maxlength="10" onChange="BorrarMensajeFechas('mensaje');">
+                    <a href="#" OnClick="popUpCalendar(document.BUSQUEDA_DECLARACION.FECHA_INIC,document.BUSQUEDA_DECLARACION.FECHA_INIC,'dd/mm/yyyy'); return false;" OnMouseover="window.status='Seleccionar la Fecha de inicio de sesión'; return true;" OnMouseout="window.status='';return true;"><IMG SRC="/template/skin/calendar.jpg" BORDER=0></a>
+                    <a href="#" OnClick="document.BUSQUEDA_DECLARACION.FECHA_INIC.value=''; return(false);" OnMouseover="window.status='Limpiar Fecha'; return true;" OnMouseout="window.status='';return true;"><img src="/template/skin/tache.jpg" border="0"></a>
+                 </td>
+             </tr>
+            <tr>
+                <td height="20px"></td>
+            </tr>
+             <tr>
+                 <td class="simpletextmayor">Fecha Final:</td>
+                 <td  class="simpletextmayor" colspan="2">
+                    <input name="FECHA_FIN" type="text" value='' size='10' maxlength="10" onChange="BorrarMensajeFechas('mensaje');">
+                    <a href="#" OnClick="popUpCalendar(document.BUSQUEDA_DECLARACION.FECHA_FIN,document.BUSQUEDA_DECLARACION.FECHA_FIN,'dd/mm/yyyy'); return false;" OnMouseover="window.status='Seleccionar la Fecha final'; return true;" OnMouseout="window.status='';return true;"><IMG SRC="/template/skin/calendar.jpg" BORDER=0></a>
+                    <a href="#" OnClick="document.BUSQUEDA_DECLARACION.FECHA_FIN.value=''; return(false);" OnMouseover="window.status='Limpiar Fecha'; return true;" OnMouseout="window.status='';return true;"><img src="/template/skin/tache.jpg" border="0"></a>
+                </td>
+            </tr>        
+        </table>
+            <br/><hr width="90%" class="divisorBotones"><br/>
+            <input type="image" value="Continuar" src="/template/skin/buscar.jpg"  onClick="Valida(); return(false);">
+            <input type="image" class="inputAction" src="/template/skin/limpiar.jpg"  name="buttonReset"  value="Limpiar" onClick="this.form.reset(); return false;"/>
+            <p class="simpletextmedium">* Se requiere que elija al menos 3 pámetros de búsqueda</p>
+        
+    </td>
+</tr>
+</table>
+	<input type="image" value="Continuar" src="../mkb.app/portal/views/default/img/PP.png" border='0' alt='Pocisionamientos en pleno' title='Pocisionamientos en pleno' width="260" height="61">
+</form>
+<!-------------------------------------------------------------FIN Posicionamientos en pleno------------------------------------------------------------->
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td>
+			<br>
+			<table>
+				<tr>
+					<td align="left">
+						<div class="tituloN">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Diputada  Rocío Adriana Abreu Artiñano</b>						</div>
+					</td>
+					<td align="center">
+						<img src='../../../Archivos/Fotos/Morena.png' alt='Morena' width='50px' height='50px'>					</td>
+				</tr>
+			</table>
+			<br><br>
+			<table class="datosL" align="center">
+				<tr>
+					<td>
+						<table class="TFtable" align="center">
+													<!--<tr><td><b><br>Estatus:</b></td><td><br>Activo(a)</td></tr>-->
+							<tr><td><br><b>Número de la legislatura:</b></td><td class="TFtableN"><br>LXVI Legislatura</td></tr>
+							<tr><td><b>Periodo de la legislatura:</b></td><td class="TFtableN">Del 29/08/2024 al 31/08/2027</td></tr>
+							<tr><td><b>Partido:</b></td><td class="TFtableN">Morena</td></tr>
+							<tr><td><b>Nacimiento:</b></td><td class="TFtableN">29/05/1974</td></tr>
+							<tr><td><b>Entidad:</b></td><td class="TFtableN">Campeche</td></tr>
+							<tr><td><b>Ciudad:</b></td><td class="TFtableN">Ciudad del Carmen</td></tr>
+							<tr><td><b>Principio de elección:</b></td><td class="TFtableN">Representación Proporcional</td></tr>
+							<tr><td><b>Región de elección:</b></td><td class="TFtableN">
+														Entidad: Campeche<br>Circunscripci&oacute;n: Tercera<br>													</td></tr>
+							<!--<tr><td><b>Toma de protesta:</b></td><td class="TFtableN">29/08/2024</td></tr>-->
+							<tr><td><b>Ubicación:</b></td><td class="TFtableN">Edificio H, 1er. Piso.</td></tr>
+							<tr><td><b>Correo electrónico:</b></td><td class="TFtableN">rocio.abreu@diputados.gob.mx</td></tr>
+							<tr><td><b>Teléfono:</b></td><td class="TFtableN">55 5036 0000 Ext. 61625.</td></tr>
+							<tr>
+																	<td><b>Suplente:</b></td>
+									<td><a href='javascript:openPerfil("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228869")'>Beatriz Eugenia Rodríguez Interian</a>&nbsp;</td>
+															</tr>
+							<tr>
+								<td><b>Último grado de estudios:</b></td>
+								<td class="TFtableN">Licenciatura</td>
+							</tr>
+							<tr>
+								<td><b>Preparación académica:</b></td>
+								<td class="TFtableN">Derecho</td></tr>
+							<tr>
+								<td><b>Experiencia legislativa:</b></td>
+								<td class="TFtableN">
+										
+																					Diputada Local<br>
+																													  Diputada Federal<br>
+																													  Senadora																	</td>
+							</tr>
+							<!-------------------------------------------------ELECCIONES CONSECUTIVAS-------------------------------------------------------->
+														<!-------------------------------------------------FIN ELECCIONES CONSECUTIVAS--------------------------------------------------->
+							<tr>
+								<td>
+									<b>Redes sociales:</b>
+								</td>
+								<td>
+																				&nbsp;<a href="https://www.facebook.com/RocioAbreuA" target="_blank"> 
+											<img src="../mkb.app/portal/views/default/img/icon-facebook.svg" border='0' height="27" width="27"> </a> 											&nbsp;<a href="https://x.com/RocioAbreuA" target="_blank">
+											<img src="../mkb.app/portal/views/default/img/icon-twitter.png" border='0' height="27" width="27"> </a>												&nbsp;<a href="https://www.instagram.com/rocioabreua/" target="_blank">
+											<img src="../mkb.app/portal/views/default/img/instagram.png" border='0' height="27" width="27"> </a> 																		<br>
+								</td>
+							</tr>
+						</table>
+						<br><br>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<table align="center" border="0" cellpadding="0"  width="90%">
+	<tr>
+		<td>
+		  
+		</td>
+	</tr>
+</table>
+<br>
+<br>
+<table align="center" border="0" cellpadding="0" bordercolor="#FFFFFF">
+	<tr id = "folCER">
+			<td class='simpletextmayor'>
+			<a onClick="funFOL();funCOM();"><img src="/template/skin/cierra.png" border="0" width="60" height="60" alt='Despliega toda la información' title='Despliega toda la información' ></a>
+		</td>
+	</tr>
+	<tr id = "folABR" hidden="true">
+			<td class='simpletextmayor'>
+			<a onClick="funFOL();funCOM();"><img src="/template/skin/abre.png" border="0" width="60" height="60" alt='Contrae toda la información' title='Contrae toda la información'></a>
+		</td>
+	</tr>
+</table>
+<br>
+<!-- COMISIONES DEL LEGISLADOR -->
+<br>
+<div id = "conCOM" style = "display: none">
+<table align="center" border="0"  class="datosL2">
+	<tr>
+		<td valign="middle">
+			<b><a name="Comisiones">&nbsp;&nbsp;&nbsp;COMISIONES&nbsp;&nbsp;&nbsp;</a>
+			<a href="#PerfiLegislador"><img src="/template/skin/up.png" border="0" height="20" width="20" alt='Vuelve arriba' title='Vuelve arriba'></a>&nbsp;&nbsp;&nbsp;</b>
+		</td>
+	</tr>
+</table>
+<br>
+	<table align="center" class="TFtable2">
+			<tr>
+				<th>Comisi&oacute;n</th>
+				<th>Puesto</th>
+				<th>Fecha Inicial</th>
+				<th>Fecha Final</th>
+				<th>Estatus</th>
+			</tr>
+						<tr>
+				<td>Hacienda y Crédito Público  (C. Diputados)</td>
+				<td>
+						Secretario				</td>
+				<td align="center">30/10/2024</td>
+				<td align="center">31/08/2027</td>
+				<td>
+					Activo				</td>
+			</tr>
+						<tr>
+				<td>Salud  (C. Diputados)</td>
+				<td>
+						Integrante				</td>
+				<td align="center">30/10/2024</td>
+				<td align="center">31/08/2027</td>
+				<td>
+					Activo				</td>
+			</tr>
+						<tr>
+				<td>Energía  (C. Diputados)</td>
+				<td>
+						Presidente				</td>
+				<td align="center">09/10/2024</td>
+				<td align="center">31/08/2027</td>
+				<td>
+					Activo				</td>
+			</tr>
+					 </table>
+ </div>
+<!-- ORGANOS DE GOBIERNO A LOS QUE PERTENECE O PERTENECIO EL LEGISLADOR -->
+
+
+<!-- TRAYECTORIA DEL LEGISLADOR -->
+<br><br>
+<div id = "conPER" style = "display: none">
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <td><a name="Perfil"><b>&nbsp;&nbsp;&nbsp;PERFIL CURRICULAR&nbsp;&nbsp;&nbsp;</b></a><a href="#PerfiLegislador"><img src="/template/skin/up.png" alt='Vuelve arriba' title='Vuelve arriba' border="0" height="20" width="20"></a>&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+</table>
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <br><br><td><a name='Perfil'><b>
+		 
+		&nbsp;&nbsp;&nbsp;TRAYECTORIA ADMINISTRATIVA</a>&nbsp;&nbsp;&nbsp;</b><a href="#PerfiLegislador"></a></td>
+    </tr>
+</table>
+<br>
+
+<table align="center" class="TFtable2" width="80%">
+    <tr>
+        <th align="center" valign="middle">Del año</th>
+        <th align="center" valign="middle">Al año</th>
+        <th valign="middle" align="center">Experiencia</th>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>2018</td>
+        <td>Delegada de la Secretaría de Medio Ambiente y Recursos Naturales en Campeche.</td>
+    </tr>
+	
+    <tr>
+        <td>2006</td>
+        <td>2009</td>
+        <td>Regidora de Carmen, Campeche.</td>
+    </tr>
+	
+    <tr>
+        <td>2003</td>
+        <td>2009</td>
+        <td>Consejera de la Comisión de Derechos Humanos en Campeche.</td>
+    </tr>
+	
+    <tr>
+        <td>2002</td>
+        <td>2003</td>
+        <td>Subdirectora de Auditoría en Legalidad en la Contraloría Interna del gobierno del Distrito Federal.</td>
+    </tr>
+	
+    <tr>
+        <td>2001</td>
+        <td>2002</td>
+        <td>Subdirectora de Juicios Diversos en la PGR.</td>
+    </tr>
+	
+    <tr>
+        <td>1999</td>
+        <td>2003</td>
+        <td>Líder Coordinadora de Proyectos en la PGR.</td>
+    </tr>
+	
+    <tr>
+        <td>1996</td>
+        <td>1999</td>
+        <td>Técnico Analista en Sistemas de la Comisión Nacional del Sistema de Ahorro para el Retiro.</td>
+    </tr>
+	
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Integrante del Consejo de Turismo de Carmen, Campeche.</td>
+    </tr>
+	
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <br><br><td><a name='Perfil'><b>
+		 
+		&nbsp;&nbsp;&nbsp;TRAYECTORIA LEGISLATIVA</a>&nbsp;&nbsp;&nbsp;</b><a href="#PerfiLegislador"></a></td>
+    </tr>
+</table>
+<br>
+
+<table align="center" class="TFtable2" width="80%">
+    <tr>
+        <th align="center" valign="middle">Del año</th>
+        <th align="center" valign="middle">Al año</th>
+        <th valign="middle" align="center">Experiencia</th>
+    </tr>
+    <tr>
+        <td>2018</td>
+        <td>2024</td>
+        <td>Senadora en las LXIV  y LXV legislaturas. Presidenta de las comisiones de Energía y Jurisdiccional. Integrante de las comisiones de Gobernación, de Hacienda y Crédito Público; Para el Seguimiento a la Implementación de la Agenda 2030 en México, de Reglamentos y Prácticas Parlamentarias y de Relaciones Exteriores, Europa.</td>
+    </tr>
+	
+    <tr>
+        <td>2012</td>
+        <td>2015</td>
+        <td>Diputada federal en la LXII. Presidenta de la Comisión Especial para la prevención, conservación y en su caso restauración del medio ambiente en las entidades federativas donde se ubican las instalaciones de Pemex. Secretaria de la Comisión de Cambio Climático. Integrante de las comisiones Especial de casos de corrupción ocurridos en Petróleos Mexicanos, señalados por la Auditoria Superior de la Federación de 2006, a la fecha, que hayan ocasionado daño patrimonial a la Nación, de Puertos y Marina Mercante, de Infraestructura  y de Puntos Constitucionales. </td>
+    </tr>
+	
+    <tr>
+        <td>2009</td>
+        <td>2012</td>
+        <td>Diputada local en la LX Legislatura del Congreso de Campeche. Secretaria de la Mesa Directiva. Presidenta de las comisiones de Puntos Constitucionales y de Gobernación. Vicepresidenta de la Comisión de Vigilancia.</td>
+    </tr>
+	
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <br><br><td><a name='Perfil'><b>
+		 
+		&nbsp;&nbsp;&nbsp;TRAYECTORIA POLÍTICA</a>&nbsp;&nbsp;&nbsp;</b><a href="#PerfiLegislador"></a></td>
+    </tr>
+</table>
+<br>
+
+<table align="center" class="TFtable2" width="80%">
+    <tr>
+        <th align="center" valign="middle">Del año</th>
+        <th align="center" valign="middle">Al año</th>
+        <th valign="middle" align="center">Experiencia</th>
+    </tr>
+    <tr>
+        <td>2020</td>
+        <td>2020</td>
+        <td>Precandidata de Morena a la gubernatura de Campeche.</td>
+    </tr>
+	
+    <tr>
+        <td>2015</td>
+        <td>2015</td>
+        <td>Candidata a la presidencia municipal de Carmen, Campeche. </td>
+    </tr>
+	
+    <tr>
+        <td>2009</td>
+        <td>2018</td>
+        <td>Integrante del PRI.</td>
+    </tr>
+	
+    <tr>
+        <td>2006</td>
+        <td>2006</td>
+        <td>Candidata a la presidencia municipal de Carmen, Campeche. </td>
+    </tr>
+	
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Representante del PRI en el II distrito federal de Campeche con cabecera en Ciudad del Carmen. </td>
+    </tr>
+	
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <br><br><td><a name='Perfil'><b>
+		 
+		&nbsp;&nbsp;&nbsp;ESCOLARIDAD Y PREPARACIÓN ACADÉMICA</a>&nbsp;&nbsp;&nbsp;</b><a href="#PerfiLegislador"></a></td>
+    </tr>
+</table>
+<br>
+
+<table align="center" class="TFtable2" width="80%">
+    <tr>
+        <th align="center" valign="middle">Del año</th>
+        <th align="center" valign="middle">Al año</th>
+        <th valign="middle" align="center">Experiencia</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Especialidad en Derecho Fiscal.</td>
+    </tr>
+	
+    <tr>
+        <td></td>
+        <td>2015</td>
+        <td>Licenciatura en Derecho por la Universidad Tecnológica de México (UNITEC).</td>
+    </tr>
+	
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <br><br><td><a name='Perfil'><b>
+		 
+		&nbsp;&nbsp;&nbsp;TRAYECTORIA EMPRESARIAL/INICIATIVA PRIVADA</a>&nbsp;&nbsp;&nbsp;</b><a href="#PerfiLegislador"></a></td>
+    </tr>
+</table>
+<br>
+
+<table align="center" class="TFtable2" width="80%">
+    <tr>
+        <th align="center" valign="middle">Del año</th>
+        <th align="center" valign="middle">Al año</th>
+        <th valign="middle" align="center">Experiencia</th>
+    </tr>
+    <tr>
+        <td>2003</td>
+        <td>2006</td>
+        <td>Gerente administrativa en Megaproyectos del Sureste, S.A. de C.V.</td>
+    </tr>
+	
+<table align="center" border="0"  class="datosL2">
+    <tr>
+        <br><br><td><a name='Perfil'><b>
+		 
+		&nbsp;&nbsp;&nbsp;OTROS RUBROS</a>&nbsp;&nbsp;&nbsp;</b><a href="#PerfiLegislador"></a></td>
+    </tr>
+</table>
+<br>
+
+<table align="center" class="TFtable2" width="80%">
+    <tr>
+        <th align="center" valign="middle">Del año</th>
+        <th align="center" valign="middle">Al año</th>
+        <th valign="middle" align="center">Experiencia</th>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td></td>
+        <td>Integrante del Colectivo Nacional 50+1.</td>
+    </tr>
+	
+    <tr>
+        <td>2014</td>
+        <td></td>
+        <td>Vicepresidenta de GLOBE, Capítulo México.</td>
+    </tr>
+	
+    <tr>
+        <td>2014</td>
+        <td></td>
+        <td>Observadora permanente en el Parlamento Centroamericano.</td>
+    </tr>
+	
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Creadora del Proyecto Rocío en tu Escuela.</td>
+    </tr>
+	
+</table>
+
+</div>
+<script type="text/javascript">
+	var flagPER = false;
+	var divPER = document.getElementById("conPER");
+
+	function funPER() {
+		if (flagPER ^= true) {
+						divPER.style.display = "block"; // display
+		} else {
+						divPER.style.display = "none"; // hide
+		}
+	}
+
+	var flagCOM = false;
+	var divCOM = document.getElementById("conCOM");
+
+	function funCOM() {
+		if (flagCOM ^= true) {
+						divCOM.style.display = "block"; // display
+		} else {
+						divCOM.style.display = "none"; // hide
+		}
+	}
+
+	var flagLIC = false;
+	var divLIC = document.getElementById("conLIC");
+
+	function funLIC() {
+		if (flagLIC ^= true) {
+						divLIC.style.display = "block"; // display
+		} else {
+						divLIC.style.display = "none"; // hide
+		}
+	}
+
+	var flagORG = false;
+	var divORG = document.getElementById("conORG");
+
+	function funORG() {
+		if (flagORG ^= true) {
+						divORG.style.display = "block"; // display
+		} else {
+						divORG.style.display = "none"; // hide
+		}
+	}
+
+	var flagFOL = false;
+	var divFOLA = document.getElementById("folABR");
+	var divFOLC = document.getElementById("folCER");
+
+	function funFOL() {
+		if (flagFOL ^= true) {
+						divFOLA.style.display = "block";
+						divFOLC.style.display = "none"; 
+						divPER.style.display = "block"; // display
+		} else {
+						divFOLA.style.display = "none"; 
+						divFOLC.style.display = "block";
+						divPER.style.display = "none"; // hide
+		}
+	}
+	
+</script>
+<!-- OBSERVACIONES DEL LEGISLADOR -->
+<br>
+
+<SCRIPT type="text/javascript">
+    function Imprimir()
+    {
+        var Botonera=document.getElementById("Botonera");
+        var htmltemp="";
+        var htmltemp=Botonera.innerHTML;
+        Botonera.innerHTML="<img src='/template/skin/fotter.jpg' alt='Los contenidos del SIL provienen de Documentos emitidos por las C&aacute;maras <strong></strong>de Diputados y Senadores (Gaceta Parlamentaria, Diario de los Debates, Versi&oacute;n Estenogr&aacute;fica) adem&aacute;s del Diario Oficial de la Federación.' border='0' align='center'>";
+        window.print();
+        Botonera.innerHTML=htmltemp;
+    }
+
+</SCRIPT>
+<HR size="2px" width="80%" color="#DDD2AF"><br>
+
+<TABLE cellpadding="0" cellspacing="0" align="center" width="100%">
+<tr>
+	<td align="center">
+	<div class="tituloP">
+		Con fundamento en el art&iacute;culo 35 fracciones I y IV del Reglamento Interior de la Secretar&iacute;a de Gobernaci&oacute;n, la Direcci&oacute;n General de Informaci&oacute;n Legislativa recopila y procesa la informaci&oacute;n que se presenta en esta p&aacute;gina, la cual proviene de fuentes p&uacute;blicas: peri&oacute;dicos, revistas, gacetas parlamentarias, p&aacute;ginas web y libros. Tiene prop&oacute;sitos informativos y no ha sido confirmada por el legislador.
+	</div>
+	<br>
+	</td>
+</tr>
+<tr>
+    <td align="center">
+		<button alt="Si deseas cerrar la busqueda debes de dar click aqui" class="buttonA button2" OnClick="window.close();">Cerrar</button>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<button alt="Si deseas imprimir esta busqueda debes de dar click aqui." class="buttonA button2"  OnClick="window.print(); return(false);">Imprimir</button>
+    </td>
+</tr>
+</TABLE>
+<br><br>
+
+</body>
+</html>

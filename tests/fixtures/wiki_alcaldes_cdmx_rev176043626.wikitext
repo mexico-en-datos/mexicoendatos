@@ -1,0 +1,132 @@
+Los '''Alcaldes de la Ciudad de México para el periodo 2024-2027''' son los titulares del poder ejecutivo de las [[Demarcaciones territoriales de la Ciudad de México|16 alcaldías]] que componen a la [[Ciudad de México]], electos mediante el voto directo en las [[Elecciones locales de la Ciudad de México de 2024|elecciones locales de 2024]]. Iniciaron su mandato el 1 de octubre de 2024 y por ley concluirán su encargo el 30 de septiembre de 2027, manteniéndose tres años en el cargo.<ref>{{Cita web|url=https://www.la-prensa.com.mx/elecciones-2024/quienes-son-los-nuevos-alcaldes-de-la-cdmx-tras-las-elecciones-y-conteo-del-prep-12025966.html|título=Morena y aliados se llevan 11 alcaldías en CDMX; cinco son para la oposición|fechaacceso=2024-06-04|apellido=Meza|nombre=Humberto|sitioweb=La Prensa}}</ref>
+
+== Distribución por partidos ==
+{| class="wikitable"
+! colspan="2" |Partido
+!Alcaldías
+|-
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|{{escaños|9|16|hex=#B5261E}}
+|-
+|bgcolor=#05338D|
+|[[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|{{escaños|4|16|hex=#05338D}}
+|-
+|bgcolor=#50B747|
+|[[Archivo:PVE logo (Mexico).svg|20px]] [[Partido Verde Ecologista de México]]
+|{{escaños|1|16|hex=#50B747}}
+|-
+|bgcolor=DA251D|
+|[[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|{{escaños|1|16|hex=#DA251D}}
+|-
+|bgcolor=#009150|
+|[[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|{{escaños|1|16|hex=#009150}}
+|}
+
+== Alcaldes por demarcación ==
+{| class="wikitable"
+! Alcaldía
+! Alcalde
+! colspan="2" |Partido
+|-
+|[[Álvaro Obregón (Ciudad de México)|Álvaro Obregón]]
+|[[Javier López Casarín]]
+|bgcolor=#50B747|
+|[[Archivo:PVE logo (Mexico).svg|20px]] [[Partido Verde Ecologista de México]]
+|-
+|[[Azcapotzalco]]
+|[[Nancy Marlene Núñez Reséndiz]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Benito Juárez (Ciudad de México)|Benito Juárez]]
+|[[Luis Mendoza Acevedo]]
+|bgcolor=#05338D|
+|[[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Coyoacán]]
+|[[Giovani Gutiérrez Aguilar]]
+|bgcolor=#05338D|
+|[[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Cuajimalpa de Morelos|Cuajimalpa]]
+|[[Carlos Orvañanos Rea]]
+|bgcolor=#05338D|
+|[[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Cuauhtémoc (Ciudad de México)|Cuauhtémoc]]
+|[[Alessandra Rojo de la Vega]]
+|bgcolor=#009150|
+|[[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]<ref>{{cita web |url=https://www.eluniversal.com.mx/metropoli/pan-pri-y-prd-van-en-alianza-total-en-las-16-alcaldias/ |título=PAN, PRI y PRD van en alianza total en las 16 alcaldías |fecha=27 de noviembre de 2023 |fechaacceso=12 de noviembre de 2024 |editorial=[[El Universal (México)|El Universal]] |apellido=Díaz |nombre=Omar }}</ref>
+|-
+|[[Gustavo A. Madero (Ciudad de México)|Gustavo A. Madero]]
+|Janecarlo Lozano Reynoso
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Iztacalco]]
+|[[Lourdes Paz|Lourdes Paz Reyes]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Iztapalapa]]
+|[[Aleida Alavez Ruiz]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[La Magdalena Contreras|Magdalena Contreras]]
+|[[Fernando Mercado Guaida]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Miguel Hidalgo (Ciudad de México)|Miguel Hidalgo]]
+|[[Mauricio Tabe Echartea]]
+|bgcolor=#05338D|
+|[[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Milpa Alta]]
+|[[Octavio Rivero Villaseñor]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+| [[Tláhuac]]
+|Berenice Hernández Calderón
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Tlalpan]]
+|[[Gabriela Osorio Hernández]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Venustiano Carranza (Ciudad de México)|Venustiano Carranza]]
+|[[Evelyn Parra Álvarez]]
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Morena]]
+|-
+|[[Xochimilco]]
+|[[Circe Camacho Bastida]]
+|bgcolor=DA251D|
+|[[Archivo:PT logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|}
+{{listaref|group=lower-alpha}}
+
+== Véase también ==
+* [[Anexo:Presidentes municipales de México|Presidentes municipales de México]]
+* [[Anexo:III Legislatura del Congreso de la Ciudad de México|III Legislatura del Congreso de la Ciudad de México]]
+
+== Referencias ==
+{{Listaref}}
+
+{{Sucesión
+| título     = Alcaldes de la Ciudad de México
+| período    = 2024-2027
+| predecesor = [[Anexo:Alcaldes de la Ciudad de México (2021-2024)|Alcaldes de la Ciudad de México<br>(2021-2024)]]
+| sucesor    = <!--[[Anexo:Alcaldes de la Ciudad de México (2027-2030)|Alcaldes de la Ciudad de México<br>(2027-2030)]]-->
+}}
+
+{{Control de autoridades}}
+[[Categoría:Alcaldes de la Ciudad de México por periodo| 2024]]

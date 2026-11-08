@@ -1,0 +1,317 @@
+[[Archivo:Map of the municipalities of Guanajuato by party.svg|miniaturadeimagen| Mapa de los municipios de Guanajuato basado en las elecciones municipales de 2024 <br>
+{{Color box|#0957A4}} PAN <br>
+{{Color box|#a40f47}} Morena <br>
+{{Color box|#da251d}} PT <br>
+{{Color box|#ff8c00}} Movimiento Ciudadano <br>
+{{Color box|#FFCD00}} PRD <br>
+{{Color box|#50b747}} PVEM <br> 
+{{Color box|#009150}} PRI <br> 
+{{Color box|#7f7f7f}} Independiente]]
+Los '''presidentes municipales de Guanajuato para el periodo 2024-2027''' son los alcaldes de los [[Anexo:Municipios de Guanajuato|46 ayuntamientos]] que conforman al estado de [[Guanajuato]], [[México]], elegidos mediante el voto popular en las [[Elecciones estatales de Guanajuato de 2024|elecciones estatales de 2024]]. Iniciaron su mandato el 10 de octubre de 2024 y concluirán su encargo el 9 de octubre de 2027, ejerciendo su cargo durante tres años.<ref>{{Cita web|url=https://ieeg2024.milenio.com/|título=Elecciones estatales de Guanajuato de 2024|fechaacceso=6 de junio de 2024|fecha=6 de junio de 2024|editorial=Instituto Estatal Electoral de Guanajuato}}</ref>
+
+== Presidentes municipales por partido político ==
+{|class="wikitable"
+! colspan="2" |Partido político
+!Municipios
+!Variación (2021)
+|-
+|bgcolor=#05338D|
+|[[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|{{ficha de partido político/escaños|19|46|hex=#05338D}}
+|{{decreciente}}&nbsp;7
+|-
+|bgcolor=#B5261E|
+|[[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|{{ficha de partido político/escaños|13|46|hex=#B5261E}}
+|{{creciente}}&nbsp;10
+|-
+|bgcolor=#009150|
+|[[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|{{ficha de partido político/escaños|6|46|hex=#009150}}
+|{{decreciente}}&nbsp;6
+|-
+|bgcolor=#FFA500|
+|[[Archivo:MC_Party_(Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|{{ficha de partido político/escaños|3|46|hex=#FFA500}}
+|{{creciente}}&nbsp;2
+|-
+|bgcolor=#50B747|
+|[[Archivo:PVE logo (Mexico).svg|20px]] [[Partido Verde Ecologista de México]]
+|{{ficha de partido político/escaños|2|46|hex=#50B747}}
+|{{decreciente}}&nbsp;1
+|-
+|bgcolor=#FFD700|
+|[[Archivo:PRD logo (Mexico).svg|20px]] [[Partido de la Revolución Democrática]]
+|{{ficha de partido político/escaños|1|46|hex=#FFD700}}
+|{{igual}}
+|-
+|bgcolor=#DA251D|
+|[[Archivo:Worker's Party logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|{{ficha de partido político/escaños|1|46|hex=#DA251D}}
+|{{creciente}}&nbsp;1
+|-
+|bgcolor=#808080|
+|[[Archivo:Gray-Candidatura independiente.svg|20px]] [[Candidaturas independientes de México|Candidatos independientes]]
+|{{ficha de partido político/escaños|1|46|hex=#808080}}
+|{{creciente}}&nbsp;1
+|-
+! colspan=2|Total
+! 46
+|}
+
+== Presidentes municipales por ayuntamiento ==
+{| class="wikitable"
+!Municipio
+!Presidente municipal
+! colspan="2" |Partido político
+|-
+|[[Municipio de Abasolo (Guanajuato)|Abasolo]]
+|Job Eduardo Gallardo Santellano
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Acámbaro|Acámbaro]]
+|Claudia Silva Campos
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Apaseo el Alto|Apaseo el Alto]]
+|Guadalupe Montserrat Mendoza Cano
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Apaseo el Grande|Apaseo el Grande]]
+|José Luis Oliveros Usabiaga
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Atarjea|Atarjea]]
+|José Luis Rivas Loyola
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Celaya|Celaya]]
+|Juan Miguel Ramírez Sánchez
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Comonfort|Comonfort]]
+|Gilberto Zárate Nieves
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Coroneo|Coroneo]]
+|Luis Fernando Velázquez Esquivel
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Cortazar|Cortázar]]
+|Marco Mauricio Estefanía Torres
+| bgcolor="#FF8C00" |
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|-
+|[[Municipio de Cuerámaro|Cuerámaro]]
+|Humberto Hernández Martínez
+| bgcolor="#DA251D" |
+| [[Archivo:Worker's Party logo (Mexico).svg|20px]] [[Partido del Trabajo (México)|Partido del Trabajo]]
+|-
+|[[Municipio de Doctor Mora|Doctor Mora]]
+|Edgar Javier Reséndiz Jacobo
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Dolores Hidalgo|Dolores Hidalgo]]
+|Adrián Hernández Alejandri
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Guanajuato|Guanajuato]]
+|Samantha Smith Gutiérrez
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Huanímaro|Huanímaro]]
+|Laura Villalpando Arroyo
+| bgcolor="#50B747" |
+| [[Archivo:PVE logo (Mexico).svg|20px]] [[Partido Verde Ecologista de México]]
+|-
+|[[Municipio de Irapuato|Irapuato]]
+|Lorena del Carmen Alfaro García
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Jaral del Progreso|Jaral del Progreso]]
+|Daniel Cimental Barrón
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Jerécuaro|Jerécuaro]]
+|María Isabel Ascevedo Mercado
+| bgcolor="#009150" |
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+| rowspan=2|[[Municipio de León|León]]
+| rowspan=2|[[Alejandra Gutiérrez Campos]]
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]] {{pequeño|(2024-2026)}}
+|- 
+| bgcolor="#FF8C00" |
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]] {{pequeño|(desde 2026)}}<ref name="Cambio partido politico alcaldesa Leon">{{cita noticia|apellidos1=Pizano|nombre1=Carmen|título=Alcaldesa de León, Guanajuato, se integra a MC tras renunciar al PAN|url=https://www.proceso.com.mx/nacional/estados/2026/4/30/alcaldesa-de-leon-guanajuato-se-integra-mc-tras-renunciar-al-pan-373168.html|fechaacceso=2 de mayo de 2026|obra=[[Proceso (revista)|Proceso]]|fecha=30 de abril de 2026}}</ref>
+|-
+|[[Municipio de Manuel Doblado|Manuel Doblado]]
+|Gustavo Adolfo Alfaro Reyes
+| bgcolor="#009150" |
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+|[[Municipio de Moroleón|Moroleón]]
+|Alma Denisse Sánchez Barragán
+| bgcolor="#FF8C00" |
+| [[Archivo:MC Party (Mexico).svg|20px]] [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+|-
+|[[Municipio de Ocampo (Guanajuato)|Ocampo]]
+|Erick Silvano Montemayor Lara
+| bgcolor="#009150" |
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+|[[Municipio de Pénjamo|Pénjamo]]
+|Yozajamby Florencia Molina Balver
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Pueblo Nuevo (Guanajuato)|Pueblo Nuevo]]
+|Leonardo Solórzano Villanueva
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Purísima del Rincón|Purísima del Rincón]]
+|Roberto García Urbano
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Romita|Romita]]
+|Pedro Kiyoshi Tanamachi Reyes
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Salamanca|Salamanca]]
+|Julio César Ernesto Prieto Gallardo
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Salvatierra|Salvatierra]]
+|José Daniel Sámano Jiménez
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de San Diego de la Unión|San Diego de la Unión]]
+|Juan Carlos Castillo Cantero
+| bgcolor="#009150" |
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+|[[Municipio de San Felipe (Guanajuato)|San Felipe]]
+|Saraí Lepe Monjaras
+| bgcolor="#009150" |
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+|[[Municipio de San Francisco del Rincón|San Francisco del Rincón]]
+|Alejandro Antonio Marun González
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de San José Iturbide|San José Iturbide]]
+|Edgar Manuel Montes de la Vega
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de San Luis de la Paz|San Luis de la Paz]]
+|Rubén Urías Ruiz
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de San Miguel de Allende|San Miguel de Allende]]
+|Mauricio Trejo Pureco
+| bgcolor="#009150" |
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+|[[Municipio de Santa Catarina (Guanajuato)|Santa Catarina]]
+|Rogelio Moya Cabrera
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Santa Cruz de Juventino Rosas|Santa Cruz de Juventino Rosas]]
+|Fidel Armando Ruíz Ramírez
+| bgcolor="#808080" |
+| [[Archivo:Gray-Candidatura independiente.svg|20px]] [[Candidato independiente en México|Candidato independiente]]
+|-
+|[[Municipio de Santiago Maravatío|Santiago Maravatío]]
+|José Guadalupe Paniagua Flores
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Silao de la Victoria|Silao de la Victoria]]
+|Janet Melanie Murillo Chávez
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Tarandacuao|Tarandacuao]]
+|Alejandra Alcántar Ruiz
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Municipio de Tarimoro|Tarimoro]]
+|Saúl Trejo Rojas
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Tierra Blanca (Guanajuato)|Tierra Blanca]]
+|Rómulo García Cabrera
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+|[[Uriangato]]
+|Juan Carlos Martínez Calderón
+| bgcolor="#50B747" |
+| [[Archivo:PVE logo (Mexico).svg|20px]] [[Partido Verde Ecologista de México]]
+|-
+|[[Municipio de Valle de Santiago|Valle de Santiago]]
+|Israel Mosqueda Gasca
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Victoria (Guanajuato)|Victoria]]
+|J. Salomón Espinola Mendieta
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Villagrán (Guanajuato)|Villagrán]]
+|Cinthia Guadalupe Teniente Mendoza
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]]
+|-
+|[[Municipio de Xichú|Xichú]]
+|Francisco Orozco Martínez
+| bgcolor="#FFD700" |
+| [[Archivo:PRD logo (Mexico).svg|20px]] [[Partido de la Revolución Democrática]]
+|-
+|[[Municipio de Yuriria|Yuriria]]
+|Victoria Eugenia Ramírez Zavala
+| bgcolor="#05338D" |
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|}
+
+== Véase también ==
+* [[Anexo:Presidentes municipales de México]]
+* [[Anexo:LXVI Legislatura del Congreso del Estado de Guanajuato|LXVI Legislatura del Congreso del Estado de Guanajuato]]
+
+== Referencias ==
+{{listaref}}
+
+{{sucesión
+| título     = Presidentes municipales de Guanajuato
+| período    = 2024-2027
+| predecesor = [[Anexo:Presidentes municipales de Guanajuato (2021-2024)|Presidentes municipales de Guanajuato<br>(2021-2024)]]
+| sucesor    = 
+}}
+
+{{Control de autoridades}}
+[[Categoría:Presidentes municipales de Guanajuato por periodo| 2024]]

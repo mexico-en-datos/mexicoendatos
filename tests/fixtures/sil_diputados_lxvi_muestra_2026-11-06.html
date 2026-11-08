@@ -1,0 +1,250 @@
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHE22ZZ05R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BHE22ZZ05R');
+</script>
+<!-- Termina Google tag   -->
+	
+<meta http-equiv="Content-Language" content="es-mx">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>
+SIL - Sistema de Información Legislativa-Resultados de la B&uacute;suqeda de Legisladores
+</title>
+<link href="/template/skin/style.css" rel="stylesheet" type="text/css">
+<script type="text/jscript" src="/Script/mm.class.js"></script>
+</head>
+<div id='main' class='subtitle' style='visibility:visible;' align='center'>
+<br>
+B&uacute;squeda en proceso...
+<br><br>
+<input type='image' src='/template/skin/processbar.gif'>
+<br><br>
+<input type='image' src='/template/skin/cancelar.jpg' onclick='window.close(); return (false);'>
+</div><SCRIPT>
+    function fncURL(clave,URL){
+            window.open("/Busquedas/Legislador/Reportes/"+ URL +"?SID=&cveLegislador="+clave, 'presentaPrensa','top=10, left=10,scrollbars=yes');
+    }
+
+    function orderBy(num){
+        document.RESULLEGIS_FRM.action='/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=1&Partido=&Estatus=A&Orden='+num;
+        document.RESULLEGIS_FRM.submit();
+    }
+
+    function Imprimir()
+    {
+        var Botonera=document.getElementById("Botonera");
+        var htmltemp="";
+        var htmltemp=Botonera.innerHTML;
+        Botonera.innerHTML="<img src='/template/skin/fotter.jpg' alt='Los contenidos del SIL provienen de Documentos emitidos por las C&aacute;maras de Diputados y Senadores (Gaceta Parlamentaria, Diario de los Debates, Versi&oacute;n Estenogr&aacute;fica) adem&aacute;s del Diario Oficial de la Federación.' border='0' align='center'>";
+        window.print();
+        Botonera.innerHTML=htmltemp;
+    }
+
+</SCRIPT>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id='Contenedor' style="visibility: hidden;  width:0pt;  height:0pt">
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td><style>
+.logoSegob {
+ 	padding-left: 150px;
+}
+
+.menuSegob {
+	padding-right: 150px;
+}
+
+.tablasup{
+	background-color:#14332c;
+	width:100%;
+	height:50px;
+	padding-top: 10px;
+}
+
+.tablasdown{
+	background-color:#134237;
+	width:100%;
+	height:50px;
+}
+</style>
+
+<table class="tablasup">
+	<tr>
+		<td align="left" style="padding-top:5px; padding-right:5px; padding-bottom:5px; padding-left:5px;">
+			<a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/segob" target="_blank"><span class="logoSegob" style="background-color:#14332c;"><img height="36px" src="../../../../../mkb.app/portal/views/default/img/logoheader.svg" alt="SEGOB"/></a>
+		</td>
+		<td style="align:right; width:60px;">
+			<a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/tramites" target="_blank"><span>Tr&aacute;mites</span></a>
+		</td>
+		<td style="align:right; width:60px;">
+			<a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/gobierno" target="_blank" >G<span>obierno</span></a>
+		</td>
+		<td style="align:right; width:20px;">
+			<div class="menuSegob"><a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/busqueda?utf8=?" target="_blank" ><img height="16px" src="../../../../../mkb.app/portal/views/default/img/lupa.png" alt="Buscar"/></a></div>
+		</td>
+	</tr>
+</table>
+<table class="tablasdown">
+	<tr>
+		<td>
+			<td>
+				<div class="sub-navbar navbar-nav">
+					<a href="https://www.gob.mx/segob"><div class="logoSegob"><img src="../../../../../mkb.app/portal/views/default/img/logo_menu_izq.png" class="img-menu-izq" height="38" width="200"></a>
+					<a href="https://nsil.gobernacion.gob.mx/"><img src="../../../../../mkb.app/portal/views/default/img/logo_menu_der.png" class="img-menu-der" height="38" width="160"></div></a>
+				</div>
+			</td>
+			<td style="align:right; width:10px;">
+				<a style="color:#ffffff;" title="Inicio" href="../../portal/" target="_blank"><span>Inicio</span></a>
+			</td>
+            <td style="align:right; width:70px; padding:10px;">
+				<a style="color:#ffffff;" title="Bienvenida. El Sistema de Informaci&oacute;n Legislativa (SIL) surge el 19 de agosto de 2003 como una plataforma digital que pretende apoyar la relaci&oacute;n entre los poderes Ejecutivo y Legislativo; promover en la ciudadan&iacute;a el inter&eacute;s por los asuntos legislativos; y, contribuir a facilitar el compromiso de transparentar la informaci&oacute;n gubernamental.
+				El SIL permite acceder en tiempo real a las sesiones que se desarrollan en los plenos de las C&aacute;maras del H. Congreso de la Uni&oacute;n, a trav&eacute;s del m&oacute;dulo Minuto a Minuto; y, a la informaci&oacute;n generada durante &eacute;stas mediante los reportes que formula.
+				Adicionalmente es posible consultar el acervo de noticias legislativas; y, conocer el perfil curricular de las y los legisladores as&iacute; como el desarrollo de su actividad legislativa, sus votaciones e intervenciones en los asuntos que se discuten." href="http:../../portal/Contacto/acerca" target="_blank">A<span>cerca de</span></a>
+			</td>
+			<td style="align:right; width:80px; padding:8px;">
+				<a style="color:#ffffff;" href="../../../../../portal/ReporteSesion/Senadores" target="_blank"><span>Sesiones</span></a>
+			</td>
+			<td style="align:right; width:120px; padding:8px;">
+				<a style="color:#ffffff;" href="../../../../../sitiosinte/sitiosinte2.php" target="_blank">Sitios de inter&eacute;s</span></a>
+			<td style="align:right; width:8px;">
+            <td style="align:right; width:10px;">
+				<div class="menuSegob"><a style="color:#ffffff;" title="Contacto" href="../../portal/Contacto/contactanos" target="_blank">C<span>ontacto</span></a></div>
+			</td>
+		</td>
+	</tr>
+</table>
+<table style="background-color:#faf8f0; width:100%; background:../../../../../mkb.app/portal/views/default/img/fondo.png;">
+	<tr>
+		<td>
+		<img width="1000" src="../../../../../mkb.app/portal/views/default/img/encabezado3.png" alt="SEGOB" />
+		</td>
+	</tr>
+</table></td>
+    </tr>
+</table>
+<br>
+<!-- Titulo principal de la pagina  -->
+<br>
+<!-- Numero de resultados encontrados -->
+<table  align="center"cellpadding="0" cellspacing="0" class="simpletextmayor" border="0">
+    <tr>
+        <td>Se encontraron 500 registros        </td>
+    </tr>
+</table>
+<br>
+<!-- Encabezado de los Resultados de los Asuntos Legislativos -->
+<TABLE  width="900px" bordercolor='#FFFFFF' border='1' cellpadding='0' cellspacing='0' align="center">
+<TR>
+<TD CLASS='tdcriterio' align='center'>No.</TD>
+<TD CLASS='tdcriterio' align='center'>FOTO</TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;NOMBRE&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;INSTANCIA&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;PARTIDO&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;TIPO&nbsp;DE<br>ELECCI&Oacute;N&nbsp;<br></td>
+<TD CLASS='tdcriterio' align='center'>&nbsp;ENTIDAD&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;PROTESTA&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;EN FUNCIONES<br></TD>
+<!--<TD CLASS='tdcriterio' align='center'>&nbsp;ESTATUS&nbsp;<br></TD>-->
+<!--<TD CLASS='tdcriterio' align='center'>EN<BR>&nbsp;FUNCIONES&nbsp;<br></TD>-->
+
+<TD CLASS='tdcriterio' align='center'>&nbsp;SUPLENTE<br></TD>
+</TR>
+
+<TR>
+<TD class='tdcriterio' align='center'>&nbsp;</TD>
+<TD class='tdcriterio' align='center'>&nbsp;</TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(11);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(12);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(21);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(22);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(31);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(32);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(41);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(42);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(51);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(52);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(61);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(62);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(91);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(92);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<!--<TD class='tdcriterio' align='center'><a href="javascript:orderBy(71);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(72);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>-->
+<!--<TD class='tdcriterio' align='center'><a href="javascript:orderBy(81);"><img width="14" src="/template/skin/up.gif" border="0"></a><acronym title="Ordenar de forma ascendente y forma descendente" >ordenar</acronym><a href="javascript:orderBy(82);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>-->
+
+<TD class='tdcriterio' align='center'>&nbsp;</TD>
+</TR>
+
+
+
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;1&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#1' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228260","leg");'><img src='../../Archivos/Fotos/9228260.jpg' alt='Yerico<br>Abramo<br>Masso' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Yerico<br>Abramo<br>Masso&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#1' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228260","leg");'>Diputado  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Coahuila&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Edgar Levit Palomeque Romero</b></TD></tr>
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;2&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#2' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228868","leg");'><img src='../../Archivos/Fotos/9228868.jpg' alt='Rocío Adriana<br>Abreu<br>Artiñano' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Rocío Adriana<br>Abreu<br>Artiñano&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#2' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228868","leg");'>Diputada  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Campeche&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Beatriz Eugenia Rodríguez Interian</b></TD></tr>
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;3&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#3' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228308","leg");'><img src='../../Archivos/Fotos/9228308.jpg' alt='Anabel<br>Acosta<br>Islas' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Anabel<br>Acosta<br>Islas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#3' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228308","leg");'>Diputada  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sonora&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Margarita Yaracel Esquer Lugo</b></TD></tr>
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;8&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#8' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228671","leg");'><img src='../../Archivos/Fotos/9228671.jpg' alt='Zaria<br>Aguilera<br>Claro' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Zaria<br>Aguilera<br>Claro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#8' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228671","leg");'>Diputada  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>30/01/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr>
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;15&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#15' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229240","leg");'><img src='../../Archivos/Fotos/9229240.jpg' alt='Erubiel Lorenzo<br>Alonso<br>Que' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Erubiel Lorenzo<br>Alonso<br>Que&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#15' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229240","leg");'>Diputado  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Óscar Fernando Torres Castañeda</b></TD></tr>
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;291&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#291' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228421","leg");'><img src='../../Archivos/Fotos/9228421.jpg' alt='Guadalupe Araceli<br>Mendoza<br>Arias' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guadalupe Araceli<br>Mendoza<br>Arias&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#291' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228421","leg");'>Diputada  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Ind.</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Michoacán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Ana Laura Medina Soto</b></TD></tr>
+</table></body></html>

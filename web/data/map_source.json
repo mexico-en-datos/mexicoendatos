@@ -1,0 +1,406 @@
+{
+  "publisher": "INEGI",
+  "publisher_name": "Instituto Nacional de Estadística y Geografía",
+  "product": "Marco Geoestadístico, áreas geoestadísticas municipales",
+  "edition": "INEGI. Marco Geoestadístico, diciembre de 2025",
+  "attribution": "Fuente: INEGI. Marco Geoestadístico, diciembre de 2025",
+  "service_name": "Servicio web del Catálogo Único de Claves de Áreas Geoestadísticas",
+  "service_url": "https://gaia.inegi.org.mx/wscatgeo/v2",
+  "reference_links": [
+    {
+      "label": "Documentación del servicio web del Catálogo Único de Claves Geoestadísticas",
+      "url": "https://www.inegi.org.mx/servicios/catalogounico.html",
+      "checked_at": "2026-11-06"
+    },
+    {
+      "label": "Marco Geoestadístico, página del producto",
+      "url": "https://www.inegi.org.mx/temas/mg/",
+      "checked_at": "2026-11-06"
+    },
+    {
+      "label": "Términos de libre uso de la información del INEGI",
+      "url": "https://www.inegi.org.mx/inegi/terminos.html",
+      "checked_at": "2026-11-06"
+    }
+  ],
+  "retrieved_at": "2026-11-06T20:07:20Z",
+  "municipality_count": 2478,
+  "population": 126014024,
+  "women": 64540634,
+  "men": 61473390,
+  "dwellings": 35233462,
+  "population_source": "INEGI. Censo de Población y Vivienda, 2020",
+  "municipalities_without_population": [
+    {
+      "cvegeo": "02007",
+      "name": "San Felipe"
+    },
+    {
+      "cvegeo": "04013",
+      "name": "Dzitbalché"
+    },
+    {
+      "cvegeo": "12082",
+      "name": "Las Vigas"
+    },
+    {
+      "cvegeo": "12085",
+      "name": "San Nicolás"
+    },
+    {
+      "cvegeo": "12084",
+      "name": "Santa Cruz del Rincón"
+    },
+    {
+      "cvegeo": "12083",
+      "name": "Ñuu Savi"
+    },
+    {
+      "cvegeo": "24059",
+      "name": "Villa de Pozos"
+    },
+    {
+      "cvegeo": "25019",
+      "name": "Eldorado"
+    },
+    {
+      "cvegeo": "25020",
+      "name": "Juan José Ríos"
+    }
+  ],
+  "states": [
+    {
+      "cve_ent": "01",
+      "name": "Aguascalientes",
+      "municipalities": 11,
+      "population": 1425607,
+      "women": 728924,
+      "men": 696683,
+      "dwellings": 386671,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/01"
+    },
+    {
+      "cve_ent": "02",
+      "name": "Baja California",
+      "municipalities": 7,
+      "population": 3769020,
+      "women": 1868431,
+      "men": 1900589,
+      "dwellings": 1149563,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/02"
+    },
+    {
+      "cve_ent": "03",
+      "name": "Baja California Sur",
+      "municipalities": 5,
+      "population": 798447,
+      "women": 392568,
+      "men": 405879,
+      "dwellings": 240660,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/03"
+    },
+    {
+      "cve_ent": "04",
+      "name": "Campeche",
+      "municipalities": 13,
+      "population": 928363,
+      "women": 471424,
+      "men": 456939,
+      "dwellings": 260824,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/04"
+    },
+    {
+      "cve_ent": "05",
+      "name": "Coahuila de Zaragoza",
+      "municipalities": 38,
+      "population": 3146771,
+      "women": 1583102,
+      "men": 1563669,
+      "dwellings": 901249,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/05"
+    },
+    {
+      "cve_ent": "06",
+      "name": "Colima",
+      "municipalities": 10,
+      "population": 731391,
+      "women": 370769,
+      "men": 360622,
+      "dwellings": 227050,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/06"
+    },
+    {
+      "cve_ent": "07",
+      "name": "Chiapas",
+      "municipalities": 124,
+      "population": 5543828,
+      "women": 2837881,
+      "men": 2705947,
+      "dwellings": 1351630,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/07"
+    },
+    {
+      "cve_ent": "08",
+      "name": "Chihuahua",
+      "municipalities": 67,
+      "population": 3741869,
+      "women": 1888047,
+      "men": 1853822,
+      "dwellings": 1146915,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/08"
+    },
+    {
+      "cve_ent": "09",
+      "name": "Ciudad de México",
+      "municipalities": 16,
+      "population": 9209944,
+      "women": 4805017,
+      "men": 4404927,
+      "dwellings": 2757433,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/09"
+    },
+    {
+      "cve_ent": "10",
+      "name": "Durango",
+      "municipalities": 39,
+      "population": 1832650,
+      "women": 927784,
+      "men": 904866,
+      "dwellings": 493989,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/10"
+    },
+    {
+      "cve_ent": "11",
+      "name": "Guanajuato",
+      "municipalities": 46,
+      "population": 6166934,
+      "women": 3170480,
+      "men": 2996454,
+      "dwellings": 1587234,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/11"
+    },
+    {
+      "cve_ent": "12",
+      "name": "Guerrero",
+      "municipalities": 85,
+      "population": 3540685,
+      "women": 1840073,
+      "men": 1700612,
+      "dwellings": 942509,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/12"
+    },
+    {
+      "cve_ent": "13",
+      "name": "Hidalgo",
+      "municipalities": 84,
+      "population": 3082841,
+      "women": 1601462,
+      "men": 1481379,
+      "dwellings": 857462,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/13"
+    },
+    {
+      "cve_ent": "14",
+      "name": "Jalisco",
+      "municipalities": 125,
+      "population": 8348151,
+      "women": 4249696,
+      "men": 4098455,
+      "dwellings": 2332218,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/14"
+    },
+    {
+      "cve_ent": "15",
+      "name": "México",
+      "municipalities": 125,
+      "population": 16992418,
+      "women": 8741123,
+      "men": 8251295,
+      "dwellings": 4569533,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/15"
+    },
+    {
+      "cve_ent": "16",
+      "name": "Michoacán de Ocampo",
+      "municipalities": 113,
+      "population": 4748846,
+      "women": 2442505,
+      "men": 2306341,
+      "dwellings": 1285469,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/16"
+    },
+    {
+      "cve_ent": "17",
+      "name": "Morelos",
+      "municipalities": 36,
+      "population": 1971520,
+      "women": 1020673,
+      "men": 950847,
+      "dwellings": 560941,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/17"
+    },
+    {
+      "cve_ent": "18",
+      "name": "Nayarit",
+      "municipalities": 20,
+      "population": 1235456,
+      "women": 623178,
+      "men": 612278,
+      "dwellings": 361596,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/18"
+    },
+    {
+      "cve_ent": "19",
+      "name": "Nuevo León",
+      "municipalities": 51,
+      "population": 5784442,
+      "women": 2893492,
+      "men": 2890950,
+      "dwellings": 1655690,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/19"
+    },
+    {
+      "cve_ent": "20",
+      "name": "Oaxaca",
+      "municipalities": 570,
+      "population": 4132148,
+      "women": 2157305,
+      "men": 1974843,
+      "dwellings": 1126544,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/20"
+    },
+    {
+      "cve_ent": "21",
+      "name": "Puebla",
+      "municipalities": 217,
+      "population": 6583278,
+      "women": 3423163,
+      "men": 3160115,
+      "dwellings": 1713865,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/21"
+    },
+    {
+      "cve_ent": "22",
+      "name": "Querétaro",
+      "municipalities": 18,
+      "population": 2368467,
+      "women": 1211647,
+      "men": 1156820,
+      "dwellings": 668771,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/22"
+    },
+    {
+      "cve_ent": "23",
+      "name": "Quintana Roo",
+      "municipalities": 11,
+      "population": 1857985,
+      "women": 921206,
+      "men": 936779,
+      "dwellings": 575635,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/23"
+    },
+    {
+      "cve_ent": "24",
+      "name": "San Luis Potosí",
+      "municipalities": 59,
+      "population": 2822255,
+      "women": 1449804,
+      "men": 1372451,
+      "dwellings": 775016,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/24"
+    },
+    {
+      "cve_ent": "25",
+      "name": "Sinaloa",
+      "municipalities": 20,
+      "population": 3026943,
+      "women": 1532128,
+      "men": 1494815,
+      "dwellings": 855271,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/25"
+    },
+    {
+      "cve_ent": "26",
+      "name": "Sonora",
+      "municipalities": 72,
+      "population": 2944840,
+      "women": 1472643,
+      "men": 1472197,
+      "dwellings": 876826,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/26"
+    },
+    {
+      "cve_ent": "27",
+      "name": "Tabasco",
+      "municipalities": 17,
+      "population": 2402598,
+      "women": 1228927,
+      "men": 1173671,
+      "dwellings": 669414,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/27"
+    },
+    {
+      "cve_ent": "28",
+      "name": "Tamaulipas",
+      "municipalities": 43,
+      "population": 3527735,
+      "women": 1791595,
+      "men": 1736140,
+      "dwellings": 1069380,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/28"
+    },
+    {
+      "cve_ent": "29",
+      "name": "Tlaxcala",
+      "municipalities": 60,
+      "population": 1342977,
+      "women": 693083,
+      "men": 649894,
+      "dwellings": 341656,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/29"
+    },
+    {
+      "cve_ent": "30",
+      "name": "Veracruz de Ignacio de la Llave",
+      "municipalities": 212,
+      "population": 8062579,
+      "women": 4190805,
+      "men": 3871774,
+      "dwellings": 2391262,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/30"
+    },
+    {
+      "cve_ent": "31",
+      "name": "Yucatán",
+      "municipalities": 106,
+      "population": 2320898,
+      "women": 1180619,
+      "men": 1140279,
+      "dwellings": 658351,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/31"
+    },
+    {
+      "cve_ent": "32",
+      "name": "Zacatecas",
+      "municipalities": 58,
+      "population": 1622138,
+      "women": 831080,
+      "men": 791058,
+      "dwellings": 442835,
+      "url": "https://gaia.inegi.org.mx/wscatgeo/v2/geo/mgem/32"
+    }
+  ],
+  "simplification_tolerance_degrees": 0.003,
+  "processing_note": "Límites simplificados para visualización a partir de los datos del INEGI; no sustituyen a la cartografía oficial.",
+  "districts": {
+    "publisher": "INE",
+    "publisher_name": "Instituto Nacional Electoral",
+    "product": "Marco Geográfico Seccional, distritos electorales federales (distritación de 2023)",
+    "layer": "DISTRITO_FEDERAL",
+    "url": "https://cartografia.ine.mx/mapoteca/MGS_CCL/SHAPEFILE.7z",
+    "published_at": "2025-01-31",
+    "retrieved_at": "2026-11-07T00:35:33Z",
+    "district_count": 300,
+    "attribution": "Fuente: INE, Marco Geográfico Seccional"
+  }
+}

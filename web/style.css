@@ -1,0 +1,623 @@
+/* México en datos
+   One typeface, three widths, the way map lettering separates kinds of things:
+   expanded for places, regular for people, condensed for sources and dates.
+   The only saturated colour on the page is party colour. */
+
+@font-face {
+  font-family: "Archivo";
+  src: url("vendor/fonts/archivo-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Archivo";
+  src: url("vendor/fonts/archivo-latin-ext.woff2") format("woff2");
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+:root {
+  color-scheme: light;
+
+  --paper: #f1f4f3;
+  --sheet: #ffffff;
+  --sea: #dde6ec;
+  --land: #edf0ec;
+  --ink: #16202a;
+  --ink-2: #47535f;
+  --ink-3: #6c7884;
+  --rule: #ccd4da;
+
+  /* Party colours: validated together for colour-blind separation (see README). */
+  --morena: #9f2241;
+  --pan: #0055b8;
+  --pri: #128a4a;
+  --pvem: #58b947;
+  --pt: #e5383b;
+  --mc: #ff8300;
+  --otro: #3aa6c9;
+  --sp: #8b929b;
+
+  --place: 125%;
+  --person: 100%;
+  --source: 78%;
+
+  --gutter: clamp(16px, 3vw, 40px);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.45;
+  font-stretch: var(--person);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, p { margin: 0; }
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+[hidden] { display: none !important; }
+
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+button, select, input { font: inherit; color: inherit; }
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px 40px;
+  padding: 28px var(--gutter) 20px;
+}
+.masthead h1 {
+  font-stretch: var(--place);
+  font-weight: 800;
+  font-size: clamp(2.25rem, 5vw, 3.75rem);
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+}
+.masthead__title p {
+  margin-top: 10px;
+  max-width: 62ch;
+  color: var(--ink-2);
+  font-size: 1.0625rem;
+}
+.masthead__status {
+  display: grid;
+  justify-items: end;
+  gap: 6px;
+  font-stretch: var(--source);
+  font-size: 0.875rem;
+  color: var(--ink-2);
+  text-align: right;
+}
+#refresh-msg:empty { display: none; }
+
+.button {
+  padding: 7px 14px;
+  background: var(--ink);
+  color: var(--sheet);
+  border: 1px solid var(--ink);
+  border-radius: 2px;
+  font-stretch: var(--person);
+  font-weight: 600;
+  cursor: pointer;
+}
+.button:hover { background: #2a3742; }
+.button:disabled { opacity: 0.55; cursor: progress; }
+.button--quiet { margin-top: 12px; background: var(--sheet); color: var(--ink); }
+.button--quiet:hover { background: var(--paper); }
+
+main { padding: 0 var(--gutter) 64px; }
+
+.notice {
+  margin-bottom: 16px;
+  padding: 12px 16px;
+  background: var(--sheet);
+  border-left: 4px solid var(--ink);
+}
+
+/* ---------- Atlas: map sheet + ficha ---------- */
+
+.atlas {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
+  gap: 24px;
+  align-items: start;
+}
+
+/* The sheet borrows the double neatline of a printed map sheet. */
+.sheet {
+  background: var(--sheet);
+  border: 1px solid var(--ink);
+  padding: 5px;
+}
+.sheet__bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  padding: 7px 7px 12px;
+}
+
+.tabs { display: inline-flex; flex-wrap: wrap; margin-top: 18px; }
+.tabs a {
+  padding: 7px 16px;
+  background: var(--sheet);
+  border: 1px solid var(--ink);
+  color: var(--ink);
+  font-weight: 600;
+  text-decoration: none;
+}
+.tabs a + a { border-left: 0; }
+.tabs a[aria-current="page"] { background: var(--ink); color: var(--sheet); }
+.tabs a:hover:not([aria-current="page"]) { background: var(--land); }
+.tabs a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; position: relative; }
+.views { display: inline-flex; }
+.views button {
+  padding: 7px 16px;
+  background: var(--sheet);
+  border: 1px solid var(--ink);
+  font-weight: 600;
+  cursor: pointer;
+}
+.views button + button { border-left: 0; }
+.views button[aria-pressed="true"] { background: var(--ink); color: var(--sheet); }
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-left: auto;
+  font-size: 0.9375rem;
+  cursor: pointer;
+}
+.toggle input { width: 16px; height: 16px; margin: 0; accent-color: var(--ink); }
+
+.zoom { display: inline-flex; gap: 6px; }
+.zoom button {
+  min-width: 36px;
+  padding: 7px 10px;
+  background: var(--sheet);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  font-stretch: var(--source);
+  cursor: pointer;
+}
+.zoom button:hover { border-color: var(--ink); }
+
+/* The map keeps its 3:2 shape but never grows taller than the window, so the
+   legend below it stays in view; the sea simply continues into any spare width. */
+.map-area { position: relative; }
+.map {
+  position: relative;
+  aspect-ratio: 3 / 2;
+  max-height: 70vh;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--ink);
+  background: var(--sea);
+  line-height: 0;
+}
+.map canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+.map svg {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  touch-action: pan-x pan-y;
+  cursor: grab;
+}
+.map svg:active { cursor: grabbing; }
+.map__credit {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  padding: 3px 7px;
+  background: rgba(255, 255, 255, 0.88);
+  line-height: 1.3;
+  font-stretch: var(--source);
+  font-size: 0.75rem;
+  color: var(--ink-2);
+}
+.map__hint {
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+  padding: 3px 7px;
+  background: rgba(255, 255, 255, 0.88);
+  line-height: 1.3;
+  font-stretch: var(--source);
+  font-size: 0.8125rem;
+  color: var(--ink-2);
+  pointer-events: none;
+}
+
+/* Line widths are divided by the zoom level (--k, set from the script) so they
+   keep the same thickness on screen at any zoom. */
+.state { stroke: none; }
+.muni-lines { fill: none; stroke: rgba(255, 255, 255, 0.5); stroke-width: calc(0.5px / var(--k, 1)); }
+.view-seats .muni-lines { stroke: rgba(22, 32, 42, 0.4); }
+.state-lines { fill: none; stroke: #ffffff; stroke-width: calc(1.5px / var(--k, 1)); stroke-linejoin: round; }
+/* Over striped fills, state borders are dark so they are not mistaken for the gaps between stripes. */
+.view-seats .state-lines { stroke: var(--ink); stroke-width: calc(1px / var(--k, 1)); }
+.coast { fill: none; stroke: var(--ink); stroke-width: calc(0.7px / var(--k, 1)); stroke-linejoin: round; }
+.selected-outline { fill: none; stroke: var(--ink); stroke-width: calc(2.5px / var(--k, 1)); stroke-linejoin: round; pointer-events: none; }
+/* Municipality shapes are only there to be pointed at: nothing is painted until hover. */
+.muni { fill: none; pointer-events: all; cursor: pointer; }
+.muni:hover { fill: rgba(22, 32, 42, 0.22); }
+/* Governors and senators are state-level, so municipalities stay hidden unless asked for;
+   pointing then highlights the whole state. */
+.map:not(.show-munis) .muni-lines { display: none; }
+.map:not(.show-munis) .muni:hover { fill: none; }
+.hover-state { fill: rgba(22, 32, 42, 0.2); pointer-events: none; }
+/* The municipal view is about municipalities, so their borders and hover are always on. */
+.map.view-mayor .muni-lines { display: inline; stroke: rgba(255, 255, 255, 0.55); }
+.map.view-mayor .muni:hover { fill: rgba(22, 32, 42, 0.25); }
+/* Districts can be pointed at only in the Deputies view, where they are what the map shows. */
+.district { fill: none; pointer-events: none; }
+.map.view-deputy .district { pointer-events: all; cursor: pointer; }
+.map.view-deputy .muni { pointer-events: none; }
+.map.view-deputy .muni-lines { display: none; }
+
+
+.tooltip {
+  position: absolute;
+  z-index: 2;
+  max-width: 280px;
+  padding: 8px 10px;
+  background: var(--sheet);
+  border: 1px solid var(--ink);
+  line-height: 1.3;
+  font-size: 0.875rem;
+  pointer-events: none;
+}
+.tooltip__place { font-stretch: var(--place); font-weight: 700; font-size: 0.8125rem; }
+.tooltip__sub { font-stretch: var(--source); color: var(--ink-2); }
+.tooltip__people { margin-top: 6px; display: grid; gap: 3px; }
+.tooltip .swatch { width: 9px; height: 9px; }
+
+
+.legend__title { font-size: 0.875rem; color: var(--ink-2); margin-bottom: 6px; }
+.legend__items { display: flex; flex-wrap: wrap; gap: 6px 18px; list-style: none; margin: 0; padding: 0; }
+.legend__items li { display: inline-flex; align-items: center; gap: 7px; font-size: 0.9375rem; }
+.legend__count { font-variant-numeric: tabular-nums; color: var(--ink-2); }
+
+.swatch.swatch--empty { background: var(--land); outline: 1px solid var(--ink-3); outline-offset: -1px; }
+.swatch {
+  flex: none;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: var(--c, var(--sp));
+}
+
+/* The hemicycle: every seat of the chamber, drawn over the empty sea at the top right. */
+.inset {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 1;
+  width: 372px;
+  max-width: calc(100% - 24px);
+  margin: 0;
+  padding: 10px 12px 8px;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--ink);
+}
+.inset > figcaption { font-stretch: var(--place); font-weight: 700; font-size: 0.9375rem; }
+.inset svg { display: block; width: 100%; height: auto; margin-top: 4px; overflow: visible; }
+.inset__counts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2px 14px;
+  margin: 6px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+}
+.inset__counts li { display: grid; grid-template-columns: 12px 1fr auto auto; align-items: center; gap: 6px; }
+.inset__party { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.inset__seats { font-weight: 650; text-align: right; }
+.inset__share { font-stretch: var(--source); color: var(--ink-2); text-align: right; min-width: 3.2em; }
+.inset__majority { margin-top: 6px; font-size: 0.8125rem; line-height: 1.3; }
+.inset__majority + .inset__majority { margin-top: 2px; }
+.inset__majority b { font-weight: 650; }
+.inset__note, .inset__key { margin-top: 6px; font-stretch: var(--source); font-size: 0.8125rem; line-height: 1.3; color: var(--ink-2); }
+.inset__wedge { fill: rgba(22, 32, 42, 0.09); stroke: rgba(22, 32, 42, 0.35); stroke-width: 0.6; stroke-dasharray: 2 2; }
+.inset__wedge--alt { fill: rgba(22, 32, 42, 0.17); }
+.inset svg[hidden] { display: none; }
+
+
+/* The "Poderes" view: the federal powers side by side instead of the map. */
+.overview { padding: 4px 6px 10px; }
+.overview__title { margin: 6px 0 12px; border: 0; padding: 0; font-size: 1.25rem; }
+.overview__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; align-items: start; }
+.chain { margin-top: 22px; padding: 14px 16px 18px; border: 1px solid var(--ink); background: var(--sheet); }
+.chain h3 { margin: 18px 0 6px; padding-bottom: 5px; border-bottom: 1px solid var(--ink); font-stretch: var(--place); font-weight: 700; font-size: 0.875rem; }
+.chain__list { columns: 2; column-gap: 28px; margin: 0; padding-left: 22px; font-size: 0.9375rem; }
+.chain__list li { break-inside: avoid; padding: 4px 0; border-bottom: 1px solid var(--rule); }
+.chain__office { display: block; font-stretch: var(--source); font-size: 0.8125rem; color: var(--ink-2); }
+.chain__name { font-weight: 600; }
+@media (max-width: 700px) { .chain__list { columns: 1; } }
+.overview__panel { margin: 0; padding: 10px 12px; border: 1px solid var(--ink); background: var(--sheet); }
+.overview__panel > figcaption, .chamber--nested > figcaption { font-stretch: var(--place); font-weight: 700; font-size: 0.9375rem; }
+.chamber--nested { margin: 14px 0 0; padding-top: 10px; border-top: 1px solid var(--rule); }
+.overview .persona { padding: 8px 0; }
+.overview .inset__counts { grid-template-columns: 1fr; }
+@media (max-width: 1100px) { .overview__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 700px) { .overview__grid { grid-template-columns: minmax(0, 1fr); } }
+.inset__wedge-label { font-stretch: var(--source); font-size: 9px; fill: var(--ink-2); }
+.seat { stroke: #ffffff; stroke-width: 0.5; cursor: pointer; }
+.seat:hover, .seat--lit { stroke: var(--ink); stroke-width: 1.4; }
+.seat--chosen { stroke: var(--ink); stroke-width: 2.6; }
+.persona__link { font: inherit; color: inherit; background: none; border: 0; padding: 0; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--rule-2, var(--rule)); text-underline-offset: 3px; }
+.persona__link:hover { text-decoration-color: currentColor; }
+.persona__link:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.ficha__sub .swatch { vertical-align: -1px; }
+
+
+
+.credit {
+  font-stretch: var(--source);
+  font-size: 0.8125rem;
+  color: var(--ink-2);
+  border-top: 1px solid var(--rule);
+  padding-top: 8px;
+}
+
+/* ---------- Ficha ---------- */
+
+.ficha {
+  position: sticky;
+  top: 16px;
+  max-height: calc(100vh - 32px);
+  overflow: auto;
+  background: var(--sheet);
+  border-top: 5px solid var(--ink);
+  padding: 16px 18px 20px;
+}
+.ficha__picker { display: grid; gap: 4px; margin-bottom: 16px; }
+.ficha__picker span, .filters label span {
+  font-stretch: var(--source);
+  font-size: 0.8125rem;
+  color: var(--ink-2);
+}
+select, input[type="search"] {
+  width: 100%;
+  height: 38px;
+  padding: 0 9px;
+  background: var(--sheet);
+  border: 1px solid var(--ink-3);
+  border-radius: 2px;
+}
+
+.ficha__place {
+  padding: 0;
+  border: 0;
+  font-stretch: var(--place);
+  font-weight: 800;
+  font-size: 1.75rem;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+}
+.ficha__sub { margin-top: 6px; font-stretch: var(--source); font-size: 0.875rem; color: var(--ink-2); }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 2px 14px; margin: 12px 0 0; font-variant-numeric: tabular-nums; }
+.facts dt { font-stretch: var(--source); font-size: 0.875rem; color: var(--ink-2); align-self: baseline; }
+.facts dd { margin: 0; font-weight: 600; }
+.facts dt { max-width: 11em; }
+.ficha__more { margin-top: 8px; }
+.ficha__parties { margin-top: 8px; gap: 4px 14px; }
+.ficha__parties li { font-size: 0.875rem; }
+.compact { width: 100%; margin-top: 10px; border-collapse: collapse; font-size: 0.875rem; }
+.compact th, .compact td { padding: 5px 8px 5px 0; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }
+.compact th { font-stretch: var(--source); font-weight: 600; font-size: 0.8125rem; color: var(--ink-2); border-bottom-color: var(--ink); }
+.compact td:last-child { white-space: nowrap; }
+.compact .swatch { margin-right: 6px; vertical-align: -1px; }
+.ficha__more summary { cursor: pointer; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+.ficha__intro { margin-top: 12px; color: var(--ink-2); }
+.ficha h3 {
+  margin: 22px 0 2px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--ink);
+  font-stretch: var(--place);
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+.ficha__back { margin-top: 20px; }
+.link-button {
+  padding: 0;
+  background: none;
+  border: 0;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  cursor: pointer;
+}
+.link-button:hover { text-decoration-thickness: 2px; }
+
+.persona {
+  display: grid;
+  grid-template-columns: 12px minmax(0, 1fr);
+  gap: 0 10px;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.persona .swatch { margin-top: 5px; }
+.persona__name { font-weight: 650; font-size: 1.0625rem; line-height: 1.25; }
+.persona__role { color: var(--ink-2); font-size: 0.9375rem; }
+.cite {
+  margin-top: 4px;
+  font-stretch: var(--source);
+  font-size: 0.8125rem;
+  line-height: 1.35;
+  color: var(--ink-2);
+}
+
+.tally { width: 100%; margin-top: 14px; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.tally th, .tally td { padding: 6px 0 6px 8px; border-bottom: 1px solid var(--rule); text-align: right; font-weight: 400; }
+.tally th:first-child, .tally td:first-child { text-align: left; }
+.tally thead th { font-stretch: var(--source); font-size: 0.8125rem; color: var(--ink-2); border-bottom-color: var(--ink); }
+.tally td:first-child { display: flex; align-items: center; gap: 8px; }
+.tally tfoot td { border-bottom: 0; font-weight: 650; }
+
+/* ---------- Roster ---------- */
+
+.roster, .sources { margin-top: 56px; }
+h2 {
+  font-stretch: var(--place);
+  font-weight: 800;
+  font-size: 1.625rem;
+  letter-spacing: -0.01em;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--ink);
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: minmax(180px, 2fr) repeat(3, minmax(130px, 1fr)) auto;
+  gap: 12px 16px;
+  align-items: end;
+  margin: 16px 0;
+}
+.filters label { display: grid; gap: 4px; }
+.filters__count { font-stretch: var(--source); color: var(--ink-2); padding-bottom: 8px; white-space: nowrap; }
+
+.table-wrap { overflow-x: auto; background: var(--sheet); }
+.roster table { width: 100%; min-width: 860px; border-collapse: collapse; }
+.roster th, .roster td { padding: 9px 12px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }
+.roster thead th {
+  font-stretch: var(--source);
+  font-weight: 600;
+  font-size: 0.8125rem;
+  color: var(--ink-2);
+  border-bottom: 1px solid var(--ink);
+  white-space: nowrap;
+}
+.roster td { font-size: 0.9375rem; }
+.roster td.name { font-weight: 600; }
+.roster td.party { white-space: nowrap; }
+.roster td.party .swatch { margin-right: 7px; vertical-align: -1px; }
+.roster td.dates, .roster td.cited { font-stretch: var(--source); font-size: 0.875rem; color: var(--ink-2); }
+.roster td.cited .cite { margin: 0; font-size: inherit; }
+.roster td.dates { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.roster tbody tr:hover { background: #f6f8f7; }
+.roster .empty { padding: 28px 12px; color: var(--ink-2); }
+.table-note { margin-top: 10px; font-stretch: var(--source); font-size: 0.875rem; color: var(--ink-2); }
+
+/* ---------- Sources ---------- */
+
+.source {
+  display: grid;
+  grid-template-columns: minmax(180px, 260px) minmax(0, 70ch);
+  gap: 6px 32px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.source h3 { font-stretch: var(--place); font-weight: 700; font-size: 1rem; }
+.source__kind { margin-top: 4px; font-stretch: var(--source); font-size: 0.875rem; color: var(--ink-2); }
+.source__body p + p { margin-top: 8px; }
+.source__body .cite { font-size: 0.875rem; }
+.source ul { margin: 8px 0 0; padding-left: 18px; }
+
+/* ---------- Narrow screens ---------- */
+
+@media (max-width: 900px) {
+  .atlas { grid-template-columns: minmax(0, 1fr); }
+  .ficha { position: static; max-height: none; }
+  .masthead__status { justify-items: start; text-align: left; }
+  .filters { grid-template-columns: 1fr 1fr; }
+  .filters label:first-child { grid-column: 1 / -1; }
+  .source { grid-template-columns: minmax(0, 1fr); }
+  .views { flex-wrap: wrap; gap: 4px; }
+  .views button + button { border-left: 1px solid var(--ink); }
+  .map__hint { display: none; }
+  .map__credit { position: static; margin-top: 4px; }
+  .inset { position: static; width: 100%; max-width: none; margin-top: 8px; }
+}
+
+/* ---------- Modo B: one map, drilled into ---------- */
+
+.crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; font-stretch: var(--place); font-weight: 700; font-size: 0.9375rem; }
+.crumbs [aria-current="page"] { color: var(--ink); }
+.crumbs .link-button { font: inherit; color: var(--ink-2); }
+.crumbs__sep { color: var(--ink-3); }
+.hits .hit { fill: none; pointer-events: none; cursor: pointer; }
+.hits--state .hit { pointer-events: all; } /* other states always answer as whole states */
+.hits--state .hit.hit--current { pointer-events: none; } /* the state you are in lets its parts be pointed at */
+.map.level-state .hits--muni .hit,
+.map.level-district .hits--muni .hit,
+.map.level-municipality .hits--muni .hit { pointer-events: all; }
+.hits .hit:hover { fill: rgba(22, 32, 42, 0.18); }
+/* Governor square and senator circles on each state, shown at the country level only. */
+.marks { pointer-events: none; }
+.map.level-country .marks { pointer-events: all; }
+.map:not(.level-country) .marks { opacity: 0; transition: opacity 0.3s; }
+.mark { cursor: pointer; }
+.mark__halo { fill: rgba(255, 255, 255, 0.82); }
+.mark__gov, .mark__sen { stroke: var(--ink); stroke-width: 0.7; }
+.mark__leader { stroke: var(--ink-3); stroke-width: 0.8; }
+.mark__base { stroke: var(--ink-3); stroke-width: 0.6; }
+.mark__bar { fill: var(--ink-2); }
+.mark__label { font-size: 9.5px; font-weight: 600; fill: var(--ink-2); paint-order: stroke; stroke: var(--sea, #e3ebf1); stroke-width: 3; stroke-linejoin: round; }
+.mark:hover .mark__halo { fill: #ffffff; stroke: var(--ink); stroke-width: 1; }
+.sources__list { margin: 0; padding-left: 20px; }
+.sources__list li { margin: 6px 0; }
+.chain__list--one { columns: 1; margin-top: 8px; }
+.persona__contact { margin: 4px 0 0; font-size: 0.875rem; color: var(--ink-2); overflow-wrap: anywhere; }
+
+/* ---------- Poderes page and compact person entries ---------- */
+
+.chambers-sheet { padding: 10px 12px 16px; }
+.chambers { position: relative; }
+.chambers-sheet .chain { margin-top: 16px; }
+.chambers-sheet .inset__counts { grid-template-columns: 1fr; }
+.chambers-sheet .facts { margin-top: 8px; font-size: 0.8125rem; }
+.chambers-sheet .facts dt { font-size: 0.75rem; }
+.people { list-style: none; margin: 8px 0 0; padding: 0; }
+.person-line { display: grid; grid-template-columns: 12px minmax(0, 1fr); gap: 0 10px; padding: 8px 0; border-bottom: 1px solid var(--rule); }
+.person-line .swatch { margin-top: 5px; }
+.person-line__text { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 10px; }
+.person-line__name { font-weight: 650; font-size: 1rem; line-height: 1.25; }
+.person-line__role { color: var(--ink-2); font-size: 0.875rem; }
+.chain .people .person-line { border-bottom: 0; }
+.facts dd .swatch { vertical-align: -1px; margin-right: 2px; }
+.facts dd a { overflow-wrap: anywhere; }
+@media (max-width: 900px) {
+  .chambers-sheet .overview__grid { grid-template-columns: 1fr; }
+}
+.power { margin-top: 18px; }
+.power:first-child { margin-top: 0; }
+.power__title { margin: 0 0 8px; padding-bottom: 6px; border-bottom: 2px solid var(--ink); font-stretch: var(--place); font-weight: 800; font-size: 1.375rem; }
+.overview__grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.overview__grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.chambers-sheet .chain { margin-top: 0; }
+@media (max-width: 900px) { .overview__grid--2, .overview__grid--3 { grid-template-columns: 1fr; } }
+
+/* ---------- Thematic maps: legend and ranking ---------- */
+.legend-box { width: 300px; }
+.scale { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 3px; font-size: 0.8125rem; }
+.scale li { display: flex; align-items: center; gap: 8px; }
+.scale__swatch { display: inline-block; width: 22px; height: 12px; border: 1px solid rgba(22, 32, 42, 0.25); flex: none; }
+.ranking { margin: 8px 0 0; padding-left: 26px; font-size: 0.9375rem; }
+.ranking li { display: flex; justify-content: space-between; gap: 12px; padding: 4px 0; border-bottom: 1px solid var(--rule); }
+.ranking__value { font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+body[data-tema] .map.level-municipality .hits--muni .hit { pointer-events: all; }
+body[data-tema] .map.level-municipality .hits--state .hit { pointer-events: none; }
+.capital { pointer-events: none; }
+.capital__dot { fill: var(--ink); stroke: #ffffff; stroke-width: 1.5; }
+.capital__label { font-size: 11px; font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: #ffffff; stroke-width: 3; stroke-linejoin: round; }

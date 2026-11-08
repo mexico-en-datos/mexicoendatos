@@ -1,0 +1,26 @@
+# Reads the sources every morning and saves the result, so the published page stays current.
+name: Actualizar datos
+on:
+  schedule:
+    - cron: "17 6 * * *"   # 06:17 UTC, once a day
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: actualizar-datos
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python tools/fetch_politicians.py
+      - run: python tools/fetch_fuel.py
+      - name: Guardar los datos nuevos
+        run: |
+          git config user.name "mexico-en-datos"
+          git config user.email "mexico-en-datos@users.noreply.github.com"
+          git add web/data/politicians.json web/data/fuel.json .cache/sil_fichas.json
+          if git diff --cached --quiet; then echo "Sin cambios"; else git commit -m "Datos: actualización automática" && git push; fi

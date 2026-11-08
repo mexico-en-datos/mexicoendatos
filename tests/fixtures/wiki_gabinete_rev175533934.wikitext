@@ -1,0 +1,750 @@
+{{Ficha de organismo oficial
+| nombre = Gabinete de México
+| nombre_original = 
+| acrónimo = 
+| logo = Seal of the Government of Mexico.svg
+| ancho_logo = 150px
+| título_logo = Sello del gobierno
+| sello = 
+| ancho_sello = 
+| título_sello = 
+| imagen = 
+| ancho_imagen = 
+| título_imagen = 
+| sistema = [[República]] [[representación (política)|representativa]], [[democracia|democrática]], [[federación|federal]] y [[Estado laico|laica]]
+| tipo = [[Gabinete (política)|Gabinete de Secretarios]]
+| creado = {{Fecha|28|9|1821|edad}}
+| predecesora = [[Virreinato de la Nueva España|Virrey de Nueva España]]
+| disuelto = 
+| sucesora = 
+| jurisdicción = {{MEX}}
+| ámbito = [[País|Nacional]]
+| país = 
+| sede = [[Palacio Nacional de México|Palacio Nacional]]
+| empleados = 
+| presupuesto = 
+| ministro = 
+| ministro_par = 
+| director = 
+| director_pos = 
+| titular_tipo = [[Presidente de México|Presidenta de la República]]
+| titular_nom = [[Claudia Sheinbaum Pardo]]
+| titular2_tipo = [[Anexo:Secretarios de Gobernación (México)|Secretaria de Gobernación]]
+| titular2_nom = [[Rosa Icela Rodríguez|Rosa Icela Rodríguez Velázquez]]
+| composición = [[Presidente de la República]] y [[Secretarios de Estado]]
+| dependiente_de = [[Presidente de México|Presidencia de México]]
+| superior = 
+| bajo_su_dependencia = 
+| relacionados = 
+| sitio_web = 
+| notas = 
+}}
+El '''Gabinete de México''' es la denominación formal que recibe un conjunto de entidades de la [[Administración pública federal (México)|Administración Pública Federal]]. Es un grupo de colaboradores que asisten, para el cumplimiento de sus atribuciones y funciones, al [[presidente de México]], el cual lo encabeza. Los titulares y la estructura del gabinete son los responsables del diseño, aplicación, evaluación y garantía de las políticas públicas en el ámbito de sus competencias en materia de gobernabilidad, [[Fuerzas Armadas de México|fuerzas armadas]], seguridad pública, economía, [[Relaciones exteriores de México|relaciones exteriores]], servicios públicos (educación, salud, empleo, vivienda, alimentación), infraestructura, medio ambiente, contraloría, entre otras áreas de responsabilidad del Gobierno Federal.<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf|título=Ley Orgánica de la Administración Pública Federal|sitio web=Cámara de Diputados|fechaacceso=6 de agosto de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+La [[Constitución Política de los Estados Unidos Mexicanos]] contempla dichas instituciones en cinco artículos del mismo apartado (Título III, Capítulo III) que definen al poder ejecutivo federal, que recae únicamente en el presidente de la República, por lo que el gabinete no es depositario de dicho poder, sino un grupo de entidades formalizada en distintos sectores para que pueda atender sus tareas gubernamentales, ya sean para funciones básicas, complementarias, coyunturales o emergentes.
+
+La Administración Pública Federal, según la carta magna y su ley orgánica, se divide en centralizada y paraestatal. Las obligaciones, facultades, requisitos y restricciones a los distintos cargos están determinadas por la Ley Orgánica de la Administración Pública Federal.{{sfn|Quijano Torres|2012|p=42}} El principal componente del gabinete son las secretarías de Estado, pero además existen organismos, órganos, empresas estatales y fideicomisos públicos en las que las secretarías pueden o no tener injerencia, pero que igualmente forman parte del gabinete.
+
+El presidente está facultado para nombrar y remover libremente a los miembros del gabinete, así como para decretar la creación de nuevas entidades de la Administración Pública Centralizada. No obstante, el [[Congreso de la Unión]] como congreso general o a través de alguna de sus dos cámaras tiene entre sus funciones la ratificación de algunos funcionarios, la inspección de algunas políticas públicas y las reformas hechas a las leyes relacionadas con la Administración Pública Federal.
+
+Históricamente el gabinete se ha dividido en el «gabinete legal»: compuesto por los titulares de las secretarías de Estado, la [[Consejería Jurídica del Ejecutivo Federal]] y la hoy extinta [[Procuraduría General de la República (México)|Procuraduría General de la República]]; y en el «gabinete ampliado»: compuesto por las empresas de participación estatal mayoritaria, organismos descentralizados, órganos administrativos desconcentrados y fideicomisos públicos. Si bien la [[Oficina de la Presidencia de la República]] formalmente está integrada a la Administración Pública Federal, comúnmente no se considera parte del gabinete legal, pues cuenta con su propia estructura y normatividad, trabajando directamente con el titular del ejecutivo.<ref name="dup-0-63">{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-089_2.pdf|título=Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/2020-05/CPEUM-090.pdf|título=Artículo 90 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/2020-05/CPEUM-093.pdf|título=Artículo 93 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+== Historia ==
+=== Antecedentes ===
+La Secretaría de la Cámara del [[Virreinato de Nueva España|Virreinato]], instituida en 1756, fue la encargada de auxiliar al [[virrey de la Nueva España]]. Anteriormente las únicas entidades en las que se podía apoyar el virrey eran la Real Hacienda, la [[Real Audiencia de México|Real Audiencia]] y el Tribunal de Cuentas. La Secretaría permitió la formalización de la carrera de [[administración pública]] ejercida por [[Funcionario|funcionarios]]. En años siguientes, [[José de Gálvez y Gallardo]], uno de los principales promotores de las [[Reformas borbónicas en Nueva España|reformas borbónicas]], en su encargo como visitador general (1765-1769) se dio la tarea de darle un cuerpo jurídico a dicha secretaría.{{sfn|Quijano Torres|2012|p=75}}<ref name=":0" />
+
+Con el paso del tiempo se dio la especialización de los funciones que conformaban la Cámara del Virreinato, y para 1797 durante el virreinato de [[Juan Vicente de Güemes]], se había organizado en cuatro mesas temáticas, cada una precedida por un departamento:<ref name=":0">{{Cita web |url=https://archivos.juridicas.unam.mx/www/bjv/libros/4/1821/4.pdf |título=La herencia de la Secretaría de la Cámara del Virreinato |fechaacceso=7 de marzo de 2022 |formato=PDF}}</ref>
+* El Departamento Primero atendía las obras del [[Palacio Nacional (México)|Palacio Virreinal]], el [[Fondo Piadoso de Californias]], los correos provenientes del extranjero y de los municipios, el desagüe de [[Huehuetoca]] y la dirección de la mitad de las intendencias.
+* El Departamento Segundo atendía las finanza y rentas del virreinato, así como la dirección del Tribunal de Minería y la [[Academia de San Carlos]].
+* El Departamento Tercero atendía los tribunales y asuntos eclesiásticos, así como todo lo relacionado con la [[Seguridad social|asistencia pública]] (hospitales, [[Monte de Piedad|montes de Piedad]] y el Jardín Botánico del Palacio Virreinal).
+* El Departamento Cuarto atendía cualquier asunto de tipo militar.
+
+En el contexto de los documentos fundacionales u organizativos del movimiento insurgente acaecidos en el marco de la [[Independencia de México|Guerra de Independencia]] se pueden mencionar algunos casos. Los ''[[Elementos Constitucionales]]'' de 1812, el primer precedente del [[Historia constitucional de México|constitucionalismo mexicano]], en concordancia con la concepción de [[Gobierno]] de un [[Estado nación]] surgido del pensamiento liberal europeo —que concibe al [[poder ejecutivo]] como responsable de la seguridad y ejecución de las leyes; la defensa y ejercicio de la soberanía; y la administración de la economía—, se basó en la Secretaría de la Cámara del Virreinato para delinear tres eventuales «despachos de negocios»: Gracia y Justicia, Guerra y Hacienda.{{sfn|Quijano Torres|2012|pp=21-37}}<ref>{{Cita web |url=https://www.ordenjuridico.gob.mx/Constitucion/1812B.pdf|título=Elementos Constitucionales de 1812|fechaacceso=12 de septiembre de 2018}}</ref> 
+
+Posteriormente el ''[[Constitución de Apatzingán|Decreto Constitucional para la Libertad de la América Mexicana]]'' de 1814 mencionaba la facultad del Supremo Gobierno (depositario del [[poder ejecutivo]]) para formar ministerios o despachos en el ejercicio de sus deberes, pero salvo el apartado que detallaba al de Hacienda, no especificó ningún otro.<ref>{{Cita web |url=https://www.ordenjuridico.gob.mx/Constitucion/1814.pdf|título=Decreto Constitucional para la Libertad de la América Mexicana|fechaacceso=12 de septiembre de 2018}}</ref>
+
+=== {{Siglo|XIX||S}} ===
+[[Archivo:Agustin I of Mexico.jpg|thumb|[[Agustín de Iturbide]] como presidente de la primera y segunda [[Regencia del Imperio Mexicano|regencias imperiales]] organizó los primeros cuatro secretarías de Estado con base en los cuatro departamentos de la Cámara del Virreinato.]]
+
+Luego de consumada la guerra de independencia los ''[[Tratados de Córdoba]]'' acordaron que el nuevo país se organizaría bajo una [[monarquía constitucional]] cuya corona se ofrecería al [[Fernando VII de España]], o en su defecto, a los sucesivos herederos del trono español. 
+
+El 8 de noviembre de 1821, la [[Junta Provisional Gubernativa]] (con facultades legislativas) promulgó el ''Reglamento para su Gobierno Interior y Exterior de las Secretarías de Estado'', donde quedó formalmente establecido que la [[Regencia del Imperio Mexicano|Regencia del Imperio]] (encargado del ejecutivo, hasta el nombramiento del emperador) dispusiera de cuatro «secretarías de Estado y del Despacho»: [[Secretaría de Relaciones Exteriores (México)|Secretaría de Estado y del Despacho de Relaciones Exteriores]] e [[Secretaría de Gobernación (México)|Interiores]], [[Secretaría de la Defensa Nacional|Secretaría de Estado y del Despacho de Guerra]] y [[Secretaría de Marina (México)|Marina]], [[Secretaría de Hacienda y Crédito Público|Secretaría de Estado y del Despacho de Hacienda]] y [[Secretaría de Justicia (México)|Secretaría de Estado y del Despacho de Justicia y Negocios Eclesiásticos]]. Respectivamente encargados: de las funciones básicas del gobierno, incluyendo las relaciones con los otros los poderes centrales y gobiernos provinciales, así como de la [[política exterior]]; de la creación y organización de unas [[fuerzas armadas]], integradas por un [[ejército de tierra]] y una [[armada]]; de la administración de los ingresos y egresos del imperio; y de la atención y vínculo de los asuntos judiciales y clericales.{{sfn|Quijano Torres|2012|p=367}}<ref>{{Cita web |url=http://www.biblioteca.tv/artman2/publish/1821_124/Establecimiento_de_los_ministerios.shtml |título=Decreto del 8 de noviembre de 1821. Establecimiento de los ministerios |fechaacceso=12 de septiembre de 2018 |autor=500 años de México en documentos}}</ref> 
+
+Las características y obligaciones de cada uno de estos despachos quedaron ratificados en el ''Reglamento Provisional Político del [[Primer Imperio Mexicano|Imperio Mexicano]]'' del 23 de febrero de 1822,<ref>{{Cita web |url=https://www.ordenjuridico.gob.mx/Constitucion/1823.pdf|título=Reglamento Provisional Político del Primer Imperio Mexicano|fechaacceso=12 de septiembre de 2018}}</ref> que depositó sus facultades con la categoría de ministerios, ya con el reinado del [[Emperador de México|emperador]] [[Agustín de Iturbide|Agustín I]]. Siendo estas primordialmente:<ref>{{Cita web |url=http://www.biblioteca.tv/artman2/publish/1821_124/Establecimiento_de_los_ministerios.shtml|título=Decreto del 8 de noviembre de 1821. Establecimiento de los ministerios.|fechaacceso=12 de septiembre de 2018|autor=500 años de México en documentos}}</ref>
+{{Cita|
+Secretaría de Estado y del Despacho de relaciones exteriores é interiores.
+*1.- A la secretaría de Estado y del Despacho de relaciones exteriores é interiores tocan y pertenecen todas las relaciones diplomáticas de las cortes extrangeras.—
+**2º la direccion general de correos, composiciones de caminos, calzadas, puentes y demas…… con la provision de todos los empleados de este vasto ramo, inclusos los correos de gabinete:--
+**3º y último; todo lo demas que sea puramente de estado.
+*2.- Todos los ramos económicos y políticos del reino, como son gefes políticos de provincias, ayuntamientos constitucionales, mayordomías de propios y arbitrios, y la provision general de todos los empleados de estos ramos.
+
+Secretaría de Estado y del Despacho universal de justicia y negocios eclesiásticos.
+*1.- A la secretaría de Estado y del Despacho universal de justicia y negocios eclesiásticos, corresponden todos los negocios de los consejos que haya, tribunales supremos, jueces y demas autoridades civiles del reino; cuyas consultas de pleitos, causas y demas deben despacharse por ella, como tambien las plazas de todos los individuos de que se compongan, inclusos los escribanos de todas clases.
+*2.- Los asuntos generalmente eclesiásticos, la presentacion de los arzobispados, obispados, canongías, curatos, beneficios y demas empleos de este vasto ramo.
+*3.- Lo perteneciente á todas las religiones seculares, y regulares, inclusas la provision de sus empleos y definiciones de sus capítulos.
+*4.- Todo lo correspondiente á las tres juntas supremas que debe haber de cirugía, medicina y farmacia, con el albeiterado, y los empleos de estos vocales y sus subalternos.
+*5.- Todos los empleados de la servidumbre en general del palacio imperial, tanto eclesiástico como secular, incluso el juez privativo que deben tener estos individuos: sus asuntos de todas clases y la provision de todos sus empleos.
+
+Secretaría de Estado y del Despacho de Guerra y Marina.
+*1.- A la secretaría de Estado y del Despacho de la Guerra y Marina corresponden todos los asuntos pertenecientes á las armas y guerra de mar y tierra.
+*2.- La provision general de los empleos de este vasto ramo.
+
+Secretaría de Estado y del Despacho de Hacienda.
+*1.- A la secretaría de Estado y del Despacho universal de Hacienda corresponden todos los negocios pertenecientes á la Hacienda pública en sus diversas rentas.
+*2.- La provision inmediata ó aprobacion en su caso de todos los empleos de rentas.}}
+
+Con la disolución del [[Primer Imperio mexicano|Primer Imperio]] y la eventual conformación de una [[Primera República Federal (México)|república federal]] no se suscitó ningún tipo de cambio en la organización del gabinete, más que el cambio de denominación de los ministerios de «secretaría de Estado y del Despacho» a simplemente «secretaría de Estado», que trajo consigo el acortamiento de tres secretarías.
+
+[[Archivo:Oleo Antonio Lopez de Santa Anna.PNG|thumb|[[Antonio López de Santa Anna]] fue el primero en dividir las actuales las secretarías [[Secretaría de Gobernación (México)|Gobernación]] y [[Secretaría de Relaciones Exteriores (México)|Relaciones Exteriores]] (que no sería definitiva hasta 1867) y el primero en crear una nueva secretaría de Estado (el [[Secretaría de Economía (México)|Ministerio de Fomento, Colonización, Industria y Comercio]]).]] 
+
+El número de nuevas miembros en el gabinete presidencial ciertamente creció a lo largo del siglo {{v|xix}} pero de una forma bastante lenta. La próxima vez que se perturbó la organización del gabinete fue en 1837 con las [[Siete Leyes]] con el establecimiento de la [[República Centralista (México)]], un [[Estado unitario|sistema centralista]],<ref>{{Cita web |url=https://www.ordenjuridico.gob.mx/Constitucion/1836.pdf|título=Leyes Constitucionales de 1836 (Las Siete Leyes)|fechaacceso=12 de septiembre de 2018}}</ref> en la que se cambió de denominación de «secretaría de Estado» a «ministerio» para relejar dicho cambio, y hubo un efímero intento de dividir la Secretaría de Estado y del Despacho de Relaciones Exteriores e Interiores en dos: el Ministerio del Interior y el Ministerio de Relaciones Exteriores, encargados de la política interior y exterior, respectivamente; sin embargo, debido a la inestabilidad política de la época, el cambio se anuló en 1841 cuando se volvió a juntar en un solo ministerio: primero con la denominación de Ministerio de Relaciones Interiores y Exteriores (1841-1842) y Ministerio de Relaciones Exteriores, Gobernación y Policía (1842-1853).{{sfn|Quijano Torres|2012|p=369}} Entre los cambios significativos, estuvo la ampliación de facultades del área de Justicia y Negocios Eclesiásticos, cuando en 1841 se llamó Ministerio de Justicia, Negocios Eclesiásticos, Instrucción Pública e Industria.
+
+En 1853, durante el último gobierno de [[Antonio López de Santa Anna]], surgió la quinta dependencia del gobierno nacional.{{sfn|Quijano Torres|2012|p=77}} El entonces llamado [[Secretaría de Economía (México)|Ministerio de Fomento, Colonización e Industria y Comercio]], se constituyó a partir de funciones específicas, y hasta entonces poco asistidas, del resto de los despachos, como lo era el apoyo a la industria, la inventiva y el emprendimiento de negocios particulares; es decir, su área de políticas públicas correspondían a organizar el desarrollo del país.{{sfn|Quijano Torres|2012|p=369}} También destaca otro intento que no se concretó de volver a separar en el Ministerio de Gobernación y el Ministerio de Relaciones Exteriores. En 1855 con el [[Plan de Ayutla]] y el exilio de Santa Anna se cambió la denominación de «ministerio» a «secretaría de Estado» nuevamente.
+
+La ''[[Constitución Federal de los Estados Unidos Mexicanos (1857)|Constitución de 1857]]'' trajo consigo una serie de cambios en la administración pública. En 1858 se anularon los dos cambios efectuados por la dictadura de Santa Anna. Se volvió a reunir la Secretaría de Relaciones Exteriores y Gobernación. Se eliminó la Secretaría de Fomento, Colonización, Industria y Comercio, en la que todas sus atribuciones se destinaron a las que la había originado.{{sfn|Quijano Torres|2012|p=370}}
+
+Durante el [[Segundo Imperio Mexicano|Imperio]] de [[Maximiliano I de México|Maximiliano de Habsburgo]], y con la promulgación del ''Estatuto Provisional del Imperio Mexicano'' en 1865, se establecieron nueve departamentos ministeriales, siendo estos de acuerdo con su artículo 5:<ref>{{Cita web |url=https://www.ordenjuridico.gob.mx/Constitucion/1865.pdf|título=Estatuto Provisional del Imperio Mexicano|fechaacceso=12 de septiembre de 2018}}</ref> 
+{{Cita|
+*Ministro de la Casa Imperial:
+*“ id. de Estado;
+*“ id. de Negocios Extranjeros y Marina;
+*“ id. de Gobernación;
+*“ id. de Justicia;
+*“ id. de Instrucción pública y cultos;
+*“ id. de Guerra;
+*“ id. de Fomento;
+*“ id. de Hacienda.}}
+
+Sin embargo, en 1867 con la [[República Restaurada (México)|República Restaurada]], [[Benito Juárez]] no se conservó nada de los nueve departamentos imperiales. En dicho año se concretó la división definitiva de las secretarías [[Secretaría de Gobernación (México)|Gobernación]] y [[Secretaría de Relaciones Exteriores (México)|Relaciones Exteriores]], nombres que actualmente tienen. Además se volvió a crear la Secretaría de Fomento, Colonización, Industria y Comercio, que había sido extinta en 1858.{{sfn|Quijano Torres|2012|p=370}}
+
+[[Archivo:Porfirio Diaz in uniform.jpg|thumb|[[Porfirio Díaz]] creó dos secretarías en su administración: la [[Secretaría de Infraestructura, Comunicaciones y Transportes|Secretaría de Comunicaciones y Obras Públicas]] (1876) y la [[Secretaría de Educación Pública (México)|Secretaría de Instrucción Pública y Bellas Artes]] (1905), y la primera dependencia de una secretaría: la [[Procuraduría General de la República (México)|Procuraduría General de la República]].]]
+
+A inicios del [[Porfiriato]] se dieron cambios significativos. El primero fue en 1876, la primera vez que [[Porfirio Díaz]] asumió la presidencia, en la que se simplificó la denominación a Secretaría de Fomento.{{sfn|Quijano Torres|2012|p=370}} La segunda ocurrió en el contexto del impulso al desarrollo económico propio de este periodo, el 13 de mayo de 1891, cuando se retiraron de la Secretaría de Fomento, las funciones de elaboración y dirección de la infraestructura pública, para originar la séptima área en el organigrama del gobierno federal: la [[Secretaría de Comunicaciones y Transportes|Secretaría de Comunicaciones y Obras Públicas]].{{sfn|Quijano Torres|2012|p=370}}
+
+Otro cambio significativo vino con el reacomodo de las funciones en el sistema de aranceles e impuestos vinculados al comercio, que al pasar de la secretaría de Fomento a la de Hacienda, terminó por configurar de manera definitiva la vigente estructura y nombre de esta última.{{sfn|Quijano Torres|2012|p=370}}
+
+=== {{Siglo|XX||S}} ===
+El 22 de mayo de 1900 la primera dependencia de una secretaría de Estado nació: la [[Procuraduría General de la República (México)|Procuraduría General de la República]]. Se creó como un órgano nacido directamente de una reforma constitucional y cuyo titular, al igual que un secretario de Estado, sería nombrado y removido libremente por el [[Presidente de México|presidente de la República]],<ref>{{Cita web|url=http://www.diputados.gob.mx/biblioteca/bibdig/const_mex/const_1857.pdf|título=Constitución de 1857 con sus reformas y adiciones hasta el año de 1901|autor=Cámara de Diputados|formato=PDF|páginas=47-48 (páginas del documento virtual, no del libro)|fechaacceso=10 de octubre de 2021}}</ref> pero sería dependiente de la [[Secretaría de Justicia (México)|Secretaría de Justicia e Instrucción Pública]].<ref>{{Cita web |url=http://historico.juridicas.unam.mx/publica/librev/rev/rap/cont/71/doc/doc35.pdf |título=Se establece el modo como deben distribuirse los negocios entre las secretarías de Estado}}</ref>{{sfn|Quijano Torres|2012|p=370}}
+
+El 18 de mayo de 1905 se creó la octava secretaría del gobierno federal. La Secretaría de Justicia e Instrucción Pública se dividió en dos: [[Secretaría de Justicia (México)|Secretaría de Justicia]] y [[Secretaría de Educación Pública (México)|Secretaría de Instrucción Pública y Bellas Artes]].{{sfn|Quijano Torres|2012|p=370}}
+
+Con los eventos de la [[Revolución mexicana]] ocurrieron una serie de cambios que fueron el reflejo de la inestabilidad política de la segunda década del siglo {{v|xx}}. 
+
+Una vez concluida la [[Decena Trágica]], el 19 de febrero de 1913 [[Victoriano Huerta]] decretó dos reformas del gabinete presidencial en materia económica. La Secretaría de Fomento cambió su nombre a Secretaría de Industria y Comercio y creó la novena secretaría de Estado: la Secretaría de Agricultura y Colonización, encargada del [[desarrollo rural]] y la [[colonización]] de nuevos territorios con fines productivos.{{sfn|Quijano Torres|2012|p=370}}
+
+Una vez que fue despuesto Huerta existieron dos gobiernos paralelos: el convencionalista (emanados de la [[Convención de Aguascalientes]]) y el constitucionalista (dirigido por [[Venustiano Carranza]]). El 26 de agosto de 1914 Carranza, el primer jefe del [[Ejército Constitucionalista]], como «encargado del [[Presidente de México|poder ejecutivo de los Estados Unidos Mexicanos]]» fusionó la Secretaría de Industria y Comercio con la recién creada Secretaría de Agricultura y Colonización para crear una secretaría que reuniera las principales actividades económicas, bajo el nombre de Secretaría de Agricultura y Fomento.{{sfn|Quijano Torres|2012|p=370}}
+
+La promulgación de la ''[[Constitución Política de los Estados Unidos Mexicanos de 1917|Constitución de 1917]]'' marcó una brecha para crear un orden jurídico más estable. A nivel constitucional se creó la figura de «departamento administrativo», encargados de funciones esencialmente coyunturales, que no requerían de estructuras normativas o políticas más elaboradas, pero parte del gabinete presidencial, cuyos titulares se llamarían «jefes del departamento».  Además se reconoció a la [[Procuraduría General de la República (México)|Procuraduría General de la República]] como cabeza del Ministerio Público de la Federación (responsable de perseguir los delitos del orden federal),<ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/2023-05/CPEUM-102.pdf|título=Artículo 102 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref> y con el mismo rango que una secretaría de Estado o un departamento administrativo,<ref name="dup-0-63" /> por lo que extinguió la [[Secretaría de Justicia (México)|Secretaría de Justicia]], la primera secretaría de Estado desaparecida de la vida política nacional. 
+
+[[Archivo:Portrait of Venustiano Carranza (cropped).jpg|thumb|[[Venustiano Carranza]] creó la figura de «departamento administrativo» y agregó nuevas entidades al gabinete inspiradas de los ideales de la [[Revolución mexicana]].]]
+
+Carranza decretó una ley que organizó el gabinete el 14 de abril de 1917, que sin embargo solo sería vigente hasta que tomara posesión el presidente electo en las [[Elecciones federales de México de 1917|elecciones federales de 1917]].{{sfn|Quijano Torres|2012|p=371}} El 31 de diciembre de 1917 Carranza ya como presidente constitucional promulgó la ''Ley de Secretarías de Estado y Departamentos Administrativos'', que organizó el gabinete presidencial, además de la [[Procuraduría General de la República (México)|Procuraduría General de la República]], en las ya tradicionales siete secretarías de Estado y cinco departamentos administrativos, sumando doce dependencias del gabinete:<ref name="Ley 1917">{{Cita web |autor=Carmona, Doralicia |url=https://www.memoriapoliticademexico.org/Efemerides/12/31121917.html |título=Venustiano Carranza promulga nueva Ley de Secretarías de Estado y Departamentos Administrativos |fechaacceso=7 de marzo de 2022}}</ref>
+* [[Secretaría de Gobernación (México)|Secretaría de Gobernación]]
+* [[Secretaría de Relaciones Exteriores (México)|Secretaría de Relaciones Exteriores]]
+* [[Secretaría de Hacienda y Crédito Público]]
+* [[Secretaría de Agricultura y Desarrollo Rural|Secretaría de Agricultura y Fomento]]
+* [[Secretaría de Infraestructura, Comunicaciones y Transportes|Secretaría de Comunicaciones y Obras Públicas]]
+* [[Secretaría de Economía (México)|Secretaría de Industria, Comercio y Trabajo]]
+* [[Secretaría de la Defensa Nacional|Secretaría de Guerra]] y [[Secretaría de Marina (México)|Marina]]
+* [[Secretaría de Educación Pública|Departamento Universitario y Bellas Artes]] 
+* Departamento de Salubridad Pública
+* Departamento de Contraloría
+* Departamento de Aprovisionamientos Generales
+* Departamento de Establecimientos Fabriles y Aprovisionamientos Militares.
+
+La nueva ley trajo consigo cambios importantes. Restauró la separación de las secretarías de [[Secretaría de Agricultura y Desarrollo Rural|Agricultura y Fomento]] y de [[Secretaría de Economía (México)|Industria, Comercio y Trabajo]] (donde además le agregó como facultad el desarrollo laboral). Reemplazó la Secretaría de Instrucción Pública y Bellas Artes por el [[Secretaría de Educación Pública|Departamento Universitario y de Bellas Artes]], para dar cumplimiento al artículo 3 de la [[Constitución Política de los Estados Unidos Mexicanos|Constitución Política]] (en materia educativa). Se crearon los departamentos de Salubridad Pública (encargado de la [[Asistencia sanitaria universal|sanidad pública]]), Contraloría (en la [[Contraloría|materia homónima]]), de Aprovisionamientos Generales (producto de una escisión de la [[Secretaría de Economía (México)|Secretaría de Industria, Comercio y Trabajo]]) y de Establecimientos Fabriles y Aprovisionamientos Militares (producto de una escisión de la [[Secretaría de la Defensa Nacional|Secretaría de Guerra]] y [[Secretaría de Marina (México)|Marina]]).<ref name="Ley 1917"/>{{sfn|Quijano Torres|2012|p=371}}
+
+En el gobierno de [[Álvaro Obregón]], decretó el 3 de octubre de 1921 la extinción del Departamento Universitario y de Bellas Artes para subirlo de estatus y crear la [[Secretaría de Educación Pública]], nombre que actualmente posee.{{sfn|Quijano Torres|2012|p=371}}
+
+En el gobierno de [[Plutarco Elías Calles]] nació el primer organismo mexicano dedicado enteramente en la política hídrica: el 27 de enero de 1926 Calles decretó la ''Ley sobre Irrigación con Aguas Federales'' en la que se creó la [[Comisión Nacional de Irrigación]], un organismo cuyo titular era nombrado por el [[Presidente de México|presidente de la República]] pero dependiente de la [[Secretaría de Agricultura y Desarrollo Rural|Secretaría de Agricultura y Fomento]].<ref>{{cita libro|autor=Flores Caballero, Romeo R. |url=http://www.inap.org.mx/portal/images/RAP/03%20administracin%20y%20poltica%20en%20la%20historia%20de%20mxico.pdf|título=Administración y política en la historia de México|editorial=Fondo de Cultura Económica-Instituto Nacional de Administración Pública|ubicación=México|isbn=968-16-2985-X|página=183 |fechaacceso=18 de octubre de 2013 |urlarchivo=https://web.archive.org/web/20131019143119/http://www.inap.org.mx/portal/images/RAP/03%20administracin%20y%20poltica%20en%20la%20historia%20de%20mxico.pdf |fechaarchivo=19 de octubre de 2013}}</ref>
+
+[[Archivo:New Federal District Building (Mexico City).jpg|thumb|Sede del [[Departamento del Distrito Federal]] (hoy [[edificio de Gobierno de la Ciudad de México]]), departamento de Estado que duró de 1929 a 1997.]]
+
+En el gobierno de Emilio Portes Gil ocurrió la [[reforma política del Distrito Federal de 1928]]. El 31 de diciembre de 1928 se creó el [[Departamento del Distrito Federal (México)|Departamento del Distrito Federal]].<ref name=DDF28>{{Cita web |url=http://www.juridicas.unam.mx/publica/librev/rev/rap/cont/61/pr/pr21.pdf |título=Ley Orgánica del Distrito y territorios Federales, Capítulo II del Gobierno del Distrito Federtal, art. 23 |formato=PDF}}</ref>{{sfn|Quijano Torres|2012|pp=371-372}} Anteriormente los titulares de poder ejecutivo (denominados «gobernadores», al igual que los estados) del [[Ciudad de México|Distrito Federal]] —al igual que de los [[Territorios federales de México|territorios federales]]—,<ref>{{Cita web |url=http://www.juridicas.unam.mx/publica/librev/rev/rap/cont/61/pr/pr20.pdf |título=Ley de Organización del Distrito y Territorios Federales (13 de abril de 1917), capítulo I, Del Gobierno del Distrito Federal y de los Territorios, |cita=Artículo 1o. El Gobierno del Distrito Federal y de cada uno de los territorios de la federación estará a cargo de un gobernador, que directamente dependerá del presidente de la República y será nombrado y removido por éste |formato=PDF}}</ref> pero con esta reforma pasó a formar del gabinete presidencial, y a su vez, facultaron al jefe del Departamento del Distrito Federal (comúnmente llamado regente de la ciudad) de nombrar y remover libremente a los delegados.<ref name=DDF28/>
+
+El 1 de noviembre de 1937 la Secretaría de Guerra y Marina cambia de nombre a [[Secretaría de la Defensa Nacional]] y posteriormente se crea el ''Departamento de Marina'' el 30 de septiembre de 1939. En 1937 se había creado la ''Secretaría de Asistencia Pública'', que al fusionarse en 1943 con el Departamento de Salubridad originó la [[Secretaría de Salud (México)|Secretaría de Salubridad y Asistencia]]. Mientras que en 1943 los departamentos de Trabajo y de Marina fueron elevados al rango con el nombre de [[Secretaría del Trabajo y Previsión Social]] y [[Secretaría de Marina (México)|Secretaría de Marina]] respectivamente. Finalmente en 1946 fue creada la Secretaría de Recursos Hidráulicos para sustituir a la Comisión Nacional de Irrigación.{{sfn|Quijano Torres|2012|p=373}}
+
+En el marco del [[Desarrollo estabilizador]], la estructura del gabinete fue dirigida en función de que todas las áreas colaboraran, en el ámbito de sus responsabilidades, para fomentar dicha política económica. Por ello fue creada la [[Secretaría de Programación y Presupuesto|Secretaría de la Presidencia]], una especie de ''Jefatura de Gabinete''; pues dicho despacho era en la práctica, la responsable de organizar y coordinar de forma anual las actividades de las demás, tomando en cuenta la mayor obligación que se le entregó: administrar el presupuesto público del gobierno federal. Los cambios en el sexenio de [[Adolfo López Mateos]] (en el que se creó dicha secretaría) incluyeron que la Secretaría de Bienes Nacionales e Inspección Administrativa, pasó a ser Secretaría del Patrimonio Nacional; la Secretaría de Economía se convirtió en Secretaría de Industria y Comercio; la de Comunicaciones y Obras Públicas fue separada en dos entidades distintas (correspondientes a los nombres de las actividades mencionadas). 
+
+En 1974 los departamentos administrativos de [[Secretaría de Turismo (México)|Turismo]] y [[Secretaría de la Reforma Agraria (México)|Reforma Agraria]] fueron elevados al rango de secretarías. En el gobierno de [[José López Portillo]] se suscitaron como cambios: la creación del Departamento de Pesca; la fusión de las Secretarías de Agricultura y la de Recursos Hidráulicos; y la ampliación de facultades de la secretaría de la Presidencia, que la transformó en [[Secretaría de Programación y Presupuesto]]. Durante el periodo de [[Miguel de la Madrid]], y en el escenario de su plataforma de campaña denominada ''Renovación moral'', se creó la [[Secretaría de la Función Pública (México)|Secretaría de la Contraloría General de la Federación]], como encargada del correcto funcionamiento de la Administración Pública Federal, en un intento de combatir la corrupción. Además las secretarías de Asentamientos Humanos y
+Obras Públicas, y Salubridad y Asistencia, se convirtieron en Secretaría de Desarrollo Urbano y Ecología, y Secretaría de Salud respectivamente.{{sfn|Quijano Torres|2012|pp=374-375}}
+
+Durante el gobierno de [[Carlos Salinas de Gortari]] en 1992, se devuelve la responsabilidad de administrar el presupuesto a la [[Secretaría de Hacienda y Crédito Público|Hacienda y Crédito Público]], con lo que desapareció el despacho de [[Secretaría de Programación y Presupuesto|Programación y Presupuesto]]. Ese mismo año, cambiaron las atribuciones del área de Desarrollo Urbano y Ecología para crear la [[Secretaría de Bienestar|Secretaría de Desarrollo Social]]; el cambio fue a la par del fuerte impulso que recibió el eje de la política social del gobierno, el programa ''Solidaridad''; quedando este cargo de esta secretaría.<ref>{{Cita web|url=https://www.proceso.com.mx/158545/programacion-y-presupuesto-centro-de-pugnas-intersecretariales|título=Programación y Presupuesto, centro de pugnas intersecretariales|fecha=11 de enero de 1992|fechaacceso=20 de septiembre de 2018|autor=Proceso|fechaarchivo=20 de septiembre de 2018|urlarchivo=https://web.archive.org/web/20180920195526/https://www.proceso.com.mx/158545/programacion-y-presupuesto-centro-de-pugnas-intersecretariales|deadurl=yes}}</ref><ref>{{Cita web |url=https://www.eumed.net/tesis-doctorales/2012/azv/evolucion_administracion_publica_mexico.html|título=Evolución de la administración pública en México.|fechaacceso=20 de septiembre de 2018|autor=EUMED.net}}</ref>
+
+En el inicio del sexenio de [[Ernesto Zedillo]] en 1994, la [[Secretaría de Pesca]] recibió facultades del área de Ecología, para convertirse en [[Secretaría de Medio Ambiente y Recursos Naturales|Secretaría del Medio Ambiente, Recursos Naturales y Pesca]]; con ello la de Agricultura y Recursos Hidráulicos se convirtió en Secretaría de Agricultura, Ganadería y Desarrollo Rural. Además, las áreas de energía, minas e industria paraestatal, fueron ascendidas al rango de secretaría de estado con el nombre de [[Secretaría de Energía (México)|Secretaría de Energía]]. 
+
+El 5 de diciembre de 1997 desapareció el [[Departamento del Distrito Federal]], el último que conservaba dicha categoría, cuando asumió como [[jefe de Gobierno del Distrito Federal]] [[Cuauhtémoc Cárdenas]] y, según lo establecido en una reforma constitucional en 1995, le pudo otorgar una autonomía limitada a los poderes locales de la capital.<ref>{{Cita web |url=http://dcsh.izt.uam.mx/cen_doc/cede/Anuario_Elecciones_Partidos_Politicos%20/1997_div/1997%20div/1997p.106-118.pdf|título=Las elecciones del 6 de julio de 1997 en el Distrito Federal|fechaacceso=20 de septiembre de 2018|autor=Gustavo Ernesto Emmerich}}</ref>
+
+=== {{Siglo|XXI||S}} ===
+Durante el gobierno de [[Vicente Fox]], el cambio más importante fue el de dirigir las facultades en materia de seguridad, de la secretaría de Gobernación a la nueva [[Secretaría de Seguridad Pública (México)|Secretaría de Seguridad Pública]]. El despacho de Comercio y Fomento Industrial se renombró Secretaría de Economía. Distintos cambios en las facultades trajeron la modificación en los nombres de algunas secretarías.{{sfn|Quijano Torres|2012|p=375}}
+ 
+En el gobierno de [[Enrique Peña Nieto]] se presentaron como modificaciones, la desaparición de la Secretaría de Seguridad Pública para reintegrarla a Gobernación; la creación de la [[Secretaría de Cultura (México)|Secretaría de Cultura]] y la transformación de la Secretaría de la Reforma Agraria en [[Secretaría de Desarrollo Agrario, Territorial y Urbano]]; y la más importante, fue la reforma constitucional que separó del gabinete a la [[Procuraduría General de la República (México)|Procuraduría General de la República]] para crear la [[Fiscalía General de la República (México)|Fiscalía General de la República]], cuyo titular ahora sería nombrado por el [[Senado de México|Senado de la República]] por nominación del presidente.<ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/2023-05/CPEUM-102.pdf|título=Apartado A del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+Finalmente, y antes de tomar posesión de la presidencia de la república, [[Andrés Manuel López Obrador]] impulsó reformas a la ley orgánica de la administración pública federal, para ampliar facultades o modificar los nombres y estrategias de algunas secretarías. Siendo los cambios más relevantes la creación de la [[Secretaría de Seguridad y Protección Ciudadana]], que entre sus nuevas funciones se encuentra administrar todo lo relativo al servicio de inteligencia del Estado mexicano; el cambio de denominación de las secretarías de Desarrollo Social y la de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la primera para llamarse [[Secretaría de Bienestar]], y la segunda para simplificarse como [[Secretaría de Agricultura y Desarrollo Rural]], cambios que entraron en vigencia el 1 de diciembre de 2018.<ref>{{cita web |título=Decreto que reforma y adiciona la Ley de Orgánica de la Administración Pública Federal (Artículo 30 bis)|url=https://www.dof.gob.mx/nota_detalle.php?codigo=5545331&fecha=30/11/2018|fechaacceso= 2 de diciembre de 2018 |fecha= 29 de diciembre de 1976 |cita=Reforma publicada el 30 de noviembre de 2018 en el Diario Oficial de la Federación}}</ref> El 20 de octubre de 2021 la Secretaría de Comunicaciones y Transportes se renombró como [[Secretaría de Infraestructura, Comunicaciones y Transportes]].<ref>{{cita web |título=Senado de la República cambió el nombre de la Secretaría de Comunicaciones y Transportes|url=https://www.infobae.com/america/mexico/2021/09/07/senado-de-la-republica-cambio-el-nombre-de-la-secretaria-de-comunicaciones-y-transportes/|fechaacceso= 23 de octubre de 2022}}</ref>
+
+El 28 de noviembre de 2024, al inicio del gobierno de [[Claudia Sheinbaum]], de manera paralela a una reforma constitucional en materia de simplificación gubernamental (desaparición de los órganos autónomos de telecomunicaciones, competencia económica y transparencia), se reestructuraron las funciones de la mayoría de las secretarías para absorber las facultades de los entes desaparecidos; además surgieron tres nuevos componentes del gabinete legal: la [[Secretaría de las Mujeres]] (sustituta del [[Instituto Nacional de las Mujeres (México)|Instituto Nacional de las Mujeres]]), la [[Secretaría de Ciencia, Humanidades, Tecnología e Innovación]] (sustituta del [[Consejo Nacional de Humanidades, Ciencias y Tecnologías|CONAHCYT]]) y la [[Agencia de Transformación Digital y Telecomunicaciones]].<ref>{{cita web|url=https://www.diputados.gob.mx/LeyesBiblio/ref/loapf/LOAPF_ref75_28nov24.pdf|título=Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal|sitio web=Cámara de Diputados|fecha=28 de noviembre de 2024|fechaacceso=3 de enero de 2025}}</ref>
+
+== Características ==
+Las características generales que deberán guardar las distintas secretarías, esta establecidas en los artículos del 10 al 17 de la ''Ley Orgánica de la Administración Pública Federal''.<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf|título=Artículos 10 al 17 de la Ley Orgánica de la Administración Pública Federal|sitio web=Cámara de Diputados|fechaacceso=6 de agosto de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+{{Cita|
+*Artículo 10.- Las Secretarías de Estado tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Presidente de la República, la Secretaría de Gobernación coordinará las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.
+*Artículo 11. Los titulares de las Secretarías de Estado ejercerán las funciones de su competencia por acuerdo del Presidente de la República.
+*Artículo 12. Cada Secretaría de Estado formulará, respecto de los asuntos de su competencia; los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes del Presidente de la República.
+*Artículo 13.- Los reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales, ir firmados por el Secretario de Estado respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
+**Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso de la Unión, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
+*Artículo 14.- Al frente de cada Secretaría habrá un Secretario de Estado, quien para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Oficial Mayor, Directores, Subdirectores, Jefes y Subjefes de Departamento, oficina, sección y mesa, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones legales. En los juicios de amparo, el Presidente de la República podrá ser representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias. Los recursos administrativos promovidos contra actos de los Secretarios de Estado serán resueltos dentro del ámbito de su Secretaría en los términos de los ordenamientos legales aplicables.
+*Artículo 15. (Derogado)
+*Artículo 16.- Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refiere el artículo 14 de esta Ley, cualesquiera de sus facultades, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
+**Los propios titulares de las Secretarías de Estado también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías, Oficialía Mayor, y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
+**Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
+*Artículo 17. Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables}}
+
+En tanto que para los titulares de las mismas, sus características están establecidas en el artículo 91 de la constitución.<ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-091.pdf|título=Artículo 91 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+{{cita|
+Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener veinticinco años cumplidos.}}
+
+== Gabinete presidencial ==
+{{VT|Anexo:Gabinete de Claudia Sheinbaum}}
+=== Gabinete legal ===
+El artículo 26 de la Ley Orgánica de la Administración Pública Federal establece la existencia y numera en el siguiente orden los nombres oficiales de las veintidós dependencias del presidente de la República para el despacho de sus asuntos administrativos:
+{| class="wikitable" style="margin:auto"
+!width="360" |Dependencia<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf|título=Artículo 26 de la Ley Orgánica de la Administración Pública Federal|sitio web=Cámara de Diputados|fechaacceso=6 de agosto de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+!width="390" |Antecedentes{{sfn|Quijano Torres|2012|pp=405-510}}
+!Titular
+!Extitulares
+|-
+|[[Archivo:SEGOB_Logo_(2024).png|300px]]<br>'''[[Secretaría de Gobernación (México)|Secretaría de Gobernación]]'''
+|<small>Secretaría de Estado y del Despacho de Relaciones Exteriores e Interiores (1821-1837)<br>Ministerio del Interior (1837-1841)<br>Ministerio de Relaciones Exteriores e Interiores (1841-1842)<br>Ministerio de Relaciones Exteriores, Gobernación y Policía (1842-1853)<br>Ministerio de Gobernación (1853-1855)<br>Secretaría de Gobernación (1855-1857)<br>Secretaría de Relaciones Exteriores y Gobernación (1858-1867)<br>Secretaría de Gobernación (desde 1867)</small>
+|[[Rosa Icela Rodríguez]]
+|[[Anexo:Secretarios de Gobernación (México)|Véase]]
+|-
+|[[Archivo:SRE_Logo_(2024).png|300px]]<br>'''[[Secretaría de Relaciones Exteriores (México)|Secretaría de Relaciones Exteriores]]'''
+|<small>Secretaría de Estado y del Despacho de Relaciones Exteriores e Interiores (1821-1837)<br>Ministerio de Relaciones Exteriores (1837-1841)<br>Ministerio de Relaciones Exteriores e Interiores (1841-1842)<br>Ministerio de Relaciones Exteriores, Gobernación y Policía (1842-1853)<br>Ministerio de Relaciones Exteriores (1853-1855)<br>Secretaría de Relaciones Exteriores (1855-1857)<br>Secretaría de Relaciones Exteriores y Gobernación (1858-1867)<br>Secretaría de Relaciones Exteriores (desde 1867)</small>
+|[[Roberto Velasco Álvarez]]
+|[[Anexo:Secretarios de Relaciones Exteriores (México)|Véase]]
+|-
+|[[Archivo:Defensa Logo (2024).png|230px]]<br>'''[[Secretaría de la Defensa Nacional]]'''
+|<small>Secretaría de Guerra y Marina (1821-1837)<br>Ministerio de Guerra y Marina (1837-1855)<br>Secretaría de Guerra y Marina (1855-1936)<br>Secretaría de la Defensa Nacional (desde 1936)</small>
+|[[Ricardo Trevilla Trejo]]
+|[[Anexo:Secretarios de la Defensa Nacional|Véase]]
+|-
+|[[Archivo:SEMAR_Logo_(2024).png|186px]]<br>'''[[Secretaría de Marina (México)|Secretaría de Marina]]'''
+|<small>Departamento de la Marina Nacional (1940)<br>Secretaría de Marina (desde 1940)</small>
+|[[Raymundo Pedro Morales Ángeles]] 
+|[[Anexo:Secretarios de Marina (México)|Véase]]
+|-
+| [[Archivo:SSPC_Logo_(2024).png|260px]]<br>'''[[Secretaría de Seguridad y Protección Ciudadana]]'''
+|<small>Secretaría de Seguridad Pública (2000-2013)<br>Secretaría de Seguridad y Protección Ciudadana (desde 2018)</small>
+|[[Omar García Harfuch]]
+|[[Anexo:Secretarios de Seguridad y Protección Ciudadana|Véase]]
+|-
+|[[Archivo:SHCP_Logo_(2024).png|230px]]<br>'''[[Secretaría de Hacienda y Crédito Público]]'''
+|<small>Secretaría de Hacienda Pública (1821-1837)<br>Ministerio de Hacienda (1837-1853)<br>Ministerio de Hacienda y Crédito Público (1853-1855)<br>Secretaría de Hacienda y Crédito Público (desde 1855)</small>
+|[[Edgar Amador Zamora]]
+|[[Anexo:Secretarios de Hacienda y Crédito Público|Véase]]
+|-
+|[[Archivo:BIENESTAR_Logo_(2024).png|260px]]<br>'''[[Secretaría de Bienestar]]'''
+|<small>Secretaría de Obras Públicas (1959-1976)<br>Secretaría de Asentamientos Humanos y Obras Públicas (1976-1982)<br>Secretaría de Desarrollo Urbano y Ecología (1982-1992)<br>Secretaría de Desarrollo Social (1992-2018)<br>Secretaría de Bienestar (desde 2018)</small>
+|[[Leticia Ramírez Amaya]]
+|[[Anexo:Secretarios de Bienestar|Véase]]
+|-
+|[[Archivo:SEMARNAT_Logo_(2024).png|300px]]<br>'''[[Secretaría de Medio Ambiente y Recursos Naturales]]'''
+|<small>Departamento de Pesca (1976-1982)<br>Secretaría de Pesca (1982-1994)<br>Secretaría de Medio Ambiente, Recursos Naturales y Pesca (1994-2000)<br>Secretaría de Medio Ambiente y Recursos Naturales (desde 2000)</small>
+|[[Alicia Bárcena Ibarra]]
+|[[Anexo:Secretarios de Medio Ambiente y Recursos Naturales|Véase]]
+|-
+| [[Archivo:SENER_Logo_(2024).png|260px]]<br>'''[[Secretaría de Energía (México)|Secretaría de Energía]]'''
+|<small>Secretaría de Bienes Nacionales e Inspección Administrativa (1946-1958)<br>Secretaría del Patrimonio Nacional (1958-1976)<br>Secretaría de Patrimonio y Fomento Industrial (1976-1982)<br>Secretaría de Energía, Minas e Industria Paraestatal (1982-1994)<br>Secretaría de Energía (desde 1994)</small>
+|[[Luz Elena González Escobar]]
+|[[Anexo:Secretarios de Energía (México)|Véase]]
+|-
+|[[Archivo:SE_Logo_(2024).png|300px]]<br>'''[[Secretaría de Economía (México)|Secretaría de Economía]]'''
+|<small>Ministerio de Fomento, Colonización, Industria y Comercio (1853-1855)<br>Secretaría de Fomento, Colonización, Industria y Comercio (1855-1857)<br>Secretaría de Fomento, Colonización e Industria (1876-1911)<br>Secretaría de Fomento (1911-1914)<br>Secretaría de Industria y Comercio (1914-1917)<br>Secretaría de Industria, Comercio y Trabajo (1917-1932)<br>Secretaría de la Economía Nacional (1932-1946)<br>Secretaría de Economía (1946-1958)<br>Secretaría de Industria y Comercio (1958-1976)<br>Secretaría de Comercio (1976-1982)<br>Secretaría de Comercio y Fomento Industrial (1982-2000)<br>Secretaría de Economía (desde 2000)</small>
+|[[Marcelo  Ebrard]]
+|[[Anexo:Secretarios de Economía (México)|Véase]]
+|-
+|[[Archivo:SADER_Logo_(2024).png|300px]]<br>'''[[Secretaría de Agricultura y Desarrollo Rural]]'''
+|<small>Secretaría de Agricultura y Colonización (1913-1914)<br>Secretaría de Agricultura y Fomento (1917-1946)<br>Secretaría de Agricultura y Ganadería (1946-1976)<br>Secretaría de Agricultura y Recursos Hidráulicos (1976-1994)<br>Secretaría de Agricultura, Ganadería y Desarrollo Rural (1994-2000)<br>Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (2000-2018)<br>Secretaría de Agricultura y Desarrollo Rural (desde 2018)</small>
+|[[Columba López Gutiérrez]]
+|[[Anexo:Secretarios de Agricultura y Desarrollo Rural|Véase]]
+|-
+|[[Archivo:SICT_Logo_(2024).png|350px]]<br>'''[[Secretaría de Infraestructura, Comunicaciones y Transportes]]'''
+|<small>Secretaría de Comunicaciones y Obras Públicas (1891-1958)<br>Secretaría de Comunicaciones y Transportes (1958-2021)<br>Secretaría de Infraestructura, Comunicaciones y Transportes (desde 2021)</small>
+|[[Jesús Antonio Esteva Medina]]
+|[[Anexo:Secretarios de Infraestructura, Comunicaciones y Transportes|Véase]]
+|-
+|[[Archivo:buen_gobierno.svg|330px]]<br>'''[[Secretaría Anticorrupción y Buen Gobierno]]'''
+|<small>Secretaría de la Controlaría General de la Federación (1982-1994)<br>Secretaría de Contraloría y Desarrollo Administrativo (1994-2003)<br>Secretaría de la Función Pública (2003-2024)<br>Secretaría Anticorrupción y Buen Gobierno (desde 2025)</small>
+|[[Raquel Buenrostro Sánchez]] 
+|[[Anexo:Secretarios de la Función Pública (México)|Véase]]
+|-
+|[[Archivo:SEP_Logo_(2024).png|300px]]<br>'''[[Secretaría de Educación Pública]]'''
+|<small>Secretaría de Instrucción Pública y Bellas Artes (1905-1917)<br>Departamento Universitario y de Bellas Artes (1917-1921)<br>Secretaría de Educación Pública (desde 1921)</small>
+|[[Mario Delgado Carrillo]]
+|[[Anexo:Secretarios de Salud Pública (México)|Véase]]
+|-
+| [[Archivo:Logotipo SECIHTI 2025-2030.svg|330x330px]]<br>'''[[Secretaría de Ciencia, Humanidades, Tecnología e Innovación]]'''
+|<small>Consejo Nacional de Ciencia y Tecnología (1970-2023)<br>Consejo Nacional de Humanidades, Ciencias y Tecnologías (2023-2024)<br>Secretaría de Ciencia, Humanidades, Tecnología e Innovación (desde 2025)</small>
+|[[Rosaura Ruiz Gutiérrez]]
+|[[Anexo:Secretarios de Ciencia, Humanidades, Tecnología e Innovación (México)|Véase]]
+|-
+|[[Archivo:SALUD_Logo_(2024).png|180px]]<br>'''[[Secretaría de Salud (México)|Secretaría de Salud]]'''
+|<small>Secretaría de Asistencia Social (1938)<br>Secretaría de Salubridad y Asistencia (1940-1982)<br>Secretaría de Salud (desde 1982)</small>
+|[[David Kershenobich Stalnikowitz]]
+|[[Anexo:Secretarios de Salud (México)|Véase]]
+|-
+|[[Archivo:STPS_Logo_(2024).png|175px]]<br>'''[[Secretaría del Trabajo y Previsión Social]]'''
+|<small>Departamento del Trabajo (1932-1941)<br>Secretaría de Trabajo y Previsión Social (desde 1941)</small>
+|[[Marath Baruch Bolaños López]]
+|[[Anexo:Secretarios del Trabajo y Previsión Social|Véase]]
+|-
+|[[Archivo:SEDATU_Logo_(2024).png|300px]]<br>'''[[Secretaría de Desarrollo Agrario, Territorial y Urbano]]'''
+|<small>Departamento Agrario (1934-1958)<br>Departamento de Asuntos Agrarios y Colonización (1958-1970)<br>Secretaría de la Reforma Agraria (1974-2013)<br>Secretaría de Desarrollo Agrario, Territorial y Urbano (desde 2013)</small>
+|[[Edna Elena Vega Rangel]]
+|[[Anexo:Secretarios de Desarrollo Agrario, Territorial y Urbano|Véase]]
+|-
+|[[Archivo:CULTURA_Logo_(2024).png|230px]]<br>'''[[Secretaría de Cultura (México)|Secretaría de Cultura]]'''
+|<small>Consejo Nacional para la Cultura y las Artes (1988-2015). Secretaría de Cultura (desde 2015)</small>
+|[[Claudia Curiel de Icaza]]
+|[[Anexo:Secretarios de Cultura (México)|Véase]]
+|- 
+|[[Archivo:SECTUR_Logo_(2024).png|200px]]<br>'''[[Secretaría de Turismo (México)|Secretaría de Turismo]]'''
+|<small>Departamento de Turismo (1958-1970)<br>Secretaría de Turismo (desde 1970)</small>
+|[[Josefina Rodríguez Zamora]]
+|[[Anexo:Secreatrios de Turismo|Véase]]
+|-
+| [[Archivo:MUJERES Logo (2025).png|200x200px]]<br>'''[[Secretaría de las Mujeres (México)|Secretaría de las Mujeres]]'''
+|<small>Instituto Nacional de las Mujeres (2001-2024)<br>Secretaría de las Mujeres (desde 2025)</small>
+|''Vacante''
+|[[Anexo:Titulares de la Secretaría de las Mujeres|Véase]]
+|-
+|[[Archivo:CJEF_Logo_(2024).png|300px]]<br>'''[[Consejería Jurídica del Ejecutivo Federal]]'''
+|<small>Consejería Jurídica del Ejecutivo Federal (desde 1996)<ref group="nota" name=";2015">Su creación fue en 1996 pero oficialmente no fue integrado al Gabinete legal sino hasta 2015.</ref></small>
+|[[Luisa María Alcalde Luján]]
+|[[Anexo:Consejeros jurídicos del Ejecutivo federal|Véase]]
+|-
+|[[Archivo:Logo ATDT.png|350px]]<br>'''[[Agencia de Transformación Digital y Telecomunicaciones]]'''
+|<small>Agencia de Transformación Digital y Telecomunicaciones (desde 2025)</small>
+|[[José Antonio Peña Merino]]
+|[[Anexo:Titulares de la  Agencia de Transformación Digital y Telecomunicaciones|Véase]]
+|}
+
+=== Gabinete ampliado ===
+{{AP|Administración Pública Federal}}
+El gabinete ampliado está conformada por las dos empresas productivas del estado, los 73 órganos administrativos desconcentrados, los 97 organismos descentralizados, las 67 empresas de participación estatal, que incluyen a las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, y las instituciones nacionales de seguros y de fianzas; así como los 16 fideicomisos públicos.<ref>{{Cita web|url=https://www.diariooficial.gob.mx/nota_detalle.php?codigo=5765466&fecha=14/08/2025#gsc.tab=0|título=Relación de las Entidades Paraestatales de la Administración Pública Federal|fecha=14 de agosto de 2025|fechaacceso=3 de octubre de 2025|sitio web=Diario Oficial de la Federación}}</ref><ref>{{Cita web|url=https://www.gob.mx/gobierno|título=¿Qué es la Administración Pública Federal?|fechaacceso=3 de octubre de 2025|sitioweb=Gobierno de México}}</ref><ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf|título=Artículo 45 de la Ley Orgánica de la Administración Pública Federal|sitio web=Cámara de Diputados|fechaacceso=6 de agosto de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref><ref>{{cita libro|nombre=Alejandro Carrillo Castro|enlaceautor=|título=200 años de Administración Pública en México - GÉNESIS Y EVOLUCIÓN DE LA ADMINISTRACIÓN PÚBLICA FEDERAL CENTRALIZADA: Tomo II; Volumen II|fechaacceso=11 de septiembre de 2018|idioma=español|año=2012|editorial=Instituto Nacional de Administración Pública A.C.|ubicación=México|isbn=978-607-9026-10-3|capítulo=|páginas=|cita=}}</ref>
+* '''Empresas productivas del Estado'''. Son las [[Empresa pública|empresas estatales]] en las que el Estado es el propietario de la totalidad de su producción, y que constitucionalmente tienen permitido ejercer el monopolio en sus funciones. Existen dos: [[Petróleos Mexicanos]] —[[petróleo]] y [[gas natural]]— y la [[Comisión Federal de Electricidad]] —[[energía eléctrica]]—. Sus titulares son el principal director de la empresa y el presidente de las mismas es el [[Secretario de Energía (México)|secretario de Energía]] en turno. Forman parte de la Administración Pública Paraestatal. 
+* '''Organismos descentralizados'''. Es el principal y más común tipo de entidad dentro de la Administración Pública Paraestatal. Sus nombres suelen iniciar por instituto o comisión. En la mayoría de los casos están sectorizados a una secretaría, y son inmediatamente inferiores al secretario de Estado dentro de los organigramas; pero también pueden no estar sectorizadas y depender directamente del presidente sin ningún secretario de por medio.
+* '''Empresas de participación estatal mayoritaria'''. Son aquellas empresas en las que el Estado es dueño de, por lo menos, el 50 % del capital. Su finalidad es satisfacer las necesidades de bienes o servicios que las leyes establezcan, a la par de asegurar la continuidad de la estructura productivo-comercial así como sus necesarias inversiones. Históricamente el estado mexicano era activo participante y propietario de una gran cantidad de empresas, en el marco del [[Estatismo]], propio del régimen priísta del {{siglo|XX||s}}; pero a partir del sexenio de [[Miguel de la Madrid]], se inició un periodo de privatización que disminuyó casi en su totalidad estas empresas, no obstante, se conservan algunas todavía en la actualidad, como [[Correos de México]], [[Aeropuertos y Servicios Auxiliares]] y la [[Lotería Nacional (México)|Lotería Nacional]].{{sfn|Campero Cárdenas|2012}}<ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-027_1_0.pdf|título=Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref><ref>{{Cita web|url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-028_2.pdf|título=Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref> Forman parte de la Administración Pública Paraestatal.
+* '''Fideicomisos públicos'''. Son [[Fideicomiso|fideicomisos]] creados como planeación patrimonial en un ámbito en específico. Son dependientes a las secretarías de Estado a las que estén sectorizados, no obstante, en todos los casos el fideicomisario es la [[Secretaría de Hacienda y Crédito Público]]. Forman parte de la Administración Pública Paraestatal.
+
+Las entidades más importantes del gabinete ampliado debido a su relevancia en la vida política y diaria nacional son las siguientes:
+{| class="wikitable" style="text-align:center"
+!width="400" |Cargo
+!Tipo
+!Dependiente de / sectorizado a
+!Titular
+|-
+|[[Archivo:Logo de Petróleos Mexicanos (2019).svg|154x154px]]<br>'''[[Petróleos Mexicanos]]'''
+| Empresa productiva del Estado
+| rowspan="2" |[[Secretaría de Energía (México)|Secretaría de Energía]]
+|Víctor Rodríguez Padilla
+|-
+| [[Archivo:Comisión Federal de Electricidad (logo) .svg|150px]]<br>'''[[Comisión Federal de Electricidad]]'''
+| Empresa productiva del Estado
+|Emilia Esther Calleja Alor
+|-
+|[[Archivo:Logo de la Conagua.svg|centro|175x175px|alt=]]'''[[Comisión Nacional del Agua]]'''
+|Órgano administrativo desconcentrado
+| rowspan="2" |[[Secretaría de Medio Ambiente y Recursos Naturales]]
+|Efraín Morales López
+|-
+|[[Archivo:Logo PROFEPA.png|200px]]<br>'''[[Procuraduría Federal de Protección al Ambiente]]'''
+|Organismo descentralizado
+|Mariana Boy Tamborrell
+|-
+|[[Archivo:Logo del ISSSTE.svg|175x175px]]<br>'''[[Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado]]'''
+|Organismo descentralizado
+| rowspan="4" |[[Secretaría de Salud (México)|Secretaría de Salud]]
+|[[Martí Batres]]
+|-
+|[[Archivo:IMSS Logosímbolo.png|93x93px]]<br>'''[[Instituto Mexicano del Seguro Social]]'''
+|Organismo descentralizado
+|[[Zoé Robledo Aburto]]
+|-
+|[[Archivo:SNDIF Logo (2018).svg|128x128px]]<br>'''[[Sistema Nacional para el Desarrollo Integral de la Familia]]'''
+|Organismo descentralizado
+|María del Rocío García Pérez
+|-
+|[[Archivo:IMSS Bienestar 2025.svg|186x186px]]<br>'''[[IMSS-Bienestar]]'''
+|Organismo público descentralizado, no sectorizado.
+|[[Alejandro Svarch Pérez]]
+|-
+|[[Archivo:Logo del SAT.svg|214x214px]]<br>'''[[Servicio de Administración Tributaria]]'''
+|Órgano administrativo desconcentrado
+| rowspan="2" |[[Secretaría de Hacienda y Crédito Público]]
+|[[Antonio Martínez Dagnino]]
+|-
+|[[Archivo:Logo de Nafin.svg|187x187px]]<br>'''[[Nacional Financiera]]'''
+|Empresa de participación estatal mayoritaria
+|[[Roberto Lazzeri Montaño]]
+|-
+|[[Archivo:Logo INFONAVIT.svg|101x101px]]<br>'''[[Instituto del Fondo Nacional de la Vivienda para los Trabajadores]]'''
+|Organismo descentralizado
+|—
+|[[Octavio Romero Oropeza]]
+|-
+|[[Archivo:Logo CONADE (2).svg|125x125px]]<br>'''[[Comisión Nacional de Cultura Física y Deporte (México)|Comisión Nacional de Cultura Física y Deporte]]'''
+|Organismo descentralizado
+|[[Secretaría de Educación Pública]]
+|[[Rommel Pacheco]]
+|-
+|[[Archivo:Sello del Centro Nacional de Inteligencia (México).svg|125x125px]]<br>'''[[Centro Nacional de Inteligencia (México)|Centro Nacional de Inteligencia]]'''
+|Organismo desconcentrado
+|[[Secretaría de Seguridad y Protección Ciudadana]]
+|[[Francisco Almazán Barocio]]
+|-
+|[[Archivo:INPI Logo 2018.svg|175x175px]]<br>'''[[Instituto Nacional de los Pueblos Indígenas]]'''
+|Organismo descentralizado
+| —
+|[[Adelfo Regino Montes]]
+|-
+|[[Archivo:Logo CONAPRED (cropped).png|180x180px]]<br>'''[[Consejo Nacional para Prevenir la Discriminación]]'''
+|Organismo descentralizado
+| rowspan="2" | [[Secretaría de Gobernación (México)|Secretaría de Gobernación]]
+|[[Claudia Morales Reza]]
+|-
+|[[Archivo:INM logo (2018).svg|200px]]<br>'''[[Instituto Nacional de Migración]]'''
+|Organismo descentralizado
+|[[Sergio Salomón Céspedes]]
+|-
+|[[Archivo:Logo PROFECO.png|180x180px]]<br>'''[[Procuraduría Federal del Consumidor]]'''
+|Organismo descentralizado
+|[[Secretaría de Economía (México)|Secretaría de Economía]]
+|César Iván Escalante Ruiz
+|-
+|[[Archivo:Logo CAPUFE.svg|100x100px]]<br>'''[[Caminos y Puentes Federales]]'''
+|Organismo descentralizado
+|[[Secretaría de Infraestructura, Comunicaciones y Transportes]]
+|[[Rubén Arturo Hernández Bermúdez]]
+|-
+|[[Archivo:Logo del FONATUR.svg|186x186px]]<br>'''[[Fondo Nacional de Fomento al Turismo]]'''
+|Fideicomiso público
+|[[Secretaría de Turismo (México)|Secretaría de Turismo]]
+|[[Sebastián Ramírez Mendoza]]
+|}
+
+=== Integración sectorial ===
+
+Las leyes mexicanas contemplan la integración específica en secciones del gabinete, para responder a políticas públicas particulares; en todos los casos dirigidos por el propio Presidente de la República, y compuestos por los titulares de cada dependencia.
+
+==== Gabinete social ====
+
+El artículo 44 bis de la «Ley Orgánica de la Administración Pública Federal» establece el «Gabinete Social» como un ente colegiado de las secretarías y dependencias vinculadas a las políticas sociales, especialmente para la administración de los recursos extraordinarios que surjan, como lo marca el artículo 22 de la constitución, de los procesos judiciales contra la corrupción y el crimen; los cuales confiscan, enajenan o expropian bienes en favor del estado. Lo integran:<ref>{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf|título=Artículo 44 Bis de la Ley Orgánica de la Administración Pública Federal|sitio web=Cámara de Diputados|fechaacceso=12 de octubre de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+* [[Secretaría de Bienestar]]
+* [[Secretaría de Gobernación (México)|Secretaría de Gobernación]]
+* [[Secretaría de Hacienda y Crédito Público]]
+* [[Secretaría de Educación Pública (México)|Secretaría de Educación Pública]]
+* [[Secretaría de Salud (México)|Secretaría de Salud]]
+* [[Instituto para Devolver al Pueblo lo Robado]]
+* [[Instituto Mexicano del Seguro Social]]
+* [[Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado]]
+* [[Sistema Nacional para el Desarrollo Integral de la Familia]]
+* [[Comisión Nacional contra las Adicciones]]
+* [[Secretaría de Ciencia, Humanidades, Tecnología e Innovación (México)|Secretaría de Ciencia, Humanidades, Tecnología e Innovación]]
+
+==== Gabinete federal de seguridad pública ====
+
+El artículo 20 de la «Ley General del Sistema Nacional de Seguridad Pública» establece el «Gabinete Federal de Seguridad Pública», componente del [[Sistema Nacional de Seguridad Pública (México)|Sistema Nacional de Seguridad Pública]], como el órgano de coordinación y decisión del poder ejecutivo federal, para cumplir su responsabilidad en el contexto de la política en la materia y sus obligaciones en el seno del sistema ya mencionado. Participa como invitado permanente la [[Fiscalía General de la República (México)|Fiscalía General de la República]]. Lo integran:<ref>{{cita web|url=https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf|título=Artículo 20 de la Ley General del Sistema Nacional de Seguridad Pública|sitio web=Cámara de Diputados|fechaacceso=12 de octubre de 2025|cita=Texto vigente a la publicación de la nueva ley el 16 de julio de 2025; en cada reforma, el contenido del enlace se actualizará automáticamente.}}</ref>
+
+* [[Secretaría de Seguridad y Protección Ciudadana]]
+* [[Secretaría de Gobernación (México)|Secretaría de Gobernación]]
+* [[Secretaría de la Defensa Nacional]]
+* [[Secretaría de Marina (México)|Secretaría de Marina]]
+* [[Consejería Jurídica del Ejecutivo Federal]]
+* [[Guardia Nacional de México|Guardia Nacional]]
+* [[Centro Nacional de Inteligencia (México)|Centro Nacional de Inteligencia]]
+* El Secretariado Ejecutivo del [[Sistema Nacional de Seguridad Pública (México)|Sistema Nacional de Seguridad Pública]]
+
+==== Consejo de seguridad nacional ====
+
+El artículo 12 de la «Ley de Seguridad Nacional», establece como instancia dentro del poder ejecutivo federal, al «Consejo de Seguridad Nacional», ente encargado de coordinar la política pública en la materia. Participa como miembro pleno sin ser parte del gabinete, la [[Fiscalía General de la República (México)|Fiscalía General de la República]]. Lo integran:<ref>{{cita web |título=Ley de Seguridad Nacional |url= https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf|sitio web=Cámara de Diputados|fechaacceso=12 de octubre de 2025|cita=Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.}}</ref>
+
+* [[Secretaría de Gobernación (México)|Secretaría de Gobernación]]
+* [[Secretaría de la Defensa Nacional]]
+* [[Secretaría de Marina (México)|Secretaría de Marina]]
+* [[Secretaría de Seguridad y Protección Ciudadana]]
+* [[Secretaría de Hacienda y Crédito Público]]
+* [[Secretaría Anticorrupción y Buen Gobierno]]
+* [[Secretaría de Relaciones Exteriores (México)|Secretaría de Relaciones Exteriores]]
+* [[Secretaría de Infraestructura, Comunicaciones y Transportes]]
+* [[Centro Nacional de Inteligencia (México)|Centro Nacional de Inteligencia]]
+
+== Antiguas dependencias del gabinete presidencial ==
+{| class="wikitable"
+! Dependencia*
+!Historia
+|-
+|'''[[Secretaría de Justicia (México)|Secretaría de Justicia]] '''
+|<small>
+* Secretaría de Justicia Universal y Negocios Eclesiásticos (1821)
+* Secretaría de Justicia y de Negocios Eclesiásticos (1823)
+* Ministerio de Justicia, Negocios Eclesiásticos, Instrucción Pública e Industria (1841)
+* Secretaría de Justicia, Negocios Eclesiásticos, Instrucción Pública e Industria (1853)
+* Secretaría de Justicia, Fomento e Instrucción Pública (1858)
+* Secretaría de Justicia e Instrucción Pública (1868)
+* Secretaría de Justicia (1904)
+* Desaparición para pasar sus facultades a la [[Procuraduría General de la República (México)|Procuraduría General de la República]] (1917)</small>
+|-
+|'''[[Procuraduría General de la República (México)|Procuraduría General de la República]]'''
+|<small>
+* La Procuraduría General de la República (creada en 1900) pasa a ser una dependencia del gabinete presidencial (1917)
+* Desaparición para crear la [[Fiscalía General de la República (México)|Fiscalía General de la República]] (2018)</small>
+|-
+|'''Departamento de Contraloría'''<ref name=";1917">{{Cita web |url=https://www.memoriapoliticademexico.org/Efemerides/12/31121917.html |título=Venustiano Carranza promulga nueva Ley de Secretarías de Estado y Departamentos Administrativos |autor=Memoria Política de México |fechaacceso=11 de noviembre de 2021}}</ref>
+|<small>
+* Creación (1917)
+* Desaparición para integrar sus facultades a la [[Secretaría de Hacienda y Crédito Público]] (1932)</small>
+|-
+|'''Departamento de Aprovisionamientos Generales'''<ref name=";1917"/>
+|<small>
+* Creación (1917)
+* Desaparición para integrar sus facultades a la Secretaría de Hacienda y Crédito Público (1925)</small>
+|-
+|'''Departamento de Establecimientos Fabriles y Aprovisionamientos Militares'''<ref name=";1917"/>
+|<small>
+* Creación (1917)
+* Desaparición para integrar sus facultades a la Secretaría de Guerra y Marina (1935), actualmente [[Secretaría de la Defensa Nacional]] </small>
+|-
+|'''Departamento de Salubridad Pública'''<ref name=";1917"/>
+|<small>
+* Creación (1917)
+* Desaparición para integrar sus facultades a la Secretaría de Asistencia Pública y crear la Secretaría de Salubridad y Asistencia (1943), actualmente [[Secretaría de Salud (México)|Secretaría de Salud]]</small>
+|-
+|'''Departamento de Estadística Nacional'''
+|<small>
+* Creación con la escisión de facultades de la Secretaría de Agricultura y Fomento (1923), hoy [[Secretaría de Agricultura y Desarrollo Rural]] 
+* Desaparición para integrar sus facultades a la Secretaría de la Economía Nacional (1932), hoy [[Secretaría de Economía (México)|Secretaría de Economía]] </small>
+|-
+|'''[[Departamento del Distrito Federal]]'''
+|<small>
+* Creación tras una reforma constitucional en el que el gobierno del Distrito Federal para como despacho directo del presidente de México (1928)
+* Desaparición para convertirlo en el Gobierno del Distrito Federal (1997), actualmente [[Gobierno de la Ciudad de México]]</small>
+|-
+|'''[[Fiscalía General de Justicia de la Ciudad de México|Procuraduría General de Justicia del Distrito Federal]]'''
+|<small>
+* Procuraduría de Justicia del Distrito y Territorios Federales (creada en 1924) pasa a ser una dependencia del gabinete presidencial (1928)
+* Procuraduría General de Justicia del Distrito Federal (1974)
+* Pasa a ser una dependencia del Gobierno del Distrito Federal (1997), actualmente [[Gobierno de la Ciudad de México]] </small>
+|-
+|'''Departamento de Asuntos Indígenas'''
+|<small>
+* Creación (1936)
+* Desaparición para integrar sus facultades a la [[Secretaría de Educación Pública (México)|Secretaría de Educación Pública]] (1940), después al Instituto Nacional Indigenista (1948); luego, para cumplir con los [[Acuerdos de San Andrés|acuerdos establecidos]] con el [[EZLN|Ejército Zapatista de Liberación Nacional]] se crea la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y recientemente se reconfiguró en el [[Instituto Nacional de los Pueblos Indígenas]].</small>
+|-
+|'''Departamento de Educación Física'''
+|<small>
+* Creación con la escisión de facultades de la [[Secretaría de Educación Pública (México)|Secretaría de Educación Pública]] (1936)
+* Desaparición para integrar sus facultades a la [[Secretaría de Educación Pública (México)|Secretaría de Educación Pública]] (1940)</small>
+|-
+|'''Departamento Forestal y de Caza y Pesca'''
+|<small>
+* Creación con la escisión de facultades de la Secretaría de Agricultura y Fomento (1936), hoy [[Secretaría de Agricultura y Desarrollo Rural]] 
+* Desaparición para integrar sus facultades a la Secretaría de Agricultura y Fomento (1939), hoy [[Secretaría de Agricultura y Desarrollo Rural]]</small>
+|-
+|'''Departamento de Ferrocarriles Nacionales'''
+|<small>
+* Creación tras la nacionalización de las empresas ferrocarrileras (1937)
+* Desaparición para crear la empresa estatal [[Ferrocarriles Nacionales de México]] (1937)</small>
+|-
+|'''Departamento de Prensa y Publicidad'''
+|<small>
+* Departamento de Publicidad y Propaganda (1937)
+* Departamento de Prensa y Publicidad (1937)
+* Extinción (1937)</small>
+|-
+|'''[[Secretaría de Recursos Hidráulicos]]'''
+|<small>
+* La [[Comisión Nacional de Irrigación]] pasa a ser la Secretaría de Recursos Hidráulicos (1946)
+* Desaparición para integrar sus facultades a la Secretaría de Agricultura y Ganadería y crear la Secretaría de Agricultura y Recursos Hidráulicos (1976), hoy [[Secretaría de Agricultura y Desarrollo Rural]]</small>
+|-
+|'''Departamento de la Industria Militar'''
+|<small>
+* Creación con la escisión de facultades de la [[Secretaría de la Defensa Nacional]] (1947)
+* Desaparición para integrar sus facultades a la [[Secretaría de la Defensa Nacional]] (1977)</small>
+
+|-
+|'''[[Secretaría de Programación y Presupuesto]]'''
+|<small>
+* Secretaría de la Presidencia (1958)
+* Secretaría de Programación y Presupuesto (1976)
+* Desaparición para integrar sus facultades a la Secretaría de Hacienda y Crédito Público (1992)</small>
+|-
+| colspan="2" |*<small>En el caso de que la dependencia haya variado de nombre a lo largo de su existencia, se opta por su última denominación.</small>
+|}
+
+== Lista de gabinetes ==
+
+=== Consejos de ministros del Primer Imperio y del Supremo Poder Ejecutivo ===
+{{columnas}}
+* [[Anexo:Consejo de ministros de las regencias del Primer Imperio mexicano#1.ª regencia|Consejo de ministros de la 1.ª regencia imperial]] (1821-1822)
+* [[Anexo:Consejo de ministros de las regencias del Primer Imperio mexicano#2.ª regencia|Consejo de ministros de la 2.ª regencia imperial]] (1822-1822)
+{{nueva columna}}
+* [[Anexo:Consejo de ministros de Agustín de Iturbide|Consejo de ministros de Agustín I de México]] (1822-1823)
+* [[Anexo:Gabinete del Gobierno provisional de México|Gabinete del Supremo Poder Ejecutivo]] (1823-1824)
+{{final columnas}}
+
+=== Gabinetes de la Primera República Federal ===
+{{columnas}}
+* [[Gabinete de Guadalupe Victoria]] (1824-1829)
+* [[Gabinete de Vicente Guerrero]] (1829)
+* [[Gabinete de José María Bocanegra]] (1829)
+* [[Anexo:Gabinete del Triunvirato de México|Gabinete del triunvirato]] (1829-1830)
+* [[Anexo:Gabinete de Anastasio Bustamante#1° período (1830 - 1832)|{{ord|1.|er}} gabinete de Anastasio Bustamante]] (1830-1832)
+* [[Gabinete de Melchor Múzquiz]] (1832)
+* [[Gabinete de Manuel Gómez Pedraza]] (1832-1833)
+* [[Anexo:Gabinete de Valentín Gómez Farías#1.er gabinete|{{ord|1.|er}} gabinete de Valentín Gómez Farías]] (1833)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#1.er gabinete (16 de mayo al 2 de junio de 1833)|{{ord|1.|er}} gabinete de Antonio López de Santa Anna]] (1833)
+{{nueva columna}}
+* [[Anexo:Gabinete de Valentín Gómez Farías#2.º gabinete|2.º gabinete de Valentín Gómez Farías]] (1833)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#2.º periodo (18 de junio al 5 de julio de 1833)|2.º gabinete de Antonio López de Santa Anna]] (1833)
+* [[Anexo:Gabinete de Valentín Gómez Farías#3.er gabinete|{{ord|3.|er}} gabinete de Valentín Gómez Farías]] (1833)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#3.er periodo (28 de octubre al 15 de diciembre de 1833)|{{ord|3.|er}} gabinete de Antonio López de Santa Anna]] (1833)
+* [[Anexo:Gabinete de Valentín Gómez Farías#4.º gabinete|4.º gabinete de Valentín Gómez Farías]] (1833-1834)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#4.º periodo (24 de abril de 1834 al 27 de enero de 1835)|4.º gabinete de Antonio López de Santa Anna]] (1834-1835)
+* [[Gabinete de Miguel Barragán]] (1835-1836)
+{{final columnas}}
+
+=== Gabinetes de la República Centralista ===
+{{columnas}}
+* [[Anexo:Gabinete de José Justo Corro|Gabinete de José Justo Corro]] (1836-1837)
+* [[Anexo:Gabinetes de Anastasio Bustamante#2° periodo (1837 - 1839)|2.º gabinete de Anastasio Bustamente]] (1837-1839)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#5.º periodo (20 de marzo al 10 de julio de 1839)|5.º gabinete de Antonio López de Santa Anna]] (1839)
+* [[Anexo:Gabinete de Nicolás Bravo#1.er gabinete|{{ord|1.|er}} gabinete de Nicolás Bravo]] (1839)
+* [[Anexo:Gabinetes de Anastasio Bustamante#3° periodo (1839 - 1841)|3.º gabinete de Anastasio Bustamante]] (1839-1841)
+{{nueva columna}}
+* [[Anexo:Gabinete de Francisco Javier Echeverría|Gabinete de Francisco Javier Echeverría]] (1841)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#6.º periodo (10 de octubre de 1841 al 26 de octubre de 1842)|6.º gabinete de Antonio López de Santa Anna]] (1841-1842)
+* [[Anexo:Gabinete de Nicolás Bravo#2.º gabinete|2.º gabinete de Nicolás Bravo]] (1842-1843)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#7.º periodo (4 de marzo al 4 de octubre de 1843)|7.º gabinete de Antonio López de Santa Anna]] (1843)
+{{final columnas}}
+
+=== Gabinetes de la Segunda República Federal ===
+{{columnas}}
+* [[Anexo:Gabinete de José Mariano Salas#1.er gabinete|{{ord|1.|er}} gabinete de José Mariano Salas]] (1846)
+* [[Anexo:Gabinete de Valentín Gómez Farías#5.º gabinete|5.º gabinete de Valentín Gómez Farías]] (1846-1847)
+* [[Anexo:Gabinetes de Antonio López de Santa Anna#9.º periodo (21 de marzo al 2 de abril de 1847)|9.º gabinete de Antonio López de Santa Anna]] (1847)
+* [[Anexo:Gabinete de Pedro María Anaya#1.er gabinete|{{ord|1.|er}} gabinete de Pedro María Anaya]] (1847)
+* [[Anexo:Gabinete de Antonio López de Santa Anna#10.º periodo (20 de mayo al 16 de septiembre de 1847)|10.º gabinete de Antonio López de Santa Anna]] (1847)
+* [[Anexo:Gabinete de Manuel de la Peña y Peña#1.er gabinete|{{ord|1.|er}} gabinete de Manuel de la Peña y Peña]] (1847)
+* [[Anexo:Gabinete de Pedro María Anaya#2.º gabinete|2.º gabinete de Pedro María Anaya]] (1847-1848)
+* [[Anexo:Gabinete de Manuel de la Peña y Peña#2.º gabinete|2.º gabinete de Manuel de la Peña y Peña]] (1848)
+* [[Gabinete de José Joaquín de Herrera#3.er gabinete (3 de junio de 1848 al 15 de enero de 1851)|{{ord|3.|er}} gabinete de José Joaquín Herrera]] (1848-1851)
+* [[Gabinete de Mariano Arista]] (1851-1853)
+* [[Gabinete de Juan Bautista Ceballos]] (1853)
+* [[Anexo:Gabinete de Manuel María Lombardini|Gabinete de Manuel María Lombardini]] (1853)
+* [[Gabinete de Antonio López de Santa Anna#11.º periodo (20 de abril de 1853 al 9 de agosto de 1855)|11.º gabinete de Antonio López de Santa Anna]] (1853-1855)
+{{nueva columna}}
+* [[Gabinete de Martín Carrera]] (1855)
+* [[Gabinete de Rómulo Díaz de la Vega]] (1855)
+* [[Gabinete de Juan Álvarez]] (1855)
+* [[Gabinete de Ignacio Comonfort]] (1855-1858)
+* [[Anexo:Gabinete de Benito Juárez|{{Ord|1.|er}} gabinete de Benito Juárez]]<ref group="nota" name="reforma1">Gobierno paralelo a los presidentes conservadores durante la [[Guerra de Reforma]] entre 1858 y 1860.</ref> (1858-1861)
+* [[Anexo:Gabinete de Félix María Zuloaga|Gabinete de Félix María Zuloaga]]<ref group="nota" name="reforma2">Gobierno paralelo a [[Benito Juárez]] durante la [[Guerra de Reforma]] entre 1858 y 1860.</ref> (1858)
+* [[Anexo:Gabinete de Manuel Robles Pezuela|Gabinete de Manuel Robles Pezuela]]<ref group="nota" name="reforma2"/> (1858-1859)
+* [[Anexo:Gabinete de José Mariano Salas|2.º gabinete de José Mariano Salas]]<ref group="nota" name="reforma2"/> (1859)
+* [[Anexo:Gabinete de Miguel Miramón|{{Ord|1.|er}} gabinete de Miguel Miramón]]<ref group="nota" name="reforma2"/> (1859-1860)
+* [[Anexo:Gabinete de José Ignacio Pavón|Gabinete de José Ignacio Pavón]]<ref group="nota" name="reforma2"/> (1860)
+* [[Anexo:Gabinete de Miguel Miramón|2.º gabinete de Miguel Miramón]]<ref group="nota" name="reforma2"/> (1860)
+* [[Anexo:Gabinete de Benito Juárez|2.º gabinete de Benito Juárez]]<ref group="nota" name="imperio1">Gobierno paralelo al emperador [[Maximiliano de México|Maximiliano]] durante el [[Segundo Imperio mexicano]] entre 1864 y 1867.</ref> (1861-1867)
+{{final columnas}}
+
+=== Consejos de ministros del Segundo Imperio ===
+{{columnas}}
+* [[Anexo:Consejo de ministros de la Regencia del Segundo Imperio Mexicano|Consejo de ministros de la 3.ª regencia imperial]] 1863-1864
+* [[Anexo:Consejo de ministros de Maximiliano de Habsburgo|Consejo de ministros de Maximiliano I de México]]<ref group="nota" name="imperio2">Gobierno paralelo al presidente [[Benito Juárez]] durante el [[Segundo Imperio mexicano]] entre 1864 y 1867.</ref> (1864-1867)
+{{final columnas}}
+
+=== Gabinetes de la República Restaurada y el Porfiriato ===
+{{columnas}}
+* [[Anexo:Gabinete de Benito Juárez|{{ord|3.|er}} gabinete de Benito Juárez]] (1867-1871)
+* [[Anexo:Gabinete de Benito Juárez|4.º gabinete de Benito Juárez]] (1871-1872)
+* [[Anexo:Gabinete de Sebastián Lerdo de Tejada|Gabinete de Sebastián Lerdo de Tejada]] (1872-1876)
+* [[Anexo:Gabinete de José María Iglesias|Gabinete de José María Iglesias]] (1876)
+* [[Anexo:Gabinetes de Porfirio Díaz#1.er gabinete|{{Ord|1.|er}} gabinete de Porfirio Díaz]] (1876)
+* [[Anexo:Gabinete de Juan N. Méndez|Gabinete de Juan N. Méndez]] (1876-1877)
+* [[Anexo:Gabinete de Porfirio Díaz#2.º gabinete|2.º gabinete de Porfirio Díaz]] (1877-1880)
+* [[Gabinete de Manuel González Flores]] (1880-1884)
+{{nueva columna}}
+* [[Anexo:Gabinetes de Porfirio Díaz#3.er gabinete|{{Ord|3.|er}} gabinete de Porfirio Díaz]] (1884-1888)
+* [[Anexo:Gabinete de Porfirio Díaz#4.º gabinete|4.º gabinete de Porfirio Díaz]] (1888-1892)
+* [[Anexo:Gabinete de Porfirio Díaz#5.º gabinete|5.º gabinete de Porfirio Díaz]] (1892-1896)
+* [[Anexo:Gabinete de Porfirio Díaz#6.º gabinete|6.º gabinete de Porfirio Díaz]] (1896-1900)
+* [[Anexo:Gabinete de Porfirio Díaz#7.º gabinete|7.º gabinete de Porfirio Díaz]] (1900-1904)
+* [[Anexo:Gabinete de Porfirio Díaz#8.º gabinete|8.º gabinete de Porfirio Díaz]] (1904-1910)
+* [[Anexo:Gabinete de Porfirio Díaz#9.º gabinete|9.º gabinete de Porfirio Díaz]] (1910-1911)
+{{final columnas}}
+
+=== Gabinetes de la Revolución y Posrevolución ===
+{{Columnas}}
+* [[Gabinete de Francisco León de la Barra]] (1911)
+* [[Gabinete de Francisco I. Madero]] (1911-1913)
+* [[Gabinete de Pedro Lascuráin Paredes]] (1913)
+* [[Gabinete de Victoriano Huerta]] (1913-1914)
+* [[Gabinete de Francisco Carvajal]] (1914)
+* [[Gabinete de Venustiano Carranza#Primer gabinete|{{Ord|1.|er}} gabinete de Venustiano Carranza]]<ref group="nota" name="revolucion1">Gobierno paralelo a los presidentes [[Convención de Aguascalientes|convencionalistas]] durante la [[Revolución mexicana]] entre 1914 y 1915.</ref> (1914-1917)
+* [[Gabinete de Eulalio Gutiérrez Ortiz]]<ref group="nota" name="revolucion2">Gobierno paralelo al presidente [[Venustiano Carranza]] durante la [[Revolución mexicana]] entre 1914 y 1915.</ref> (1914-1915)
+* [[Gabinete de Roque González Garza]]<ref group="nota" name="revolucion2"/> (1915)
+{{nueva columna}}
+* [[Gabinete de Francisco Lagos Cházaro]]<ref group="nota" name="revolucion2"/> (1915)
+* [[Gabinete de Venustiano Carranza#Segundo gabinete|2.º gabinete de Venustiano Carranza]] (1917-1920)
+* [[Gabinete de Álvaro Obregón]] (1920-1924)
+* [[Gabinete de Plutarco Elías Calles]] (1924-1928)
+* [[Gabinete de Emilio Portes Gil]] (1928-1930)
+* [[Gabinete de Pascual Ortiz Rubio]] (1930-1932)
+* [[Gabinete de Abelardo L. Rodríguez]] (1932-1934)
+{{Final columnas}}
+
+=== Gabinetes sexenales ===
+{{columnas}}
+* [[Anexo:Gabinete de Lázaro Cárdenas|Gabinete de Lázaro Cárdenas]] (1934-1940)
+* [[Anexo:Gabinete de Manuel Ávila Camacho|Gabinete de Manuel Ávila Camacho]] (1940-1946)
+* [[Anexo:Gabinete de Miguel Alemán Valdés|Gabinete de Miguel Alemán Valdés]] (1946-1952) 
+* [[Anexo:Gabinete de Adolfo Ruiz Cortines|Gabinete de Adolfo Ruiz Cortines]] (1952-1958) 
+* [[Anexo:Gabinete de Adolfo López Mateos|Gabinete de Adolfo López Mateos]] (1958-1964) 
+* [[Anexo:Gabinete de Gustavo Díaz Ordaz|Gabinete de Gustavo Díaz Ordaz]] (1964-1970)
+* [[Anexo:Gabinete de Luis Echeverría Álvarez|Gabinete de Luis Echeverría Álvarez]] (1970-1976)
+* [[Anexo:Gabinete de José López Portillo|Gabinete de José López Portillo]] (1976-1982) 
+{{nueva columna}}
+* [[Anexo:Gabinete de Miguel de la Madrid|Gabinete de Miguel de la Madrid]] (1982-1988) 
+* [[Anexo:Gabinete de Carlos Salinas de Gortari|Gabinete de Carlos Salinas de Gortari]] (1988-1994)
+* [[Anexo:Gabinete de Ernesto Zedillo|Gabinete de Ernesto Zedillo]] (1994-2000)
+* [[Anexo:Gabinete de Vicente Fox|Gabinete de Vicente Fox]] (2000-2006)
+* [[Anexo:Gabinete de Felipe Calderón|Gabinete de Felipe Calderón]] (2006-2012) 
+* [[Anexo:Gabinete de Enrique Peña Nieto|Gabinete de Enrique Peña Nieto]] (2012-2018) 
+* [[Anexo:Gabinete de Andrés Manuel López Obrador|Gabinete de Andrés Manuel López Obrador]] (2018-2024)
+* [[Anexo:Gabinete de Claudia Sheinbaum|Gabinete de Claudia Sheinbaum Pardo]] (2024-2030)
+{{final columnas}}
+
+== Véase también ==
+* [[Administración Pública Federal]]
+* [[Política de México]]
+* [[Órganos constitucionales autónomos de México]]
+
+== Notas ==
+{{Listaref|group=nota}}
+
+== Referencias ==
+{{Listaref|2}}
+
+== Bibliografía ==
+* {{cita libro |nombre=Gildardo Héctor |apellidos=Campero Cárdenas |título=200 años de Administración Pública en México - Evolución de la Administración Pública Paraestatal: Tomo IV |url=https://archivos.juridicas.unam.mx/www/bjv/libros/8/3755/14.pdf |año=2012 |editorial=Instituto Nacional de Administración Pública A.C. |ubicación=México |isbn= 978-607-9026-06-6}}
+* {{cita libro |nombre=Manuel |apellido=Quijano Torres |título=200 años de Administración Pública en México - Los Gabinetes en México 1821-2012: Tomo III |url=https://www.inap.mx/portal/images/pdf/tomoiii.pdf |año=2012 |editorial=Instituto Nacional de Administración Pública A.C. |ubicación=México |isbn=978-607-9026-20-2 |fechaacceso=2 de octubre de 2021 |fechaarchivo=26 de enero de 2022 |urlarchivo=https://web.archive.org/web/20220126163833/http://www.inap.mx/portal/images/pdf/tomoiii.pdf |deadurl=yes }}
+
+== Enlaces externos ==
+* [https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf Ley Orgánica de la Administración Pública Federal (Texto vigente a la última reforma; en cada nueva reforma, el contenido del enlace se actualiza automáticamente.).]
+
+{{Control de autoridades}}
+[[Categoría:Secretarías de Estado (México)| ]]
+[[Categoría:Consejos de ministros|Mexico]]

@@ -1,0 +1,171 @@
+{
+  "states": {
+    "01": {
+      "capital": "Aguascalientes",
+      "municipality_code": "01001",
+      "municipality": "Aguascalientes"
+    },
+    "02": {
+      "capital": "Mexicali",
+      "municipality_code": "02002",
+      "municipality": "Mexicali"
+    },
+    "03": {
+      "capital": "La Paz",
+      "municipality_code": "03003",
+      "municipality": "La Paz"
+    },
+    "04": {
+      "capital": "San Francisco de Campeche",
+      "municipality_code": "04002",
+      "municipality": "Campeche"
+    },
+    "07": {
+      "capital": "Tuxtla Gutiérrez",
+      "municipality_code": "07101",
+      "municipality": "Tuxtla Gutiérrez"
+    },
+    "08": {
+      "capital": "Chihuahua",
+      "municipality_code": "08019",
+      "municipality": "Chihuahua"
+    },
+    "09": {
+      "capital": "Ciudad de México",
+      "municipality_code": null,
+      "municipality": null
+    },
+    "05": {
+      "capital": "Saltillo",
+      "municipality_code": "05030",
+      "municipality": "Saltillo"
+    },
+    "06": {
+      "capital": "Colima",
+      "municipality_code": "06002",
+      "municipality": "Colima"
+    },
+    "10": {
+      "capital": "Victoria de Durango",
+      "municipality_code": "10005",
+      "municipality": "Durango"
+    },
+    "11": {
+      "capital": "Guanajuato",
+      "municipality_code": "11015",
+      "municipality": "Guanajuato"
+    },
+    "12": {
+      "capital": "Chilpancingo de los Bravo",
+      "municipality_code": "12029",
+      "municipality": "Chilpancingo de los Bravo"
+    },
+    "13": {
+      "capital": "Pachuca de Soto",
+      "municipality_code": "13048",
+      "municipality": "Pachuca de Soto"
+    },
+    "14": {
+      "capital": "Guadalajara",
+      "municipality_code": "14039",
+      "municipality": "Guadalajara"
+    },
+    "15": {
+      "capital": "Toluca de Lerdo",
+      "municipality_code": "15106",
+      "municipality": "Toluca"
+    },
+    "16": {
+      "capital": "Morelia",
+      "municipality_code": "16053",
+      "municipality": "Morelia"
+    },
+    "17": {
+      "capital": "Cuernavaca",
+      "municipality_code": "17007",
+      "municipality": "Cuernavaca"
+    },
+    "18": {
+      "capital": "Tepic",
+      "municipality_code": "18017",
+      "municipality": "Tepic"
+    },
+    "19": {
+      "capital": "Monterrey",
+      "municipality_code": "19039",
+      "municipality": "Monterrey"
+    },
+    "20": {
+      "capital": "Oaxaca de Juárez",
+      "municipality_code": "20067",
+      "municipality": "Oaxaca de Juárez"
+    },
+    "21": {
+      "capital": "Puebla de Zaragoza",
+      "municipality_code": "21114",
+      "municipality": "Puebla"
+    },
+    "22": {
+      "capital": "Santiago de Querétaro",
+      "municipality_code": "22014",
+      "municipality": "Querétaro"
+    },
+    "23": {
+      "capital": "Chetumal",
+      "municipality_code": "23004",
+      "municipality": "Othón P. Blanco"
+    },
+    "24": {
+      "capital": "San Luis Potosí",
+      "municipality_code": "24028",
+      "municipality": "San Luis Potosí"
+    },
+    "25": {
+      "capital": "Culiacán Rosales",
+      "municipality_code": "25006",
+      "municipality": "Culiacán"
+    },
+    "26": {
+      "capital": "Hermosillo",
+      "municipality_code": "26030",
+      "municipality": "Hermosillo"
+    },
+    "27": {
+      "capital": "Villahermosa",
+      "municipality_code": "27004",
+      "municipality": "Centro"
+    },
+    "28": {
+      "capital": "Ciudad Victoria",
+      "municipality_code": "28041",
+      "municipality": "Victoria"
+    },
+    "29": {
+      "capital": "Tlaxcala de Xicohténcatl",
+      "municipality_code": "29033",
+      "municipality": "Tlaxcala"
+    },
+    "30": {
+      "capital": "Xalapa-Enríquez",
+      "municipality_code": "30087",
+      "municipality": "Xalapa"
+    },
+    "31": {
+      "capital": "Mérida",
+      "municipality_code": "31050",
+      "municipality": "Mérida"
+    },
+    "32": {
+      "capital": "Zacatecas",
+      "municipality_code": "32056",
+      "municipality": "Zacatecas"
+    }
+  },
+  "citation": {
+    "source": "wikipedia_capitals",
+    "source_name": "Wikipedia en español, «Anexo:Entidades federativas de México»",
+    "url": "https://es.wikipedia.org/w/index.php?title=Anexo:Entidades_federativas_de_M%C3%A9xico&oldid=175410084",
+    "published_at": "2026-09-18T02:09:31Z",
+    "retrieved_at": "2026-11-08T15:12:29Z"
+  }
+}

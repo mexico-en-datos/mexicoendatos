@@ -1,0 +1,1610 @@
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHE22ZZ05R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BHE22ZZ05R');
+</script>
+<!-- Termina Google tag   -->
+	
+<meta http-equiv="Content-Language" content="es-mx">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>
+SIL - Sistema de Información Legislativa-Resultados de la B&uacute;suqeda de Legisladores
+</title>
+<link href="/template/skin/style.css" rel="stylesheet" type="text/css">
+<script type="text/jscript" src="/Script/mm.class.js"></script>
+</head>
+<div id='main' class='subtitle' style='visibility:visible;' align='center'>
+<br>
+B&uacute;squeda en proceso...
+<br><br>
+<input type='image' src='/template/skin/processbar.gif'>
+<br><br>
+<input type='image' src='/template/skin/cancelar.jpg' onclick='window.close(); return (false);'>
+</div><SCRIPT>
+    function fncURL(clave,URL){
+            window.open("/Busquedas/Legislador/Reportes/"+ URL +"?SID=&cveLegislador="+clave, 'presentaPrensa','top=10, left=10,scrollbars=yes');
+    }
+
+    function orderBy(num){
+        document.RESULLEGIS_FRM.action='/Busquedas/Legislador/ProcesoBusquedaLegislador.php?SID=&Nombre=&APaterno=&AMaterno=&Estudios=&Experiencia=&Prin_El=&Circuns=&Entidad=&Distrito=&Legislatura=66&Camara=2&Partido=&Estatus=A&Orden='+num;
+        document.RESULLEGIS_FRM.submit();
+    }
+
+    function Imprimir()
+    {
+        var Botonera=document.getElementById("Botonera");
+        var htmltemp="";
+        var htmltemp=Botonera.innerHTML;
+        Botonera.innerHTML="<img src='/template/skin/fotter.jpg' alt='Los contenidos del SIL provienen de Documentos emitidos por las C&aacute;maras de Diputados y Senadores (Gaceta Parlamentaria, Diario de los Debates, Versi&oacute;n Estenogr&aacute;fica) adem&aacute;s del Diario Oficial de la Federación.' border='0' align='center'>";
+        window.print();
+        Botonera.innerHTML=htmltemp;
+    }
+
+</SCRIPT>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id='Contenedor' style="visibility: hidden;  width:0pt;  height:0pt">
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td><style>
+.logoSegob {
+ 	padding-left: 150px;
+}
+
+.menuSegob {
+	padding-right: 150px;
+}
+
+.tablasup{
+	background-color:#14332c;
+	width:100%;
+	height:50px;
+	padding-top: 10px;
+}
+
+.tablasdown{
+	background-color:#134237;
+	width:100%;
+	height:50px;
+}
+</style>
+
+<table class="tablasup">
+	<tr>
+		<td align="left" style="padding-top:5px; padding-right:5px; padding-bottom:5px; padding-left:5px;">
+			<a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/segob" target="_blank"><span class="logoSegob" style="background-color:#14332c;"><img height="36px" src="../../../../../mkb.app/portal/views/default/img/logoheader.svg" alt="SEGOB"/></a>
+		</td>
+		<td style="align:right; width:60px;">
+			<a style="color:#ffffff;" title="Tr&aacute;mites" href="https://www.gob.mx/tramites" target="_blank"><span>Tr&aacute;mites</span></a>
+		</td>
+		<td style="align:right; width:60px;">
+			<a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/gobierno" target="_blank" >G<span>obierno</span></a>
+		</td>
+		<td style="align:right; width:20px;">
+			<div class="menuSegob"><a style="color:#ffffff;" title="Gobierno" href="https://www.gob.mx/busqueda?utf8=?" target="_blank" ><img height="16px" src="../../../../../mkb.app/portal/views/default/img/lupa.png" alt="Buscar"/></a></div>
+		</td>
+	</tr>
+</table>
+<table class="tablasdown">
+	<tr>
+		<td>
+			<td>
+				<div class="sub-navbar navbar-nav">
+					<a href="https://www.gob.mx/segob"><div class="logoSegob"><img src="../../../../../mkb.app/portal/views/default/img/logo_menu_izq.png" class="img-menu-izq" height="38" width="200"></a>
+					<a href="https://nsil.gobernacion.gob.mx/"><img src="../../../../../mkb.app/portal/views/default/img/logo_menu_der.png" class="img-menu-der" height="38" width="160"></div></a>
+				</div>
+			</td>
+			<td style="align:right; width:10px;">
+				<a style="color:#ffffff;" title="Inicio" href="../../portal/" target="_blank"><span>Inicio</span></a>
+			</td>
+            <td style="align:right; width:70px; padding:10px;">
+				<a style="color:#ffffff;" title="Bienvenida. El Sistema de Informaci&oacute;n Legislativa (SIL) surge el 19 de agosto de 2003 como una plataforma digital que pretende apoyar la relaci&oacute;n entre los poderes Ejecutivo y Legislativo; promover en la ciudadan&iacute;a el inter&eacute;s por los asuntos legislativos; y, contribuir a facilitar el compromiso de transparentar la informaci&oacute;n gubernamental.
+				El SIL permite acceder en tiempo real a las sesiones que se desarrollan en los plenos de las C&aacute;maras del H. Congreso de la Uni&oacute;n, a trav&eacute;s del m&oacute;dulo Minuto a Minuto; y, a la informaci&oacute;n generada durante &eacute;stas mediante los reportes que formula.
+				Adicionalmente es posible consultar el acervo de noticias legislativas; y, conocer el perfil curricular de las y los legisladores as&iacute; como el desarrollo de su actividad legislativa, sus votaciones e intervenciones en los asuntos que se discuten." href="http:../../portal/Contacto/acerca" target="_blank">A<span>cerca de</span></a>
+			</td>
+			<td style="align:right; width:80px; padding:8px;">
+				<a style="color:#ffffff;" href="../../../../../portal/ReporteSesion/Senadores" target="_blank"><span>Sesiones</span></a>
+			</td>
+			<td style="align:right; width:120px; padding:8px;">
+				<a style="color:#ffffff;" href="../../../../../sitiosinte/sitiosinte2.php" target="_blank">Sitios de inter&eacute;s</span></a>
+			<td style="align:right; width:8px;">
+            <td style="align:right; width:10px;">
+				<div class="menuSegob"><a style="color:#ffffff;" title="Contacto" href="../../portal/Contacto/contactanos" target="_blank">C<span>ontacto</span></a></div>
+			</td>
+		</td>
+	</tr>
+</table>
+<table style="background-color:#faf8f0; width:100%; background:../../../../../mkb.app/portal/views/default/img/fondo.png;">
+	<tr>
+		<td>
+		<img width="1000" src="../../../../../mkb.app/portal/views/default/img/encabezado3.png" alt="SEGOB" />
+		</td>
+	</tr>
+</table></td>
+    </tr>
+</table>
+<br>
+<!-- Titulo principal de la pagina  -->
+<br>
+<!-- Numero de resultados encontrados -->
+<table  align="center"cellpadding="0" cellspacing="0" class="simpletextmayor" border="0">
+    <tr>
+        <td>Se encontraron 128 registros        </td>
+    </tr>
+</table>
+<br>
+<!-- Encabezado de los Resultados de los Asuntos Legislativos -->
+<TABLE  width="900px" bordercolor='#FFFFFF' border='1' cellpadding='0' cellspacing='0' align="center">
+<TR>
+<TD CLASS='tdcriterio' align='center'>No.</TD>
+<TD CLASS='tdcriterio' align='center'>FOTO</TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;NOMBRE&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;INSTANCIA&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;PARTIDO&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;TIPO&nbsp;DE<br>ELECCI&Oacute;N&nbsp;<br></td>
+<TD CLASS='tdcriterio' align='center'>&nbsp;ENTIDAD&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;PROTESTA&nbsp;<br></TD>
+<TD CLASS='tdcriterio' align='center'>&nbsp;EN FUNCIONES<br></TD>
+<!--<TD CLASS='tdcriterio' align='center'>&nbsp;ESTATUS&nbsp;<br></TD>-->
+<!--<TD CLASS='tdcriterio' align='center'>EN<BR>&nbsp;FUNCIONES&nbsp;<br></TD>-->
+
+<TD CLASS='tdcriterio' align='center'>&nbsp;SUPLENTE<br></TD>
+</TR>
+
+<TR>
+<TD class='tdcriterio' align='center'>&nbsp;</TD>
+<TD class='tdcriterio' align='center'>&nbsp;</TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(11);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(12);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(21);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(22);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(31);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(32);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(41);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(42);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(51);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(52);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(61);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(62);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<TD class='tdcriterio' align='center'><a href="javascript:orderBy(91);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(92);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>
+<!--<TD class='tdcriterio' align='center'><a href="javascript:orderBy(71);"><img width="14" src="/template/skin/up.gif" border="0">&nbsp;&nbsp;</a><acronym title="Ordenar de forma ascendente y forma descendente" ></acronym>&nbsp;&nbsp;<a href="javascript:orderBy(72);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>-->
+<!--<TD class='tdcriterio' align='center'><a href="javascript:orderBy(81);"><img width="14" src="/template/skin/up.gif" border="0"></a><acronym title="Ordenar de forma ascendente y forma descendente" >ordenar</acronym><a href="javascript:orderBy(82);"><img width="14" src="/template/skin/down.gif" border="0"></a></TD>-->
+
+<TD class='tdcriterio' align='center'>&nbsp;</TD>
+</TR>
+
+
+
+<tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;1&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#1' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229132","leg");'><img src='../../Archivos/Fotos/9229132.jpg' alt='Heriberto Marcelo<br>Aguilar<br>Castillo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Heriberto Marcelo<br>Aguilar<br>Castillo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#1' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229132","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sonora&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Ricardo Lugo Moreno</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;2&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#2' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229162","leg");'><img src='../../Archivos/Fotos/9229162.jpg' alt='José Antonio Cruz<br>Álvarez<br>Lima' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Antonio Cruz<br>Álvarez<br>Lima&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#2' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229162","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tlaxcala&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Luis Gabino Vargas González</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;3&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#3' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229212","leg");'><img src='../../Archivos/Fotos/9229212.jpg' alt='Ricardo<br>Anaya<br>Cortés' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ricardo<br>Anaya<br>Cortés&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#3' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229212","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carlos Alberto Cárdenas Alamilla</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;4&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#4' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229236","leg");'><img src='../../Archivos/Fotos/9229236.jpg' alt='Alberto<br>Anaya<br>Gutiérrez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alberto<br>Anaya<br>Gutiérrez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#4' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229236","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PT</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Alfredo Rojas Villalón</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;5&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#5' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229194","leg");'><img src='../../Archivos/Fotos/9229194.jpg' alt='Claudia Edith<br>Anaya<br>Mota' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Claudia Edith<br>Anaya<br>Mota&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#5' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229194","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Zacatecas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María Alejandra Sandoval Camacho</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;6&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#6' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229224","leg");'><img src='../../Archivos/Fotos/9229224.jpg' alt='Pablo Guillermo<br>Angulo<br>Briceño' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Pablo Guillermo<br>Angulo<br>Briceño&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#6' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229224","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Sixto Duarte Álvarez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;7&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#7' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228946","leg");'><img src='../../Archivos/Fotos/9228946.jpg' alt='Manuel<br>Añorve<br>Baños' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Manuel<br>Añorve<br>Baños&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#7' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228946","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guerrero&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Juan José Castro Justo</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;8&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#8' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229137","leg");'><img src='../../Archivos/Fotos/9229137.jpg' alt='Alejandra Berenice<br>Arias<br>Trevilla' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alejandra Berenice<br>Arias<br>Trevilla&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#8' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229137","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tabasco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;9&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#9' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229000","leg");'><img src='../../Archivos/Fotos/9229000.jpg' alt='Reyna Celeste<br>Ascencio<br>Ortega' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Reyna Celeste<br>Ascencio<br>Ortega&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#9' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229000","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Michoacán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Itzel Yunuen Iturbe Hernández</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;10&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#10' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229166","leg");'><img src='../../Archivos/Fotos/9229166.jpg' alt='Anabell<br>Ávalos<br>Zempoalteca' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Anabell<br>Ávalos<br>Zempoalteca&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#10' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229166","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tlaxcala&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Zonia Montiel Candaneda</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;11&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#11' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229284","leg");'><img src='../../Archivos/Fotos/9229284.jpg' alt='Geovanna del Carmen<br>Bañuelos<br>de la Torre' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Geovanna del Carmen<br>Bañuelos<br>de la Torre&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#11' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229284","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PT</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Hime del Carmen Redin Morales</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;12&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#12' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229250","leg");'><img src='../../Archivos/Fotos/9229250.jpg' alt='María Alejandra<br>Barrales<br>Magdaleno' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María Alejandra<br>Barrales<br>Magdaleno&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#12' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229250","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carmen Julieta Macías Rábago</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;13&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#13' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228755","leg");'><img src='../../Archivos/Fotos/9228755.jpg' alt='Francisco Daniel<br>Barreda<br>Pavón' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Francisco Daniel<br>Barreda<br>Pavón&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#13' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228755","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Campeche&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;14&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#14' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229134","leg");'><img src='../../Archivos/Fotos/9229134.jpg' alt='Manlio Fabio<br>Beltrones<br>Rivera' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Manlio Fabio<br>Beltrones<br>Rivera&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#14' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229134","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Sin Partido</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sonora&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Erik Iván Jaimes Archundia</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;15&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#15' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229074","leg");'><img src='../../Archivos/Fotos/9229074.jpg' alt='Néstor<br>Camarillo<br>Medina' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Néstor<br>Camarillo<br>Medina&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#15' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229074","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Puebla&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Teodomiro Ortega González</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;16&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#16' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229178","leg");'><img src='../../Archivos/Fotos/9229178.jpg' alt='Verónica Noemí<br>Camino<br>Farjat' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Verónica Noemí<br>Camino<br>Farjat&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#16' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229178","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Yucatán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Celia María Octubre Maldonado Llanes</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;17&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#17' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228922","leg");'><img src='../../Archivos/Fotos/9228922.jpg' alt='Gina Gerardina<br>Campuzano<br>González' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Gina Gerardina<br>Campuzano<br>González&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#17' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228922","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Durango&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María Salomé Elyd Sáenz</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;18&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#18' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229138","leg");'><img src='../../Archivos/Fotos/9229138.jpg' alt='Óscar<br>Cantón<br>Zetina' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Óscar<br>Cantón<br>Zetina&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#18' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229138","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tabasco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Miguel Antonio Fuentes Gutiérrez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;19&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#19' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229087","leg");'><img src='../../Archivos/Fotos/9229087.jpg' alt='Francisco Alejandro<br>Carrillo<br>Flores' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Francisco Alejandro<br>Carrillo<br>Flores&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#19' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229087","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Quintana Roo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>28/06/2025&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;20&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#20' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229248","leg");'><img src='../../Archivos/Fotos/9229248.jpg' alt='José Clemente<br>Castañeda<br>Hoeflich' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Clemente<br>Castañeda<br>Hoeflich&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#20' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229248","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>José Manuel Del Río Virgen</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;21&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#21' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228913","leg");'><img src='../../Archivos/Fotos/9228913.jpg' alt='Karen<br>Castrejón<br>Trujillo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Karen<br>Castrejón<br>Trujillo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#21' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228913","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ciudad de México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>08/10/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;22&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#22' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229286","leg");'><img src='../../Archivos/Fotos/9229286.jpg' alt='Alfonso<br>Cepeda<br>Salas' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alfonso<br>Cepeda<br>Salas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#22' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229286","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María Luisa Gutiérrez Santoyo</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;23&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#23' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229263","leg");'><img src='../../Archivos/Fotos/9229263.jpg' alt='María Guadalupe<br>Chavira<br>De La Rosa' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María Guadalupe<br>Chavira<br>De La Rosa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#23' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229263","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>08/10/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;24&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#24' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228911","leg");'><img src='../../Archivos/Fotos/9228911.jpg' alt='Francisco<br>Chíguil<br>Figueroa' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Francisco<br>Chíguil<br>Figueroa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#24' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228911","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ciudad de México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>08/10/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;25&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#25' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229125","leg");'><img src='../../Archivos/Fotos/9229125.jpg' alt='Ana Francis<br>Chiquete<br>Elizalde' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ana Francis<br>Chiquete<br>Elizalde&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#25' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229125","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sinaloa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;26&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#26' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229062","leg");'><img src='../../Archivos/Fotos/9229062.jpg' alt='Luis Donaldo<br>Colosio<br>Riojas' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Luis Donaldo<br>Colosio<br>Riojas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#26' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229062","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nuevo León&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Tabita Ortiz Hernández</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;27&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#27' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228966","leg");'><img src='../../Archivos/Fotos/9228966.jpg' alt='María del Rocío<br>Corona<br>Nakamura' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María del Rocío<br>Corona<br>Nakamura&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#27' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228966","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Jalisco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Kenia del Refugio Hernández Guerrero</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;28&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#28' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229280","leg");'><img src='../../Archivos/Fotos/9229280.jpg' alt='Javier<br>Corral<br>Jurado' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Javier<br>Corral<br>Jurado&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#28' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229280","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Myrna Brighite Granados de la Rosa</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;29&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#29' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229066","leg");'><img src='../../Archivos/Fotos/9229066.jpg' alt='Luisa<br>Cortés<br>García' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Luisa<br>Cortés<br>García&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#29' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229066","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Oaxaca&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Nathaly Viridiana Chávez García</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;30&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#30' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229204","leg");'><img src='../../Archivos/Fotos/9229204.jpg' alt='Marko Antonio<br>Cortés<br>Mendoza' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Marko Antonio<br>Cortés<br>Mendoza&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#30' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229204","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Omar Francisco Gudiño Magaña</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;31&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#31' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229165","leg");'><img src='../../Archivos/Fotos/9229165.jpg' alt='Eréndira Olimpia<br>Cova<br>Brindis' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Eréndira Olimpia<br>Cova<br>Brindis&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#31' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229165","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tlaxcala&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>01/07/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;32&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#32' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228892","leg");'><img src='../../Archivos/Fotos/9228892.jpg' alt='José Manuel<br>Cruz<br>Castellanos' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Manuel<br>Cruz<br>Castellanos&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#32' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228892","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Chiapas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Julio César Rincón Fernández</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;33&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#33' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228744","leg");'><img src='../../Archivos/Fotos/9228744.jpg' alt='Homero<br>Davis<br>Castro' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Homero<br>Davis<br>Castro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#33' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228744","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Baja California Sur&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Eda María Palacios Márquez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;34&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#34' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228890","leg");'><img src='../../Archivos/Fotos/9228890.jpg' alt='Sasil Dora Luz<br>De León<br>Villard' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sasil Dora Luz<br>De León<br>Villard&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#34' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228890","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Chiapas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Itzel Francisca De León Villard</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;35&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#35' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229060","leg");'><img src='../../Archivos/Fotos/9229060.jpg' alt='Blanca Judith<br>Díaz<br>Delgado' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Blanca Judith<br>Díaz<br>Delgado&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#35' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229060","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nuevo León&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Rosa Fierro Campos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;36&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#36' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228720","leg");'><img src='../../Archivos/Fotos/9228720.jpg' alt='María de Jesús<br>Díaz<br>Marmolejo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María de Jesús<br>Díaz<br>Marmolejo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#36' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228720","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Aguascalientes&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Paloma Cecilia Amezquita Carreón</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;37&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#37' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229078","leg");'><img src='../../Archivos/Fotos/9229078.jpg' alt='Agustín<br>Dorantes<br>Lámbarri' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Agustín<br>Dorantes<br>Lámbarri&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#37' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229078","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Querétaro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Enrique Vega Carriles</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;38&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#38' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228883","leg");'><img src='../../Archivos/Fotos/9228883.jpg' alt='Gabriel<br>Elizondo<br>Pérez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Gabriel<br>Elizondo<br>Pérez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#38' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228883","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Coahuila&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>01/07/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;39&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#39' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229316","leg");'><img src='../../Archivos/Fotos/9229316.jpg' alt='Rosario Alejandro<br>Esquer<br>Verdugo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Rosario Alejandro<br>Esquer<br>Verdugo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#39' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229316","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Denis Zaharula Vasto Dobarganes</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;40&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#40' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229216","leg");'><img src='../../Archivos/Fotos/9229216.jpg' alt='Laura<br>Esquivel<br>Torres' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Laura<br>Esquivel<br>Torres&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#40' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229216","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Anabey García Velasco</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;41&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#41' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229068","leg");'><img src='../../Archivos/Fotos/9229068.jpg' alt='Laura<br>Estrada<br>Mauro' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Laura<br>Estrada<br>Mauro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#41' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229068","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Oaxaca&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Regina Méndez Martínez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;42&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#42' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229058","leg");'><img src='../../Archivos/Fotos/9229058.jpg' alt='Waldo<br>Fernández<br>González' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Waldo<br>Fernández<br>González&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#42' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229058","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nuevo León&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carlos Humberto Suárez Flores</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;43&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#43' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229268","leg");'><img src='../../Archivos/Fotos/9229268.jpg' alt='José Gerardo Rodolfo<br>Fernández<br>Noroña' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Gerardo Rodolfo<br>Fernández<br>Noroña&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#43' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229268","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Dunia Ludlow Deloya</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;44&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#44' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229271","leg");'><img src='../../Archivos/Fotos/9229271.jpg' alt='Blanca Elizabeth<br>Fiesco<br>Díaz' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Blanca Elizabeth<br>Fiesco<br>Díaz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#44' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229271","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>02/09/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;45&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#45' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228729","leg");'><img src='../../Archivos/Fotos/9228729.jpg' alt='José Máximo<br>García<br>López' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Máximo<br>García<br>López&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#45' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228729","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Baja California&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>20/11/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;46&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#46' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229252","leg");'><img src='../../Archivos/Fotos/9229252.jpg' alt='Amalia Dolores<br>García<br>Medina' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Amalia Dolores<br>García<br>Medina&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#46' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229252","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>MC</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María de Jesús Rodríguez Vázquez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;47&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#47' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229018","leg");'><img src='../../Archivos/Fotos/9229018.jpg' alt='Ángel<br>García<br>Yáñez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ángel<br>García<br>Yáñez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#47' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229018","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Morelos&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Eliasib Polanco Saldívar</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;48&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#48' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229158","leg");'><img src='../../Archivos/Fotos/9229158.jpg' alt='José Ramón<br>Gómez<br>Leal' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Ramón<br>Gómez<br>Leal&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#48' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229158","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tamaulipas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Indira Paola López Carreto</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;49&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#49' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229082","leg");'><img src='../../Archivos/Fotos/9229082.jpg' alt='Alma Anahí<br>González<br>Hernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alma Anahí<br>González<br>Hernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#49' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229082","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Quintana Roo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Maribel Cruz Rodríguez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;50&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#50' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229092","leg");'><img src='../../Archivos/Fotos/9229092.jpg' alt='Ruth Miriam<br>González<br>Silva' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ruth Miriam<br>González<br>Silva&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#50' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229092","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;San Luis Potosí&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Virginia Zúñiga Maldonado</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;51&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#51' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228916","leg");'><img src='../../Archivos/Fotos/9228916.jpg' alt='Alejandro<br>González<br>Yáñez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alejandro<br>González<br>Yáñez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#51' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228916","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PT</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Durango&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>José Isidro Bertín Arias Medrano</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;52&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#52' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228880","leg");'><img src='../../Archivos/Fotos/9228880.jpg' alt='Cecilia Guadalupe<br>Guadiana<br>Mandujano' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Cecilia Guadalupe<br>Guadiana<br>Mandujano&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#52' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228880","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Coahuila&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Rocío Guadalupe De Aguinaga Peraza</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;53&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#53' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229016","leg");'><img src='../../Archivos/Fotos/9229016.jpg' alt='Juanita<br>Guerra<br>Mena' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Juanita<br>Guerra<br>Mena&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#53' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229016","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Morelos&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María Guadalupe Robles Frutos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;54&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#54' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228976","leg");'><img src='../../Archivos/Fotos/9228976.jpg' alt='Mariela<br>Gutiérrez<br>Escalante' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mariela<br>Gutiérrez<br>Escalante&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#54' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228976","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Monzeisela García Ramos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;55&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#55' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229264","leg");'><img src='../../Archivos/Fotos/9229264.jpg' alt='Susana<br>Harp<br>Iturribarría' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Susana<br>Harp<br>Iturribarría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#55' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229264","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Mónica Fernández Balboa</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;56&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#56' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228886","leg");'><img src='../../Archivos/Fotos/9228886.jpg' alt='Ana Karen<br>Hernández<br>Aceves' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ana Karen<br>Hernández<br>Aceves&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#56' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228886","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PT</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Colima&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carolina Lara Padilla</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;57&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#57' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229094","leg");'><img src='../../Archivos/Fotos/9229094.jpg' alt='Gilberto<br>Hernández<br>Villafuerte' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Gilberto<br>Hernández<br>Villafuerte&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#57' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229094","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;San Luis Potosí&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Luis Enrique Hernández Segura</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;58&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#58' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229140","leg");'><img src='../../Archivos/Fotos/9229140.jpg' alt='José Sabino<br>Herrera<br>Dagdug' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Sabino<br>Herrera<br>Dagdug&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#58' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229140","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tabasco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Raúl Gerardo Ramos Ramos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;59&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#59' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229170","leg");'><img src='../../Archivos/Fotos/9229170.jpg' alt='Manuel Rafael<br>Huerta<br>Ladrón de Guevara' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Manuel Rafael<br>Huerta<br>Ladrón de Guevara&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#59' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229170","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Veracruz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Ricardo Francisco Exsome Zapata</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;60&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#60' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229126","leg");'><img src='../../Archivos/Fotos/9229126.jpg' alt='Enrique<br>Inzunza<br>Cázarez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Enrique<br>Inzunza<br>Cázarez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#60' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229126","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Sin Partido</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sinaloa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Omar Alejandro López Campos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;61&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#61' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229030","leg");'><img src='../../Archivos/Fotos/9229030.jpg' alt='Miguel Pavel<br>Jarero<br>Velázquez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Miguel Pavel<br>Jarero<br>Velázquez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#61' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229030","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nayarit&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Alejandro García Monroy</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;62&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#62' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228750","leg");'><img src='../../Archivos/Fotos/9228750.jpg' alt='María Martina<br>Kantún<br>Can' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María Martina<br>Kantún<br>Can&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#62' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228750","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Campeche&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Ixchel Victoria Pat Caamal</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;63&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#63' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228900","leg");'><img src='../../Archivos/Fotos/9228900.jpg' alt='Juan Carlos<br>Loera<br>De La Rosa' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Juan Carlos<br>Loera<br>De La Rosa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#63' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228900","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Chihuahua&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Luis Mario Baeza Cano</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;64&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#64' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228914","leg");'><img src='../../Archivos/Fotos/9228914.jpg' alt='Cynthia Iliana<br>López<br>Castro' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Cynthia Iliana<br>López<br>Castro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#64' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228914","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Ciudad de México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Alicia Virginia Téllez Sánchez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;65&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#65' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229258","leg");'><img src='../../Archivos/Fotos/9229258.jpg' alt='Adán Augusto<br>López<br>Hernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Adán Augusto<br>López<br>Hernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#65' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229258","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Oscar Trinidad Palomera Cano</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;66&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#66' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229298","leg");'><img src='../../Archivos/Fotos/9229298.jpg' alt='Edith<br>López<br>Hernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Edith<br>López<br>Hernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#66' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229298","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Elvira Méndez Bautista</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;67&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#67' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228930","leg");'><img src='../../Archivos/Fotos/9228930.jpg' alt='Virginia Marie<br>Magaña<br>Fonseca' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Virginia Marie<br>Magaña<br>Fonseca&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#67' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228930","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guanajuato&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Fraisel Guadalupe Capetillo López</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;68&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#68' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228936","leg");'><img src='../../Archivos/Fotos/9228936.jpg' alt='Miguel<br>Márquez<br>Márquez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Miguel<br>Márquez<br>Márquez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#68' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228936","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guanajuato&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>David Novoa Toscano</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;69&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#69' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228714","leg");'><img src='../../Archivos/Fotos/9228714.jpg' alt='Juan Antonio<br>Martín del Campo<br>Martín del Campo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Juan Antonio<br>Martín del Campo<br>Martín del Campo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#69' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228714","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Aguascalientes&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Francisco Javier Luévano Núñez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;70&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#70' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228972","leg");'><img src='../../Archivos/Fotos/9228972.jpg' alt='Higinio<br>Martínez<br>Miranda' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Higinio<br>Martínez<br>Miranda&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#70' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228972","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Sandra Luz Falcón Venegas</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;71&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#71' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229088","leg");'><img src='../../Archivos/Fotos/9229088.jpg' alt='Mayuli Latifa<br>Martínez<br>Simón' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayuli Latifa<br>Martínez<br>Simón&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#71' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229088","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Quintana Roo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Araceli Sandoval Ortiz</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;72&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#72' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228727","leg");'><img src='../../Archivos/Fotos/9228727.jpg' alt='Juan<br>Meléndrez<br>Espinoza' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Juan<br>Meléndrez<br>Espinoza&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#72' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228727","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Baja California&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;73&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#73' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228894","leg");'><img src='../../Archivos/Fotos/9228894.jpg' alt='Luis Armando<br>Melgar<br>Bravo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Luis Armando<br>Melgar<br>Bravo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#73' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228894","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Chiapas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Erasmo Catarino González Delgado</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;74&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#74' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228884","leg");'><img src='../../Archivos/Fotos/9228884.jpg' alt='Virgilio<br>Mendoza<br>Amezcua' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Virgilio<br>Mendoza<br>Amezcua&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#74' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228884","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Colima&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Edgar Noé Larios Carrasco</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;75&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#75' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229012","leg");'><img src='../../Archivos/Fotos/9229012.jpg' alt='Víctor Aureliano<br>Mercado<br>Salgado' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Víctor Aureliano<br>Mercado<br>Salgado&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#75' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229012","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Morelos&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carlo de Fernex Labardini</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;76&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#76' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229276","leg");'><img src='../../Archivos/Fotos/9229276.jpg' alt='Martha Lucía<br>Micher<br>Camarena' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Martha Lucía<br>Micher<br>Camarena&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#76' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229276","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Ximena Escobedo Juárez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;77&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#77' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229070","leg");'><img src='../../Archivos/Fotos/9229070.jpg' alt='Moisés Ignacio<br>Mier<br>Velazco' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Moisés Ignacio<br>Mier<br>Velazco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#77' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229070","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Puebla&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carlos Alberto Evangelista Aniceto</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;78&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#78' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228725","leg");'><img src='../../Archivos/Fotos/9228725.jpg' alt='Cleotilde<br>Molina<br>López' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Cleotilde<br>Molina<br>López&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#78' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228725","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Baja California&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;79&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#79' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229192","leg");'><img src='../../Archivos/Fotos/9229192.jpg' alt='Saúl<br>Monreal<br>Ávila' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Saúl<br>Monreal<br>Ávila&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#79' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229192","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Zacatecas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Heli Teohua Carrillo Tostado</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;80&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#80' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229025","leg");'><img src='../../Archivos/Fotos/9229025.jpg' alt='Angélica<br>Montes<br>Rentería' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Angélica<br>Montes<br>Rentería&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#80' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229025","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nayarit&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>17/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;81&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#81' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229064","leg");'><img src='../../Archivos/Fotos/9229064.jpg' alt='Antonino<br>Morales<br>Toledo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Antonino<br>Morales<br>Toledo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#81' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229064","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Oaxaca&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Roberto López Santos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;82&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#82' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229220","leg");'><img src='../../Archivos/Fotos/9229220.jpg' alt='Rafael Alejandro<br>Moreno<br>Cárdenas' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Rafael Alejandro<br>Moreno<br>Cárdenas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#82' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229220","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Augusto Gómez Villanueva</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;83&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#83' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229294","leg");'><img src='../../Archivos/Fotos/9229294.jpg' alt='Alejandro Ismael<br>Murat<br>Hinojosa' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alejandro Ismael<br>Murat<br>Hinojosa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#83' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229294","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Armando Contreras Castillo</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;84&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#84' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229076","leg");'><img src='../../Archivos/Fotos/9229076.jpg' alt='María Guadalupe<br>Murguía<br>Gutiérrez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María Guadalupe<br>Murguía<br>Gutiérrez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#84' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229076","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Querétaro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Sonia Rocha Acosta</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;85&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#85' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228954","leg");'><img src='../../Archivos/Fotos/9228954.jpg' alt='Cuauhtémoc<br>Ochoa<br>Fernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Cuauhtémoc<br>Ochoa<br>Fernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#85' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228954","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Hidalgo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Erika Janeth Cabrera Palacios</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;86&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#86' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228950","leg");'><img src='../../Archivos/Fotos/9228950.jpg' alt='Sandra Simey<br>Olvera<br>Bautista' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sandra Simey<br>Olvera<br>Bautista&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#86' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228950","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Hidalgo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Bertha Miranda Rodríguez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;87&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#87' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229397","leg");'><img src='../../Archivos/Fotos/9229397.jpg' alt='Maki Esther<br>Ortiz<br>Domínguez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Maki Esther<br>Ortiz<br>Domínguez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#87' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229397","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;88&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#88' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228752","leg");'><img src='../../Archivos/Fotos/9228752.jpg' alt='Aníbal<br>Ostoa<br>Ortega' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Aníbal<br>Ostoa<br>Ortega&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#88' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228752","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Campeche&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carlos Enrique Martínez Aké</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;89&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#89' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228723","leg");'><img src='../../Archivos/Fotos/9228723.jpg' alt='Jennifer Kristel<br>Parra<br>Salas' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Jennifer Kristel<br>Parra<br>Salas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#89' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228723","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Aguascalientes&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/09/2025&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;90&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#90' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228945","leg");'><img src='../../Archivos/Fotos/9228945.jpg' alt='Francisco Arturo<br>Pérez<br>Pérez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Francisco Arturo<br>Pérez<br>Pérez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#90' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228945","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guerrero&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>03/12/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;91&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#91' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229189","leg");'><img src='../../Archivos/Fotos/9229189.jpg' alt='Gabriela Evangelina<br>Pinedo<br>Morales' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Gabriela Evangelina<br>Pinedo<br>Morales&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#91' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229189","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Zacatecas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>31/08/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;92&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#92' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229418","leg");'><img src='../../Archivos/Fotos/9229418.jpg' alt='Yeidckol<br>Polevnsky<br>Gurwitz' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Yeidckol<br>Polevnsky<br>Gurwitz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#92' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229418","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PT</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Denisse Ortiz Pérez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;93&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#93' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228968","leg");'><img src='../../Archivos/Fotos/9228968.jpg' alt='Francisco Javier<br>Ramírez<br>Acuña' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Francisco Javier<br>Ramírez<br>Acuña&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#93' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228968","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Jalisco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>José Nicolás Morales Ramos</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;94&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#94' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228941","leg");'><img src='../../Archivos/Fotos/9228941.jpg' alt='Patricia Guadalupe<br>Ramírez<br>Bazán' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Patricia Guadalupe<br>Ramírez<br>Bazán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#94' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228941","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guerrero&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;95&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#95' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229182","leg");'><img src='../../Archivos/Fotos/9229182.jpg' alt='Jorge Carlos<br>Ramírez<br>Marín' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Jorge Carlos<br>Ramírez<br>Marín&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#95' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229182","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Yucatán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Jorge Armando García</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;96&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#96' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229275","leg");'><img src='../../Archivos/Fotos/9229275.jpg' alt='Emmanuel<br>Reyes<br>Carmona' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Emmanuel<br>Reyes<br>Carmona&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#96' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229275","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>05/09/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;97&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#97' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229032","leg");'><img src='../../Archivos/Fotos/9229032.jpg' alt=' Ivideliza<br>Reyes<br>Hernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp; Ivideliza<br>Reyes<br>Hernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#97' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229032","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nayarit&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Ana Yusara Ramírez Salazar</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;98&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#98' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229005","leg");'><img src='../../Archivos/Fotos/9229005.jpg' alt='Luis<br>Reyes<br>Zavala' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Luis<br>Reyes<br>Zavala&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#98' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229005","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Michoacán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;99&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#99' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229080","leg");'><img src='../../Archivos/Fotos/9229080.jpg' alt='Beatriz Silvia<br>Robles<br>Gutiérrez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Beatriz Silvia<br>Robles<br>Gutiérrez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#99' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229080","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Querétaro&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Diana Yudith Miranda Salazar</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;100&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#100' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229096","leg");'><img src='../../Archivos/Fotos/9229096.jpg' alt='Verónica<br>Rodríguez<br>Hernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Verónica<br>Rodríguez<br>Hernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#100' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229096","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;San Luis Potosí&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Bertha Estela Arriaga Márquez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;101&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#101' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229209","leg");'><img src='../../Archivos/Fotos/9229209.jpg' alt='Alma Cristina<br>Rodríguez<br>Vallejo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alma Cristina<br>Rodríguez<br>Vallejo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#101' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229209","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>02/09/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;102&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#102' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228888","leg");'><img src='../../Archivos/Fotos/9228888.jpg' alt='Mely<br>Romero<br>Celis' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mely<br>Romero<br>Celis&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#102' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228888","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Colima&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Martha Leticia Sosa Govea</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;103&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#103' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229290","leg");'><img src='../../Archivos/Fotos/9229290.jpg' alt='Karina Isabel<br>Ruiz<br>Ruiz' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Karina Isabel<br>Ruiz<br>Ruiz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#103' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229290","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Octavia Hernández Farret</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;104&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#104' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229228","leg");'><img src='../../Archivos/Fotos/9229228.jpg' alt='Cristina<br>Ruíz<br>Sandoval' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Cristina<br>Ruíz<br>Sandoval&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#104' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229228","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María del Carmen Ricárdez Vela</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;105&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#105' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228878","leg");'><img src='../../Archivos/Fotos/9228878.jpg' alt='Luis Fernando<br>Salazar<br>Fernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Luis Fernando<br>Salazar<br>Fernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#105' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228878","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Coahuila&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Wendy Balcázar Pérez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;106&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#106' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229072","leg");'><img src='../../Archivos/Fotos/9229072.jpg' alt='Lizeth<br>Sánchez<br>García' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Lizeth<br>Sánchez<br>García&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#106' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229072","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PT</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Puebla&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María Isabel Merlo Talavera</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;107&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#107' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229128","leg");'><img src='../../Archivos/Fotos/9229128.jpg' alt='Paloma<br>Sánchez<br>Ramos' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Paloma<br>Sánchez<br>Ramos&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#107' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229128","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sinaloa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María del Refugio Higuera Cázarez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;108&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#108' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229160","leg");'><img src='../../Archivos/Fotos/9229160.jpg' alt='Imelda Margarita<br>Sanmiguel<br>Sánchez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Imelda Margarita<br>Sanmiguel<br>Sánchez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#108' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229160","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tamaulipas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Gloria Ivett Bermea Vázquez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;109&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#109' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229008","leg");'><img src='../../Archivos/Fotos/9229008.jpg' alt='Araceli<br>Saucedo<br>Reyes' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Araceli<br>Saucedo<br>Reyes&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#109' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229008","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Michoacán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Verónica García Reyes</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;110&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#110' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228926","leg");'><img src='../../Archivos/Fotos/9228926.jpg' alt='Francisco Ricardo<br>Sheffield<br>Padilla' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Francisco Ricardo<br>Sheffield<br>Padilla&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#110' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228926","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Guanajuato&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Diego Sandoval Ventura</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;111&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#111' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229312","leg");'><img src='../../Archivos/Fotos/9229312.jpg' alt='Luis Alfonso<br>Silva<br>Romo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Luis Alfonso<br>Silva<br>Romo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#111' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229312","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Rogelio Hernández Cázares</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;112&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#112' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229142","leg");'><img src='../../Archivos/Fotos/9229142.jpg' alt='Olga Patricia<br>Sosa<br>Ruíz' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Olga Patricia<br>Sosa<br>Ruíz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#112' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229142","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Tamaulipas&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Verónica Castillo Carrera</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;113&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#113' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229214","leg");'><img src='../../Archivos/Fotos/9229214.jpg' alt='María Lilly del Carmen<br>Téllez<br>García' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;María Lilly del Carmen<br>Téllez<br>García&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#113' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229214","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Lisette López Godínez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;114&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#114' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229168","leg");'><img src='../../Archivos/Fotos/9229168.jpg' alt='Claudia<br>Tello<br>Espinosa' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Claudia<br>Tello<br>Espinosa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#114' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229168","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Veracruz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Raquel Bonilla Herrera</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;115&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#115' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229385","leg");'><img src='../../Archivos/Fotos/9229385.jpg' alt='Karla Guadalupe<br>Toledo<br>Zamora' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Karla Guadalupe<br>Toledo<br>Zamora&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#115' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229385","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;116&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#116' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228965","leg");'><img src='../../Archivos/Fotos/9228965.jpg' alt='José Hirám<br>Torres<br>Salcedo' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;José Hirám<br>Torres<br>Salcedo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#116' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228965","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Jalisco&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>27/11/2025&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;117&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#117' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228740","leg");'><img src='../../Archivos/Fotos/9228740.jpg' alt='Jesús Lucía<br>Trasviña<br>Waldenrath' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Jesús Lucía<br>Trasviña<br>Waldenrath&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#117' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228740","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Baja California Sur&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María Elba Lombera Romero</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;118&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#118' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228918","leg");'><img src='../../Archivos/Fotos/9228918.jpg' alt='Lilia Margarita<br>Valdez<br>Martínez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Lilia Margarita<br>Valdez<br>Martínez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#118' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228918","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Durango&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>María de los Ángeles Rojas Rivera</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;119&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#119' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228996","leg");'><img src='../../Archivos/Fotos/9228996.jpg' alt='Enrique<br>Vargas<br>del Villar' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Enrique<br>Vargas<br>del Villar&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#119' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228996","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;México&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Héctor Quezada Quezada</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;120&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#120' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229131","leg");'><img src='../../Archivos/Fotos/9229131.jpg' alt='Lizeth Teresita<br>Vásquez<br>Ochoa' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Lizeth Teresita<br>Vásquez<br>Ochoa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#120' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229131","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Sonora&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>23/06/2026&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;121&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#121' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228906","leg");'><img src='../../Archivos/Fotos/9228906.jpg' alt='Mario Humberto<br>Vázquez<br>Robles' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mario Humberto<br>Vázquez<br>Robles&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#121' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228906","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Chihuahua&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Adriana Fuentes Téllez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;122&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#122' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229238","leg");'><img src='../../Archivos/Fotos/9229238.jpg' alt='Manuel<br>Velasco<br>Coello' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Manuel<br>Velasco<br>Coello&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#122' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229238","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PVEM</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Adrián Rubalcava Suárez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;123&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#123' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228960","leg");'><img src='../../Archivos/Fotos/9228960.jpg' alt='Alma Carolina<br>Viggiano<br>Austria' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Alma Carolina<br>Viggiano<br>Austria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#123' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228960","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Hidalgo&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Edna Geraldina García Gordillo</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;124&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#124' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229435","leg");'><img src='../../Archivos/Fotos/9229435.jpg' alt='Mauricio<br>Vila<br>Dosal' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mauricio<br>Vila<br>Dosal&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#124' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229435","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Representación Proporcional&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>20/11/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Raymundo Bolaños Azocar</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;125&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#125' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228899","leg");'><img src='../../Archivos/Fotos/9228899.jpg' alt='Nora Elena<br>Yu<br>Hernández' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Nora Elena<br>Yu<br>Hernández&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#125' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228899","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Mayoría Relativa&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Chihuahua&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>13/02/2025&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Suplente&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>&nbsp;</TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;126&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#126' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229174","leg");'><img src='../../Archivos/Fotos/9229174.jpg' alt='Miguel Ángel<br>Yunes<br>Márquez' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Miguel Ángel<br>Yunes<br>Márquez&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#126' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229174","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>Morena</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Veracruz&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Miguel Ángel Yunes Linares</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;127&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#127' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229186","leg");'><img src='../../Archivos/Fotos/9229186.jpg' alt='Rolando Rodrigo<br>Zapata<br>Bello' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Rolando Rodrigo<br>Zapata<br>Bello&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#127' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9229186","leg");'>Senador LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PRI</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Yucatán&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietario&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Carlos Hernando Sobrino Argaez</b></TD></tr><tr>
+<td align='center' class='tddatosazulrep'><b>&nbsp;128&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'>
+			<a href='#128' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228748","leg");'><img src='../../Archivos/Fotos/9228748.jpg' alt='Susana del Carmen<br>Zatarain<br>García' width='60px' height='75px'></a></td>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Susana del Carmen<br>Zatarain<br>García&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<a href='#128' onclick ='window.open("/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9228748","leg");'>Senadora  LXVI&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;&nbsp;<b>PAN</b>&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Primera Minoría&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;Baja California Sur&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>&nbsp;<b>29/08/2024&nbsp;</b></TD>
+<td align='center' class='tddatosnaranja'><b>&nbsp;Propietaria&nbsp;</b></TD>
+<td align='center' class='tddatosazulrep'><b>Yesenia Ramírez Saldaña</b></TD></tr></table><FORM NAME="RESULLEGIS_FRM" METHOD="POST">
+</FORM>
+<br><br><HR size="2px" width="80%" color="#000000"><br><br>
+<div id="Botonera" align="center">
+<TABLE cellpadding="0" cellspacing="0" align="center" width="100%">
+<tr>
+    <td align="center">
+		<button alt="Si deseas cerrar la busqueda debes de dar click aqui" class="buttonA button2" value="Continuar" OnClick="window.close();">Cerrar</button>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<button alt="Si deseas imprimir esta busqueda debes de dar click aqui" class="buttonA button2" value="Continuar" OnClick="Imprimir(); return(false);">Imprimir</button>
+		<br><br>
+    </td>
+</tr>
+</TABLE>
+</div>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+        var Contenedor=document.getElementById('Contenedor');
+        var Main=document.getElementById('main')
+        Main.innerHTML='';
+        Main.innerHTML=Contenedor.innerHTML;
+        Contenedor.innerHTML=''
+</script>

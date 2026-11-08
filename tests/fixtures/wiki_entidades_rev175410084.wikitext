@@ -1,0 +1,437 @@
+{{Ficha de tipo de subdivisión
+|nombre           = Estados de México
+|imagen           = States_of_Mexico_(black_border).png
+|tamaño de imagen = 300px
+|categoría        = Primer nivel de división administrativa
+|país             = {{MEX}}
+|fecha_inicio     = 
+|fecha_fin        = 
+|número_actual    = 32
+|gobierno         = [[Anexo:Gobernantes de las entidades federativas de México|Gubernatura Estatal]]
+|gobierno1        = [[Anexo:Congresos de las entidades federativas de México|Congreso Estatal]]
+|subdivisión      = [[Municipios de México|Municipios]]
+}}
+Los [[México|'''Estados Unidos Mexicanos''']] es un estado soberano que se constituye como una federación fundada el 4 de octubre de 1824. Está compuesta por treinta y dos entidades federativas: treinta y un estados y la Ciudad de México, capital del país y sede de los Poderes de la Unión.
+
+Hay tres tipos de entidad:
+* '''Estado''', con denominación oficial de «Estado Libre y Soberano». Tiene población y recursos necesarios para subsistir por sí mismo, por lo que cuenta con una constitución y leyes propias así como un gobierno dividido en tres poderes cuya titularidad del ejecutivo recae en un gobernador, del legislativo en su congreso local, y de su judicial en su Tribunal Superior de Justicia.
+* '''Capital'''. Desde su primera creación en 1824 se denominó «[[Ciudad de México|Distrito Federal]]» y tuvo como centro la [[Ciudad de México]] hasta que con el paso de los años se igualaron ambos términos y en 2016 se denominó después de una reforma política simplemente como Ciudad de México dándole el mismo nivel de estado. Cuenta con una constitución y leyes propias así como un gobierno cuya titularidad del ejecutivo recae en el jefe de Gobierno y del legislativo en su congreso local.
+* '''[[Territorios federales de México|Territorio]]''', con denominación oficial de «Territorio federal». No tiene población o recursos necesarios para subsistir por sí mismo, por lo que está directamente controlado por el gobierno federal para manejar su gobierno. Actualmente no existe ningún territorio. Los últimos existentes, [[Territorio Sur de Baja California|Sur de Baja California]] y [[Territorio de Quintana Roo|Quintana Roo]], pasaron a ser estados en 1974.
+
+Al momento de su erección estaba constituida por diecinueve estados y cuatro [[Territorios federales de México|territorios federales]]. Actualmente está conformada por treinta y dos entidades federativas: treinta y un estados y [[Ciudad de México]], la [[Capital (política)|capital del país]] y sede de los [[Poderes de la Unión]].
+
+A su vez, cada entidad federativa para su régimen interno está conformada por unidades político-administrativas menores. Los estados se organizan por [[Municipios de México|municipios libres]], cuyo número actual desde 2021 es de 2469, siendo el último creado [[Municipio de San Quintín|San Quintín]] (en [[Baja California]]); en el caso de la Ciudad de México se divide en dieciséis [[Demarcaciones territoriales de la Ciudad de México|demarcaciones territoriales]].<ref>{{Cita web|url=https://cuentame.inegi.org.mx/territorio/division/default.aspx?tema=T|título=División territorial de México|autor=INEGI|fechaacceso=2 de agosto de 2021}}</ref>
+
+== Lista ==
+{| class="wikitable sortable" align="center" style="font-size:95%;padding:0px;"
+|+ align=top style="background:#BFD7FF" | '''Entidades federativas de México'''
+|-
+! Nombre oficial
+! [[Anexo:Banderas de las entidades federativas de México|Bandera]]
+! [[Anexo:Escudos de las entidades federativas de México|Escudo]]
+! Capital
+! width = "9%" | [[Anexo:Ciudades más pobladas de México|Ciudad más poblada]]
+! [[Anexo:Entidades federativas de México por superficie, población y densidad|Superficie]] <small>(km²)</small><ref>{{Cita web |url= http://cuentame.inegi.gob.mx/monografias/default.aspx?tema=me |título= INEGI |urlarchivo= https://web.archive.org/web/20110723191350/http://cuentame.inegi.gob.mx/monografias/default.aspx?tema=me |fechaarchivo= 23 de julio de 2011 }}</ref>
+! [[Anexo:Entidades federativas de México por superficie, población y densidad|Población]] <small>(1T2022)</small><ref>{{Cita web |url=https://www.inegi.org.mx/sistemas/olap/proyectos/bd/encuestas/hogares/enoe/2010_pe_ed15/pt.asp?s=est&proy=enoe_pe_ed15_pt&p=enoe_pe_ed15 |autor=Instituto Nacional de Estadística y Geografía |título=Encuesta Nacional de Ocupación y Empleo |año=2022 |fechaacceso=30 de julio de 2022}}</ref>
+! [[Anexo:Entidades federativas de México por superficie, población y densidad|Densidad de población]]  <small>(hab/km²)</small>
+! Orden de ingreso a la federación 
+! Fecha de ingreso a la federación<ref name="La Diputación_1">{{Cita web |url= http://books.google.com.mx/books?id=i_GK_-6deKIC&lpg=PA227&ots=eyvDzsrMIz&dq=22%20De%20Mayo%20De%201824%20durango&pg=PA227#v=onepage&q=&f=false |título= La Diputación Provincial y El Federalismo Mexicano}}</ref>
+! Mapa
+|-align=center
+| '''[[Aguascalientes]]'''
+|
+| [[Archivo:Coat of arms of Aguascalientes.svg|50px]]
+|colspan="2"| [[Aguascalientes (Aguascalientes)|Aguascalientes]]
+| 5618
+| 1&nbsp;476&nbsp;741
+| 237.23
+| 24.º
+| {{Fecha|5|02|1857}}<ref>{{Cita web |url= http://www.yucatan.gob.mx/servicios/c_civico/fechas.jsp?mes=2 |título= Calendario de Eventos Cívicos - Febrero |urlarchivo= https://web.archive.org/web/20100411140738/http://www.yucatan.gob.mx/servicios/c_civico/fechas.jsp?mes=2 |fechaarchivo= 11 de abril de 2010 }}</ref>
+| [[Archivo:Aguascalientes in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Baja California]]'''
+| [[File:Flag of Baja California.svg|border|100px]]
+| [[Archivo:Coat of arms of Baja California.svg|50px]]
+| [[Mexicali]]
+| [[Tijuana]]
+| 71&nbsp;446
+| 3&nbsp;803&nbsp;598
+| 50.86
+| 29.º
+| {{Fecha|16|1|1952}}<ref>{{Cita web |url= http://www.bajacalifornia.gob.mx/portal/nuestro_estado/historia/transformacion.jsp |título= Transformación Política de Territorio Norte de la Baja California a Estado 29}}</ref>
+| [[Archivo:Baja California in Mexico.svg|120px]]
+|-align=center
+| [[Estado de Baja California Sur|'''Baja California Sur''']]
+| [[File:Flag of Baja California Sur.svg|borde|100px]]
+| [[Archivo:Coat of arms of Baja California Sur.svg|50px]]
+|colspan="2"| [[La Paz (Baja California Sur)|La Paz]]
+|73&nbsp;922
+| 837&nbsp;179
+| 8.62
+| 30.º
+| {{Fecha|8|10|1974}}<ref>{{Cita web|url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=8&mes=10|título=Secretaria de Educación Pública|urlarchivo=https://web.archive.org/web/20100810021435/http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=8&mes=10|fechaarchivo=10 de agosto de 2010}}</ref>
+| [[Archivo:Baja California Sur in Mexico.svg|120x120px]]
+|
+|-align=center
+| '''[[Campeche]]'''
+|
+| [[Archivo:Coat of arms of Campeche.svg|45px]]
+|colspan="2"| [[San Francisco de Campeche]]
+| 57&nbsp;924
+| 946&nbsp;130
+| 14.20
+| 25.º
+| {{Fecha|29|4|1863}}<ref>{{Cita web |url= http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=29&mes=4 |título= Secretaria de Educación Pública |urlarchivo= https://web.archive.org/web/20111026155634/http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=29&mes=4 |fechaarchivo= 26 de octubre de 2011}}</ref>
+| [[Archivo:Campeche in Mexico.svg|120px]]
+|-align=center
+| '''[[Chiapas]]'''
+|
+| [[Archivo:Coat of Arms of Chiapas (2026).svg|76x76px]]
+|colspan="2" align=center | [[Tuxtla Gutiérrez]]
+| 73&nbsp;289
+| 5&nbsp;670&nbsp;350
+| 65.45
+| 19.º
+| {{Fecha|14|9|1824}}
+| [[Archivo:Chiapas in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Chihuahua]]'''
+| 
+| [[Archivo:Coat of arms of Chihuahua.svg|50px]]
+| [[Chihuahua (Chihuahua)|Chihuahua]]
+| [[Ciudad Juárez]]
+| 247&nbsp;455
+| 3&nbsp;789&nbsp;509
+| 13.77
+| 18.º
+| {{Fecha|6|7|1824}}
+| [[Archivo:Chihuahua in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Ciudad de México]]'''
+|
+| [[Archivo:Coat of arms of Mexican Federal District.svg|50px]]
+| —
+| [[Iztapalapa]]{{Refn|1=Es una demarcación territorial, no una ciudad.|group="nota"}}
+| 1485
+| 9&nbsp;259&nbsp;354
+| 5960.27
+|colspan="2"| —{{Refn|1=La reforma política de la Ciudad de México publicada en el Diario Oficial de la Federación el 29 de enero de 2016, así como los cambios a los artículos 43 y 122 de la Constitución Política de los Estados Unidos Mexicanos afirman su carácter de entidad federativa, más no de estado, en virtud de su condición de capital de la república, elevando su autonomía y estructura política a la par de los estados, pero distinguiéndose de estos con el estatus de sede de los poderes de la unión.<ref>{{Cita web |url=http://www.ordenjuridico.gob.mx/Constitucion/articulos/43.pdf|título=Artículo 43 de la Constitución Política de los Estados Unidos Mexicanos|fechaacceso=20 de agosto de 2018}}</ref><ref>{{Cita web |url=https://www.elfinanciero.com.mx/nacional/df-no-es-el-estado-32-aclaran-legisladores|título=DF no es el estado 32, aclaran legisladores|fecha=22 de enero de 2016 |fechaacceso=8 de mayo de 2020 |autor=Víctor Chávez |editorial=El Financiero}}</ref><ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/2017-03/CPEUM-044.pdf|título=Artículo 44 de la Constitución Política de los Estados Unidos Mexicanos|fecha=29 de enero de 2016 |fechaacceso=8 de mayo de 2020 |sitio web=Suprema Corte de Justicia de la Nación}}</ref> Debido a que únicamente los estados poseen fecha de creación y orden de ingreso, la Ciudad de México carece de estos.|group="nota"}}
+| [[Archivo:Mexico (city) in Mexico (zoom).svg|120px]]
+|-align=center 
+| '''[[Coahuila de Zaragoza]]'''
+|
+| [[Archivo:Coat of arms of Coahuila.svg|50px]]
+|colspan="2"| [[Saltillo]]
+| 151&nbsp;563
+| 3&nbsp;257&nbsp;311
+| 20.16
+| 16.º
+| {{Fecha|7|05|1824}}{{Refn|1=Se unió a la federación con el nombre de [[Coahuila y Texas]].|group="nota"}}
+| [[Archivo:Coahuila in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Colima]]'''
+|[[File:Flag of Colima.png|borde|100px]]
+| [[Archivo:Escudo Oficial de Colima.png|62x62px]]
+| [[Colima (Colima)|Colima]]
+| [[Manzanillo]]
+| 5625
+| 767&nbsp;311
+| 115.65
+| 23.º
+| {{Fecha|9|12|1856}}<ref>{{Cita web |url= http://www.bajacalifornia.gob.mx/portal/nuestro_estado/historia/efemerides/en-diciembre.jsp |título= Portal Ciudadano de Baja California}}</ref><ref>{{Cita web |url= http://elcomentario.ucol.mx/Noticia.php?id=1260333428 |título= Universidad de Colima |urlarchivo= https://web.archive.org/web/20100810192803/http://elcomentario.ucol.mx/Noticia.php?id=1260333428 |fechaarchivo= 10 de agosto de 2010 }}</ref>
+| [[File:Colima in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Durango]]'''
+| [[File:Flag of Durango.svg|borde|100px]]
+| [[Archivo:Coat_of_arms_of_Durango.svg|50px]]
+|colspan="2"| [[Victoria de Durango]]
+| 123&nbsp;451
+| 1&nbsp;860&nbsp;401
+| 13.23
+| 17.º
+| {{Fecha|22|5|1824}}
+| [[Archivo:Durango in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Guanajuato]]'''
+| [[Archivo:Bandera Oficial de Guanajuato.png|borde|100x100px]]
+| [[File: Escudo de armas de la Ciudad y Estado de Guanajuato.svg|45px]]
+| [[Guanajuato (Guanajuato)|Guanajuato]]
+| [[León (México)|León de los Aldama]]
+| 30&nbsp;608
+| 6&nbsp;247&nbsp;346
+| 179.25
+| 2.º
+| {{Fecha|20|12|1823}}
+|[[Archivo:Guanajuato in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Estado de Guerrero|Guerrero]]'''
+| [[File:Flag of Guerrero.svg|borde|100px]]
+| [[Archivo:Coat of arms of Guerrero.svg|45px]]
+| [[Chilpancingo de los Bravo]]
+| [[Acapulco de Juárez]]
+| 63&nbsp;621
+| 3&nbsp;583&nbsp;667
+| 53.26
+| 21.º
+| {{Fecha|27|10|1849}}<ref>{{Cita web |url= http://www.guerrero.gob.mx/?P=readart&ArtOrder=ReadArt&Article=2177 |título= Erección del Estado de Guerrero |fechaacceso= 21 de enero de 2010 |urlarchivo= https://web.archive.org/web/20071017132224/http://guerrero.gob.mx/?P=readart&ArtOrder=ReadArt&Article=2177 |fechaarchivo= 17 de octubre de 2007 }}</ref>
+| [[Archivo:Guerrero in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Estado de Hidalgo|Hidalgo]]'''
+|
+| [[Archivo:Escudo del Estado Libre y Soberano de Hidalgo.png|60px]] 
+|colspan="2"| [[Pachuca de Soto]]
+| 20&nbsp;813
+| 3&nbsp;142&nbsp;539
+| 128.05
+| 26.º
+| {{Fecha|16|1|1869}}<ref>{{Cita web |url= http://www.congreso-hidalgo.gob.mx/index.php?historia-de-las-divisiones-territoriales-de-los-municipios-del-estado-de-hidalgo-1 |título= Congreso del Estado Libre y Soberano de Hidalgo |urlarchivo= https://archive.is/20080724223240/http://www.congreso-hidalgo.gob.mx/index.php?historia-de-las-divisiones-territoriales-de-los-municipios-del-estado-de-hidalgo-1 |fechaarchivo=24 de julio de 2008 }}</ref>
+| [[Archivo:Hidalgo in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Jalisco]]'''
+| [[File:Flag of Jalisco.svg|borde|100px]]
+| [[Archivo:Coat of arms of Jalisco.svg|50px]]
+|colspan="2" align=center | [[Guadalajara (México)|Guadalajara]]
+| 78&nbsp;599
+| 8&nbsp;460&nbsp;591
+| 93.52
+|1.º<ref>https://www.inehrm.gob.mx/work/models/inehrm/Resource/437/1/images/el_pais_en%20formacion.pdf</ref>
+| {{Fecha|16|06|1823}}<ref>https://www.jalisco.gob.mx/es/jalisco/historia</ref>
+| [[Archivo:Jalisco in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Estado de México]]'''
+| 
+| [[Archivo:Coat of arms of Mexico State.svg|50px]]
+| [[Toluca de Lerdo]]
+| [[Ecatepec de Morelos]]
+| 22&nbsp;357
+| 17&nbsp;240&nbsp;430
+| 678.80
+| 9.º
+| {{Fecha|20|12|1823}}
+| [[Archivo:Mexico (state) in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Michoacán|Michoacán de Ocampo]]'''
+|
+| [[Archivo:Escudo del Estado de Michoacán.svg|73x73px]]
+|colspan="2"| [[Morelia]]
+| 58&nbsp;643
+| 4&nbsp;919&nbsp;271
+| 74.20
+| 5.º
+| {{Fecha|22|12|1823}}
+| [[Archivo:Michoacan in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Morelos]]'''
+|
+| [[Archivo:Coat of arms of Morelos.svg|50px]]
+|colspan="2"| [[Cuernavaca]]
+| 4893
+| 2&nbsp;000&nbsp;319
+| 363.22
+| 27.º
+| {{Fecha|17|4|1869}}<ref>{{Cita web |url= http://www.inafed.gob.mx/work/templates/enciclo/morelos/gobi.htm |título= Enciclopedia de los Municipios de México |urlarchivo= https://web.archive.org/web/20110718113934/http://www.inafed.gob.mx/work/templates/enciclo/morelos/gobi.htm |fechaarchivo= 18 de julio de 2011 }}</ref>
+| [[Archivo:Morelos in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Nayarit]]'''
+|
+| [[Archivo:Coat of arms of Nayarit.svg|50px]]
+|colspan="2"| [[Tepic]]
+| 27&nbsp;815
+| 1&nbsp;256&nbsp;198
+| 39.01
+| 28.º
+| {{Fecha|26|1|1917}}<ref>{{Cita web |url= http://www.tlaxcala.gob.mx/tlaxcala/enero-febrero.html |título= Gobierno del Estado de Tlaxcala |urlarchivo= https://web.archive.org/web/20100218064033/http://www.tlaxcala.gob.mx/tlaxcala/enero-febrero.html |fechaarchivo= 18 de febrero de 2010 }}</ref>
+| [[Archivo:Nayarit in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Nuevo León]]'''
+| 
+| [[Archivo:Coat of arms of Nuevo Leon.svg|50px]]
+|colspan="2"| [[Monterrey]]
+| 64&nbsp;220
+| 6&nbsp;028&nbsp;770
+| 72.46
+| 15.º
+| {{Fecha|7|5|1824}}
+| [[Archivo:Nuevo Leon in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Oaxaca]]'''
+|
+| [[Archivo:Coat of arms of Oaxaca.svg|50px]]
+|colspan="2"| [[Oaxaca de Juárez]]
+| 93&nbsp;793
+| 4&nbsp;228&nbsp;733
+| 40.54
+| 3.º
+| {{Fecha|21|12|1823}}
+| [[Archivo:Oaxaca in Mexico.svg|120px]]
+|-align=center
+| '''[[Puebla]]'''
+|
+| [[Archivo:Coat of arms of Puebla.svg|50px]]
+|colspan="2"| [[Puebla de Zaragoza]]
+| 34&nbsp;290
+| 6&nbsp;682&nbsp;040
+| 168.56
+| 4.º
+| {{Fecha|21|12|1823}}
+| [[Archivo:Puebla in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Querétaro]]'''
+| [[File:Flag of Queretaro.svg|borde|100px]]
+| [[Archivo:Coat of arms of Queretaro.svg|50px]]
+|colspan="2" align=center | [[Santiago de Querétaro]]
+| 11&nbsp;684
+| 2&nbsp;462&nbsp;840
+| 156.45
+| 11.º
+| {{Fecha|23|12|1823}}
+| [[Archivo:Queretaro in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Quintana Roo]]'''
+| [[File:Flag of Quintana Roo.svg|borde|100px]]
+| [[Archivo:Coat of arms of Quintana Roo.svg|50px]]
+| [[Chetumal]]
+| [[Cancún]]
+| 42&nbsp;361
+| 1&nbsp;908&nbsp;246
+| 31.29
+| 31.º
+| {{Fecha|8|10|1974}}<ref>{{Cita web |url= http://www.qroo.gob.mx/qroo/Estado/Historia.php |título= Gobierno del Estado de Quintana Roo |urlarchivo= https://web.archive.org/web/20110817230003/http://www.qroo.gob.mx/qroo/Estado/Historia.php |fechaarchivo= 17 de agosto de 2011 }}</ref>
+| [[Archivo:Quintana Roo in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[San Luis Potosí]]'''
+| 
+| [[Archivo:Coat of arms of San Luis Potosi.svg|50px]]
+|colspan="2" | [[San Luis Potosí (ciudad)|San Luis Potosí]]
+| 60&nbsp;983
+| 2&nbsp;858&nbsp;265
+| 42.40
+| 6.º
+| {{Fecha|22|12|1823}}
+| [[Archivo:San Luis Potosi in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Sinaloa]]'''
+|
+| [[Archivo:Coat of arms of Sinaloa.svg|40px]]
+|colspan="2" align=center | [[Culiacán|Culiacán Rosales]]
+| 57&nbsp;377
+| 3&nbsp;072&nbsp;955
+| 48.24
+| 20.º
+| {{Fecha|14|10|1830}}<ref>{{Cita web |url= http://www.biblioteca.tv/artman2/publish/1830_135/Ley_Reglas_para_la_divisi_n_del_Estado_de_Sonora_y_Sinaloa.shtml |título= 500 años de México en documentos}}</ref>
+| [[Archivo:Sinaloa in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Sonora]]'''
+|
+| [[Archivo:Coat of arms of Sonora.svg|50px]]
+|colspan="2"| [[Hermosillo]]
+| 179&nbsp;503
+| 2&nbsp;983&nbsp;268
+| 14.83
+| 12.º
+| {{Fecha|10|1|1824}}{{Refn|1=Se unió a la federación con el nombre de [[Estado de Occidente]] también reconocido como [[Sonora y Sinaloa]].|group="nota"}}
+| [[Archivo:Sonora in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Tabasco]]'''
+|
+| [[Archivo: Coat of arms of Tabasco.svg|40px]]
+|colspan="2"| [[Villahermosa (Tabasco)|Villahermosa]]
+| 24&nbsp;738
+| 2&nbsp;430&nbsp;550
+| 90.49
+| 13.º
+| {{Fecha|7|2|1824}}
+| [[Archivo:Tabasco in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Tamaulipas]]'''
+|
+| [[Archivo:Coat_of_arms_of_Tamaulipas.svg|62x62px]]
+| [[Ciudad Victoria]]
+| [[Reynosa]]
+| 80&nbsp;175
+| 3&nbsp;571&nbsp;603
+| 40.77
+| 14.º
+| {{Fecha|7|2|1824}}
+| [[Archivo:Tamaulipas in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Tlaxcala]]'''
+| [[File:Flag of Tlaxcala.svg|borde|100px]]
+| [[Archivo:Coat of arms of Tlaxcala.svg|50px]]
+| [[Tlaxcala de Xicohténcatl]]
+| [[San Pablo del Monte]]
+| 4016
+| 1&nbsp;364&nbsp;154
+| 291.32
+| 22.º
+| {{Fecha|9|12|1856}}<ref>{{Cita web |url= http://www.tlaxcala.gob.mx/tlaxcala/nov-dic.html |título= Portal Gobierno del Estado de Tlaxcala |urlarchivo= https://web.archive.org/web/20091227003735/http://www.tlaxcala.gob.mx/tlaxcala/nov-dic.html |fechaarchivo= 27 de diciembre de 2009 }}</ref>
+| [[Archivo:Tlaxcala in Mexico (zoom).svg|120px]]
+|-align=center
+| '''[[Veracruz de Ignacio de la Llave]]'''
+|
+| [[Archivo:Coat of arms of Veracruz.svg|50px]]
+| [[Xalapa-Enríquez]]
+|[[Veracruz]]
+| 71&nbsp;820
+| 8&nbsp;166&nbsp;395
+| 106.42
+| 7.º
+| {{Fecha|22|12|1823}}
+| [[Archivo:Veracruz in Mexico (location map scheme).svg|120px]]
+|-align=center 
+| '''[[Yucatán]]'''
+| [[Archivo:Flag of the Republic of Yucatan.svg|borde|100px]]
+| [[Archivo:Coat of arms of Yucatan.svg|50px]]
+|colspan="2"| [[Mérida (México)|Mérida]]
+| 39&nbsp;612
+| 2&nbsp;362&nbsp;065
+| 49.37
+| 8.º
+| {{Fecha|23|12|1823}}{{Refn|1=Se unió a la federación como la antigua [[República de Yucatán#Primera Rep.C3.BAblica de Yucat.C3.A1n y el pacto federal con M.C3.A9xico|República Federada de Yucatán]]<ref>{{Cita web |url= http://www.sobrino.net/Dzidzantun/la_historia_de_la_rep_yuc.htm |título= La historia de la República de Yucatán}}</ref> el 29 de mayo de 1823; conformada por los estados actuales de Yucatán, Campeche y Quintana Roo, sin embargo, fue hasta el 23 de diciembre de 1823 cuando se le admitió como estado de la federación.|group="nota"}}
+| [[Archivo:Yucatan in Mexico (location map scheme).svg|120px]]
+|-align=center
+| '''[[Zacatecas]]'''
+|
+| [[Archivo: Escudo de armas de la Ciudad y Estado de Zacatecas.svg|40px]]
+|[[Zacatecas (Zacatecas)|Zacatecas]]
+|[[Guadalupe (Zacatecas)|Guadalupe]]
+| 75&nbsp;539
+| 1&nbsp;633&nbsp;349
+| 19.73
+| 10.º
+| {{Fecha|23|12|1823}}
+| [[Archivo:Zacatecas in Mexico (location map scheme).svg|120px]]
+|}
+
+=== Aclaraciones ===
+* Las fechas de creación corresponden a las de la instalación de los congresos locales y las consecuentes ratificaciones del [[Acta Constitutiva de la Federación Mexicana]] de 1824. No obstante, los antecesores de algunos estados y los territorios federales ya habían sido constituidos como provincias del [[Primer Imperio mexicano|Imperio Mexicano]]; tal y como se menciona en la primera división política oficial, producto de la adhesión al decreto del 17 de noviembre de 1821 para formar las Cortes.
+* Solo hay nueve entidades federativas que han adoptado una bandera oficialmente: [[Baja California Sur]], [[Durango]], [[Guanajuato]], [[Estado de Guerrero|Guerrero]], [[Jalisco]], [[Querétaro]], [[Quintana Roo]], [[Tlaxcala]] y [[Yucatán]]. No obstante, algunos [[Anexo:Gobernantes de las entidades federativas de México|gobiernos en curso]] —como [[Campeche]], [[Ciudad de México]], [[Nuevo León]] y [[Veracruz de Ignacio de la Llave|Veracruz]]— utilizan blasones basados en los escudos, mas no son oficiales, por lo que en la tabla únicamente contempla las banderas oficiales.
+* Tanto la fecha como el orden de unión a la federación corresponden a su forma vigente, es decir, estados libres y soberanos; por lo que se descarta aquella de sus antecesores: territorios federales (en el caso de algunos estados) o el Distrito Federal (en el caso de la Ciudad de México). 
+* Cuando se constituyó la entidad para albergar los poderes de la República Federal, se creó un distrito al cual se le dio el nombre de Federal cuya capital se situó en la Ciudad de México; el crecimiento desmedido de la ciudad ha hecho que hoy en día ocupe la mayor parte del distrito, por lo que los términos ''"Ciudad de México"'' y ''"Distrito Federal"'' se consideraron como sinónimos a rango constitucional, aunque este último ya no tenga validez desde 2017. Si el Gobierno federal cambiase de sede, la [[Ciudad de México]] seguiría llamándose de la misma manera.
+
+== Véase también ==
+;Otros aspectos de las entidades federativas
+* [[Toponimia de México|Anexo:Toponimia de las entidades federativas de México]]
+* [[Anexo:Escudos de las entidades federativas de México]]
+* [[Anexo:Banderas de las entidades federativas de México]]
+* [[Anexo:Gobernantes de las entidades federativas de México]]
+* [[Anexo:Congresos de las entidades federativas de México]]
+;Entidades federativas ordenadas
+* [[Anexo:Entidades federativas de México por superficie, población y densidad]]
+* [[Anexo:Entidades federativas de México por deuda pública]]
+* [[Anexo:Entidades federativas de México por PIB]]
+* [[Anexo:Entidades federativas de México por PIB per cápita]]
+* [[Anexo:Entidades federativas de México por IDH]]
+* [[Anexo:Entidades federativas de México por tasa de homicidio]]
+* [[Anexo:Entidades federativas de México por litoral]]
+* [[Anexo:Entidades federativas de México por remesas]]
+* [[Anexo:Entidades federativas de México por pobreza extrema]]
+
+== Notas ==
+{{listaref|group="nota"}}
+
+== Referencias ==
+{{listaref|2}}
+
+{{Control de autoridades}}
+[[Categoría:Organización territorial de México]]

@@ -1,0 +1,973 @@
+[[Archivo:Gobernadores mexicanos (2024).png|miniaturadeimagen|450x450px|{{columnas}}
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (23)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (4)}}
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (2)}}
+{{nueva columna}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (2)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+{{fin columnas}}]]
+
+Los '''gobernantes de las entidades federativas''' son los titulares del [[poder ejecutivo]] de [[Organización territorial de México|treinta y dos entidades federativas]] que conforman [[México]]. En el caso de los treinta y un estados se denominan '''gobernadores''' y en el caso de la [[Ciudad de México]], capital del país, se denomina como '''jefe de Gobierno'''.
+
+Son elegidos mediante [[Sufragio directo|voto directo]] y [[Sufragio universal|universal]]. Una vez electos, entran en funciones en las fechas que contemplen las respectivas constituciones locales. Su cargo dura un periodo de seis años, sin posibilidad de reelección; ni siquiera en el caso de haberlo desempeñado como interino, provisional o sustituto. El cargo solo es renunciable por causa grave, que deberá ser calificada por los [[Anexo:Legislaturas de los estados de México|Congresos estatales]]. En caso de muerte, destitución o renuncia, asumen de manera inmediata y provisional el cargo, el secretario de gobierno, después, con las reservas que contempla la constitución local, corresponde al Congreso nombrar un sustituto o interino.
+
+Las Constituciones estatales especifican las obligaciones, facultades, requisitos y restricciones al cargo; especificaciones que van desde el mando de la fuerza pública del estado (policía estatal); la titularidad de las políticas económica, desarrollo social y de seguridad pública; la promulgación y ejecución de las leyes emitidas por el [[Anexo:Legislaturas de los estados de México|poder legislativo]]; proponer nombramientos a cargos que requieren aprobación del Congreso; y diversas prerrogativas concedidas en otros artículos de la misma carta magna y las leyes locales.
+
+El gobernador es la cabeza de la Administración Pública Estatal y es auxiliado por un gabinete compuesto por varias secretarías, dependencias estatales, organismos descentralizados y direcciones generales, los cuales tienen a su cargo diversas carteras de interés público, además de distintos asesores adscritos a la oficina del gobernador.<ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-116_3.pdf|título=Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+Los gobernantes pueden denominarse según la designación de su mandato dependiendo de los términos contemplados en las constitucionales de cada entidad:
+
+* '''Constitucional''': quien haya sido electo en las elecciones locales para desempeñar su periodo.
+* '''Provisional''': quien asume, generalmente de manera automática, la titularidad a espera de que sea se nombre a un interino o sustituto.
+* '''Interino''': quien haya sido designado por el congreso local para reemplazar temporalmente el mandato de un gobernador.
+* '''Sustituto''': quien haya sido designado por el congreso local para terminar el periodo constitucional.
+* '''Encargado del despacho''': quien asume, generalmente de manera automática, para ocupar al titularidad sin todas las atribuciones que gozaría un gobernante constitucional.
+
+== Características ==
+Las bases generales del cargo, y a las que deberán sujetarse las cartas magnas locales, están contempladas en el apartado I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos:<ref>{{Cita web |url=https://www.scjn.gob.mx/sites/default/files/cpeum/documento/CPEUM-116_3.pdf|título=Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos|sitio web=Suprema Corte de Justicia de la Nación|fechaacceso=6 de abril de 2025|cita=Texto original, historial de reformas y texto vigente.}}</ref>
+
+{{Cita|
+El poder público de los estados se dividirá, para su ejercicio, en Ejecutivo, Legislativo y Judicial, y no podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el legislativo en un solo individuo. Los poderes de los Estados se organizarán conforme a la Constitución de cada uno de ellos, con sujeción a las siguientes normas:
+
+*I. Los gobernadores de los Estados no podrán durar en su encargo más de seis años. La elección de los gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas. Los gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo, ni aun con el carácter de interinos, provisionales, sustitutos o encargados del despacho. Nunca podrán ser electos para el período inmediato:
+**a) El gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación;
+**b) El gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
+**c) La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
+
+Sólo podrá ser gobernador o gobernadora constitucional de un Estado un ciudadano o ciudadana mexicana por nacimiento que no tenga ni adquiera otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, así como ser nativo o nativa de dicho Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de las constituciones de las entidades federativas.}}
+
+== Historia ==
+=== Antecedentes ===
+Los primeros documentos normativos del movimiento insurgente, en el marco de la [[Independencia de México|Guerra de Independencia]], no mencionaban con exactitud los cargos en los que se depositarían los poderes locales en las provincias de [[Nueva España]]; sin embargo si marcaban la pauta de constituir una federación que implicaba, trasladar a escala provincial, los mismos cargos que se establecieran para toda la nación. Tal fue el caso de la [[Constitución de Apatzingán]] que hacia mención de los diputados como representantes de las provincias para la eventual fundación de un Congreso Nacional.<ref>{{Cita web |url=http://www.ordenjuridico.gob.mx/Constitucion/1814.pdf|título=Constitución de Apatzingán|fechaacceso=3 de junio de 2018}}</ref>
+
+Paralela a los ordenamientos legales de los insurgentes; la [[Constitución de Cádiz]] remplazó la antigua organización gubernativa de las intendencias del virreinato, sustituyendo el cargo de [[Intendente]] por el de Jefe Superior Político, como depositario del poder ejecutivo local. Esto sirvió de base para que el gobierno del [[Primer Imperio Mexicano|Imperio Mexicano]], ya consumada la independencia, mantuviera dicha figura como ente ejecutivo transitorio en aras de la eventual promulgación de una constitución y el consecuente nuevo organigrama de poderes locales y nacionales.<ref>{{Cita web |url=http://www.ordenjuridico.gob.mx/Constitucion/1823.pdf|título=Sección séptima del Reglamento provisional político del Imperio Mexicano|fechaacceso=2 de junio de 2018}}</ref>
+
+=== Primeros años de vida independiente ===
+Sin embargo la caída del emperador [[Agustín de Iturbide|Agustín I]] retrasó la elaboración de dicha estructura, hasta que la [[Constitución de 1824]] definió la norma para depositar el poder ejecutivo estatal; no obstante el documento no hace mención del término ''Gobernador'', pues otorgaba pleno derecho a las entidades para decidir como hacerlo.<ref>{{Cita web|url=http://www.worldstatesmen.org/Mexico_states.htm|título=Gobernadores de los Estados México|fechaacceso=2 de junio de 2018}}</ref><ref>{{Cita web|url=http://www.ordenjuridico.gob.mx/Constitucion/1824B.pdf|título=Artículo 159 de la Constitución de 1824|fechaacceso=3 de junio de 2018}}</ref>
+
+A lo largo del {{siglo|XIX||s}}, la inestabilidad política que vivió el país, se trasladó a las realidades estatales; las invasiones [[Intervención estadounidense en México|estadounidense]] y [[Segunda intervención francesa en México|francesa]]; Así como los conflictos entre [[Partido Liberal (México)|liberales]] y [[Partido Conservador (México)|conservadores]] (en cualquiera de sus variantes como bandos antagónicos: republicanos contra monárquicos y federalistas contra centralistas) ocasionaban, revueltas, motines e incluso guerras civiles como la [[Guerra de Reforma]]. Todo lo anterior obligaba a una gran cantidad de autoridades electas a dimitir a escasos meses de ejercer la responsabilidad, o a nombrar un sustituto mientras reorganizaban la defensa del régimen. Esto aunado a las complejidades del sistema legal, ya que todas las constituciones vigentes, contemplaban la sucesión interina o provisional del cargo, con el solo hecho de abandonar la capital del estado.
+
+A todo ello se suma el cambio de paradigma constitucional que vivieron todos los estados durante los regímenes centralistas. Las [[Siete Leyes]] de 1836 y las [[Bases de organización política de la República Mexicana de 1843|Bases Orgánicas]] de 1843 suprimieron las constituciones estatales, y por ende su soberanía; se convirtieron en departamentos cuyos poderes locales quedaron subordinados al gobierno central. De tal forma que el cargo de gobernador pasó a ser designado directamente por el presidente de la república, lo que influyó en los constantes cambios. Esta condición se repitió durante el [[Segundo Imperio Mexicano|Segundo imperio]] cuando el cargo se sustituyó por el de Prefecto político, aunque subordinado a una autoridad intermedia con el [[Emperador de México|Emperador]], el Comisario Imperial.<ref>{{Cita web |url=http://www.biblioteca.tv/artman2/publish/1836_129/Decreto_que_expide_las_Leyes_Constitucionales_de_l_208.shtml|título=Siete Leyes Constitucionales — Sexta — Sobre la división y organización territorial División del territorio de la República y gobierno interior de sus pueblos|fechaacceso=10 de noviembre de 2017}}</ref><ref>{{Cita web |url=http://www.ordenjuridico.gob.mx/Constitucion/1843.pdf|título=Bases de la organización política de la República Mexicana 1843|fechaacceso=10 de noviembre de 2017}}</ref><ref>{{Cita web |url=http://www.ordenjuridico.gob.mx/Constitucion/1865.pdf|título=Estatuto Provisional del Imperio Mexicano - Título VIII: De los Prefectos políticos, Subprefectos y Municipalidades|fechaacceso=12 de noviembre de 2017}}</ref>
+
+La [[Constitución de 1857]] restableció el cargo de gobernador. Durante el [[porfiriato]] las figuras de los gobernadores, además de ser muy cercanas al presidente [[Porfirio Díaz]], estuvieron casi siempre ligadas a los cacicazgos militares y económicos, situación que, aunque fortaleció y consolidó el cargo, devino en autoritarismos locales.<ref>{{Cita web |url=http://www.ordenjuridico.gob.mx/Constitucion/1857.pdf|título=Constitución Federal de los Estados Unidos Mexicanos de 1857|fechaacceso=10 de noviembre de 2017}}</ref>
+
+=== Revolución mexicana ===
+Durante la [[Revolución Mexicana]] el cargo padeció constantes cambios, producto de la entrada o salida de distintos bandos armados que impulsaban o imponían a gobernadores leales de acuerdo a las circunstancias. La [[Constitución Política de los Estados Unidos Mexicanos de 1917|Constitución de 1917]] reafirmó el federalismo y la soberanía de los estados.
+
+=== Época posrevolucionaria ===
+Sin embargo con la creación del [[Partido Nacional Revolucionario]] (PNR) en 1929 —que posteriormente se transformó en el [[Partido de la Revolución Mexicana]] (PRM) en 1938 y en el [[Partido Revolucionario Institucional]] (PRI) en 1946— estableció un sistema político hegemónico en el que en la práctica que los gobernadores estaban subordinados al poder del presidente de la República.  Dicha hegemonía comenzó a partir de la fundación misma del organismo, ya que los gobernadores vigentes o sus grupos políticos fueron incorporados al nuevo partido.
+
+Esto ocasionó que en muchas ocasiones el primer mandatario dispusiera de diferentes maneras la remoción o destitución de los ejecutivos estatales por distintas circunstancias; ya fuera por cuestionar o contrariar la voluntad presidencial, por provocar o no administrar adecuadamente disturbios sociales, o simplemente por asegurar la lealtad de las nuevas autoridades. Entre los elementos usados por los presidentes para prescindir de los gobernadores estaba el mecanismo de [[Desaparición de poderes en los estados de México|desaparición de poderes]]; aunque en algunas ocasiones se apoyaba en la lealtad del congreso estatal, ramas locales del corporativismo partidista o su personal presión al gobernador para obligar su renuncia.<ref>{{Cita web |url=https://polcul.xoc.uam.mx/index.php/polcul/article/view/1334/1309|título=La desaparición de poderes en México y su puesta en práctica.|fechaacceso=4 de junio de 2018}}</ref><ref>{{Cita web |url=https://archivos.juridicas.unam.mx/www/bjv/libros/6/2864/3.pdf|título=La desaparición de poderes en los estados.|fechaacceso=4 de junio de 2018}}</ref><ref>{{Cita web |url=https://argumentos.xoc.uam.mx/index.php/argumentos/article/view/294/293|título=Los gobernadores priístas y la federalización del PRI|fechaacceso=4 de junio de 2018}}</ref>
+
+=== Época contemporánea ===
+Entre 1929 y 1989 la totalidad de los gobernadores surgieron del [[Partido Revolucionario Institucional]] o sus partidos predecesores.
+
+Dentro de la [[Constitución de México]] existió una figura de entidad federativa denominada «territorio federal» en contraste de los «estados libres y soberanos». El ejecutivo federal, es decir, el [[Presidente de México|presidente]] era el encargado de nombrar a un jefe político, y tenía libertad de nombrarlo y removerlo libremente.<ref name="unam">{{Cita web|url=https://archivos.juridicas.unam.mx/www/bjv/libros/4/1972/75.pdf|título=Los territorios federales|fechaacceso=9 de junio de 2021}}</ref>  El poder legislativo dentro de estos tenía la misma autoridad, es decir, eran equivalentes. Para tal organización, además de existir la actual [[Procuraduría General de la República (México)|Procuraduría General de la República]] (PGR), existió —hasta 1974— la Procuraduría General de Justicia del Distrito Federal y Territorios Federales.<ref name="unam" /> Los últimos dos territorios federales en existir fueron el [[Territorio de Quintana Roo]] y el [[Territorio Sur de Baja California]], mismos que fueron integrados como estados el 8 de octubre de 1974.<ref>{{Cita web|url=https://www.memoriapoliticademexico.org/Efemerides/10/08101974.html|título=El territorio de Quintana Roo se eleva a la categoría de Estado|fechaacceso=9 de junio de 2021}}</ref><ref>{{Cita web|url=https://web.archive.org/web/20110929104540/http://www.bcs.gob.mx/bcs.html|título=Baja California Sur|fechaacceso=9 de junio de 2021}}</ref> En las [[elecciones estatales de Colima de 1979]] fue electa la primera mujer gobernante de una entidad federativa: [[Griselda Álvarez]], [[Anexo:Gobernantes de Colima|gobernadora de Colima]] entre 1979 y 1985.<ref>{{Cita web|url=https://relatosehistorias.mx/nuestras-historias/toma-posesion-la-primera-gobernadora-en-mexico|título=GRISELDA ÁLVAREZ, LA PRIMERA GOBERNADORA EN MÉXICO|autor=Luis A. Salmerón|fechaacceso=9 de junio de 2021}}</ref>
+
+[[Archivo:Ernesto Ruffo.jpg|thumb|125px|[[Ernesto Ruffo Appel]].]]
+
+El 2 de julio de 1989 perdió su primera elección para gobernador en los [[Elecciones estatales de Baja California de 1989|Comicios estatales de Baja California]] y finalmente el 1 de noviembre de 1989 [[Ernesto Ruffo Appel]] asumió como primer gobernador ajeno al partido oficial en sesenta años.
+
+Para su gobierno, debido a la cualidad de ser un [[distrito federal]], se encargaba directamente el [[Presidente de México|presidente]] a través de un encargado nombrado por su persona que formaba parte de su [[Secretarías de Estado de México|gabinete]]. Sin embargo, poco a poco se fueron relegando la gobernación del Distrito Federal hasta otorgarle una relativa soberanía. El 5 de diciembre de 1997 asumió [[Cuauhtémoc Cárdenas Solórzano]] que fue el primer gobernante electo del D. F., es decir, el primero que no fue designado directamente por el presidente de la República.
+
+En 2001 se fundó la [[Conferencia Nacional de Gobernadores]] (CONAGO) organizada como una serie de reuniones para unificar criterios entre los gobernantes de las entidades federativas, como medida de contrapeso al gobierno federal. Su finalidad es la de coordinar estrategias en el desarrollo de políticas públicas locales; sin embargo, y en virtud de lo que establece la constitución federal, al prohibir alianzas estatales, sus determinaciones no son vinculantes. Y por lo tanto no forma parte de la estructura y organización formal de la República Mexicana.<ref>{{Cita web |url=https://www.conago.org.mx/acercade/sobre-la-conago|título=Acerca de la CONAGO|fechaacceso=8 de septiembre de 2018}}</ref>
+
+El 10 de octubre de 2020 se separaron diez gobernadores de la CONAGO pertenecientes a partidos políticos opositores al gobierno del presidente [[Andrés Manuel López Obrador]] e integraron formalmente la [[Alianza Federalista (México)|Alianza Federalista]].<ref>{{Cita web|url=https://www.milenio.com/politica/alianza-federalista-el-nuevo-sindicato-de-gobernadores|título=Alianza Federalista, el nuevo sindicato de gobernadores|fechaacceso=2020-10-28|sitioweb=www.milenio.com|idioma=es-MX}}</ref> El 8 de septiembre, 1 de octubre, 4 de octubre y el 1 de noviembre de 2021 [[Maru Campos]], [[Alfredo Ramírez Bedolla]], [[Samuel García]] e [[Indira Vizcaíno Silva]] asumieron como gobernadores de [[Gobernador de Chihuahua|Chihuahua]], [[Anexo:Gobernantes de Michoacán|Michoacán]], [[Gobernador de Nuevo León|Nuevo León]] y [[Anexo:Gobernantes de Colima|Colima]] respectivamente, reintegrándose a la CONAGO, por lo que en ese año el número de gobernantes miembros de la Alianza Federalista bajó a seis. El 15 de septiembre y el 1 de octubre de 2022, [[Esteban Villegas Villarreal]], [[Américo Villarreal Anaya]] y [[Tere Jiménez]] asumieron como gobernadores de [[Gobernador de Durango|Durango]], [[Gobernador de Tamaulipas|Tamaulipas]] y [[Gobernador de Aguascalientes|Aguascalientes]] respectivamente, reintegrándose a la CONAGO, por lo que en ese año el número de gobernantes miembros de la Alianza Federalista bajó a tres. El 1 de diciembre de 2023, [[Manolo Jiménez Salinas]] asumió como gobernador de [[Gobernador de Coahuila|Coahuila]] reintegrándose a la CONAGO, por lo que en ese año el número de gobernantes miembros de la Alianza Federalista bajó a dos y prácticamente disolviendo al grupo quedando solo Jalisco y Guanajuato.
+
+Aunque la alternancia política ya se ha dado en la mayoría de los estados del país, hay una entidad federativa que desde 1929 el [[Partido Revolucionario Institucional]] ha conservado la gubernatura de forma continua: [[Coahuila]].<ref>{{Cita web |url=http://www.eluniversal.com.mx/articulo/periodismo-de-investigacion/2016/06/12/alternancia-la-geografia-del-cambio-politico|título=Alternancia. La geografía del cambio político|fecha=12 de junio de 2016|fechaacceso=8 de septiembre de 2018|autor=El Universal}}</ref><ref>{{Cita web |url=http://184.72.35.63:8080/imagenes/geografias-de-la-alternancia-1985-2000-707|título=Geografías de la alternancia (1985-2000)|fecha=31 de agosto de 2000|fechaacceso=8 de septiembre de 2018|autor=Letras libres}}</ref><ref>{{Cita web |url=http://www.ejecentral.com.mx/el-mapa-de-la-alternancia/|título=El mapa de la alternancia|fechaacceso=8 de septiembre de 2018|autor=Eje Central}}</ref>
+
+== Gobernantes en funciones ==
+{| class="wikitable sortable col6izq" style="text-align:center; font-size:95%" width=100%
+|-
+! width=10%|Cargo
+! width=15% colspan=3| Gobernante
+! width=5% |Partido
+! width=42%|Cargos públicos previos
+! width=14%|Inicio del mandato
+! width=14%|Término del mandato
+|-
+|[[Archivo:Coat of arms of Aguascalientes.svg|60px|center]][[Gobernador de Aguascalientes|Gobernadora]] de [[Aguascalientes]]
+|bgcolor=#05338D|
+| [[Archivo:Discurso de Tere Jiménez en el XLVI ENAJ 2026 - 10 (cropped).jpg|80px|center]]
+|[[Tere Jiménez|María Teresa Jiménez Esquivel]]
+|[[File:PAN logo (Mexico) 2025.svg|60px|link=Partido Acción Nacional]]
+|
+* [[Cámara de Diputados (México)|Diputada federal]] (2012-2015; 2021-2022)
+* Presidente municipal de [[Municipio de Aguascalientes|Aguascalientes]] (2017-2021)
+|1 de octubre de 2022
+|30 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Baja California.svg|60px|center]][[Gobernador de Baja California|Gobernadora]] de [[Baja California]]
+|bgcolor=#B5261E|
+|[[Archivo:Marina del Pilar (2018).jpg|80px|center]]
+|[[Marina del Pilar Ávila Olmeda]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Presidenta municipal de [[Municipio de Mexicali|Mexicali]] (2019-2021)
+* [[Cámara de Diputados (México)|Diputada federal]] (2018-2019)
+|1 de noviembre de 2021
+|1 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Baja California Sur.svg|60px|center]][[Gobernador de Baja California Sur|Gobernador]] de [[Baja California Sur]]
+|bgcolor=#B5261E|
+|[[Archivo:Víctor Castro (gobierno de Baja California Sur).jpg|80px|center]]
+|[[Víctor Manuel Castro Cosío]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Delegaciones de Programas para el Desarrollo|Delegado de Programas para el Desarrollo]] en Baja California Sur (2018-2020)
+* [[Senado de México|Senador de la República]] (2018)
+* [[Cámara de Diputados (México)|Diputado federal]] (2009-2012)
+* Presidente municipal de [[La Paz (Baja California Sur)|La Paz]] (2005-2008)
+* Secretario de Educación Pública de [[Baja California Sur]] (2002-2004)
+|10 de septiembre de 2021
+|9 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Campeche.svg|60px|center]][[Gobernador de Campeche|Gobernadora]] de [[Campeche]]
+|bgcolor=#B5261E|
+|[[Archivo:Layda Sansores - Martes de Jaguar (cropped).jpg|centro|92x92px]]
+|[[Layda Sansores|Layda Elena Sansores San Román]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Alcaldesa de [[Álvaro Obregón (Ciudad de México)|Álvaro Obregón]] (2018-2021)
+* [[Senado de México|Senadora de la República]] (1994-2000; 2012-2018)
+* [[Cámara de Diputados (México)|Diputada federal]] (1991-1994; 2006-2009)
+|16 de septiembre de 2021
+|15 de septiembre de 2027
+|-
+|[[Archivo:Coat of Arms of Chiapas (2026).svg|60px|center]][[Gobernador de Chiapas|Gobernador]] de [[Chiapas]]
+|bgcolor=#B5261E|
+|[[Archivo:Portrait of Oscar Eduardo Ramírez Aguilar.jpg|80px|center]]
+|[[Eduardo Ramírez Aguilar|Óscar Eduardo Ramírez Aguilar]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Senado de México|Senador de la República]] (2018-2024)
+* Diputado del [[Congreso del Estado de Chiapas]] (2015-2018)
+* Secretario de Gobierno de Chiapas (2013-2015)
+* [[Cámara de Diputados (México)|Diputado federal]] (2012-2013)
+* Presidente municipal de [[Comitán de Domínguez]] (2008-2010)
+|8 de diciembre de 2024
+|7 de diciembre de 2030
+|-
+|[[Archivo:Coat of arms of Chihuahua.svg|60px|center]][[Gobernador de Chihuahua|Gobernadora]] de [[Chihuahua]]
+|bgcolor=#05338D|
+|[[Archivo:Maru Campos Chihuahua.jpg|80px|center]]
+|[[Maru Campos|María Eugenia Campos Galván]]
+|[[File:PAN logo (Mexico) 2025.svg|60px|link=Partido Acción Nacional]]
+|
+* Presidenta municipal de [[Municipio de Chihuahua|Chihuahua]] (2016-2021)
+* Diputada del [[Congreso del Estado de Chihuahua]] (2013-2016)
+* [[Cámara de Diputados (México)|Diputada federal]] (2006-2009)
+|8 de septiembre de 2021
+|7 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Mexico City, Mexico.svg|60px|center]][[Jefa de Gobierno de Ciudad de México|Jefa de Gobierno]] de la [[Ciudad de México]]
+|bgcolor=#B5261E|
+|[[Archivo:Clara Marina Brugada Molina 2 (cropped).jpg|centro|80px]]
+|[[Clara Brugada|Clara Marina Brugada Molina]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Alcaldesa de [[Iztapalapa]] (2009-2012; 2018-2023)
+* Diputada de la [[Asamblea Constituyente de la Ciudad de México]] (2016-2017)
+* [[Asamblea Legislativa del Distrito Federal|Diputada de la Asamblea Legislativa del Distrito Federal]] (2000-2003)
+* [[Cámara de Diputados (México)|Diputada federal]] (1997-2000; 2003-2006)
+|5 de octubre de 2024
+|4 de octubre de 2030
+|-
+|[[Archivo:Coat of arms of Coahuila.svg|60px|center]][[Gobernador de Coahuila|Gobernador]] de [[Coahuila]]
+|bgcolor=#009150|
+| [[Archivo:Manolo Jimenez Salinas.jpg|80px|center]]
+|[[Manolo Jiménez Salinas]]
+|[[Archivo:PRI logo (Mexico).svg|60px|link=Partido Revolucionario Institucional]]
+|
+* Secretario de Inclusión y Desarrollo Social de [[Coahuila]] (2022-2023)
+* Presidente municipal de [[Municipio de Saltillo|Saltillo]] (2018-2021)
+* Diputado del [[Congreso del Estado de Coahuila]] (2012-2014)
+|1 de diciembre de 2023
+|30 de noviembre de 2029
+|-
+|[[Archivo:Coat of arms of Colima.svg|60px|center]][[Gobernador de Colima|Gobernadora]] de [[Colima]]
+|bgcolor=#B5261E|
+| [[Archivo:Indira Vizcaíno Silva (cropped).jpg|80px|center]]
+|[[Indira Vizcaíno Silva]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Delegaciones de Programas para el Desarrollo|Delegada de Programas para el Desarrollo]] en Colima (2018-2020)
+* [[Cámara de Diputados (México)|Diputada federal]] (2009-2012; 2018)
+* Secretaria de Desarrollo Social de [[Colima]] (2016-2017)
+* Presidente municipal de [[Cuauhtémoc (Colima)|Cuauhtémoc]] (2012-2015)
+|1 de noviembre de 2021
+|31 de octubre de 2027
+|-
+|[[Archivo:Coat of arms of Durango.svg|60px|center]][[Gobernador de Durango|Gobernador]] de [[Durango]]
+|bgcolor=#009150|
+|[[Archivo:Esteban Villegas Villarreal en 2022 (recortada).jpg|80px|center]]
+|[[Esteban Villegas Villarreal|Esteban Alejandro Villegas Villarreal]]
+|[[Archivo:PRI logo (Mexico).svg|60px|link=Partido Revolucionario Institucional]]
+|
+* Diputado del [[Congreso del Estado de Durango]] (2007-2010, 2018-2021)
+* Presidente municipal de [[Municipio de Durango|Durango]] (2013-2016)
+* Secretario de Salud de [[Durango]] (2012-2013)
+|15 de septiembre de 2022
+|14 de septiembre de 2028
+|-
+|[[Archivo:Escudo_de_armas_de_la_Ciudad_y_Estado_de_Guanajuato.svg|60px|center]][[Gobernador de Guanajuato|Gobernadora]] de [[Guanajuato]]
+|bgcolor=#05338D|
+| [[Archivo:LIBIA-DENNISE-GARCIA-MUÑOZ-LEDO (cropped).jpg|80px|center]]
+|[[Libia García Muñoz Ledo|Libia Dennise García Muñoz Ledo]]
+|[[File:PAN logo (Mexico) 2025.svg|60px|link=Partido Acción Nacional]]
+|
+* Secretaria de Desarrollo Social y Humano de [[Guanajuato]] (2023-2024)
+* Secretaria de Gobierno de [[Guanajuato]] (2021-2023)
+* Diputada del [[Congreso del Estado de Guanajuato]] (2015-2021)
+|26 de septiembre de 2024
+|25 de septiembre de 2030
+|-
+|[[Archivo:Coat of arms of Guerrero.svg|60px|center]][[Gobernador de Guerrero|Gobernadora]] de [[Estado de Guerrero|Guerrero]]
+|bgcolor=#B5261E|
+| [[Archivo:Evelyn Salgado.jpg|80px|center]]
+|[[Evelyn Salgado Pineda|Evelyn Cecia Salgado Pineda]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+|15 de octubre de 2021
+|14 de octubre de 2027
+|-
+|[[Archivo:Coat of arms of Hidalgo.svg|60px|center]][[Gobernador de Hidalgo|Gobernador]] de [[Estado de Hidalgo|Hidalgo]]
+|bgcolor=#B5261E|
+|[[Archivo:Julio Menchaca 1 (cropped).jpg|80px|center]]
+|[[Julio Menchaca Salazar|Julio Ramón Menchaca Salazar]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Senado de México|Senador de la República]] (2018-2022)
+* Diputado del [[Congreso del Estado de Hidalgo]] (2005-2008)
+* Presidente del Tribunal Superior de Justicia de [[Estado de Hidalgo|Hidalgo]] (1999-2004)
+|5 de septiembre de 2022
+|4 de septiembre de 2028
+|-
+|[[Archivo:Coat of arms of Jalisco.svg|60px|center]][[Gobernador de Jalisco|Gobernador]] de [[Jalisco]]
+|bgcolor=#FFA500|
+|[[Archivo:Gobernador Pablo Lemus Navarro (cropped).jpg|80px|center]]
+|[[Pablo Lemus Navarro|Jesús Pablo Lemus Navarro]]
+|[[Archivo:Logo Partido Movimiento Ciudadano (México).svg|60px|link=Movimiento Ciudadano (partido político de México)]]
+|
+* Presidente municipal de [[Guadalajara (México)|Guadalajara]] (2021-2023) 
+* Presidente municipal de [[Zapopan]] (2015-2021)
+|6 de diciembre de 2024
+|5 de diciembre de 2030
+|-
+|[[Archivo:Coat of arms of Mexico State.svg|60px|center]][[Gobernador del Estado de México|Gobernadora]] del [[Estado de México]]
+|bgcolor=#B5261E|
+| [[Archivo:Delfina Gómez (cropped).jpg|80px|center]]
+|[[Delfina Gómez Álvarez]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)|Morena]]
+|
+* [[Senado de México|Senadora de la República]] (2018; 2022-2023)
+* [[Secretaría de Educación Pública|Secretaria de Educación Pública]] (2021-2022)
+* [[Delegaciones de Programas para el Desarrollo|Delegada de Programas para el Desarrollo]] en el Estado de México (2018-2021)
+* [[Cámara de Diputados (México)|Diputada federal]] (2015-2018)
+* Presidenta municipal de [[Municipio de Texcoco|Texcoco]] (2013-2015)
+|16 de septiembre de 2023
+|15 de septiembre de 2029
+|-
+|[[Archivo:Escudo del Estado de Michoacán.svg|60px|center]][[Gobernador de Michoacán|Gobernador]] de [[Michoacán]]
+|bgcolor=#B5261E|
+|[[Archivo:Alfredo Ramírez Bedolla.jpg|80px|center]]
+|[[Alfredo Ramírez Bedolla]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Diputado del [[Congreso del Estado de Michoacán]] (2018-2021)
+|1 de octubre de 2021
+|30 de septiembre de 2027 
+|- 
+|[[Archivo:Coat of arms of Morelos.svg|75px|center]][[Gobernador de Morelos|Gobernadora]] de [[Morelos]]
+|bgcolor=#B5261E|
+| [[Archivo:Margarita González Saravia en 2024.png|80px|center]]
+|[[Margarita González Saravia| Margarita González Saravia Calderón]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+*  Directora general de la [[Lotería Nacional para la Asistencia Pública|Lotería Nacional]] (2022-2024)
+* Secretaria de Turismo y Cultura de [[Morelos]] (2018-2020)
+|1 de octubre de 2024
+|30 de septiembre de 2030
+|-
+|[[Archivo:Coat of arms of Nayarit.svg|60px|center]][[Gobernador de Nayarit|Gobernador]] de [[Nayarit]]
+|bgcolor=#B5261E|
+|[[Archivo:Miguel Angel Navarro (cropped).jpg|80px|center]]
+|[[Miguel Ángel Navarro Quintero]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Senado de México|Senador de la República]] (2000-2006; 2018-2020)
+* [[Cámara de Diputados (México)|Diputado federal]] (1997-2000; 2006-2008)
+* Secretario de Salud de [[Nayarit]] (1996-1997)
+|19 de septiembre de 2021
+|18 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Nuevo Leon.svg|60px|center]][[Gobernador de Nuevo León|Gobernador]] de [[Nuevo León]]
+|bgcolor=#FFA500|
+| [[Archivo:Samuel García en 2022 - cropped.jpg|sinmarco|100x100px]]
+|[[Samuel García|Samuel Alejandro García Sepúlveda]]
+|[[Archivo:Logo Partido Movimiento Ciudadano (México).svg|60px|link=Movimiento Ciudadano (partido político de México)]]
+|
+* [[Senado de México|Senador de la República]] (2018-2020)
+* Diputado del [[Congreso del Estado de Nuevo León]] (2015-2018)
+|4 de octubre de 2021
+|3 de octubre de 2027
+|-
+|[[Archivo:Coat of arms of Oaxaca.svg|60px|center]][[Gobernador de Oaxaca|Gobernador]] de [[Oaxaca]]
+|bgcolor=#B5261E|
+|[[Archivo:Salomón Jara Cruz.jpg|80px|center]]
+|[[Salomón Jara Cruz]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Senado de México|Senador de la República]] (2006-2010; 2018-2022)
+* Secretario de Desarrollo Agropecuario, Forestal y Pesquero del Estado de Oaxaca (2010-2013)
+* Diputado del [[Congreso del Estado de Oaxaca]] (2001-2004)
+* [[Cámara de Diputados (México)|Diputado federal]] (1991-1994)
+|1 de diciembre de 2022
+|30 de noviembre de 2028
+|-
+|[[Archivo:Coat of arms of Puebla.svg|60px|center]][[Gobernador de Puebla|Gobernador]] de [[Puebla]]
+|bgcolor=#B5261E|
+|[[Archivo:Armenta Mier, Alejandro.jpg|80px|center]]
+|[[Alejandro Armenta|Alejandro Armenta Mier]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Senado de México|Senador de la República]] (2018-2023)
+* [[Cámara de Diputados (México)|Diputado federal]] (2015-2018)
+* Secretario de Desarrollo Social de [[Puebla]] (2006-2008)
+* Diputado del [[Congreso del Estado de Puebla]] (2002-2005)
+* Presidente municipal de [[Municipio de Acatzingo|Acatzingo]] (1993-1996)
+|14 de diciembre de 2024
+|13 de diciembre de 2030
+|-
+|[[Archivo:Coat of arms of Queretaro.svg|60px|center]][[Gobernador de Querétaro|Gobernador]] de [[Querétaro]]
+|bgcolor=#05338D|
+|[[Archivo:Avatar campaña.jpg|80px|center]]
+|[[Mauricio Kuri|Mauricio Kuri González]]
+|[[File:PAN logo (Mexico) 2025.svg|60px|link=Partido Acción Nacional]]
+|
+* [[Senado de México|Senador de la República]] (2018-2021)
+* Presidente municipal de [[Corregidora (municipio)|Corregidora]] (2015-2018)
+|1 de octubre de 2021
+|30 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Quintana Roo.svg|60px|center]][[Gobernador de Quintana Roo|Gobernadora]] de [[Quintana Roo]]
+|bgcolor=#B5261E|
+| 
+|[[Mara Lezama|María Elena Hermelinda Lezama Espinosa]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Presidenta municipal de [[Municipio de Benito Juárez (Quintana Roo)|Benito Juárez]] (2018-2022)
+|25 de septiembre de 2022
+|24 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of San Luis Potosi.svg|60px|center]][[Gobernador de San Luis Potosí|Gobernador]] de [[San Luis Potosí]]
+|bgcolor=#50B747|
+|[[Archivo:Rgc foto (cropped).jpg|80px|center]]
+|[[Ricardo Gallardo Cardona|José Ricardo Gallardo Cardona]]
+|[[Archivo:PVE logo (Mexico).svg|60px|link=Partido Verde Ecologista de México]]
+|
+* [[Cámara de Diputados (México)|Diputado federal]] (2018-2020)
+* Presidente municipal de [[Soledad de Graciano Sánchez]] (2012-2015)
+|26 de septiembre de 2021
+|25 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Sinaloa.svg|60px|center]][[Gobernador de Sinaloa|Gobernadora]] de [[Sinaloa]]
+|bgcolor=#B5261E|
+| 
+|[[Graciela Domínguez Nava]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Cámara de Diputados (México)|Diputada federal]] (2024-2026)
+* Secretaria de Educación Pública y Cultura de [[Sinaloa]] (2021-2024)
+* Diputada del [[Congreso del Estado de Sinaloa]] (2007-2010; 2018-2021)
+|25 de agosto de 2026
+|31 de octubre de 2027
+|-
+|[[Archivo:Coat of arms of Sonora.svg|60px|center]][[Gobernador de Sonora|Gobernador]] de [[Sonora]]
+|bgcolor=#B5261E|
+| [[Archivo:Alfonso Durazo Montaño (retrato).jpg|80px|center]]
+|[[Alfonso Durazo Montaño|Francisco Alfonso Durazo Montaño]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Secretaría de Seguridad y Protección Ciudadana|Secretario de Seguridad y Protección Ciudadana]] (2018-2020)
+* [[Senado de México|Senador de la República]] (2018)
+* [[Cámara de Diputados (México)|Diputado federal]] (2012-2015)
+* [[Oficina de la Presidencia de la República|Secretario Particular del Presidente de la República]] (2000-2004)
+|13 de septiembre de 2021
+|12 de septiembre de 2027
+|-
+|[[Archivo:Coat of arms of Tabasco.svg|60px|center]][[Gobernador de Tabasco|Gobernador]] de [[Tabasco]]
+|bgcolor=#B5261E|
+| 
+|[[Javier May Rodríguez]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Director general del [[Fondo Nacional de Fomento al Turismo]] (2022-2023)
+* [[Secretaría de Bienestar|Secretario de Bienestar]] (2020-2022)
+* [[Senado de México|Senador de la República]] (2018)
+* Presidente municipal de [[Municipio de Comalcalco|Comalcalco]] (2007-2009; 2016-2017) 
+* Diputado del [[Congreso del Estado de Tabasco]] (2001-2003)
+|1 de octubre de 2024
+|30 de septiembre de 2030
+|-
+|[[Archivo:Escudo de Armás de Tamaulipas 2024.png|centro|67x67px]][[Gobernador de Tamaulipas|Gobernador]] de [[Tamaulipas]]
+|bgcolor=#B5261E|
+| 
+|[[Américo Villarreal Anaya]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Senado de México|Senador de la República]] (2018-2022)
+|1 de octubre de 2022
+|30 de septiembre de 2028
+|-
+|[[Archivo:Coat of arms of Tlaxcala.svg|60px|center]][[Gobernador de Tlaxcala|Gobernadora]] de [[Tlaxcala]]
+|bgcolor=#B5261E|
+|[[Archivo:Lorena Cuellar Gobernadora (cropped).jpg|80px|center]]
+|[[Lorena Cuéllar Cisneros]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Delegaciones de Programas para el Desarrollo|Delegada de Programas para el Desarrollo]] en Tlaxcala (2018-2020)
+* [[Cámara de Diputados (México)|Diputada federal]] (2018)
+* [[Senado de México|Senadora de la República]] (2012-2018)
+* Presidente municipal de [[Tlaxcala de Xicohténcatl]] (2008-2010)
+* Diputada del [[Congreso del Estado de Tlaxcala]] (2005-2007; 2011-2012)
+|31 de agosto de 2021
+|30 de agosto de 2027
+|-
+|[[Archivo:Coat of arms of Veracruz.svg|60px|center]][[Gobernador de Veracruz|Gobernadora]] de [[Estado de Veracruz|Veracruz]]
+|bgcolor=#B5261E|
+|[[Archivo:Norma Rocío Nahle García.jpg|80px|center]]
+|[[Rocío Nahle|Norma Rocío Nahle García]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Secretaría de Energía (México)|Secretaria de Energía]] (2018-2023)
+* [[Senado de México|Senadora de la República]] (2018)
+* [[Cámara de Diputados (México)|Diputada federal]] (2015-2018)
+|1 de diciembre de 2024
+|30 de noviembre de 2030
+|-
+|[[Archivo:Coat of arms of Yucatan.svg|60px|center]][[Gobernador de Yucatán|Gobernador]] de [[Yucatán]]
+|bgcolor=#B5261E|
+|[[Archivo:Huacho Díaz Mena.jpg|80px|center]]
+|[[Joaquín Díaz Mena|Joaquín Jesús Díaz Mena]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* [[Delegaciones de Programas para el Desarrollo|Delegado de Programas para el Desarrollo]] en Yucatán (2018-2023)
+* [[Cámara de Diputados (México)|Diputado federal]] (2015-2018; 2006-2009)
+* Diputado del [[Congreso del Estado de Yucatán]] (2004-2006)
+* Presidente municipal de [[San Felipe (Yucatán)|San Felipe]] (2001-2004)
+|1 de octubre de 2024
+|30 de septiembre de 2030
+|-
+|[[Archivo:Escudo de armas de la Ciudad y Estado de Zacatecas.svg|60px|center]][[Gobernador de Zacatecas|Gobernador]] de [[Zacatecas]]
+|bgcolor=B5261E |
+|[[Archivo:David Monreal (cropped).jpg|80px|center]]
+|[[David Monreal Ávila]]
+|[[Archivo:Morena logo (alt).svg|60px|link=Morena (partido político)]]
+|
+* Coordinador General de Ganadería de la [[Secretaría de Agricultura y Desarrollo Rural]] (2018-2020)
+* [[Senado de México|Senador de la República]] (2012-2018)
+* Presidente municipal de [[Municipio de Fresnillo|Fresnillo]] (2007-2010)
+|12 de septiembre de 2021
+|11 de septiembre de 2027
+|}
+
+== Gobernantes actuales por partido político ==
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="3" | Partido 
+! Gobernadores 
+! Totales
+|-
+| bgcolor="#B5261E" |
+| [[Archivo:Morena logo (alt).svg|20px|link=Movimiento Regeneración Nacional]]
+| [[Morena (partido político)|Movimiento Regeneración Nacional]]
+| 23
+| align="left"|{{escaños|23|32|hex=#B5261E}}
+|-
+| bgcolor="#05338D" |
+| [[File:PAN logo (Mexico) 2025.svg|20px]]
+| [[Partido Acción Nacional]]
+| 4
+| align="left"|{{escaños|4|32|hex=#05338D}}
+|-
+| bgcolor="#009150" |
+| [[Archivo:PRI Party (Mexico).svg|20px]] 
+| [[Partido Revolucionario Institucional]]
+| 2
+| align="left"|{{escaños|2|32|hex=#009150}}
+|-
+| bgcolor="#FFA500" |
+| [[Archivo:MC Party (Mexico).svg|20px]] 
+| [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]]
+| 2
+| align="left"|{{escaños|2|32|hex=#FFA500}}
+|-
+| bgcolor="#50B747" |
+| [[Archivo:PVE logo (Mexico).svg|20px]]
+| [[Partido Verde Ecologista de México]]
+| 1 
+| align="left"|{{escaños|1|32|hex=#50B747}}
+|-
+! colspan="3" |Total
+! 32
+! 32
+|}
+
+== Datos complementarios ==
+
+=== Gobernantes por partido político desde de 1990 ===
+'''Aclaraciones''':
+* Los mapas únicamente reflejan los gobernantes vigentes al 1 de enero del año en cuestión, por lo que los gobernantes que hayan asumido en el lapso siguiente, no se verán reflejados sino hasta el año posterior. 
+* Únicamente se considera el partido político gobernante en las entidades, por lo que la titularidad del poder ejecutivo con denominaciones como interino, provisional, sustituto o encargado del despacho no se ve reflejado.
+
+{| class="wikitable"
+|+ Cronología de los partidos políticos gobernantes en las entidades federativas de México
+|-
+! colspan="2" |Año
+!Partidos políticos
+!Comentarios
+|-
+|'''1990'''
+|[[Archivo:Gobernadores mexicanos (1990).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (31)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (1)}}
+|
+* El 1 de noviembre de 1989 [[Ernesto Ruffo Appel]] se convirtió en el primer [[gobernador de Baja California]] ajeno al PRI, en el primer gobernante ajeno al PRI en el país desde 1929 y en el primer gobernante emanado del [[Partido Acción Nacional]] en el país.
+|-
+|'''1991'''
+|[[Archivo:Gobernadores mexicanos (1990).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (31)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (1)}}
+|
+|-
+|'''1992'''
+|[[Archivo:Gobernadores mexicanos (1992).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (30)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (2)}}
+|
+* El 3 de noviembre de 1991 [[Carlos Medina Plascencia]] se convirtió en el primer [[gobernador de Guanajuato]] ajeno al PRI desde 1929; desde esa fecha todos los gobernadores de dicha entidad han emanado del PAN.
+|-
+|'''1993'''
+|[[Archivo:Gobernadores mexicanos (1993).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (29)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (3)}}
+|
+* El 4 de octubre de 1992 [[Francisco Barrio Terrazas]] se convirtió en el primer [[gobernador de Chihuahua]] ajeno al PRI desde 1929.
+|-
+|'''1994'''
+|[[Archivo:Gobernadores mexicanos (1993).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (29)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (3)}}
+|
+|-
+|'''1995'''
+|[[Archivo:Gobernadores mexicanos (1993).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (29)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (3)}}
+|
+|-
+|'''1996'''
+|[[Archivo:Gobernadores mexicanos (1996).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (28)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (4)}}
+|
+* El 1 de marzo de 1995 [[Alberto Cárdenas Jiménez]] se convirtió en el primer [[gobernador de Jalisco]] ajeno al PRI desde 1929.
+|-
+|'''1997'''
+|[[Archivo:Gobernadores mexicanos (1996).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (28)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (4)}}
+|
+|-
+|'''1998'''
+|[[Archivo:Gobernadores mexicanos (1998).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (25)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (1)}}
+|
+* El 1 de octubre de 1997 [[Ignacio Loyola Vera]] se convirtió en el primer [[gobernador de Querétaro]] ajeno al PRI desde 1929.
+* El 4 de octubre de 1997 [[Fernando Canales Clariond]] se convirtió en el primer [[gobernador de Nuevo León]] ajeno al PRI desde 1929.
+* El 5 de noviembre de 1997 [[Cuauhtémoc Cárdenas]] se convirtió en el primer [[jefe de Gobierno del Distrito Federal]], en el primer gobernante de Ciudad de México electo, el primer ajeno al PRI desde 1929 y en el primer gobernante emanado del [[Partido de la Revolución Democrática]] en el país.
+|-
+|'''1999'''
+|[[Archivo:Gobernadores mexicanos (1999).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (24)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (2)}}
+|
+* El 12 de octubre de 1998 [[Ricardo Monreal Ávila]] se convirtió en el primer [[gobernador de Zacatecas]] ajeno al PRI desde 1929.
+* El 1 de diciembre de 1998 [[Felipe González González]] se convirtió en el primer [[gobernador de Aguascalientes]] ajeno al PRI desde 1929.
+|-
+|'''2000'''
+|[[Archivo:Gobernadores mexicanos (2000).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (21)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (7)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (4)}}
+|
+* El 15 de enero de 1999 [[Alfonso Sánchez Anaya]] se convirtió en el primer [[Anexo:Gobernantes de Tlaxcala|gobernador de Tlaxcala]] ajeno al PRI desde 1929.
+*El 5 de abril de 1999 [[Leonel Cota Montaño]] se convirtió en el primer [[gobernador de Baja California Sur]] ajeno al PRI en la historia del estado, constituido en 1974.
+*El 14 de septiembre de 1999 [[Antonio Echevarría Domínguez|Antonio Echeverría Domínguez]] se convirtió en el primer [[Anexo:Gobernantes de Nayarit|gobernador de Nayarit]] ajeno al PRI desde 1929.
+|-
+|'''2001'''
+|[[Archivo:Gobernadores mexicanos (2001).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (19)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (8)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (5)}}
+|
+* El 1 de octubre de 2000 [[Sergio Estrada Cajigal]] se convirtió en el primer [[Anexo:Gobernantes de Morelos|gobernador de Morelos]] ajeno al PRI desde 1929.
+*El 8 de diciembre de 2000 [[Pablo Salazar Mendiguchía|Pablo Abner Salazar Mendiguchía]] se convirtió en el primer [[gobernador de Chiapas]] ajeno al PRI desde 1929.
+|-
+|'''2002'''
+|[[Archivo:Gobernadores mexicanos (2002).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (18)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (9)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (5)}}
+|
+* El 1 de agosto de 2001 [[Patricio Patrón Laviada]] se convirtió en el primer [[gobernador de Yucatán]] ajeno al PRI desde 1929.
+|-
+|'''2003'''
+|[[Archivo:Gobernadores mexicanos (2003).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (17)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (9)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+* El 15 de febrero de 2002 [[Lázaro Cárdenas Batel]] se convirtió en el [[gobernador de Michoacán]] ajeno al PRI desde 1929.
+|-
+|'''2004'''
+|[[Archivo:Gobernadores mexicanos (2004).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (17)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (9)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+* El 28 de septiembre de 2003 [[Jesús Marcelo de los Santos Fraga|Marcelo de los Santos]] se convirtió en el primer [[Anexo:Gobernantes de San Luis Potosí|gobernador de San Luis Potosí]] ajeno al PRI desde 1929.
+|-
+|'''2005'''
+|[[Archivo:Gobernadores mexicanos (2004).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (17)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (9)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+|-
+|'''2006'''
+|[[Archivo:Gobernadores mexicanos (2006).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (18)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (8)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+* El 1 de abril de 2005 [[Zeferino Torreblanca]] se convirtió en el primer [[gobernador de Guerrero]] ajeno del PRI desde 1929.
+|-
+|'''2007'''
+|[[Archivo:Gobernadores mexicanos (2007).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (18)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (7)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+{{legend|#7F7F7F|Sin partido (1)}}
+|
+|-
+|'''2008'''
+|[[Archivo:Gobernadores mexicanos (2008).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (18)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (8)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+*
+|-
+|'''2009'''
+|[[Archivo:Gobernadores mexicanos (2008).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (18)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (8)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+|-
+|'''2010'''
+|[[Archivo:Gobernadores mexicanos (2010).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (19)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (7)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (6)}}
+|
+* El 13 de septiembre de 2009 [[Guillermo Padrés Elías]] se convirtió en el primer [[Anexo:Gobernantes de Sonora|gobernador de Sonora]] ajeno al PRI desde 1929.
+|-
+|'''2011'''
+|[[Archivo:Gobernadores mexicanos (2011).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (19)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (7)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (5)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+|
+* El 1 de diciembre de 2010 [[Gabino Cué Monteagudo]] se convirtió en el primer [[gobernador de Oaxaca]] ajeno al PRI desde 1929 y en el primer gobernante emanado de [[Movimiento Ciudadano (partido político de México)|Movimiento Ciudadano]] en el país.
+* El 1 de enero de 2011 [[Mario López Valdez]] se convirtió en el primer [[Anexo:Gobernantes de Sinaloa|gobernador de Sinaloa]] ajeno al PRI desde 1929.
+|-
+|'''2012'''
+|[[Archivo:Gobernadores mexicanos (2012).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (19)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (8)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (4)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+|
+* El 1 de febrero de 2011 [[Rafael Moreno Valle Rosas]] se convirtió en el primer [[gobernador de Puebla]] ajeno al PRI desde 1929.
+|-
+|'''2013'''
+|[[Archivo:Gobernadores mexicanos (2013).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (19)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (7)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (4)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+* El 8 de diciembre de 2012 [[Manuel Velasco Coello]] se convirtió en el primer gobernante emanado del [[Partido Verde Ecologista de México]] en el país.
+* El 1 de enero de 2013 [[Arturo Núñez Jiménez]] se convirtió en el primer [[gobernador de Tabasco]] ajeno al PRI desde 1929.
+|-
+|'''2014'''
+|[[Archivo:Gobernadores mexicanos (2014).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (20)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (4)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+|-
+|'''2015'''
+|[[Archivo:Gobernadores mexicanos (2014).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (20)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (4)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+|-
+|'''2016'''
+|[[Archivo:Gobernadores mexicanos (2016).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (19)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (4)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+{{legend|#7F7F7F|[[Candidato independiente en México|Independiente]]&nbsp;(1)}}
+|
+* El 4 de octubre de 2015 [[Jaime Rodríguez Calderón]] se convirtió en el primer gobernante [[Candidato independiente en México|independiente]] en el país.
+|-
+|'''2017'''
+|[[Archivo:Gobernadores mexicanos (2017).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (15)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (10)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (5)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+{{legend|#7F7F7F|[[Candidato independiente en México|Independiente]]&nbsp;(1)}}
+|
+* El 15 de septiembre de 2016 [[José Rosas Aispuro]] se convirtió en el primer [[gobernador de Durango]] ajeno al PRI desde 1929.
+* El 25 de septiembre de 2016 [[Carlos Joaquín González]] se convirtió en el primer [[gobernador de Quintana Roo]] ajeno al PRI en la historia del estado, constituido en 1974.
+* El 1 de octubre de 2016 [[Francisco García Cabeza de Vaca]] se convirtió en el primer [[gobernador de Tamaulipas]] ajeno al PRI desde 1929.
+* El 1 de diciembre de 2016 [[Miguel Ángel Yunes Linares]] se convirtió en el primer [[gobernador de Veracruz]] ajeno al PRI desde 1929.
+|-
+|'''2018'''
+|[[Archivo:Gobernadores mexicanos (2018).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (14)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (11)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (5)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+{{legend|#7F7F7F|[[Candidato independiente en México|Independiente]]&nbsp;(1)}}
+|
+|-
+|'''2019'''
+|[[Archivo:Gobernadores mexicanos (2019).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (12)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (11)}}
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (4)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (2)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#800080|[[Partido Encuentro Social|PES]] (1)}}
+{{legend|#7F7F7F|[[Candidato independiente en México|Independiente]]&nbsp;(1)}}
+|
+* El 1 de octubre de 2018 [[Cuauhtémoc Blanco]] se convirtió en el único gobernante emanado del [[Partido Encuentro Social]] en el país, luego de que éste perdiera su registro como partido político nacional.
+* El 1 de diciembre de 2018 [[Cuitláhuac García Jiménez]] se convirtió en el primer gobernante emanado de [[Morena (partido político)|Morena]] en el país al asumir la gubernatura en el estado de [[Anexo:Gobernadores de Veracruz|Veracruz]].
+|-
+|'''2020'''
+|[[Archivo:Gobernadores mexicanos (2020).png|250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (12)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (9)}}
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (2)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#800080|[[Partido Encuentro Social|PES]] (1)}}
+{{legend|#7F7F7F|[[Candidato independiente en México|Independiente]]&nbsp;(1)}}
+|
+|-
+|'''2021'''
+|[[Archivo:Gobernadores mexicanos (2020).png|250x250px]]
+|
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (12)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (9)}}
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (6)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (2)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (1)}}
+{{legend|#800080|[[Partido Encuentro Social|PES]] (1)}}
+{{legend|#7F7F7F|[[Candidato independiente en México|Independiente]]&nbsp;(1)}}
+|
+|-
+|'''2022'''
+|[[Archivo:Gobernadores mexicanos (2022).png|250x250px]]
+|
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (16)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (7)}}
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (4)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (2)}}
+{{legend|#FFD700|[[Partido de la Revolución Democrática|PRD]] (1)}}
+{{legend|#800080|[[Partido Encuentro Social|PES]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+* El 16 de septiembre de 2021 [[Layda Sansores]] se convirtió en la primera [[gobernador de Campeche|gobernadora de Campeche]] ajena al PRI desde 1929.
+* El 25 de septiembre de 2022 la morenista Mara Lezama asumió como gobernadora de Quintana Roo, siendo la primera mujer en gobernar el estado.
+* El 1 de noviembre de 2021 [[Indira Vizcaíno Silva]] se convirtió en la primera [[Anexo:Gobernantes de Colima|gobernadora de Colima]] ajena al PRI desde 1929.
+|-
+|'''2023'''
+|[[Archivo:Gobernadores mexicanos (2023).png|250x250px]]
+|
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (20)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (5)}}
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (3)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (2)}}
+{{legend|#800080|[[Partido Encuentro Social|PES]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+*  El 5 de septiembre de 2022 [[Julio Menchaca Salazar]] se convirtió en el primer [[gobernador de Hidalgo]] ajeno al PRI desde 1929.
+|-
+|'''2024'''
+|[[Archivo:Gobernadores mexicanos Actualizado (2023).png|250x250px]]
+|
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (21)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (5)}}
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (2)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (2)}}
+{{legend|#800080|[[Partido Encuentro Social|PES]] (1)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+*  El 16 de septiembre de 2023 [[Delfina Gómez Álvarez]] se convirtió en la primera [[Gobernador del Estado de México|gobernadora del Estado de México]] ajena al PRI desde 1929.
+|-
+|'''2025'''
+|[[Archivo:Gobernadores mexicanos (2024).png|250x250px]]
+|
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (23)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (4)}}
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (2)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (2)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+|-
+|'''2026'''
+|[[Archivo:Gobernadores mexicanos (2024).png|250x250px]]
+|
+{{legend|#B5261E|[[Morena (partido político)|Morena]] (23)}}
+{{legend|#05338D|[[Partido Acción Nacional|PAN]] (4)}}
+{{legend|#009150|[[Partido Revolucionario Institucional|PRI]] (2)}}
+{{legend|#FF8C00|[[Movimiento Ciudadano (partido político de México)|MC]] (2)}}
+{{legend|#50B747|[[Partido Verde Ecologista de México|PVEM]] (1)}}
+|
+|}
+
+=== Mujeres gobernantes ===
+<!-- [[Archivo:Estados que han tenido gobernadora.png|alt=Entidades de México que han sido gobernados por una mujer|miniaturadeimagen|440x440px|Entidades que han sido gobernadas por una mujer en al menos una ocasión]] -->
+
+Las [[Elecciones federales de México de 1955|elecciones federales de 1955]] fueron las primeras en que la mujer en México pudo votar y ser votada en elecciones federales. Desde entonces un total de veinte mujeres han ocupado la titularidad del poder ejecutivo de alguna entidad federativa.<ref name=":0">{{Cita web|url=https://www.milenio.com/politica/elecciones-2021/cuantas-mujeres-han-sido-gobernadoras-en-mexico-dia-de-la-mujer|título=¿Cuántas mujeres han sido gobernadoras en México? {{!}} Día de la mujer|fechaacceso=2021-09-25|sitioweb=www.milenio.com|idioma=es-MX}}</ref>
+# El 1 de noviembre de 1979 la priista '''[[Griselda Álvarez]]''' asumió como [[Anexo:Gobernantes de Colima|gobernadora de Colima]], primera gobernante mujer electa de [[Colima]] y de todo el país.
+# El 15 de enero de 1987 la priista '''[[Beatriz Paredes Rangel]]''' asumió como [[Anexo:Gobernantes de Tlaxcala|gobernadora de Tlaxcala]], primera mujer en gobernar dicha entidad.
+# El 14 de febrero de 1991 el [[Congreso de Yucatán]] designó como [[Gobernador de Yucatán|gobernadora interina de Yucatán]] a la priista '''[[Dulce María Sauri Riancho]]''', primera gobernante mujer de Yucatán. 
+# El 29 de septiembre de 1999 la [[Asamblea Legislativa de la Ciudad de México|Asamblea Legislativa del Distrito Federal]] ratificó como [[Jefe de Gobierno de Ciudad de México|jefa de Gobierno sustituta del Distrito Federal]] a la perredista '''[[Rosario Robles]]''', primera gobernante mujer de [[Ciudad de México]].
+# El 12 de septiembre de 2004 la perredista '''[[Amalia García]]''' asumió como [[Gobernador de Zacatecas|gobernadora de Zacatecas]], primera gobernante mujer de [[Zacatecas]].
+# El 1 de agosto de 2007 la priista '''[[Ivonne Ortega Pacheco]]''' asumió como gobernadora de Yucatán, primera gobernante mujer electa de Yucatán y segunda mujer gobernadora de este estado.
+#El 13 de septiembre de 2015 la priista '''[[Claudia Pavlovich Arellano]]''' asumió como [[Anexo:Gobernantes de Sonora|gobernadora de Sonora]], primera gobernante mujer de Sonora.
+# El 5 de diciembre de 2018 la morenista '''[[Claudia Sheinbaum]]''' asumió como [[Jefe de Gobierno de Ciudad de México|jefa de Gobierno de Ciudad de México]], primera gobernante mujer electa de [[Ciudad de México]] y segunda mujer gobernadora de la entidad (la otra mujer habiendo gobernado como jefa de Gobierno sustituta del entonces Distrito Federal).
+# El 14 de diciembre de 2018 la panista '''[[Martha Érika Alonso]]''' asumió como [[Anexo:Gobernantes de Puebla|gobernadora de Puebla]], primera gobernante mujer electa de [[Puebla]], cargo que solo ocupó por diez días hasta su fallecimiento accidental.
+# El 31 de agosto de 2021 la morenista '''[[Lorena Cuéllar Cisneros]]''' asumió como [[Anexo:Gobernantes de Tlaxcala|gobernadora de Tlaxcala]], siendo la segunda mujer en ser electa para dicho cargo de la entidad.
+# El 8 de septiembre de 2021 la panista '''[[Maru Campos]]''' asumió como [[Gobernador de Chihuahua|gobernadora de Chihuahua]], siendo la primera mujer en ocupar el cargo.
+# El 16 de septiembre de 2021 la morenista '''[[Layda Sansores]]''' asumió como [[Gobernador de Campeche|gobernadora de Campeche]], primera mujer en gobernar el estado.
+# El 15 de octubre de 2021 la morenista '''[[Evelyn Salgado Pineda]]''' asumió como [[Gobernador de Guerrero|gobernadora de Guerrero]], primera mujer en gobernar el estado.
+# El 31 de octubre de 2021 la morenista '''[[Marina del Pilar Ávila Olmeda]]''' asumió como [[Gobernador de Baja California|gobernadora de Baja California]], primera mujer en gobernar el estado.
+# El 1 de noviembre de 2021 la morenista '''[[Indira Vizcaíno Silva]]''' asumió como [[Anexo:Gobernantes de Colima|gobernadora de Colima]], segunda mujer en gobernar el estado.
+# El 25 de septiembre de 2022 la morenista '''[[Mara Lezama]]''' asumió como [[Anexo:Gobernantes de Quintana Roo|gobernadora de Quintana Roo]], siendo la primera mujer en gobernar el estado.
+# El 1 de octubre de 2022 la panista '''[[Tere Jiménez]]''' asumió como [[Gobernador de Aguascalientes|gobernadora de Aguascalientes]], siendo la primera mujer en gobernar el estado.
+# El 13 de diciembre de 2022 la morenista '''[[Ana Lucía Hill Mayoral]]''' asumió como [[Anexo:Gobernantes de Puebla|gobernadora de Puebla]] (encargada de despacho) tras la muerte del gobernador [[Miguel Barbosa Huerta]], siendo la segunda mujer en gobernar el estado. Ocupó el cargo sólo por dos días, cuando el [[Congreso del Estado de Puebla]] designó a un gobernador sustituto.
+# El 16 de septiembre de 2023 la morenista '''[[Delfina Gómez Álvarez]]''' asumió como [[Gobernador del Estado de México|gobernadora del Estado de México]], siendo la primera mujer en gobernar el estado.
+# Del 7 de mayo de 2024 al 3 de junio de 2024, la panista '''[[María Dolores Fritz Sierra]]''' fue designada como [[Gobernador de Yucatán|gobernadora interina de Yucatán]], en calidad de Encargada del Despacho del Poder Ejecutivo, mismo que volvió a ejercer de nueva cuenta el 29 de agosto de 2024, siendo así la tercera gobernante mujer del estado.
+# El 26 de septiembre de 2024 la panista '''[[Libia García Muñoz Ledo]]''' asumió como [[Gobernador de Guanajuato|gobernadora de Guanajuato]], siendo la primera mujer en gobernar el estado.
+# El 1 de octubre de 2024 la morenista '''[[Margarita González Saravia]]''' asumió como [[Gobernador de Morelos|gobernadora de Morelos]], siendo la primera mujer en gobernar el estado.
+# El 5 de octubre de 2024 la morenista '''[[Clara Brugada]]''' asumió como [[Jefe de Gobierno de Ciudad de México|jefa de Gobierno de Ciudad de México]], siendo la tercera mujer en ocupar el cargo (y la segunda electa).
+# El 1 de diciembre de 2024 la morenista '''[[Rocío Nahle García]]''' asumió como [[Gobernador de Veracruz|gobernadora de Veracruz]], siendo la primera mujer en gobernar el estado. 
+# El 2 de mayo de 2026 el [[Congreso de Sinaloa]] designó como [[Gobernador de Yucatán|Gobernadora interina de Sinaloa]] a la morenista '''[[Yeraldine Bonilla Valverde]]''', siendo la primera mujer en gobernar el estado.
+# El 25 de agosto de 2026 el [[Congreso de Sinaloa]] designó como [[Gobernador de Yucatán|Gobernadora interina de Sinaloa]] a la morenista '''[[Graciela Domínguez Nava]]''', siendo la segunda mujer en gobernar el estado.
+
+Diecinueve de las treinta y dos entidades federativas han sido gobernadas, al menos en una ocasión, por una mujer. Hasta 2011 únicamente habían gobernado dos mujeres simultáneamente;<ref>{{Cita noticia |url=https://www.elfinanciero.com.mx/elecciones-2021/2021/06/13/historico-habra-7-mujeres-gobernadoras-y-hasta-91-diputaciones-para-indigenas-afromexicanos-y-lgbt/ |título=¡Histórico! Habrá 7 mujeres gobernadoras y hasta 91 diputaciones para indígenas, afromexicanos y LGBT+ |periódico=El Financiero}}</ref> actualmente hay catorce gobernadoras.
+
+<gallery widths="140" heights="150" class="center" caption="Gobernantes mexicanas mujeres">
+Archivo:Griseldagobernadora.jpg|[[Griselda Álvarez]]
+Archivo:Beatrix Paredes Rangel 2012 (cropped).jpg|[[Beatriz Paredes Rangel]]
+Archivo:Dulce María Sauri Riancho.jpg|[[Dulce María Sauri Riancho]]
+Archivo:Rosario-Robles.jpg|[[Rosario Robles]]
+Archivo:Amalia Garcia.jpg|[[Amalia García]]
+Archivo:Ivonne Aracelly Ortega Pacheco.jpg|[[Ivonne Ortega Pacheco]]
+Archivo:Claudia Pavlovich - Gobernadora de Sonora.jpg|[[Claudia Pavlovich]]
+Archivo:L1730150 JPG ALTA.jpg|[[Claudia Sheinbaum]]
+Archivo:Martha Erika Alonso de Moreno Valle.jpg|[[Martha Érika Alonso]]
+Archivo:Lorena Cuellar Gobernadora.jpg|[[Lorena Cuéllar Cisneros]]
+Archivo:Maru Campos.jpg|[[Maru Campos]]
+Archivo:Layda Sansores - Martes de Jaguar (cropped).jpg|[[Layda Sansores]]
+Archivo:Evelyn Salgado Pineda.jpg|[[Evelyn Salgado Pineda]]
+Archivo:Marina del Pilar.jpg|[[Marina del Pilar Ávila Olmeda]]
+Archivo:Indira Vizcaíno Silva.jpg|[[Indira Vizcaíno Silva]]
+Archivo:Terejimenez.jpg|[[Tere Jiménez|Teresa Jimenez]]
+Archivo:AnaluciaHillMayoral.jpg|[[Ana Lucía Hill Mayoral]]
+Archivo:Delfina Gómez (cropped).jpg|[[Delfina Gómez Álvarez]]
+Archivo:María Fritz Sierra.jpg|[[María Dolores Fritz Sierra]]
+Archivo:Libia Dennise García Muñoz Ledo (Política).jpg|[[Libia García Muñoz Ledo]]
+Archivo:Margarita González Saravia (cropped).jpg|[[Margarita González Saravia]]
+Archivo:Clara Marina Brugada Molina (cropped).jpg|[[Clara Brugada]]
+</gallery>
+
+== Véase también ==
+* [[Política de México]]
+* [[Organización territorial de México]]
+* [[Anexo:Congresos de las entidades federativas de México]]
+* [[Historia territorial de México]]
+
+== Notas ==
+{{listaref|group="nota"}}
+
+== Referencias ==
+{{Listaref|2}}
+{{Control de autoridades}}
+
+[[Categoría:Gobernantes de las entidades federativas de México| ]]
+[[Categoría:Anexos:Gobernadores de México| ]]

@@ -1,0 +1,109 @@
+Los '''presidentes municipales de Aguascalientes para el periodo 2024-2027''' son los alcaldes de los [[Anexo:Municipios de Aguascalientes|11 ayuntamientos]] que componen al estado de [[Aguascalientes]], [[México]], elegidos mediante el voto popular en las [[Elecciones estatales de Aguascalientes de 2024|elecciones estatales de 2024]]. Iniciaron su mandato el 15 de octubre de 2024 y por ley concluirán su encargo el 14 de octubre de 2027, manteniéndose tres años en el cargo.<ref>{{Cita web|url=https://prep2024.ieeags.mx/diputaciones|título=Elecciones Estatales de Aguascalientes de 2024|fechaacceso=3 de junio de 2024|fecha=3 de junio de 2024|editorial=Instituto Estatal Electoral de Aguascalientes}}</ref>
+
+== Distribución por partidos ==
+{| class="wikitable"
+! colspan="2" |Partido
+! Municipios
+|-
+| bgcolor=#05338D|
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+| {{escaños|5|11|hex=#05338D}}
+|-
+| bgcolor=#009150|
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+| {{escaños|2|11|hex=#009150}}
+|-
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+| {{escaños|2|11|hex=#B5261E}}
+|-
+| bgcolor=#FFD700|
+| [[Archivo:PRD logo (Mexico).svg|20px]] [[Partido de la Revolución Democrática]]
+| {{escaños|1|11|hex=#FFD700}}
+|-
+| bgcolor=#808080|
+| [[Archivo:Gray-Candidatura independiente.svg|20px]] [[Candidaturas independientes de México|Candidatos independientes]]
+| {{escaños|1|11|hex=#808080}}
+|-
+! colspan=2|Total
+! 11
+|}
+
+== Presidentes municipales por ayuntamiento ==
+{| class="wikitable"
+! Municipio
+! Presidente municipal
+! colspan="2" |Partido
+|-
+| [[Municipio de Aguascalientes|Aguascalientes]]
+| Leonardo Montañez Castro
+| bgcolor=#05338D|
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+| [[Municipio de Asientos|Asientos]]
+| José Manuel González Mota
+| bgcolor=#FFD700|
+| [[Archivo:PRD logo (Mexico).svg|20px]] [[Partido de la Revolución Democrática]]
+|-
+| [[Municipio de Calvillo|Calvillo]]
+| Daniel Romo Urrutia
+| bgcolor=#05338D|
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+| [[Municipio de Cosío|Cosío]]
+| Francisco Javier Domínguez López<ref>{{Cita web|url=https://www.hidrocalidodigital.com/entrega-el-iee-titulo-a-alcalde-independiente/|título=Entrega el IEE título a alcalde independiente|fechaacceso=2024-10-06|apellido=Arteaga|nombre=Matilde|fecha=2024-06-08|sitioweb=Periodico Hidrocalido Digital|idioma=es}}</ref>
+| bgcolor=#808080|
+| [[Archivo:Gray-Candidatura independiente.svg|20px]] [[Candidaturas independientes de México|Candidato independiente]] 
+|-
+| [[Municipio de Jesús María (Aguascalientes)|Jesús María]]
+| César Fernando Medina Cervantes
+| bgcolor=#05338D|
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+| [[Municipio de Pabellón de Arteaga|Pabellón de Arteaga]]
+| Lucero Espinoza Vázquez
+| bgcolor=#05338D|
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+| [[Municipio de Rincón de Romos|Rincón de Romos]]
+| Erick Muro Sánchez
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| [[Municipio de San José de Gracia|San José de Gracia]]
+| Laura Araceli González Reyes
+| bgcolor=#05338D|
+| [[Archivo:PAN logo (Mexico).svg|20px]] [[Partido Acción Nacional]]
+|-
+| [[Municipio de Tepezalá|Tepezalá]]
+| Leticia Olivares Jiménez
+| bgcolor=#009150|
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|-
+| [[Municipio de El Llano|El Llano]]
+| Jorge Delgado Ibarra
+| bgcolor=#B5261E|
+| [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]]
+|-
+| [[Municipio de San Francisco de los Romo|San Francisco de los Romo]]
+| Margarita Gallegos Soto
+| bgcolor=#009150|
+| [[Archivo:PRI logo (Mexico).svg|20px]] [[Partido Revolucionario Institucional]]
+|}
+
+== Véase también ==
+* [[Anexo:Presidentes municipales de México]]
+* [[Anexo:LXVI Legislatura del Congreso del Estado de Aguascalientes|LXVI Legislatura del Congreso del Estado de Aguascalientes]]
+
+== Referencias ==
+{{Listaref}}
+
+{{sucesión
+| título     = Presidentes municipales de Aguascalientes
+| período    = 2024-2027
+| predecesor = [[Anexo:Presidentes municipales de Aguascalientes (2021-2024)|Presidentes municipales de Aguascalientes<br>(2021-2024)]]
+| sucesor    = 
+}}
+
+{{Control de autoridades}}
+[[Categoría:Presidentes municipales de Aguascalientes por periodo| 2024]]

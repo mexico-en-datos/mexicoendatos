@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>México en datos: Poderes de la Nación</title>
+  <meta name="description" content="Los poderes de la Unión en México: cada escaño del Senado y de la Cámara de Diputados por partido, con mayorías; la Suprema Corte; la Presidencia y su gabinete. Cada persona con su fuente y su fecha.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__title">
+      <h1>México en datos</h1>
+      <p>Los tres poderes de la Unión. Legislativo: cada escaño del Senado y de la Cámara de Diputados con su partido y las mayorías que suman. Ejecutivo: la Presidencia y las dependencias de su gabinete. Judicial: la Suprema Corte, el Tribunal Electoral y el Tribunal de Disciplina Judicial, con quien preside cada uno. Pulsa un escaño o un nombre para ver los datos de esa persona.</p>
+      <nav class="tabs" aria-label="Secciones">
+        <a href="index.html">Explorar México</a>
+        <a href="mapas-politicos.html">Mapas políticos</a>
+        <a href="mapas-economicos.html">Mapas económicos</a>
+        <a href="mapas-seguridad.html">Mapas de seguridad</a>
+        <a href="poderes.html" aria-current="page">Poderes de la Nación</a>
+      </nav>
+    </div>
+    <div class="masthead__status">
+      <p id="data-date"></p>
+    </div>
+  </header>
+
+  <main>
+    <p id="load-error" class="notice" hidden></p>
+
+    <section class="atlas" aria-label="Poderes de la Unión y datos de la persona elegida">
+      <div class="sheet chambers-sheet">
+        <div class="chambers" id="chambers">
+          <div id="grid"></div>
+          <div class="tooltip" id="tooltip" hidden></div>
+        </div>
+      </div>
+
+      <aside class="ficha" aria-label="Datos de la persona elegida">
+        <div id="ficha" aria-live="polite"></div>
+      </aside>
+    </section>
+
+    <section class="sources" id="fuentes">
+      <h2>Fuentes</h2>
+      <div id="sources-body"></div>
+    </section>
+  </main>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="common.js"></script>
+  <script src="poderes.js"></script>
+</body>
+</html>

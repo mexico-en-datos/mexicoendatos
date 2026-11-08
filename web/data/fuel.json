@@ -1,0 +1,9495 @@
+{
+  "unit": "pesos por litro",
+  "national": {
+    "regular": 23.69,
+    "premium": 28.59,
+    "diesel": 26.97,
+    "stations": 13848
+  },
+  "states": {
+    "01": {
+      "regular": 23.92,
+      "premium": 29.1,
+      "diesel": 26.94,
+      "stations": 212
+    },
+    "02": {
+      "regular": 22.87,
+      "premium": 28.17,
+      "diesel": 25.86,
+      "stations": 603
+    },
+    "03": {
+      "regular": 24.44,
+      "premium": 29.53,
+      "diesel": 27.61,
+      "stations": 184
+    },
+    "04": {
+      "regular": 24.04,
+      "premium": 28.64,
+      "diesel": 27.05,
+      "stations": 130
+    },
+    "05": {
+      "regular": 23.74,
+      "premium": 28.81,
+      "diesel": 27.04,
+      "stations": 485
+    },
+    "06": {
+      "regular": 23.85,
+      "premium": 28.88,
+      "diesel": 27.03,
+      "stations": 131
+    },
+    "07": {
+      "regular": 23.76,
+      "premium": 28.3,
+      "diesel": 26.74,
+      "stations": 353
+    },
+    "08": {
+      "regular": 22.41,
+      "premium": 27.04,
+      "diesel": 26.78,
+      "stations": 602
+    },
+    "09": {
+      "regular": 23.82,
+      "premium": 28.7,
+      "diesel": 26.96,
+      "stations": 387
+    },
+    "10": {
+      "regular": 24.09,
+      "premium": 29.33,
+      "diesel": 27.19,
+      "stations": 231
+    },
+    "11": {
+      "regular": 23.86,
+      "premium": 29.17,
+      "diesel": 27.01,
+      "stations": 730
+    },
+    "12": {
+      "regular": 23.86,
+      "premium": 28.93,
+      "diesel": 27.08,
+      "stations": 254
+    },
+    "13": {
+      "regular": 23.69,
+      "premium": 28.16,
+      "diesel": 26.99,
+      "stations": 315
+    },
+    "14": {
+      "regular": 24.0,
+      "premium": 29.42,
+      "diesel": 27.08,
+      "stations": 985
+    },
+    "15": {
+      "regular": 23.73,
+      "premium": 28.45,
+      "diesel": 26.97,
+      "stations": 1256
+    },
+    "16": {
+      "regular": 23.97,
+      "premium": 29.03,
+      "diesel": 26.98,
+      "stations": 555
+    },
+    "17": {
+      "regular": 23.77,
+      "premium": 28.45,
+      "diesel": 26.96,
+      "stations": 192
+    },
+    "18": {
+      "regular": 23.98,
+      "premium": 29.45,
+      "diesel": 27.15,
+      "stations": 165
+    },
+    "19": {
+      "regular": 24.13,
+      "premium": 29.61,
+      "diesel": 27.02,
+      "stations": 732
+    },
+    "20": {
+      "regular": 24.06,
+      "premium": 29.23,
+      "diesel": 27.45,
+      "stations": 297
+    },
+    "21": {
+      "regular": 23.73,
+      "premium": 28.08,
+      "diesel": 26.97,
+      "stations": 617
+    },
+    "22": {
+      "regular": 23.76,
+      "premium": 28.64,
+      "diesel": 26.88,
+      "stations": 370
+    },
+    "23": {
+      "regular": 25.13,
+      "premium": 29.03,
+      "diesel": 28.12,
+      "stations": 257
+    },
+    "24": {
+      "regular": 23.92,
+      "premium": 28.51,
+      "diesel": 27.06,
+      "stations": 305
+    },
+    "25": {
+      "regular": 23.95,
+      "premium": 29.3,
+      "diesel": 27.0,
+      "stations": 561
+    },
+    "26": {
+      "regular": 23.25,
+      "premium": 28.63,
+      "diesel": 26.93,
+      "stations": 554
+    },
+    "27": {
+      "regular": 23.81,
+      "premium": 28.37,
+      "diesel": 26.99,
+      "stations": 247
+    },
+    "28": {
+      "regular": 21.93,
+      "premium": 26.14,
+      "diesel": 26.42,
+      "stations": 607
+    },
+    "29": {
+      "regular": 23.58,
+      "premium": 27.89,
+      "diesel": 26.76,
+      "stations": 145
+    },
+    "30": {
+      "regular": 23.79,
+      "premium": 28.0,
+      "diesel": 26.99,
+      "stations": 815
+    },
+    "31": {
+      "regular": 24.16,
+      "premium": 28.14,
+      "diesel": 27.11,
+      "stations": 345
+    },
+    "32": {
+      "regular": 24.0,
+      "premium": 28.9,
+      "diesel": 27.07,
+      "stations": 226
+    }
+  },
+  "municipalities": {
+    "01001": {
+      "regular": 23.9,
+      "premium": 29.07,
+      "diesel": 26.88,
+      "stations": 133
+    },
+    "01002": {
+      "regular": 23.89,
+      "premium": 28.52,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "01003": {
+      "regular": 23.97,
+      "premium": 29.03,
+      "diesel": 26.99,
+      "stations": 9
+    },
+    "01004": {
+      "regular": 23.99,
+      "premium": 29.4,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "01005": {
+      "regular": 23.94,
+      "premium": 29.27,
+      "diesel": 27.02,
+      "stations": 32
+    },
+    "01006": {
+      "regular": 23.93,
+      "premium": 29.01,
+      "diesel": 26.99,
+      "stations": 8
+    },
+    "01007": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.05,
+      "stations": 7
+    },
+    "01008": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "01009": {
+      "regular": 23.99,
+      "premium": 29.24,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "01010": {
+      "regular": 24.02,
+      "premium": 29.22,
+      "diesel": 27.1,
+      "stations": 3
+    },
+    "01011": {
+      "regular": 23.95,
+      "premium": 29.2,
+      "diesel": 26.97,
+      "stations": 9
+    },
+    "02001": {
+      "regular": 22.92,
+      "premium": 28.23,
+      "diesel": 25.96,
+      "stations": 72
+    },
+    "02002": {
+      "regular": 22.38,
+      "premium": 27.39,
+      "diesel": 25.71,
+      "stations": 218
+    },
+    "02003": {
+      "regular": 22.94,
+      "premium": 28.57,
+      "diesel": 25.91,
+      "stations": 24
+    },
+    "02004": {
+      "regular": 23.13,
+      "premium": 28.66,
+      "diesel": 25.87,
+      "stations": 242
+    },
+    "02005": {
+      "regular": 22.9,
+      "premium": 28.73,
+      "diesel": 25.66,
+      "stations": 22
+    },
+    "02006": {
+      "regular": 24.66,
+      "premium": 28.92,
+      "diesel": 26.48,
+      "stations": 17
+    },
+    "02007": {
+      "regular": 24.13,
+      "premium": 28.69,
+      "diesel": 26.79,
+      "stations": 8
+    },
+    "03001": {
+      "regular": 24.14,
+      "premium": 28.85,
+      "diesel": 27.63,
+      "stations": 24
+    },
+    "03002": {
+      "regular": 24.9,
+      "premium": 29.64,
+      "diesel": 28.63,
+      "stations": 17
+    },
+    "03003": {
+      "regular": 24.16,
+      "premium": 29.41,
+      "diesel": 27.13,
+      "stations": 67
+    },
+    "03008": {
+      "regular": 24.68,
+      "premium": 29.84,
+      "diesel": 27.75,
+      "stations": 70
+    },
+    "03009": {
+      "regular": 24.87,
+      "premium": 29.62,
+      "diesel": 27.79,
+      "stations": 6
+    },
+    "04001": {
+      "regular": 24.08,
+      "premium": 28.66,
+      "diesel": 27.42,
+      "stations": 7
+    },
+    "04002": {
+      "regular": 24.07,
+      "premium": 28.76,
+      "diesel": 27.0,
+      "stations": 37
+    },
+    "04003": {
+      "regular": 24.04,
+      "premium": 28.6,
+      "diesel": 27.03,
+      "stations": 34
+    },
+    "04004": {
+      "regular": 23.98,
+      "premium": 28.68,
+      "diesel": 27.07,
+      "stations": 13
+    },
+    "04005": {
+      "regular": 23.77,
+      "premium": 28.59,
+      "diesel": 27.12,
+      "stations": 4
+    },
+    "04006": {
+      "regular": 23.96,
+      "premium": 28.53,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "04007": {
+      "regular": 24.49,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "04008": {
+      "regular": 23.94,
+      "premium": 28.45,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "04009": {
+      "regular": 24.05,
+      "premium": 28.69,
+      "diesel": 27.0,
+      "stations": 13
+    },
+    "04010": {
+      "regular": 24.07,
+      "premium": 28.43,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "04011": {
+      "regular": 23.94,
+      "premium": 28.52,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "04012": {
+      "regular": 23.99,
+      "premium": 28.06,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "04013": {
+      "regular": 24.39,
+      "premium": 28.79,
+      "diesel": 27.49,
+      "stations": 1
+    },
+    "05002": {
+      "regular": 21.19,
+      "premium": 24.31,
+      "diesel": 26.69,
+      "stations": 17
+    },
+    "05003": {
+      "regular": 26.82,
+      "premium": 28.97,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "05004": {
+      "regular": 24.15,
+      "premium": 29.59,
+      "diesel": 27.21,
+      "stations": 12
+    },
+    "05005": {
+      "regular": 24.99,
+      "premium": null,
+      "diesel": 29.99,
+      "stations": 1
+    },
+    "05006": {
+      "regular": 24.0,
+      "premium": 29.38,
+      "diesel": 27.08,
+      "stations": 7
+    },
+    "05007": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "05008": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": null,
+      "stations": 1
+    },
+    "05009": {
+      "regular": 23.99,
+      "premium": 29.34,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "05010": {
+      "regular": 24.1,
+      "premium": 29.45,
+      "diesel": 27.07,
+      "stations": 13
+    },
+    "05011": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 28.18,
+      "stations": 1
+    },
+    "05012": {
+      "regular": 19.99,
+      "premium": 24.49,
+      "diesel": 26.03,
+      "stations": 1
+    },
+    "05014": {
+      "regular": 22.79,
+      "premium": null,
+      "diesel": 26.07,
+      "stations": 2
+    },
+    "05017": {
+      "regular": 23.97,
+      "premium": 28.36,
+      "diesel": 27.12,
+      "stations": 15
+    },
+    "05018": {
+      "regular": 24.13,
+      "premium": 29.4,
+      "diesel": 27.16,
+      "stations": 54
+    },
+    "05019": {
+      "regular": 25.54,
+      "premium": 27.48,
+      "diesel": 27.3,
+      "stations": 3
+    },
+    "05020": {
+      "regular": 23.99,
+      "premium": 29.2,
+      "diesel": 27.0,
+      "stations": 7
+    },
+    "05021": {
+      "regular": 23.95,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "05022": {
+      "regular": 22.5,
+      "premium": 26.64,
+      "diesel": 26.69,
+      "stations": 7
+    },
+    "05023": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.5,
+      "stations": 2
+    },
+    "05024": {
+      "regular": 25.01,
+      "premium": 29.68,
+      "diesel": 27.51,
+      "stations": 7
+    },
+    "05025": {
+      "regular": 20.14,
+      "premium": 24.45,
+      "diesel": 26.37,
+      "stations": 31
+    },
+    "05026": {
+      "regular": 24.0,
+      "premium": 29.5,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "05027": {
+      "regular": 24.11,
+      "premium": 29.22,
+      "diesel": 27.07,
+      "stations": 33
+    },
+    "05028": {
+      "regular": 23.99,
+      "premium": 29.88,
+      "diesel": 27.0,
+      "stations": 13
+    },
+    "05029": {
+      "regular": 23.99,
+      "premium": 28.0,
+      "diesel": null,
+      "stations": 1
+    },
+    "05030": {
+      "regular": 24.14,
+      "premium": 29.35,
+      "diesel": 27.09,
+      "stations": 106
+    },
+    "05031": {
+      "regular": 24.07,
+      "premium": 29.63,
+      "diesel": 27.19,
+      "stations": 5
+    },
+    "05032": {
+      "regular": 23.99,
+      "premium": 29.55,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "05033": {
+      "regular": 24.03,
+      "premium": 29.32,
+      "diesel": 27.08,
+      "stations": 13
+    },
+    "05034": {
+      "regular": 25.9,
+      "premium": 29.13,
+      "diesel": 29.45,
+      "stations": 1
+    },
+    "05035": {
+      "regular": 24.08,
+      "premium": 29.45,
+      "diesel": 27.02,
+      "stations": 106
+    },
+    "05036": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "05037": {
+      "regular": 26.49,
+      "premium": 28.78,
+      "diesel": 28.99,
+      "stations": 1
+    },
+    "05038": {
+      "regular": 23.97,
+      "premium": 27.7,
+      "diesel": 26.58,
+      "stations": 3
+    },
+    "06001": {
+      "regular": 23.99,
+      "premium": 29.5,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "06002": {
+      "regular": 23.77,
+      "premium": 29.06,
+      "diesel": 26.98,
+      "stations": 42
+    },
+    "06003": {
+      "regular": 23.99,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "06004": {
+      "regular": 23.83,
+      "premium": 28.84,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "06005": {
+      "regular": 23.94,
+      "premium": 28.96,
+      "diesel": 27.2,
+      "stations": 5
+    },
+    "06006": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "06007": {
+      "regular": 23.97,
+      "premium": 28.55,
+      "diesel": 27.0,
+      "stations": 33
+    },
+    "06008": {
+      "regular": 25.47,
+      "premium": 29.98,
+      "diesel": 29.98,
+      "stations": 1
+    },
+    "06009": {
+      "regular": 23.97,
+      "premium": 28.94,
+      "diesel": 27.0,
+      "stations": 21
+    },
+    "06010": {
+      "regular": 23.54,
+      "premium": 28.85,
+      "diesel": 27.0,
+      "stations": 21
+    },
+    "07001": {
+      "regular": 23.99,
+      "premium": 28.33,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "07002": {
+      "regular": 23.99,
+      "premium": 28.43,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07003": {
+      "regular": 23.96,
+      "premium": 28.24,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "07004": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 28.39,
+      "stations": 1
+    },
+    "07007": {
+      "regular": 23.97,
+      "premium": 27.97,
+      "diesel": 26.97,
+      "stations": 1
+    },
+    "07008": {
+      "regular": 24.0,
+      "premium": 28.95,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "07009": {
+      "regular": 23.99,
+      "premium": 29.16,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "07012": {
+      "regular": 23.98,
+      "premium": 28.78,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "07013": {
+      "regular": 24.0,
+      "premium": 26.49,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "07015": {
+      "regular": 22.95,
+      "premium": 27.18,
+      "diesel": 25.39,
+      "stations": 4
+    },
+    "07016": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "07017": {
+      "regular": 23.98,
+      "premium": 28.56,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "07019": {
+      "regular": 23.99,
+      "premium": 28.84,
+      "diesel": 27.0,
+      "stations": 14
+    },
+    "07020": {
+      "regular": 24.0,
+      "premium": 28.6,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "07021": {
+      "regular": 23.89,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07023": {
+      "regular": 23.62,
+      "premium": 27.96,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "07027": {
+      "regular": 23.74,
+      "premium": 28.11,
+      "diesel": 26.99,
+      "stations": 10
+    },
+    "07029": {
+      "regular": 24.0,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07030": {
+      "regular": 24.59,
+      "premium": 31.59,
+      "diesel": 27.59,
+      "stations": 1
+    },
+    "07031": {
+      "regular": 23.99,
+      "premium": 29.82,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07032": {
+      "regular": 23.86,
+      "premium": 27.89,
+      "diesel": 26.93,
+      "stations": 3
+    },
+    "07034": {
+      "regular": 23.99,
+      "premium": 29.77,
+      "diesel": 26.02,
+      "stations": 9
+    },
+    "07035": {
+      "regular": 23.54,
+      "premium": 27.99,
+      "diesel": 25.39,
+      "stations": 1
+    },
+    "07037": {
+      "regular": 23.77,
+      "premium": 27.67,
+      "diesel": 26.88,
+      "stations": 2
+    },
+    "07039": {
+      "regular": 24.0,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07040": {
+      "regular": 23.99,
+      "premium": 29.17,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "07044": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07046": {
+      "regular": 23.99,
+      "premium": 28.58,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "07047": {
+      "regular": 25.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07048": {
+      "regular": 23.99,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "07050": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07051": {
+      "regular": 23.99,
+      "premium": 29.29,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "07052": {
+      "regular": 23.25,
+      "premium": 27.69,
+      "diesel": 26.39,
+      "stations": 3
+    },
+    "07054": {
+      "regular": 23.89,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07057": {
+      "regular": 23.99,
+      "premium": 29.09,
+      "diesel": 26.09,
+      "stations": 4
+    },
+    "07059": {
+      "regular": 23.99,
+      "premium": 28.95,
+      "diesel": 27.0,
+      "stations": 7
+    },
+    "07061": {
+      "regular": 23.99,
+      "premium": 28.81,
+      "diesel": 27.07,
+      "stations": 6
+    },
+    "07065": {
+      "regular": 23.56,
+      "premium": 27.88,
+      "diesel": 26.85,
+      "stations": 9
+    },
+    "07067": {
+      "regular": 23.99,
+      "premium": 28.63,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07068": {
+      "regular": 23.96,
+      "premium": 28.42,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "07069": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.09,
+      "stations": 4
+    },
+    "07070": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07071": {
+      "regular": 23.99,
+      "premium": 17.67,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07074": {
+      "regular": 23.95,
+      "premium": 28.49,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "07075": {
+      "regular": 23.99,
+      "premium": 27.9,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "07077": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 27.29,
+      "stations": 1
+    },
+    "07078": {
+      "regular": 23.71,
+      "premium": 28.17,
+      "diesel": 26.99,
+      "stations": 18
+    },
+    "07079": {
+      "regular": 23.99,
+      "premium": 28.96,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "07080": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07081": {
+      "regular": 24.0,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "07083": {
+      "regular": 23.99,
+      "premium": 29.28,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "07086": {
+      "regular": 23.99,
+      "premium": 28.41,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "07087": {
+      "regular": 23.21,
+      "premium": 27.31,
+      "diesel": 25.49,
+      "stations": 5
+    },
+    "07089": {
+      "regular": 23.3,
+      "premium": 27.49,
+      "diesel": 25.32,
+      "stations": 45
+    },
+    "07091": {
+      "regular": 23.99,
+      "premium": 28.63,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07092": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": null,
+      "stations": 1
+    },
+    "07094": {
+      "regular": 23.97,
+      "premium": 27.97,
+      "diesel": 26.97,
+      "stations": 2
+    },
+    "07097": {
+      "regular": 23.98,
+      "premium": 29.16,
+      "diesel": 27.08,
+      "stations": 7
+    },
+    "07099": {
+      "regular": 23.2,
+      "premium": 26.59,
+      "diesel": 26.06,
+      "stations": 5
+    },
+    "07101": {
+      "regular": 23.67,
+      "premium": 28.11,
+      "diesel": 27.0,
+      "stations": 77
+    },
+    "07102": {
+      "regular": 23.27,
+      "premium": 27.61,
+      "diesel": 25.37,
+      "stations": 4
+    },
+    "07104": {
+      "regular": 23.96,
+      "premium": 28.87,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "07106": {
+      "regular": 23.99,
+      "premium": 28.85,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "07107": {
+      "regular": 23.99,
+      "premium": 28.81,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "07108": {
+      "regular": 24.0,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 9
+    },
+    "07109": {
+      "regular": 25.65,
+      "premium": 29.8,
+      "diesel": 29.5,
+      "stations": 1
+    },
+    "07114": {
+      "regular": 24.44,
+      "premium": 28.59,
+      "diesel": 27.48,
+      "stations": 4
+    },
+    "07122": {
+      "regular": 24.0,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "07123": {
+      "regular": 23.58,
+      "premium": 27.84,
+      "diesel": 26.95,
+      "stations": 1
+    },
+    "07124": {
+      "regular": 23.99,
+      "premium": 28.73,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08001": {
+      "regular": 23.88,
+      "premium": 28.04,
+      "diesel": 27.0,
+      "stations": 9
+    },
+    "08002": {
+      "regular": 23.99,
+      "premium": 28.69,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "08003": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "08004": {
+      "regular": 23.99,
+      "premium": 28.87,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "08005": {
+      "regular": 22.58,
+      "premium": 27.18,
+      "diesel": 26.35,
+      "stations": 5
+    },
+    "08006": {
+      "regular": 23.85,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "08007": {
+      "regular": 24.83,
+      "premium": 29.7,
+      "diesel": 27.65,
+      "stations": 3
+    },
+    "08009": {
+      "regular": 24.42,
+      "premium": 28.75,
+      "diesel": 27.76,
+      "stations": 7
+    },
+    "08010": {
+      "regular": 23.91,
+      "premium": 28.18,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "08011": {
+      "regular": 24.54,
+      "premium": 28.76,
+      "diesel": 26.99,
+      "stations": 11
+    },
+    "08012": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.99,
+      "stations": 2
+    },
+    "08013": {
+      "regular": 23.86,
+      "premium": 29.85,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "08015": {
+      "regular": 24.99,
+      "premium": null,
+      "diesel": 29.29,
+      "stations": 1
+    },
+    "08016": {
+      "regular": 24.99,
+      "premium": 29.29,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08017": {
+      "regular": 23.91,
+      "premium": 28.15,
+      "diesel": 26.99,
+      "stations": 39
+    },
+    "08018": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08019": {
+      "regular": 23.92,
+      "premium": 28.92,
+      "diesel": 26.97,
+      "stations": 136
+    },
+    "08021": {
+      "regular": 23.85,
+      "premium": 28.1,
+      "diesel": 26.88,
+      "stations": 30
+    },
+    "08022": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "08023": {
+      "regular": 23.99,
+      "premium": 28.34,
+      "diesel": 27.16,
+      "stations": 3
+    },
+    "08024": {
+      "regular": 23.99,
+      "premium": 28.3,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "08025": {
+      "regular": 23.95,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "08026": {
+      "regular": 23.8,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "08027": {
+      "regular": 24.99,
+      "premium": 29.5,
+      "diesel": 28.5,
+      "stations": 5
+    },
+    "08029": {
+      "regular": 26.09,
+      "premium": 30.24,
+      "diesel": 29.21,
+      "stations": 6
+    },
+    "08030": {
+      "regular": 26.0,
+      "premium": 30.5,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "08031": {
+      "regular": 23.92,
+      "premium": 27.69,
+      "diesel": 27.37,
+      "stations": 7
+    },
+    "08032": {
+      "regular": 24.06,
+      "premium": 28.9,
+      "diesel": 26.92,
+      "stations": 26
+    },
+    "08034": {
+      "regular": 24.49,
+      "premium": null,
+      "diesel": 27.99,
+      "stations": 2
+    },
+    "08035": {
+      "regular": 22.85,
+      "premium": null,
+      "diesel": 25.92,
+      "stations": 4
+    },
+    "08036": {
+      "regular": 24.48,
+      "premium": 29.44,
+      "diesel": 27.02,
+      "stations": 10
+    },
+    "08037": {
+      "regular": 19.21,
+      "premium": 23.48,
+      "diesel": 25.38,
+      "stations": 185
+    },
+    "08038": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "08039": {
+      "regular": 24.9,
+      "premium": 29.92,
+      "diesel": 27.39,
+      "stations": 1
+    },
+    "08040": {
+      "regular": 23.98,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "08043": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08044": {
+      "regular": 23.98,
+      "premium": 29.6,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08045": {
+      "regular": 23.94,
+      "premium": 28.21,
+      "diesel": 26.99,
+      "stations": 12
+    },
+    "08048": {
+      "regular": 23.82,
+      "premium": 28.55,
+      "diesel": 26.96,
+      "stations": 10
+    },
+    "08049": {
+      "regular": 23.98,
+      "premium": 28.9,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08050": {
+      "regular": 23.97,
+      "premium": 28.17,
+      "diesel": 27.14,
+      "stations": 13
+    },
+    "08051": {
+      "regular": 24.79,
+      "premium": 29.49,
+      "diesel": 28.39,
+      "stations": 2
+    },
+    "08052": {
+      "regular": 21.2,
+      "premium": 24.51,
+      "diesel": 26.02,
+      "stations": 12
+    },
+    "08053": {
+      "regular": 19.64,
+      "premium": null,
+      "diesel": 23.59,
+      "stations": 1
+    },
+    "08054": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "08055": {
+      "regular": 23.69,
+      "premium": 26.62,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "08057": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "08058": {
+      "regular": 23.99,
+      "premium": 28.13,
+      "diesel": null,
+      "stations": 1
+    },
+    "08060": {
+      "regular": 23.89,
+      "premium": 28.82,
+      "diesel": 26.95,
+      "stations": 4
+    },
+    "08061": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "08062": {
+      "regular": 24.15,
+      "premium": 28.73,
+      "diesel": 27.16,
+      "stations": 5
+    },
+    "08063": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08064": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "08065": {
+      "regular": 27.0,
+      "premium": null,
+      "diesel": 27.9,
+      "stations": 2
+    },
+    "09002": {
+      "regular": 23.88,
+      "premium": 28.61,
+      "diesel": 26.98,
+      "stations": 20
+    },
+    "09003": {
+      "regular": 23.79,
+      "premium": 28.5,
+      "diesel": 26.99,
+      "stations": 26
+    },
+    "09004": {
+      "regular": 23.89,
+      "premium": 28.8,
+      "diesel": 26.95,
+      "stations": 7
+    },
+    "09005": {
+      "regular": 23.97,
+      "premium": 28.69,
+      "diesel": 26.99,
+      "stations": 35
+    },
+    "09006": {
+      "regular": 23.5,
+      "premium": 28.39,
+      "diesel": 26.99,
+      "stations": 9
+    },
+    "09007": {
+      "regular": 23.86,
+      "premium": 28.53,
+      "diesel": 26.94,
+      "stations": 58
+    },
+    "09008": {
+      "regular": 23.99,
+      "premium": 29.69,
+      "diesel": null,
+      "stations": 2
+    },
+    "09009": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": null,
+      "stations": 2
+    },
+    "09010": {
+      "regular": 24.02,
+      "premium": 29.48,
+      "diesel": 27.01,
+      "stations": 34
+    },
+    "09011": {
+      "regular": 23.97,
+      "premium": 28.69,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "09012": {
+      "regular": 23.88,
+      "premium": 28.41,
+      "diesel": 26.97,
+      "stations": 25
+    },
+    "09013": {
+      "regular": 23.86,
+      "premium": 28.68,
+      "diesel": 26.87,
+      "stations": 9
+    },
+    "09014": {
+      "regular": 23.65,
+      "premium": 28.52,
+      "diesel": 26.82,
+      "stations": 44
+    },
+    "09015": {
+      "regular": 23.74,
+      "premium": 28.79,
+      "diesel": 26.95,
+      "stations": 47
+    },
+    "09016": {
+      "regular": 23.85,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 33
+    },
+    "09017": {
+      "regular": 23.72,
+      "premium": 28.62,
+      "diesel": 26.99,
+      "stations": 31
+    },
+    "10001": {
+      "regular": 23.99,
+      "premium": 29.09,
+      "diesel": 27.11,
+      "stations": 3
+    },
+    "10004": {
+      "regular": 24.22,
+      "premium": 29.28,
+      "diesel": 27.34,
+      "stations": 7
+    },
+    "10005": {
+      "regular": 23.93,
+      "premium": 29.15,
+      "diesel": 26.98,
+      "stations": 75
+    },
+    "10006": {
+      "regular": 24.75,
+      "premium": null,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "10007": {
+      "regular": 24.09,
+      "premium": 29.59,
+      "diesel": 27.01,
+      "stations": 54
+    },
+    "10008": {
+      "regular": 24.4,
+      "premium": 28.72,
+      "diesel": 27.28,
+      "stations": 7
+    },
+    "10010": {
+      "regular": null,
+      "premium": null,
+      "diesel": 28.5,
+      "stations": 1
+    },
+    "10011": {
+      "regular": 24.2,
+      "premium": 29.9,
+      "diesel": 27.9,
+      "stations": 1
+    },
+    "10012": {
+      "regular": 24.02,
+      "premium": 29.39,
+      "diesel": 26.95,
+      "stations": 18
+    },
+    "10013": {
+      "regular": 24.19,
+      "premium": 29.05,
+      "diesel": 27.04,
+      "stations": 7
+    },
+    "10014": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.2,
+      "stations": 1
+    },
+    "10015": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "10016": {
+      "regular": 23.99,
+      "premium": 29.16,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "10017": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.75,
+      "stations": 2
+    },
+    "10018": {
+      "regular": 24.42,
+      "premium": 30.25,
+      "diesel": 28.0,
+      "stations": 4
+    },
+    "10020": {
+      "regular": 23.99,
+      "premium": 28.84,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "10021": {
+      "regular": 24.5,
+      "premium": null,
+      "diesel": 27.2,
+      "stations": 2
+    },
+    "10022": {
+      "regular": 24.34,
+      "premium": 29.5,
+      "diesel": 27.48,
+      "stations": 2
+    },
+    "10023": {
+      "regular": 24.06,
+      "premium": 29.64,
+      "diesel": 27.53,
+      "stations": 5
+    },
+    "10024": {
+      "regular": 24.39,
+      "premium": 28.83,
+      "diesel": 27.92,
+      "stations": 2
+    },
+    "10027": {
+      "regular": 24.75,
+      "premium": null,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "10028": {
+      "regular": 23.99,
+      "premium": 28.78,
+      "diesel": 27.32,
+      "stations": 3
+    },
+    "10029": {
+      "regular": 24.5,
+      "premium": null,
+      "diesel": 28.5,
+      "stations": 1
+    },
+    "10031": {
+      "regular": 23.96,
+      "premium": 28.68,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "10032": {
+      "regular": 24.21,
+      "premium": 29.06,
+      "diesel": 27.47,
+      "stations": 8
+    },
+    "10033": {
+      "regular": 24.9,
+      "premium": null,
+      "diesel": 27.9,
+      "stations": 1
+    },
+    "10034": {
+      "regular": 25.5,
+      "premium": 30.99,
+      "diesel": 29.95,
+      "stations": 2
+    },
+    "10035": {
+      "regular": 23.99,
+      "premium": 29.33,
+      "diesel": 27.9,
+      "stations": 2
+    },
+    "10036": {
+      "regular": 24.26,
+      "premium": 29.59,
+      "diesel": 27.3,
+      "stations": 3
+    },
+    "10037": {
+      "regular": 24.98,
+      "premium": null,
+      "diesel": 29.88,
+      "stations": 1
+    },
+    "10038": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "10039": {
+      "regular": 24.07,
+      "premium": 29.13,
+      "diesel": 27.15,
+      "stations": 4
+    },
+    "11001": {
+      "regular": 23.95,
+      "premium": 29.03,
+      "diesel": 26.99,
+      "stations": 11
+    },
+    "11002": {
+      "regular": 23.87,
+      "premium": 28.8,
+      "diesel": 26.96,
+      "stations": 16
+    },
+    "11003": {
+      "regular": 24.02,
+      "premium": 29.14,
+      "diesel": 26.99,
+      "stations": 18
+    },
+    "11004": {
+      "regular": 23.82,
+      "premium": 28.6,
+      "diesel": 26.86,
+      "stations": 11
+    },
+    "11005": {
+      "regular": 23.81,
+      "premium": 28.79,
+      "diesel": 26.97,
+      "stations": 17
+    },
+    "11007": {
+      "regular": 23.65,
+      "premium": 28.78,
+      "diesel": 26.98,
+      "stations": 81
+    },
+    "11008": {
+      "regular": 24.14,
+      "premium": 29.42,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "11009": {
+      "regular": 23.87,
+      "premium": 28.64,
+      "diesel": 27.0,
+      "stations": 7
+    },
+    "11010": {
+      "regular": 23.71,
+      "premium": 28.31,
+      "diesel": 26.86,
+      "stations": 2
+    },
+    "11011": {
+      "regular": 23.82,
+      "premium": 28.98,
+      "diesel": 27.16,
+      "stations": 13
+    },
+    "11012": {
+      "regular": 23.86,
+      "premium": 29.32,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "11013": {
+      "regular": 23.33,
+      "premium": 27.63,
+      "diesel": 26.93,
+      "stations": 3
+    },
+    "11014": {
+      "regular": 24.04,
+      "premium": 29.25,
+      "diesel": 27.0,
+      "stations": 11
+    },
+    "11015": {
+      "regular": 23.91,
+      "premium": 29.75,
+      "diesel": 27.1,
+      "stations": 19
+    },
+    "11016": {
+      "regular": 23.99,
+      "premium": 28.85,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "11017": {
+      "regular": 23.98,
+      "premium": 29.5,
+      "diesel": 27.06,
+      "stations": 83
+    },
+    "11018": {
+      "regular": 23.98,
+      "premium": 28.75,
+      "diesel": 27.17,
+      "stations": 5
+    },
+    "11019": {
+      "regular": 23.51,
+      "premium": 28.37,
+      "diesel": 26.88,
+      "stations": 5
+    },
+    "11020": {
+      "regular": 23.83,
+      "premium": 29.41,
+      "diesel": 26.97,
+      "stations": 180
+    },
+    "11021": {
+      "regular": 24.02,
+      "premium": 28.85,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "11022": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "11023": {
+      "regular": 23.86,
+      "premium": 29.49,
+      "diesel": 26.99,
+      "stations": 18
+    },
+    "11024": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "11025": {
+      "regular": 23.99,
+      "premium": 29.95,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "11026": {
+      "regular": 23.99,
+      "premium": 29.43,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "11027": {
+      "regular": 23.85,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 45
+    },
+    "11028": {
+      "regular": 23.96,
+      "premium": 28.88,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "11029": {
+      "regular": 24.32,
+      "premium": 28.4,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "11030": {
+      "regular": 23.92,
+      "premium": 29.11,
+      "diesel": 27.05,
+      "stations": 10
+    },
+    "11031": {
+      "regular": 23.91,
+      "premium": 29.7,
+      "diesel": 27.0,
+      "stations": 17
+    },
+    "11032": {
+      "regular": 23.82,
+      "premium": 28.71,
+      "diesel": 27.0,
+      "stations": 20
+    },
+    "11033": {
+      "regular": 23.66,
+      "premium": 28.49,
+      "diesel": 26.97,
+      "stations": 17
+    },
+    "11034": {
+      "regular": 23.45,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "11035": {
+      "regular": 23.82,
+      "premium": 29.24,
+      "diesel": 27.16,
+      "stations": 6
+    },
+    "11036": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "11037": {
+      "regular": 24.01,
+      "premium": 29.73,
+      "diesel": 27.03,
+      "stations": 26
+    },
+    "11038": {
+      "regular": 23.99,
+      "premium": 29.0,
+      "diesel": 28.14,
+      "stations": 2
+    },
+    "11039": {
+      "regular": 23.33,
+      "premium": 28.13,
+      "diesel": 26.76,
+      "stations": 6
+    },
+    "11041": {
+      "regular": 23.71,
+      "premium": 28.68,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "11042": {
+      "regular": 23.99,
+      "premium": 29.36,
+      "diesel": 26.98,
+      "stations": 12
+    },
+    "11043": {
+      "regular": 23.35,
+      "premium": null,
+      "diesel": 26.9,
+      "stations": 2
+    },
+    "11044": {
+      "regular": 23.9,
+      "premium": 29.09,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "11046": {
+      "regular": 23.99,
+      "premium": 28.92,
+      "diesel": 27.14,
+      "stations": 9
+    },
+    "12001": {
+      "regular": 23.61,
+      "premium": 28.64,
+      "diesel": 26.99,
+      "stations": 74
+    },
+    "12002": {
+      "regular": 23.99,
+      "premium": 29.0,
+      "diesel": 27.55,
+      "stations": 1
+    },
+    "12003": {
+      "regular": 23.99,
+      "premium": 29.35,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12006": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.43,
+      "stations": 1
+    },
+    "12007": {
+      "regular": 23.99,
+      "premium": 29.35,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "12008": {
+      "regular": 23.99,
+      "premium": 28.85,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12011": {
+      "regular": 23.99,
+      "premium": 29.06,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "12012": {
+      "regular": 23.99,
+      "premium": 29.41,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "12013": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "12015": {
+      "regular": 23.99,
+      "premium": 28.7,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "12016": {
+      "regular": 23.99,
+      "premium": 28.5,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "12017": {
+      "regular": 23.99,
+      "premium": 29.29,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12018": {
+      "regular": 23.99,
+      "premium": 29.85,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "12020": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.1,
+      "stations": 1
+    },
+    "12021": {
+      "regular": 23.9,
+      "premium": 28.62,
+      "diesel": 27.02,
+      "stations": 4
+    },
+    "12022": {
+      "regular": 23.99,
+      "premium": 29.35,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12023": {
+      "regular": 23.99,
+      "premium": 30.19,
+      "diesel": 27.79,
+      "stations": 3
+    },
+    "12027": {
+      "regular": 23.93,
+      "premium": 29.03,
+      "diesel": 26.95,
+      "stations": 3
+    },
+    "12028": {
+      "regular": 23.99,
+      "premium": 28.95,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "12029": {
+      "regular": 23.97,
+      "premium": 28.61,
+      "diesel": 27.0,
+      "stations": 29
+    },
+    "12030": {
+      "regular": 23.98,
+      "premium": 30.25,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "12032": {
+      "regular": 24.38,
+      "premium": null,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "12033": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12034": {
+      "regular": 23.98,
+      "premium": 28.98,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "12035": {
+      "regular": 23.96,
+      "premium": 29.31,
+      "diesel": 27.0,
+      "stations": 18
+    },
+    "12036": {
+      "regular": 23.99,
+      "premium": 29.45,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "12038": {
+      "regular": 23.88,
+      "premium": 28.58,
+      "diesel": 27.35,
+      "stations": 12
+    },
+    "12039": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12040": {
+      "regular": 23.99,
+      "premium": 29.25,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12045": {
+      "regular": 23.97,
+      "premium": 28.89,
+      "diesel": 27.15,
+      "stations": 2
+    },
+    "12046": {
+      "regular": 23.99,
+      "premium": 29.61,
+      "diesel": 27.08,
+      "stations": 9
+    },
+    "12048": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "12050": {
+      "regular": 24.07,
+      "premium": 29.22,
+      "diesel": 27.1,
+      "stations": 5
+    },
+    "12051": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 26.8,
+      "stations": 1
+    },
+    "12052": {
+      "regular": 23.99,
+      "premium": 30.09,
+      "diesel": 27.56,
+      "stations": 3
+    },
+    "12053": {
+      "regular": 23.96,
+      "premium": 28.87,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "12055": {
+      "regular": 23.99,
+      "premium": 29.09,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "12056": {
+      "regular": 23.99,
+      "premium": 29.55,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "12057": {
+      "regular": 23.95,
+      "premium": 28.9,
+      "diesel": 27.38,
+      "stations": 9
+    },
+    "12058": {
+      "regular": null,
+      "premium": 29.4,
+      "diesel": 27.4,
+      "stations": 4
+    },
+    "12059": {
+      "regular": 23.95,
+      "premium": 29.25,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "12061": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "12062": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "12064": {
+      "regular": 23.99,
+      "premium": 29.15,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12065": {
+      "regular": 23.99,
+      "premium": 30.6,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12066": {
+      "regular": 23.96,
+      "premium": 29.0,
+      "diesel": 27.04,
+      "stations": 6
+    },
+    "12067": {
+      "regular": 23.99,
+      "premium": 29.15,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12068": {
+      "regular": 23.68,
+      "premium": 28.21,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "12069": {
+      "regular": 23.99,
+      "premium": 29.4,
+      "diesel": 27.3,
+      "stations": 1
+    },
+    "12070": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "12071": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "12073": {
+      "regular": 23.99,
+      "premium": 29.04,
+      "diesel": 28.28,
+      "stations": 1
+    },
+    "12075": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "12077": {
+      "regular": 23.99,
+      "premium": 29.97,
+      "diesel": 27.09,
+      "stations": 2
+    },
+    "12080": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "12082": {
+      "regular": 23.99,
+      "premium": 30.19,
+      "diesel": 27.09,
+      "stations": 1
+    },
+    "12085": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "13001": {
+      "regular": 23.77,
+      "premium": 27.88,
+      "diesel": 26.97,
+      "stations": 2
+    },
+    "13002": {
+      "regular": 23.84,
+      "premium": 27.86,
+      "diesel": 26.98,
+      "stations": 4
+    },
+    "13003": {
+      "regular": 23.92,
+      "premium": 28.31,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "13004": {
+      "regular": 23.77,
+      "premium": 27.92,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "13005": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13006": {
+      "regular": 23.79,
+      "premium": 28.23,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "13007": {
+      "regular": 23.99,
+      "premium": 28.07,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "13008": {
+      "regular": 23.96,
+      "premium": 27.76,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "13009": {
+      "regular": 23.94,
+      "premium": 28.49,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "13010": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "13011": {
+      "regular": 23.99,
+      "premium": 28.07,
+      "diesel": 27.1,
+      "stations": 2
+    },
+    "13012": {
+      "regular": 23.82,
+      "premium": 28.39,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "13013": {
+      "regular": 23.73,
+      "premium": 28.73,
+      "diesel": 26.97,
+      "stations": 9
+    },
+    "13014": {
+      "regular": 24.5,
+      "premium": 29.34,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13015": {
+      "regular": 23.89,
+      "premium": 28.34,
+      "diesel": 27.3,
+      "stations": 2
+    },
+    "13016": {
+      "regular": 23.97,
+      "premium": 27.69,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "13017": {
+      "regular": 23.99,
+      "premium": 28.15,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13018": {
+      "regular": 23.99,
+      "premium": 28.92,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "13019": {
+      "regular": 23.16,
+      "premium": 27.88,
+      "diesel": 26.84,
+      "stations": 2
+    },
+    "13020": {
+      "regular": 23.97,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13021": {
+      "regular": 23.95,
+      "premium": 27.89,
+      "diesel": 26.96,
+      "stations": 1
+    },
+    "13022": {
+      "regular": 23.56,
+      "premium": 27.8,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "13023": {
+      "regular": 23.42,
+      "premium": 28.19,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "13024": {
+      "regular": 24.16,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "13028": {
+      "regular": 23.88,
+      "premium": 27.5,
+      "diesel": 26.86,
+      "stations": 9
+    },
+    "13029": {
+      "regular": 23.84,
+      "premium": 28.29,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "13030": {
+      "regular": 23.64,
+      "premium": 28.03,
+      "diesel": 26.99,
+      "stations": 8
+    },
+    "13031": {
+      "regular": 23.99,
+      "premium": 28.9,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "13032": {
+      "regular": 23.9,
+      "premium": 27.3,
+      "diesel": 27.89,
+      "stations": 1
+    },
+    "13034": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13035": {
+      "regular": 23.78,
+      "premium": 28.1,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "13036": {
+      "regular": 24.0,
+      "premium": 28.8,
+      "diesel": 27.05,
+      "stations": 2
+    },
+    "13037": {
+      "regular": 23.99,
+      "premium": 28.4,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "13039": {
+      "regular": 22.99,
+      "premium": 27.49,
+      "diesel": 26.85,
+      "stations": 1
+    },
+    "13041": {
+      "regular": 23.44,
+      "premium": 27.82,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "13042": {
+      "regular": 23.98,
+      "premium": 29.09,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "13044": {
+      "regular": 23.98,
+      "premium": 28.09,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "13045": {
+      "regular": 23.99,
+      "premium": 28.39,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "13046": {
+      "regular": 23.9,
+      "premium": null,
+      "diesel": 26.97,
+      "stations": 2
+    },
+    "13048": {
+      "regular": 23.34,
+      "premium": 28.07,
+      "diesel": 26.99,
+      "stations": 40
+    },
+    "13050": {
+      "regular": 23.32,
+      "premium": 27.73,
+      "diesel": 26.98,
+      "stations": 5
+    },
+    "13051": {
+      "regular": 23.41,
+      "premium": 27.88,
+      "diesel": 26.95,
+      "stations": 30
+    },
+    "13052": {
+      "regular": 23.43,
+      "premium": 28.16,
+      "diesel": 26.96,
+      "stations": 7
+    },
+    "13054": {
+      "regular": 23.74,
+      "premium": 28.44,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "13055": {
+      "regular": 23.78,
+      "premium": 27.75,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13056": {
+      "regular": 23.63,
+      "premium": 28.12,
+      "diesel": 26.92,
+      "stations": 5
+    },
+    "13057": {
+      "regular": 23.73,
+      "premium": 27.64,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "13058": {
+      "regular": 23.62,
+      "premium": 28.2,
+      "diesel": 27.18,
+      "stations": 3
+    },
+    "13059": {
+      "regular": 23.99,
+      "premium": 28.15,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "13060": {
+      "regular": 23.8,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13061": {
+      "regular": 23.88,
+      "premium": 28.26,
+      "diesel": 26.98,
+      "stations": 5
+    },
+    "13063": {
+      "regular": 23.72,
+      "premium": 28.18,
+      "diesel": 26.99,
+      "stations": 9
+    },
+    "13064": {
+      "regular": 22.99,
+      "premium": 27.69,
+      "diesel": 26.79,
+      "stations": 1
+    },
+    "13065": {
+      "regular": 23.99,
+      "premium": 28.39,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "13066": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "13067": {
+      "regular": 23.55,
+      "premium": 28.17,
+      "diesel": 26.93,
+      "stations": 5
+    },
+    "13069": {
+      "regular": 23.85,
+      "premium": 28.36,
+      "diesel": 26.99,
+      "stations": 16
+    },
+    "13070": {
+      "regular": 23.24,
+      "premium": 27.85,
+      "diesel": 26.86,
+      "stations": 2
+    },
+    "13072": {
+      "regular": 23.79,
+      "premium": 28.64,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "13073": {
+      "regular": 23.99,
+      "premium": 28.39,
+      "diesel": 27.89,
+      "stations": 1
+    },
+    "13074": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "13075": {
+      "regular": 23.62,
+      "premium": 28.09,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "13076": {
+      "regular": 23.76,
+      "premium": 28.32,
+      "diesel": 26.99,
+      "stations": 15
+    },
+    "13077": {
+      "regular": 23.78,
+      "premium": 28.05,
+      "diesel": 26.97,
+      "stations": 29
+    },
+    "13081": {
+      "regular": 23.96,
+      "premium": 29.2,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "13082": {
+      "regular": 24.03,
+      "premium": 28.83,
+      "diesel": 26.93,
+      "stations": 5
+    },
+    "13083": {
+      "regular": 23.58,
+      "premium": 28.02,
+      "diesel": 26.96,
+      "stations": 8
+    },
+    "13084": {
+      "regular": 24.16,
+      "premium": 29.27,
+      "diesel": 27.38,
+      "stations": 4
+    },
+    "14001": {
+      "regular": 23.92,
+      "premium": 29.22,
+      "diesel": 26.93,
+      "stations": 6
+    },
+    "14002": {
+      "regular": 23.86,
+      "premium": 29.74,
+      "diesel": 27.16,
+      "stations": 8
+    },
+    "14005": {
+      "regular": 23.99,
+      "premium": 29.86,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "14006": {
+      "regular": 24.0,
+      "premium": 29.95,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "14007": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14008": {
+      "regular": 23.87,
+      "premium": 28.84,
+      "diesel": 27.19,
+      "stations": 17
+    },
+    "14009": {
+      "regular": 25.65,
+      "premium": 29.08,
+      "diesel": 25.97,
+      "stations": 3
+    },
+    "14010": {
+      "regular": 24.0,
+      "premium": 29.39,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14011": {
+      "regular": 24.49,
+      "premium": null,
+      "diesel": 27.49,
+      "stations": 1
+    },
+    "14012": {
+      "regular": 23.99,
+      "premium": 29.04,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14013": {
+      "regular": 24.09,
+      "premium": 29.4,
+      "diesel": 27.06,
+      "stations": 10
+    },
+    "14015": {
+      "regular": 24.08,
+      "premium": 29.83,
+      "diesel": 27.05,
+      "stations": 8
+    },
+    "14016": {
+      "regular": 23.95,
+      "premium": 29.64,
+      "diesel": 27.54,
+      "stations": 5
+    },
+    "14017": {
+      "regular": 24.0,
+      "premium": 29.9,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14018": {
+      "regular": 23.86,
+      "premium": 29.48,
+      "diesel": 27.0,
+      "stations": 12
+    },
+    "14019": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "14020": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14021": {
+      "regular": 24.16,
+      "premium": 29.78,
+      "diesel": 27.12,
+      "stations": 3
+    },
+    "14022": {
+      "regular": 23.98,
+      "premium": 28.9,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "14023": {
+      "regular": 24.0,
+      "premium": 29.9,
+      "diesel": 27.07,
+      "stations": 14
+    },
+    "14024": {
+      "regular": 23.99,
+      "premium": 29.82,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "14025": {
+      "regular": 23.95,
+      "premium": 28.95,
+      "diesel": 27.44,
+      "stations": 2
+    },
+    "14026": {
+      "regular": 24.3,
+      "premium": null,
+      "diesel": 27.39,
+      "stations": 1
+    },
+    "14029": {
+      "regular": 23.94,
+      "premium": 29.98,
+      "diesel": 26.97,
+      "stations": 3
+    },
+    "14030": {
+      "regular": 23.97,
+      "premium": 29.66,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "14032": {
+      "regular": 24.8,
+      "premium": null,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "14033": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "14035": {
+      "regular": 23.98,
+      "premium": 29.06,
+      "diesel": 26.99,
+      "stations": 10
+    },
+    "14036": {
+      "regular": 23.98,
+      "premium": 29.3,
+      "diesel": 26.95,
+      "stations": 2
+    },
+    "14037": {
+      "regular": 24.16,
+      "premium": 29.94,
+      "diesel": 27.17,
+      "stations": 3
+    },
+    "14039": {
+      "regular": 23.93,
+      "premium": 29.38,
+      "diesel": 26.94,
+      "stations": 145
+    },
+    "14041": {
+      "regular": 23.99,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "14042": {
+      "regular": 23.99,
+      "premium": 28.5,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "14043": {
+      "regular": 23.99,
+      "premium": 29.72,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "14044": {
+      "regular": 23.98,
+      "premium": 28.51,
+      "diesel": 26.75,
+      "stations": 6
+    },
+    "14045": {
+      "regular": 24.14,
+      "premium": 29.97,
+      "diesel": 27.41,
+      "stations": 6
+    },
+    "14046": {
+      "regular": 23.93,
+      "premium": 28.62,
+      "diesel": 26.98,
+      "stations": 7
+    },
+    "14047": {
+      "regular": 23.87,
+      "premium": 29.66,
+      "diesel": 26.94,
+      "stations": 5
+    },
+    "14048": {
+      "regular": 23.81,
+      "premium": 28.8,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "14049": {
+      "regular": 24.97,
+      "premium": 29.99,
+      "diesel": 28.4,
+      "stations": 2
+    },
+    "14050": {
+      "regular": 23.94,
+      "premium": 29.44,
+      "diesel": 26.97,
+      "stations": 9
+    },
+    "14051": {
+      "regular": 23.99,
+      "premium": 29.46,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "14052": {
+      "regular": 24.45,
+      "premium": 29.95,
+      "diesel": 27.45,
+      "stations": 2
+    },
+    "14053": {
+      "regular": 24.01,
+      "premium": 29.4,
+      "diesel": 27.02,
+      "stations": 30
+    },
+    "14054": {
+      "regular": 24.25,
+      "premium": 29.48,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "14055": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "14057": {
+      "regular": 24.0,
+      "premium": 29.98,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "14058": {
+      "regular": 25.49,
+      "premium": 31.32,
+      "diesel": 28.54,
+      "stations": 2
+    },
+    "14059": {
+      "regular": 23.99,
+      "premium": 29.84,
+      "diesel": 27.25,
+      "stations": 2
+    },
+    "14060": {
+      "regular": 23.79,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "14061": {
+      "regular": 24.0,
+      "premium": 29.0,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14062": {
+      "regular": 24.29,
+      "premium": 29.98,
+      "diesel": 28.49,
+      "stations": 1
+    },
+    "14063": {
+      "regular": 24.17,
+      "premium": 29.66,
+      "diesel": 27.31,
+      "stations": 11
+    },
+    "14064": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "14065": {
+      "regular": 23.99,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14066": {
+      "regular": 23.95,
+      "premium": 29.79,
+      "diesel": 27.34,
+      "stations": 8
+    },
+    "14067": {
+      "regular": 24.47,
+      "premium": 29.75,
+      "diesel": 27.48,
+      "stations": 40
+    },
+    "14068": {
+      "regular": 24.0,
+      "premium": 29.8,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14069": {
+      "regular": 24.6,
+      "premium": 29.8,
+      "diesel": 28.35,
+      "stations": 2
+    },
+    "14070": {
+      "regular": 23.91,
+      "premium": 29.58,
+      "diesel": 27.0,
+      "stations": 23
+    },
+    "14071": {
+      "regular": 23.99,
+      "premium": 29.27,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "14072": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14073": {
+      "regular": 23.99,
+      "premium": 28.66,
+      "diesel": 26.99,
+      "stations": 14
+    },
+    "14074": {
+      "regular": null,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "14076": {
+      "regular": 24.1,
+      "premium": 29.99,
+      "diesel": 28.89,
+      "stations": 1
+    },
+    "14077": {
+      "regular": 24.0,
+      "premium": 29.51,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "14078": {
+      "regular": 23.99,
+      "premium": 29.39,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "14079": {
+      "regular": 23.99,
+      "premium": 29.8,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "14080": {
+      "regular": 24.99,
+      "premium": 29.99,
+      "diesel": 29.4,
+      "stations": 1
+    },
+    "14081": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.6,
+      "stations": 1
+    },
+    "14082": {
+      "regular": 23.99,
+      "premium": 29.46,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "14083": {
+      "regular": 24.18,
+      "premium": 29.42,
+      "diesel": 26.99,
+      "stations": 11
+    },
+    "14084": {
+      "regular": 24.93,
+      "premium": 30.5,
+      "diesel": 28.94,
+      "stations": 2
+    },
+    "14085": {
+      "regular": 25.19,
+      "premium": 29.32,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "14086": {
+      "regular": 23.99,
+      "premium": 29.65,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "14087": {
+      "regular": 23.99,
+      "premium": 29.93,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "14088": {
+      "regular": 24.32,
+      "premium": 29.96,
+      "diesel": 27.33,
+      "stations": 3
+    },
+    "14089": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14090": {
+      "regular": 24.0,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "14091": {
+      "regular": 23.99,
+      "premium": 29.03,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "14092": {
+      "regular": 24.0,
+      "premium": 29.88,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14093": {
+      "regular": 23.89,
+      "premium": 29.15,
+      "diesel": 27.05,
+      "stations": 36
+    },
+    "14094": {
+      "regular": 24.11,
+      "premium": 29.69,
+      "diesel": 27.46,
+      "stations": 4
+    },
+    "14095": {
+      "regular": 23.88,
+      "premium": 29.37,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "14096": {
+      "regular": 23.99,
+      "premium": 29.74,
+      "diesel": 27.49,
+      "stations": 2
+    },
+    "14097": {
+      "regular": 23.93,
+      "premium": 29.36,
+      "diesel": 27.0,
+      "stations": 74
+    },
+    "14098": {
+      "regular": 23.87,
+      "premium": 29.27,
+      "diesel": 27.03,
+      "stations": 66
+    },
+    "14099": {
+      "regular": 24.5,
+      "premium": 29.99,
+      "diesel": 27.59,
+      "stations": 1
+    },
+    "14100": {
+      "regular": 23.99,
+      "premium": 29.45,
+      "diesel": 27.48,
+      "stations": 4
+    },
+    "14101": {
+      "regular": 23.93,
+      "premium": 29.39,
+      "diesel": 26.97,
+      "stations": 55
+    },
+    "14102": {
+      "regular": 24.0,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14103": {
+      "regular": 23.85,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14104": {
+      "regular": 23.99,
+      "premium": 29.0,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14105": {
+      "regular": 23.99,
+      "premium": 29.94,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "14106": {
+      "regular": 24.39,
+      "premium": 29.99,
+      "diesel": 27.59,
+      "stations": 1
+    },
+    "14107": {
+      "regular": 23.99,
+      "premium": 29.56,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "14108": {
+      "regular": 23.99,
+      "premium": 29.93,
+      "diesel": 27.2,
+      "stations": 5
+    },
+    "14109": {
+      "regular": 23.99,
+      "premium": 29.19,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "14110": {
+      "regular": 24.24,
+      "premium": 29.96,
+      "diesel": 27.16,
+      "stations": 3
+    },
+    "14111": {
+      "regular": 24.49,
+      "premium": 29.61,
+      "diesel": 27.31,
+      "stations": 2
+    },
+    "14112": {
+      "regular": 24.4,
+      "premium": 29.8,
+      "diesel": 27.52,
+      "stations": 2
+    },
+    "14113": {
+      "regular": 24.33,
+      "premium": 29.96,
+      "diesel": 27.39,
+      "stations": 3
+    },
+    "14114": {
+      "regular": 23.53,
+      "premium": 29.18,
+      "diesel": 26.95,
+      "stations": 3
+    },
+    "14115": {
+      "regular": 23.99,
+      "premium": 29.0,
+      "diesel": 27.46,
+      "stations": 1
+    },
+    "14116": {
+      "regular": 24.0,
+      "premium": 29.03,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "14117": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "14118": {
+      "regular": 23.99,
+      "premium": 29.56,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "14119": {
+      "regular": 24.0,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14120": {
+      "regular": 23.93,
+      "premium": 29.47,
+      "diesel": 27.02,
+      "stations": 122
+    },
+    "14121": {
+      "regular": 24.0,
+      "premium": 29.92,
+      "diesel": 27.1,
+      "stations": 6
+    },
+    "14122": {
+      "regular": 23.99,
+      "premium": 29.78,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "14123": {
+      "regular": 23.99,
+      "premium": 29.86,
+      "diesel": 27.1,
+      "stations": 3
+    },
+    "14124": {
+      "regular": 23.96,
+      "premium": 29.44,
+      "diesel": 26.99,
+      "stations": 16
+    },
+    "14125": {
+      "regular": 23.92,
+      "premium": 28.61,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "15001": {
+      "regular": 23.99,
+      "premium": 28.72,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "15002": {
+      "regular": 23.84,
+      "premium": 28.56,
+      "diesel": 27.04,
+      "stations": 14
+    },
+    "15003": {
+      "regular": 23.97,
+      "premium": 28.56,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "15004": {
+      "regular": 24.09,
+      "premium": 28.99,
+      "diesel": 27.04,
+      "stations": 2
+    },
+    "15005": {
+      "regular": 23.87,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 17
+    },
+    "15007": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "15008": {
+      "regular": 23.98,
+      "premium": 27.7,
+      "diesel": 27.3,
+      "stations": 2
+    },
+    "15009": {
+      "regular": 24.06,
+      "premium": 28.48,
+      "diesel": 27.21,
+      "stations": 6
+    },
+    "15010": {
+      "regular": 23.98,
+      "premium": 28.46,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "15011": {
+      "regular": 23.84,
+      "premium": 28.32,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "15012": {
+      "regular": 23.96,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "15013": {
+      "regular": 23.77,
+      "premium": 28.73,
+      "diesel": 26.98,
+      "stations": 33
+    },
+    "15014": {
+      "regular": 23.76,
+      "premium": 28.59,
+      "diesel": 26.79,
+      "stations": 21
+    },
+    "15015": {
+      "regular": 23.49,
+      "premium": 27.99,
+      "diesel": 26.9,
+      "stations": 1
+    },
+    "15016": {
+      "regular": 24.12,
+      "premium": 28.73,
+      "diesel": 27.06,
+      "stations": 6
+    },
+    "15017": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15018": {
+      "regular": 23.89,
+      "premium": 28.48,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "15019": {
+      "regular": 23.99,
+      "premium": 28.39,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "15020": {
+      "regular": 23.84,
+      "premium": 28.69,
+      "diesel": 26.99,
+      "stations": 16
+    },
+    "15021": {
+      "regular": 24.46,
+      "premium": 29.31,
+      "diesel": 27.99,
+      "stations": 4
+    },
+    "15022": {
+      "regular": 23.43,
+      "premium": 27.73,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "15023": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "15024": {
+      "regular": 23.43,
+      "premium": 28.32,
+      "diesel": 26.8,
+      "stations": 20
+    },
+    "15025": {
+      "regular": 23.19,
+      "premium": 27.72,
+      "diesel": 26.77,
+      "stations": 49
+    },
+    "15026": {
+      "regular": 23.64,
+      "premium": 28.09,
+      "diesel": 26.89,
+      "stations": 2
+    },
+    "15027": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "15028": {
+      "regular": 24.69,
+      "premium": 28.2,
+      "diesel": null,
+      "stations": 2
+    },
+    "15029": {
+      "regular": 23.17,
+      "premium": 27.96,
+      "diesel": 26.9,
+      "stations": 16
+    },
+    "15031": {
+      "regular": 23.59,
+      "premium": 27.93,
+      "diesel": 26.97,
+      "stations": 20
+    },
+    "15032": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "15033": {
+      "regular": 23.76,
+      "premium": 28.61,
+      "diesel": 27.01,
+      "stations": 101
+    },
+    "15035": {
+      "regular": 23.94,
+      "premium": 28.41,
+      "diesel": 26.99,
+      "stations": 10
+    },
+    "15036": {
+      "regular": 23.99,
+      "premium": 28.49,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "15037": {
+      "regular": 23.96,
+      "premium": 29.6,
+      "diesel": 27.0,
+      "stations": 22
+    },
+    "15039": {
+      "regular": 23.66,
+      "premium": 28.21,
+      "diesel": 26.98,
+      "stations": 27
+    },
+    "15040": {
+      "regular": 23.89,
+      "premium": 28.69,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "15042": {
+      "regular": 23.73,
+      "premium": 28.25,
+      "diesel": 26.96,
+      "stations": 11
+    },
+    "15043": {
+      "regular": 23.97,
+      "premium": 28.36,
+      "diesel": 27.06,
+      "stations": 3
+    },
+    "15044": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": null,
+      "stations": 1
+    },
+    "15045": {
+      "regular": 23.84,
+      "premium": 28.17,
+      "diesel": 26.98,
+      "stations": 14
+    },
+    "15046": {
+      "regular": 23.99,
+      "premium": 28.97,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15047": {
+      "regular": 23.85,
+      "premium": 28.25,
+      "diesel": 26.85,
+      "stations": 5
+    },
+    "15048": {
+      "regular": 23.62,
+      "premium": 28.18,
+      "diesel": 26.97,
+      "stations": 10
+    },
+    "15049": {
+      "regular": 23.98,
+      "premium": 28.2,
+      "diesel": 27.09,
+      "stations": 2
+    },
+    "15050": {
+      "regular": 23.99,
+      "premium": 28.49,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15051": {
+      "regular": 23.71,
+      "premium": 28.33,
+      "diesel": 26.99,
+      "stations": 12
+    },
+    "15052": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15053": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "15054": {
+      "regular": 23.6,
+      "premium": 28.39,
+      "diesel": 26.99,
+      "stations": 33
+    },
+    "15055": {
+      "regular": 23.42,
+      "premium": 27.78,
+      "diesel": 26.83,
+      "stations": 3
+    },
+    "15056": {
+      "regular": 23.95,
+      "premium": 28.29,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "15057": {
+      "regular": 23.9,
+      "premium": 28.46,
+      "diesel": 26.97,
+      "stations": 30
+    },
+    "15058": {
+      "regular": 23.47,
+      "premium": 28.02,
+      "diesel": 26.98,
+      "stations": 46
+    },
+    "15059": {
+      "regular": 23.67,
+      "premium": 28.35,
+      "diesel": 26.89,
+      "stations": 8
+    },
+    "15060": {
+      "regular": 23.81,
+      "premium": 28.36,
+      "diesel": 26.97,
+      "stations": 19
+    },
+    "15062": {
+      "regular": 23.95,
+      "premium": 29.08,
+      "diesel": 26.96,
+      "stations": 12
+    },
+    "15063": {
+      "regular": 23.96,
+      "premium": 28.13,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "15064": {
+      "regular": 23.96,
+      "premium": 27.99,
+      "diesel": 26.95,
+      "stations": 2
+    },
+    "15065": {
+      "regular": 23.99,
+      "premium": 28.1,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "15067": {
+      "regular": 23.63,
+      "premium": 28.04,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "15068": {
+      "regular": 23.74,
+      "premium": 28.21,
+      "diesel": 26.96,
+      "stations": 3
+    },
+    "15070": {
+      "regular": 23.61,
+      "premium": 28.26,
+      "diesel": 26.95,
+      "stations": 18
+    },
+    "15071": {
+      "regular": 23.99,
+      "premium": 28.53,
+      "diesel": 27.12,
+      "stations": 7
+    },
+    "15072": {
+      "regular": 23.91,
+      "premium": 28.64,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "15073": {
+      "regular": 23.99,
+      "premium": 24.99,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "15074": {
+      "regular": 23.96,
+      "premium": 28.11,
+      "diesel": 26.99,
+      "stations": 10
+    },
+    "15075": {
+      "regular": 23.66,
+      "premium": 28.28,
+      "diesel": 27.03,
+      "stations": 4
+    },
+    "15076": {
+      "regular": 23.58,
+      "premium": 28.36,
+      "diesel": 27.04,
+      "stations": 23
+    },
+    "15078": {
+      "regular": 23.99,
+      "premium": 29.89,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15079": {
+      "regular": 23.78,
+      "premium": 28.44,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "15080": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15081": {
+      "regular": 23.75,
+      "premium": 28.36,
+      "diesel": 26.98,
+      "stations": 58
+    },
+    "15082": {
+      "regular": 23.98,
+      "premium": 28.95,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "15083": {
+      "regular": 23.29,
+      "premium": 27.79,
+      "diesel": 26.85,
+      "stations": 1
+    },
+    "15084": {
+      "regular": 23.86,
+      "premium": 28.14,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "15085": {
+      "regular": 23.99,
+      "premium": 28.42,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "15086": {
+      "regular": null,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "15087": {
+      "regular": 23.96,
+      "premium": 28.2,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "15088": {
+      "regular": 24.11,
+      "premium": 29.13,
+      "diesel": 26.99,
+      "stations": 8
+    },
+    "15090": {
+      "regular": 23.93,
+      "premium": 28.96,
+      "diesel": 26.99,
+      "stations": 8
+    },
+    "15091": {
+      "regular": 23.54,
+      "premium": 26.38,
+      "diesel": 26.09,
+      "stations": 5
+    },
+    "15092": {
+      "regular": 23.67,
+      "premium": 28.22,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "15093": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "15094": {
+      "regular": 23.99,
+      "premium": 28.24,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "15095": {
+      "regular": 23.95,
+      "premium": 28.62,
+      "diesel": 26.99,
+      "stations": 13
+    },
+    "15096": {
+      "regular": 23.98,
+      "premium": 28.28,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "15097": {
+      "regular": 23.99,
+      "premium": 28.9,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15098": {
+      "regular": 23.98,
+      "premium": 28.3,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "15099": {
+      "regular": 23.85,
+      "premium": 28.38,
+      "diesel": 26.98,
+      "stations": 19
+    },
+    "15100": {
+      "regular": 23.91,
+      "premium": 28.72,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "15101": {
+      "regular": 23.92,
+      "premium": 28.09,
+      "diesel": 27.0,
+      "stations": 9
+    },
+    "15102": {
+      "regular": 23.98,
+      "premium": 28.35,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "15103": {
+      "regular": 24.34,
+      "premium": 28.54,
+      "diesel": 27.09,
+      "stations": 3
+    },
+    "15104": {
+      "regular": 23.9,
+      "premium": 28.95,
+      "diesel": 27.01,
+      "stations": 57
+    },
+    "15105": {
+      "regular": 23.99,
+      "premium": 29.4,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "15106": {
+      "regular": 23.43,
+      "premium": 28.4,
+      "diesel": 26.95,
+      "stations": 107
+    },
+    "15107": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "15108": {
+      "regular": 24.04,
+      "premium": 29.0,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "15109": {
+      "regular": 23.84,
+      "premium": 28.75,
+      "diesel": 26.99,
+      "stations": 36
+    },
+    "15110": {
+      "regular": 23.92,
+      "premium": 28.38,
+      "diesel": 26.73,
+      "stations": 7
+    },
+    "15111": {
+      "regular": 24.02,
+      "premium": 28.66,
+      "diesel": 27.02,
+      "stations": 3
+    },
+    "15112": {
+      "regular": 23.99,
+      "premium": 28.73,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "15113": {
+      "regular": 24.06,
+      "premium": 28.36,
+      "diesel": 27.24,
+      "stations": 8
+    },
+    "15114": {
+      "regular": 23.99,
+      "premium": 28.61,
+      "diesel": 26.95,
+      "stations": 5
+    },
+    "15115": {
+      "regular": 23.76,
+      "premium": 28.46,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "15116": {
+      "regular": 24.49,
+      "premium": 29.69,
+      "diesel": 27.49,
+      "stations": 1
+    },
+    "15117": {
+      "regular": 23.99,
+      "premium": 28.9,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15118": {
+      "regular": 23.91,
+      "premium": 28.57,
+      "diesel": 26.99,
+      "stations": 21
+    },
+    "15119": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "15120": {
+      "regular": 23.47,
+      "premium": 28.32,
+      "diesel": 27.0,
+      "stations": 21
+    },
+    "15121": {
+      "regular": 23.75,
+      "premium": 28.52,
+      "diesel": 26.97,
+      "stations": 43
+    },
+    "15122": {
+      "regular": 23.31,
+      "premium": 27.77,
+      "diesel": 26.91,
+      "stations": 22
+    },
+    "15123": {
+      "regular": 24.49,
+      "premium": 29.69,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "15124": {
+      "regular": 23.99,
+      "premium": 27.86,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "15125": {
+      "regular": 24.49,
+      "premium": 28.39,
+      "diesel": 26.89,
+      "stations": 1
+    },
+    "16001": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16002": {
+      "regular": 24.6,
+      "premium": 29.3,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16003": {
+      "regular": 23.99,
+      "premium": 29.44,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16004": {
+      "regular": 23.99,
+      "premium": 28.94,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16005": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16006": {
+      "regular": 24.93,
+      "premium": 29.94,
+      "diesel": 26.99,
+      "stations": 20
+    },
+    "16008": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16009": {
+      "regular": 24.59,
+      "premium": 29.56,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "16010": {
+      "regular": 24.0,
+      "premium": 28.3,
+      "diesel": 27.4,
+      "stations": 1
+    },
+    "16011": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16012": {
+      "regular": 24.99,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 14
+    },
+    "16014": {
+      "regular": 24.49,
+      "premium": 29.8,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "16015": {
+      "regular": 24.0,
+      "premium": 29.3,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "16016": {
+      "regular": 23.99,
+      "premium": 29.2,
+      "diesel": 27.06,
+      "stations": 3
+    },
+    "16017": {
+      "regular": 23.99,
+      "premium": 28.63,
+      "diesel": 26.98,
+      "stations": 5
+    },
+    "16018": {
+      "regular": 23.99,
+      "premium": 28.88,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "16019": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16020": {
+      "regular": 23.89,
+      "premium": 28.96,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16021": {
+      "regular": 23.9,
+      "premium": 28.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16022": {
+      "regular": 23.89,
+      "premium": 29.19,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "16023": {
+      "regular": 23.99,
+      "premium": 29.84,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16024": {
+      "regular": 23.99,
+      "premium": 29.5,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16025": {
+      "regular": 23.99,
+      "premium": 29.19,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16028": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.84,
+      "stations": 1
+    },
+    "16030": {
+      "regular": null,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16031": {
+      "regular": 22.54,
+      "premium": 28.99,
+      "diesel": 24.64,
+      "stations": 2
+    },
+    "16032": {
+      "regular": 23.98,
+      "premium": 28.87,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16033": {
+      "regular": 24.49,
+      "premium": 29.71,
+      "diesel": 26.95,
+      "stations": 5
+    },
+    "16034": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 26.98,
+      "stations": 17
+    },
+    "16035": {
+      "regular": 24.66,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "16036": {
+      "regular": 23.99,
+      "premium": 29.08,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16037": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16038": {
+      "regular": 23.99,
+      "premium": 29.04,
+      "diesel": 26.9,
+      "stations": 4
+    },
+    "16039": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16040": {
+      "regular": 23.99,
+      "premium": 29.21,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16041": {
+      "regular": 23.99,
+      "premium": 28.46,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "16042": {
+      "regular": 23.92,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16043": {
+      "regular": 23.97,
+      "premium": 29.92,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "16044": {
+      "regular": 23.84,
+      "premium": 29.02,
+      "diesel": 26.94,
+      "stations": 2
+    },
+    "16045": {
+      "regular": 24.54,
+      "premium": 29.62,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "16046": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16047": {
+      "regular": 23.99,
+      "premium": 29.34,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16048": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16049": {
+      "regular": 23.99,
+      "premium": 28.94,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16050": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 13
+    },
+    "16052": {
+      "regular": 23.48,
+      "premium": 28.02,
+      "diesel": 27.06,
+      "stations": 24
+    },
+    "16053": {
+      "regular": 23.72,
+      "premium": 28.8,
+      "diesel": 26.95,
+      "stations": 92
+    },
+    "16054": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16055": {
+      "regular": 24.79,
+      "premium": 29.9,
+      "diesel": 26.93,
+      "stations": 9
+    },
+    "16056": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16057": {
+      "regular": 24.45,
+      "premium": 29.0,
+      "diesel": 27.25,
+      "stations": 2
+    },
+    "16058": {
+      "regular": 23.34,
+      "premium": 28.09,
+      "diesel": 26.67,
+      "stations": 2
+    },
+    "16059": {
+      "regular": 23.85,
+      "premium": 28.83,
+      "diesel": 26.96,
+      "stations": 3
+    },
+    "16060": {
+      "regular": 23.88,
+      "premium": 28.98,
+      "diesel": 26.93,
+      "stations": 2
+    },
+    "16062": {
+      "regular": 24.61,
+      "premium": 29.0,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16063": {
+      "regular": 23.94,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16064": {
+      "regular": 23.9,
+      "premium": 29.34,
+      "diesel": 26.83,
+      "stations": 3
+    },
+    "16065": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16066": {
+      "regular": 23.93,
+      "premium": 28.89,
+      "diesel": 27.06,
+      "stations": 12
+    },
+    "16067": {
+      "regular": null,
+      "premium": 28.86,
+      "diesel": null,
+      "stations": 1
+    },
+    "16068": {
+      "regular": 23.82,
+      "premium": 29.32,
+      "diesel": 26.89,
+      "stations": 9
+    },
+    "16069": {
+      "regular": 23.77,
+      "premium": 28.67,
+      "diesel": 26.98,
+      "stations": 12
+    },
+    "16070": {
+      "regular": 23.99,
+      "premium": 29.39,
+      "diesel": 26.92,
+      "stations": 2
+    },
+    "16071": {
+      "regular": 23.99,
+      "premium": 28.63,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "16072": {
+      "regular": 23.99,
+      "premium": 29.44,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "16073": {
+      "regular": 23.99,
+      "premium": 28.67,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "16074": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.96,
+      "stations": 1
+    },
+    "16075": {
+      "regular": 23.99,
+      "premium": 29.44,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "16076": {
+      "regular": 24.71,
+      "premium": 29.81,
+      "diesel": 26.99,
+      "stations": 9
+    },
+    "16077": {
+      "regular": 23.97,
+      "premium": 29.11,
+      "diesel": 26.98,
+      "stations": 4
+    },
+    "16078": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16079": {
+      "regular": 23.99,
+      "premium": 27.95,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "16080": {
+      "regular": 24.0,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16082": {
+      "regular": 24.01,
+      "premium": 29.42,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "16083": {
+      "regular": 23.96,
+      "premium": 29.17,
+      "diesel": 27.14,
+      "stations": 7
+    },
+    "16084": {
+      "regular": 23.84,
+      "premium": 29.84,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16085": {
+      "regular": 23.95,
+      "premium": 29.02,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "16086": {
+      "regular": 23.98,
+      "premium": 29.49,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16087": {
+      "regular": 23.79,
+      "premium": 28.34,
+      "diesel": 26.94,
+      "stations": 3
+    },
+    "16088": {
+      "regular": 23.86,
+      "premium": 29.14,
+      "diesel": 27.0,
+      "stations": 11
+    },
+    "16089": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 26.97,
+      "stations": 6
+    },
+    "16090": {
+      "regular": 23.74,
+      "premium": 28.59,
+      "diesel": 26.78,
+      "stations": 2
+    },
+    "16091": {
+      "regular": 24.25,
+      "premium": 29.14,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16092": {
+      "regular": 24.62,
+      "premium": 29.01,
+      "diesel": 27.49,
+      "stations": 2
+    },
+    "16093": {
+      "regular": 23.92,
+      "premium": 27.99,
+      "diesel": 26.9,
+      "stations": 1
+    },
+    "16094": {
+      "regular": 24.0,
+      "premium": 29.3,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16095": {
+      "regular": 24.19,
+      "premium": 29.42,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "16096": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16097": {
+      "regular": 24.0,
+      "premium": 29.52,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "16098": {
+      "regular": 23.98,
+      "premium": 28.84,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "16099": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16100": {
+      "regular": 23.9,
+      "premium": 28.37,
+      "diesel": 26.94,
+      "stations": 2
+    },
+    "16101": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "16102": {
+      "regular": 23.54,
+      "premium": 28.51,
+      "diesel": 27.0,
+      "stations": 40
+    },
+    "16103": {
+      "regular": 24.25,
+      "premium": 29.37,
+      "diesel": 27.22,
+      "stations": 4
+    },
+    "16104": {
+      "regular": 24.45,
+      "premium": 29.89,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "16105": {
+      "regular": 23.99,
+      "premium": 29.63,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "16106": {
+      "regular": 24.1,
+      "premium": 29.6,
+      "diesel": 27.27,
+      "stations": 4
+    },
+    "16107": {
+      "regular": 23.96,
+      "premium": 29.02,
+      "diesel": 26.96,
+      "stations": 7
+    },
+    "16108": {
+      "regular": 23.89,
+      "premium": 29.48,
+      "diesel": 26.98,
+      "stations": 21
+    },
+    "16110": {
+      "regular": 23.85,
+      "premium": 29.08,
+      "diesel": 26.95,
+      "stations": 9
+    },
+    "16111": {
+      "regular": 23.56,
+      "premium": 28.52,
+      "diesel": 26.87,
+      "stations": 2
+    },
+    "16112": {
+      "regular": 23.92,
+      "premium": 28.47,
+      "diesel": 26.99,
+      "stations": 18
+    },
+    "16113": {
+      "regular": 23.99,
+      "premium": 28.98,
+      "diesel": 27.1,
+      "stations": 2
+    },
+    "17001": {
+      "regular": 23.99,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "17002": {
+      "regular": 23.51,
+      "premium": 28.08,
+      "diesel": 26.89,
+      "stations": 5
+    },
+    "17003": {
+      "regular": 23.99,
+      "premium": 28.39,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "17004": {
+      "regular": 23.75,
+      "premium": 28.22,
+      "diesel": 26.68,
+      "stations": 6
+    },
+    "17006": {
+      "regular": 23.82,
+      "premium": 28.3,
+      "diesel": 27.07,
+      "stations": 19
+    },
+    "17007": {
+      "regular": 23.71,
+      "premium": 28.34,
+      "diesel": 26.98,
+      "stations": 48
+    },
+    "17008": {
+      "regular": 23.82,
+      "premium": 28.7,
+      "diesel": 26.95,
+      "stations": 6
+    },
+    "17009": {
+      "regular": 23.98,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "17010": {
+      "regular": 23.55,
+      "premium": 27.9,
+      "diesel": 26.98,
+      "stations": 6
+    },
+    "17011": {
+      "regular": 23.74,
+      "premium": 28.53,
+      "diesel": 26.98,
+      "stations": 15
+    },
+    "17012": {
+      "regular": 23.96,
+      "premium": 29.11,
+      "diesel": 26.92,
+      "stations": 8
+    },
+    "17014": {
+      "regular": 23.99,
+      "premium": 28.9,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "17017": {
+      "regular": 23.99,
+      "premium": 28.71,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "17018": {
+      "regular": 23.81,
+      "premium": 28.83,
+      "diesel": 27.01,
+      "stations": 12
+    },
+    "17019": {
+      "regular": 23.86,
+      "premium": 28.01,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "17020": {
+      "regular": null,
+      "premium": 29.39,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "17021": {
+      "regular": 23.98,
+      "premium": 28.6,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "17022": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "17024": {
+      "regular": 23.98,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "17025": {
+      "regular": 23.99,
+      "premium": 29.29,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "17026": {
+      "regular": 23.6,
+      "premium": 27.7,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "17027": {
+      "regular": 23.89,
+      "premium": 28.2,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "17028": {
+      "regular": 23.69,
+      "premium": 28.49,
+      "diesel": 26.97,
+      "stations": 11
+    },
+    "17029": {
+      "regular": 23.64,
+      "premium": 28.16,
+      "diesel": 26.77,
+      "stations": 13
+    },
+    "17030": {
+      "regular": 23.99,
+      "premium": 28.69,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "17031": {
+      "regular": 23.98,
+      "premium": 29.03,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "17033": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "17035": {
+      "regular": 23.84,
+      "premium": 28.69,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "18001": {
+      "regular": 24.26,
+      "premium": 29.09,
+      "diesel": 27.41,
+      "stations": 6
+    },
+    "18002": {
+      "regular": 24.09,
+      "premium": 29.49,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "18003": {
+      "regular": 25.49,
+      "premium": 30.26,
+      "diesel": 28.87,
+      "stations": 2
+    },
+    "18004": {
+      "regular": 23.99,
+      "premium": 29.91,
+      "diesel": 27.08,
+      "stations": 12
+    },
+    "18006": {
+      "regular": 24.09,
+      "premium": 29.36,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "18007": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.49,
+      "stations": 1
+    },
+    "18008": {
+      "regular": 24.04,
+      "premium": 29.42,
+      "diesel": 27.19,
+      "stations": 8
+    },
+    "18010": {
+      "regular": 24.53,
+      "premium": 29.33,
+      "diesel": 27.45,
+      "stations": 4
+    },
+    "18011": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "18012": {
+      "regular": 24.48,
+      "premium": 29.33,
+      "diesel": 26.89,
+      "stations": 9
+    },
+    "18014": {
+      "regular": 24.41,
+      "premium": 29.67,
+      "diesel": 27.15,
+      "stations": 4
+    },
+    "18015": {
+      "regular": 24.5,
+      "premium": 29.52,
+      "diesel": 27.79,
+      "stations": 12
+    },
+    "18016": {
+      "regular": 24.23,
+      "premium": 29.09,
+      "diesel": 27.43,
+      "stations": 5
+    },
+    "18017": {
+      "regular": 23.73,
+      "premium": 29.42,
+      "diesel": 27.0,
+      "stations": 58
+    },
+    "18018": {
+      "regular": 23.96,
+      "premium": 29.2,
+      "diesel": 27.13,
+      "stations": 3
+    },
+    "18020": {
+      "regular": 23.79,
+      "premium": 29.44,
+      "diesel": 27.01,
+      "stations": 33
+    },
+    "19001": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "19004": {
+      "regular": 23.85,
+      "premium": 29.66,
+      "diesel": 27.06,
+      "stations": 14
+    },
+    "19005": {
+      "regular": 23.99,
+      "premium": 29.3,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "19006": {
+      "regular": 24.13,
+      "premium": 29.68,
+      "diesel": 27.12,
+      "stations": 79
+    },
+    "19007": {
+      "regular": 24.13,
+      "premium": null,
+      "diesel": 27.12,
+      "stations": 3
+    },
+    "19008": {
+      "regular": 24.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "19009": {
+      "regular": 23.66,
+      "premium": 28.93,
+      "diesel": 26.98,
+      "stations": 22
+    },
+    "19010": {
+      "regular": 23.99,
+      "premium": 29.24,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "19011": {
+      "regular": 23.99,
+      "premium": 29.34,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "19012": {
+      "regular": 23.72,
+      "premium": 29.25,
+      "diesel": 26.98,
+      "stations": 4
+    },
+    "19013": {
+      "regular": 23.99,
+      "premium": 28.5,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "19014": {
+      "regular": 23.98,
+      "premium": 29.0,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "19017": {
+      "regular": 24.43,
+      "premium": 29.61,
+      "diesel": 27.11,
+      "stations": 8
+    },
+    "19018": {
+      "regular": 24.24,
+      "premium": 29.83,
+      "diesel": 27.05,
+      "stations": 26
+    },
+    "19019": {
+      "regular": 24.44,
+      "premium": 29.98,
+      "diesel": 27.0,
+      "stations": 9
+    },
+    "19020": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "19021": {
+      "regular": 24.21,
+      "premium": 29.69,
+      "diesel": 27.13,
+      "stations": 47
+    },
+    "19022": {
+      "regular": 23.98,
+      "premium": 29.98,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "19025": {
+      "regular": 23.89,
+      "premium": 29.51,
+      "diesel": 26.99,
+      "stations": 12
+    },
+    "19026": {
+      "regular": 24.13,
+      "premium": 29.73,
+      "diesel": 26.98,
+      "stations": 81
+    },
+    "19027": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "19029": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "19031": {
+      "regular": 24.0,
+      "premium": 29.13,
+      "diesel": 27.11,
+      "stations": 42
+    },
+    "19032": {
+      "regular": 24.86,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "19033": {
+      "regular": 23.9,
+      "premium": 28.93,
+      "diesel": 26.98,
+      "stations": 12
+    },
+    "19034": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "19036": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "19037": {
+      "regular": 24.49,
+      "premium": null,
+      "diesel": 27.69,
+      "stations": 1
+    },
+    "19038": {
+      "regular": 24.14,
+      "premium": 29.85,
+      "diesel": 26.99,
+      "stations": 10
+    },
+    "19039": {
+      "regular": 24.17,
+      "premium": 29.66,
+      "diesel": 26.95,
+      "stations": 187
+    },
+    "19040": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "19041": {
+      "regular": 23.48,
+      "premium": 29.29,
+      "diesel": 25.96,
+      "stations": 8
+    },
+    "19042": {
+      "regular": 23.99,
+      "premium": 28.4,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "19044": {
+      "regular": 24.57,
+      "premium": 29.99,
+      "diesel": 27.21,
+      "stations": 11
+    },
+    "19045": {
+      "regular": 24.01,
+      "premium": 29.32,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "19046": {
+      "regular": 24.23,
+      "premium": 29.8,
+      "diesel": 27.08,
+      "stations": 63
+    },
+    "19047": {
+      "regular": 23.99,
+      "premium": 29.95,
+      "diesel": 27.99,
+      "stations": 2
+    },
+    "19048": {
+      "regular": 24.3,
+      "premium": 29.72,
+      "diesel": 27.03,
+      "stations": 38
+    },
+    "19049": {
+      "regular": 23.97,
+      "premium": 29.33,
+      "diesel": 26.81,
+      "stations": 17
+    },
+    "19050": {
+      "regular": 24.49,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "19051": {
+      "regular": 24.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "20002": {
+      "regular": 23.95,
+      "premium": 27.02,
+      "diesel": 26.66,
+      "stations": 4
+    },
+    "20005": {
+      "regular": 23.9,
+      "premium": 28.58,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "20006": {
+      "regular": 24.23,
+      "premium": 29.57,
+      "diesel": 27.24,
+      "stations": 3
+    },
+    "20010": {
+      "regular": 23.99,
+      "premium": 28.45,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "20013": {
+      "regular": 23.99,
+      "premium": 28.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20014": {
+      "regular": 23.99,
+      "premium": 28.2,
+      "diesel": 27.4,
+      "stations": 2
+    },
+    "20021": {
+      "regular": 23.99,
+      "premium": 28.15,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "20023": {
+      "regular": 23.8,
+      "premium": 25.5,
+      "diesel": 26.65,
+      "stations": 1
+    },
+    "20026": {
+      "regular": 24.79,
+      "premium": 28.99,
+      "diesel": 29.55,
+      "stations": 3
+    },
+    "20028": {
+      "regular": 23.99,
+      "premium": 29.47,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "20030": {
+      "regular": 23.7,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20031": {
+      "regular": 24.2,
+      "premium": 29.37,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20035": {
+      "regular": 24.0,
+      "premium": 29.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20039": {
+      "regular": 24.58,
+      "premium": 29.47,
+      "diesel": 28.45,
+      "stations": 11
+    },
+    "20041": {
+      "regular": 23.84,
+      "premium": 27.77,
+      "diesel": 26.97,
+      "stations": 1
+    },
+    "20042": {
+      "regular": 24.0,
+      "premium": 29.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20043": {
+      "regular": 23.96,
+      "premium": 28.48,
+      "diesel": 27.0,
+      "stations": 10
+    },
+    "20044": {
+      "regular": 23.99,
+      "premium": 28.16,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "20045": {
+      "regular": 24.0,
+      "premium": 28.56,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20055": {
+      "regular": 24.52,
+      "premium": 29.5,
+      "diesel": 28.14,
+      "stations": 2
+    },
+    "20057": {
+      "regular": 23.8,
+      "premium": 28.27,
+      "diesel": 26.98,
+      "stations": 4
+    },
+    "20059": {
+      "regular": 24.0,
+      "premium": 29.51,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "20064": {
+      "regular": 23.99,
+      "premium": 29.45,
+      "diesel": 27.52,
+      "stations": 2
+    },
+    "20066": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20067": {
+      "regular": 23.99,
+      "premium": 29.46,
+      "diesel": 27.03,
+      "stations": 22
+    },
+    "20068": {
+      "regular": 23.93,
+      "premium": 29.4,
+      "diesel": 26.94,
+      "stations": 4
+    },
+    "20072": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20073": {
+      "regular": 24.68,
+      "premium": 29.29,
+      "diesel": 28.54,
+      "stations": 6
+    },
+    "20079": {
+      "regular": 23.86,
+      "premium": 28.28,
+      "diesel": 26.99,
+      "stations": 9
+    },
+    "20083": {
+      "regular": 24.0,
+      "premium": 29.72,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20090": {
+      "regular": 23.99,
+      "premium": 30.23,
+      "diesel": 27.99,
+      "stations": 2
+    },
+    "20103": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20107": {
+      "regular": 23.99,
+      "premium": 29.7,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20112": {
+      "regular": 24.0,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20115": {
+      "regular": 23.99,
+      "premium": 29.59,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20129": {
+      "regular": 24.0,
+      "premium": 28.95,
+      "diesel": 27.95,
+      "stations": 1
+    },
+    "20131": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20132": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20134": {
+      "regular": 23.95,
+      "premium": 27.86,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20143": {
+      "regular": 24.9,
+      "premium": 27.9,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "20145": {
+      "regular": 23.99,
+      "premium": 29.6,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20155": {
+      "regular": 24.0,
+      "premium": 29.29,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "20157": {
+      "regular": 24.0,
+      "premium": 29.47,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "20158": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.9,
+      "stations": 1
+    },
+    "20166": {
+      "regular": 24.0,
+      "premium": 28.9,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20177": {
+      "regular": 23.99,
+      "premium": 29.36,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "20178": {
+      "regular": 23.99,
+      "premium": 29.59,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20184": {
+      "regular": 23.97,
+      "premium": 28.48,
+      "diesel": 27.07,
+      "stations": 18
+    },
+    "20185": {
+      "regular": 23.99,
+      "premium": 29.71,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "20190": {
+      "regular": 23.46,
+      "premium": 27.39,
+      "diesel": 26.96,
+      "stations": 3
+    },
+    "20198": {
+      "regular": 24.0,
+      "premium": 29.14,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20202": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 28.39,
+      "stations": 1
+    },
+    "20227": {
+      "regular": 23.96,
+      "premium": 29.24,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "20232": {
+      "regular": 23.99,
+      "premium": 28.09,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20266": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.89,
+      "stations": 1
+    },
+    "20268": {
+      "regular": 24.0,
+      "premium": 29.4,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20269": {
+      "regular": 24.67,
+      "premium": 28.99,
+      "diesel": 29.54,
+      "stations": 2
+    },
+    "20277": {
+      "regular": 24.0,
+      "premium": 29.3,
+      "diesel": 28.05,
+      "stations": 2
+    },
+    "20278": {
+      "regular": 23.69,
+      "premium": 28.49,
+      "diesel": 27.49,
+      "stations": 2
+    },
+    "20286": {
+      "regular": 24.68,
+      "premium": 29.58,
+      "diesel": 28.73,
+      "stations": 1
+    },
+    "20293": {
+      "regular": 23.99,
+      "premium": 29.34,
+      "diesel": 27.25,
+      "stations": 2
+    },
+    "20294": {
+      "regular": 23.95,
+      "premium": 28.96,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20295": {
+      "regular": 23.99,
+      "premium": 28.97,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20298": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20300": {
+      "regular": 23.99,
+      "premium": 29.79,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "20301": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20310": {
+      "regular": 24.0,
+      "premium": 29.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20312": {
+      "regular": 23.8,
+      "premium": 29.0,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "20318": {
+      "regular": 23.99,
+      "premium": 31.17,
+      "diesel": 27.97,
+      "stations": 7
+    },
+    "20324": {
+      "regular": 23.99,
+      "premium": 30.76,
+      "diesel": 27.99,
+      "stations": 3
+    },
+    "20327": {
+      "regular": 23.99,
+      "premium": 29.2,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "20333": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20334": {
+      "regular": 23.99,
+      "premium": 30.8,
+      "diesel": 28.02,
+      "stations": 7
+    },
+    "20337": {
+      "regular": 24.0,
+      "premium": 29.38,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20338": {
+      "regular": 23.99,
+      "premium": 29.59,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20339": {
+      "regular": 23.99,
+      "premium": 29.5,
+      "diesel": 27.59,
+      "stations": 1
+    },
+    "20342": {
+      "regular": 23.99,
+      "premium": 28.6,
+      "diesel": 27.64,
+      "stations": 2
+    },
+    "20348": {
+      "regular": 24.4,
+      "premium": 29.59,
+      "diesel": 28.7,
+      "stations": 2
+    },
+    "20350": {
+      "regular": 24.0,
+      "premium": 29.74,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "20364": {
+      "regular": 24.64,
+      "premium": 30.23,
+      "diesel": 28.05,
+      "stations": 2
+    },
+    "20375": {
+      "regular": 24.0,
+      "premium": 29.45,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20377": {
+      "regular": 24.79,
+      "premium": 28.99,
+      "diesel": 29.54,
+      "stations": 1
+    },
+    "20378": {
+      "regular": 24.0,
+      "premium": 29.6,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20385": {
+      "regular": 23.95,
+      "premium": 28.94,
+      "diesel": 27.06,
+      "stations": 6
+    },
+    "20390": {
+      "regular": 24.0,
+      "premium": 29.45,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "20397": {
+      "regular": 24.08,
+      "premium": 28.88,
+      "diesel": 27.42,
+      "stations": 6
+    },
+    "20398": {
+      "regular": 24.0,
+      "premium": 29.6,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20399": {
+      "regular": 24.0,
+      "premium": 29.0,
+      "diesel": null,
+      "stations": 1
+    },
+    "20401": {
+      "regular": 23.99,
+      "premium": 31.49,
+      "diesel": 27.95,
+      "stations": 5
+    },
+    "20405": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "20409": {
+      "regular": 23.99,
+      "premium": 29.19,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20413": {
+      "regular": 24.0,
+      "premium": 29.41,
+      "diesel": 27.5,
+      "stations": 6
+    },
+    "20418": {
+      "regular": 24.0,
+      "premium": 28.99,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "20420": {
+      "regular": 24.15,
+      "premium": null,
+      "diesel": 27.49,
+      "stations": 1
+    },
+    "20439": {
+      "regular": 23.99,
+      "premium": 30.99,
+      "diesel": 27.49,
+      "stations": 2
+    },
+    "20447": {
+      "regular": 24.9,
+      "premium": 28.9,
+      "diesel": 29.5,
+      "stations": 1
+    },
+    "20453": {
+      "regular": 23.99,
+      "premium": 27.2,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20459": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20467": {
+      "regular": 23.98,
+      "premium": 30.88,
+      "diesel": 27.98,
+      "stations": 2
+    },
+    "20469": {
+      "regular": 24.57,
+      "premium": 29.5,
+      "diesel": 28.55,
+      "stations": 2
+    },
+    "20475": {
+      "regular": 24.0,
+      "premium": 28.9,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20482": {
+      "regular": 23.99,
+      "premium": 30.13,
+      "diesel": 27.99,
+      "stations": 7
+    },
+    "20486": {
+      "regular": 24.0,
+      "premium": 29.0,
+      "diesel": 27.6,
+      "stations": 1
+    },
+    "20496": {
+      "regular": 24.0,
+      "premium": 29.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20498": {
+      "regular": 23.92,
+      "premium": 27.74,
+      "diesel": 27.47,
+      "stations": 1
+    },
+    "20515": {
+      "regular": 23.98,
+      "premium": 28.62,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "20516": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "20520": {
+      "regular": 24.75,
+      "premium": 29.65,
+      "diesel": 28.7,
+      "stations": 1
+    },
+    "20525": {
+      "regular": 23.85,
+      "premium": 28.15,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20526": {
+      "regular": 23.99,
+      "premium": 31.0,
+      "diesel": 27.95,
+      "stations": 1
+    },
+    "20528": {
+      "regular": 24.0,
+      "premium": 28.8,
+      "diesel": 28.1,
+      "stations": 1
+    },
+    "20532": {
+      "regular": 24.1,
+      "premium": 28.9,
+      "diesel": 29.0,
+      "stations": 1
+    },
+    "20537": {
+      "regular": 24.85,
+      "premium": null,
+      "diesel": 28.9,
+      "stations": 1
+    },
+    "20540": {
+      "regular": 24.0,
+      "premium": 28.99,
+      "diesel": 27.29,
+      "stations": 1
+    },
+    "20545": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "20546": {
+      "regular": 24.0,
+      "premium": 29.73,
+      "diesel": 27.45,
+      "stations": 1
+    },
+    "20548": {
+      "regular": 24.0,
+      "premium": 28.0,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20549": {
+      "regular": 24.65,
+      "premium": 29.6,
+      "diesel": 28.55,
+      "stations": 1
+    },
+    "20551": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "20557": {
+      "regular": 23.9,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "20559": {
+      "regular": 24.0,
+      "premium": 29.09,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "20565": {
+      "regular": 23.96,
+      "premium": 29.04,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "20570": {
+      "regular": 24.02,
+      "premium": 29.42,
+      "diesel": 27.05,
+      "stations": 3
+    },
+    "21001": {
+      "regular": 23.26,
+      "premium": 27.49,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "21002": {
+      "regular": 23.99,
+      "premium": 28.41,
+      "diesel": 27.23,
+      "stations": 3
+    },
+    "21003": {
+      "regular": 24.3,
+      "premium": 28.99,
+      "diesel": 27.95,
+      "stations": 3
+    },
+    "21004": {
+      "regular": 23.79,
+      "premium": 27.95,
+      "diesel": 27.04,
+      "stations": 2
+    },
+    "21006": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21008": {
+      "regular": 23.79,
+      "premium": 27.94,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "21010": {
+      "regular": 23.99,
+      "premium": 28.49,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21012": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21013": {
+      "regular": 23.89,
+      "premium": 28.49,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "21015": {
+      "regular": 23.68,
+      "premium": 28.06,
+      "diesel": 26.96,
+      "stations": 26
+    },
+    "21016": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21017": {
+      "regular": 23.94,
+      "premium": 28.17,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "21019": {
+      "regular": 23.58,
+      "premium": 27.44,
+      "diesel": 26.69,
+      "stations": 19
+    },
+    "21023": {
+      "regular": 23.7,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21025": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.2,
+      "stations": 1
+    },
+    "21034": {
+      "regular": 23.99,
+      "premium": 28.68,
+      "diesel": 26.99,
+      "stations": 8
+    },
+    "21035": {
+      "regular": 23.99,
+      "premium": 28.55,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21038": {
+      "regular": 23.85,
+      "premium": 28.42,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "21041": {
+      "regular": 23.83,
+      "premium": 28.0,
+      "diesel": 27.23,
+      "stations": 11
+    },
+    "21043": {
+      "regular": 23.99,
+      "premium": 28.88,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "21044": {
+      "regular": 23.95,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "21045": {
+      "regular": 23.97,
+      "premium": 28.42,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "21046": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21047": {
+      "regular": 23.98,
+      "premium": 28.73,
+      "diesel": 27.1,
+      "stations": 3
+    },
+    "21051": {
+      "regular": 23.99,
+      "premium": 28.27,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "21053": {
+      "regular": 23.84,
+      "premium": 28.43,
+      "diesel": 26.95,
+      "stations": 8
+    },
+    "21054": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "21055": {
+      "regular": 24.4,
+      "premium": 29.3,
+      "diesel": 28.4,
+      "stations": 1
+    },
+    "21062": {
+      "regular": 22.99,
+      "premium": 27.99,
+      "diesel": 26.79,
+      "stations": 1
+    },
+    "21063": {
+      "regular": 23.9,
+      "premium": 29.29,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "21064": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.5,
+      "stations": 2
+    },
+    "21065": {
+      "regular": 23.64,
+      "premium": 27.99,
+      "diesel": 26.96,
+      "stations": 3
+    },
+    "21066": {
+      "regular": 24.45,
+      "premium": null,
+      "diesel": 28.4,
+      "stations": 1
+    },
+    "21067": {
+      "regular": 23.04,
+      "premium": 27.12,
+      "diesel": 26.64,
+      "stations": 2
+    },
+    "21069": {
+      "regular": 23.79,
+      "premium": 27.49,
+      "diesel": 26.97,
+      "stations": 2
+    },
+    "21071": {
+      "regular": 23.99,
+      "premium": 28.6,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "21072": {
+      "regular": 24.1,
+      "premium": null,
+      "diesel": 27.2,
+      "stations": 1
+    },
+    "21073": {
+      "regular": 23.99,
+      "premium": 28.98,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "21074": {
+      "regular": 23.75,
+      "premium": 28.0,
+      "diesel": 26.93,
+      "stations": 13
+    },
+    "21075": {
+      "regular": 23.9,
+      "premium": 28.0,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21076": {
+      "regular": 23.99,
+      "premium": 28.14,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "21078": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 28.0,
+      "stations": 1
+    },
+    "21079": {
+      "regular": 23.58,
+      "premium": 27.95,
+      "diesel": 26.95,
+      "stations": 1
+    },
+    "21082": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "21083": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21085": {
+      "regular": 23.78,
+      "premium": 28.11,
+      "diesel": 26.95,
+      "stations": 6
+    },
+    "21090": {
+      "regular": 23.7,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "21094": {
+      "regular": 23.74,
+      "premium": 28.05,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "21096": {
+      "regular": 23.55,
+      "premium": 27.99,
+      "diesel": 26.89,
+      "stations": 1
+    },
+    "21097": {
+      "regular": 23.6,
+      "premium": 27.53,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21099": {
+      "regular": 23.6,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "21102": {
+      "regular": 23.79,
+      "premium": 28.09,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21104": {
+      "regular": 23.57,
+      "premium": 27.81,
+      "diesel": 26.89,
+      "stations": 3
+    },
+    "21106": {
+      "regular": 23.99,
+      "premium": 28.64,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "21108": {
+      "regular": 23.69,
+      "premium": 28.2,
+      "diesel": 27.06,
+      "stations": 3
+    },
+    "21110": {
+      "regular": 23.89,
+      "premium": 28.46,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "21111": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21114": {
+      "regular": 23.6,
+      "premium": 27.97,
+      "diesel": 26.88,
+      "stations": 190
+    },
+    "21115": {
+      "regular": 23.81,
+      "premium": 28.34,
+      "diesel": 26.98,
+      "stations": 7
+    },
+    "21116": {
+      "regular": 23.99,
+      "premium": 28.55,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "21117": {
+      "regular": 23.7,
+      "premium": 27.88,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21118": {
+      "regular": 23.95,
+      "premium": 28.29,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "21119": {
+      "regular": 23.72,
+      "premium": 28.27,
+      "diesel": 27.0,
+      "stations": 23
+    },
+    "21124": {
+      "regular": null,
+      "premium": 25.8,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21126": {
+      "regular": 23.79,
+      "premium": 28.09,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21128": {
+      "regular": 23.32,
+      "premium": 28.32,
+      "diesel": 26.86,
+      "stations": 3
+    },
+    "21132": {
+      "regular": 23.67,
+      "premium": 27.89,
+      "diesel": 26.95,
+      "stations": 25
+    },
+    "21134": {
+      "regular": 23.96,
+      "premium": 28.61,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "21136": {
+      "regular": 23.99,
+      "premium": 28.95,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21140": {
+      "regular": 24.05,
+      "premium": 28.31,
+      "diesel": 26.99,
+      "stations": 20
+    },
+    "21142": {
+      "regular": 23.43,
+      "premium": 27.61,
+      "diesel": 26.86,
+      "stations": 4
+    },
+    "21143": {
+      "regular": 23.95,
+      "premium": 27.85,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "21144": {
+      "regular": 23.87,
+      "premium": 28.22,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "21147": {
+      "regular": 23.96,
+      "premium": 27.72,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21148": {
+      "regular": 23.89,
+      "premium": 28.35,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21149": {
+      "regular": 23.62,
+      "premium": 27.6,
+      "diesel": 26.87,
+      "stations": 2
+    },
+    "21151": {
+      "regular": 23.93,
+      "premium": 28.48,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "21153": {
+      "regular": 23.95,
+      "premium": 27.95,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "21154": {
+      "regular": 23.54,
+      "premium": 28.33,
+      "diesel": 26.96,
+      "stations": 12
+    },
+    "21155": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21156": {
+      "regular": 23.8,
+      "premium": 27.79,
+      "diesel": 26.95,
+      "stations": 23
+    },
+    "21157": {
+      "regular": 24.22,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "21161": {
+      "regular": 23.83,
+      "premium": 27.93,
+      "diesel": 26.91,
+      "stations": 3
+    },
+    "21163": {
+      "regular": 23.45,
+      "premium": 27.72,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "21164": {
+      "regular": 23.68,
+      "premium": 28.04,
+      "diesel": 26.99,
+      "stations": 15
+    },
+    "21166": {
+      "regular": 23.99,
+      "premium": 28.19,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21169": {
+      "regular": 23.99,
+      "premium": 27.98,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21170": {
+      "regular": 23.99,
+      "premium": 28.13,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "21172": {
+      "regular": 23.99,
+      "premium": 28.16,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "21173": {
+      "regular": 23.85,
+      "premium": 28.05,
+      "diesel": 27.05,
+      "stations": 2
+    },
+    "21174": {
+      "regular": 23.87,
+      "premium": 28.36,
+      "diesel": 27.12,
+      "stations": 13
+    },
+    "21176": {
+      "regular": 23.99,
+      "premium": 28.4,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21177": {
+      "regular": 23.9,
+      "premium": 27.8,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21179": {
+      "regular": 23.09,
+      "premium": 27.29,
+      "diesel": 26.79,
+      "stations": 3
+    },
+    "21180": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "21186": {
+      "regular": 23.95,
+      "premium": 28.02,
+      "diesel": 27.12,
+      "stations": 5
+    },
+    "21189": {
+      "regular": 23.95,
+      "premium": 28.66,
+      "diesel": 27.14,
+      "stations": 2
+    },
+    "21191": {
+      "regular": 23.98,
+      "premium": 29.0,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "21194": {
+      "regular": 23.89,
+      "premium": 27.52,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "21195": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21197": {
+      "regular": 23.96,
+      "premium": 28.11,
+      "diesel": 26.98,
+      "stations": 4
+    },
+    "21199": {
+      "regular": 23.4,
+      "premium": 28.18,
+      "diesel": 27.5,
+      "stations": 3
+    },
+    "21203": {
+      "regular": 23.55,
+      "premium": 28.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21205": {
+      "regular": 23.6,
+      "premium": 28.4,
+      "diesel": 27.15,
+      "stations": 1
+    },
+    "21207": {
+      "regular": 23.95,
+      "premium": 28.28,
+      "diesel": 27.2,
+      "stations": 5
+    },
+    "21208": {
+      "regular": 23.94,
+      "premium": 28.16,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "21209": {
+      "regular": 23.95,
+      "premium": 28.37,
+      "diesel": null,
+      "stations": 1
+    },
+    "21211": {
+      "regular": 23.94,
+      "premium": 27.95,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "21212": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "21214": {
+      "regular": 23.99,
+      "premium": 28.53,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "22001": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "22002": {
+      "regular": 23.99,
+      "premium": 28.6,
+      "diesel": 27.45,
+      "stations": 2
+    },
+    "22003": {
+      "regular": 24.97,
+      "premium": 28.11,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "22004": {
+      "regular": 23.96,
+      "premium": 28.21,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "22005": {
+      "regular": 23.68,
+      "premium": 28.73,
+      "diesel": 26.9,
+      "stations": 9
+    },
+    "22006": {
+      "regular": 23.76,
+      "premium": 28.71,
+      "diesel": 26.97,
+      "stations": 40
+    },
+    "22007": {
+      "regular": 23.68,
+      "premium": 27.78,
+      "diesel": 26.94,
+      "stations": 9
+    },
+    "22008": {
+      "regular": 23.82,
+      "premium": 28.79,
+      "diesel": 26.95,
+      "stations": 4
+    },
+    "22009": {
+      "regular": 23.97,
+      "premium": 28.62,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "22010": {
+      "regular": 23.99,
+      "premium": 28.62,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "22011": {
+      "regular": 23.73,
+      "premium": 28.63,
+      "diesel": 26.82,
+      "stations": 46
+    },
+    "22012": {
+      "regular": 23.63,
+      "premium": 28.45,
+      "diesel": 26.92,
+      "stations": 9
+    },
+    "22013": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 23.99,
+      "stations": 1
+    },
+    "22014": {
+      "regular": 23.74,
+      "premium": 28.74,
+      "diesel": 26.91,
+      "stations": 178
+    },
+    "22015": {
+      "regular": 24.0,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "22016": {
+      "regular": 23.77,
+      "premium": 28.54,
+      "diesel": 26.84,
+      "stations": 42
+    },
+    "22017": {
+      "regular": 23.6,
+      "premium": 28.02,
+      "diesel": 26.71,
+      "stations": 7
+    },
+    "22018": {
+      "regular": 23.92,
+      "premium": 28.45,
+      "diesel": 26.12,
+      "stations": 2
+    },
+    "23001": {
+      "regular": 26.2,
+      "premium": 29.8,
+      "diesel": 29.5,
+      "stations": 6
+    },
+    "23002": {
+      "regular": 24.77,
+      "premium": 29.17,
+      "diesel": 27.78,
+      "stations": 8
+    },
+    "23003": {
+      "regular": 26.25,
+      "premium": 28.44,
+      "diesel": 29.14,
+      "stations": 5
+    },
+    "23004": {
+      "regular": 24.06,
+      "premium": 28.06,
+      "diesel": 27.13,
+      "stations": 34
+    },
+    "23005": {
+      "regular": 25.32,
+      "premium": 29.21,
+      "diesel": 28.25,
+      "stations": 108
+    },
+    "23006": {
+      "regular": 24.93,
+      "premium": 29.04,
+      "diesel": 27.96,
+      "stations": 5
+    },
+    "23007": {
+      "regular": 25.58,
+      "premium": 29.17,
+      "diesel": 29.0,
+      "stations": 6
+    },
+    "23008": {
+      "regular": 25.35,
+      "premium": 29.37,
+      "diesel": 28.26,
+      "stations": 46
+    },
+    "23009": {
+      "regular": 25.16,
+      "premium": 28.86,
+      "diesel": 28.11,
+      "stations": 26
+    },
+    "23010": {
+      "regular": 24.02,
+      "premium": 28.32,
+      "diesel": 28.11,
+      "stations": 6
+    },
+    "23011": {
+      "regular": 25.15,
+      "premium": 29.33,
+      "diesel": 28.24,
+      "stations": 7
+    },
+    "24001": {
+      "regular": 23.98,
+      "premium": 28.86,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24003": {
+      "regular": 23.99,
+      "premium": 28.47,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24004": {
+      "regular": 23.99,
+      "premium": 28.98,
+      "diesel": 27.27,
+      "stations": 2
+    },
+    "24005": {
+      "regular": 23.99,
+      "premium": 28.49,
+      "diesel": 26.66,
+      "stations": 3
+    },
+    "24006": {
+      "regular": 23.99,
+      "premium": 28.8,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "24007": {
+      "regular": 23.99,
+      "premium": 28.98,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "24008": {
+      "regular": 23.99,
+      "premium": 28.69,
+      "diesel": 27.37,
+      "stations": 4
+    },
+    "24009": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24010": {
+      "regular": 23.25,
+      "premium": 28.29,
+      "diesel": 26.46,
+      "stations": 4
+    },
+    "24011": {
+      "regular": 23.99,
+      "premium": 28.53,
+      "diesel": 27.09,
+      "stations": 9
+    },
+    "24012": {
+      "regular": 24.0,
+      "premium": 28.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24013": {
+      "regular": 23.96,
+      "premium": 28.9,
+      "diesel": 27.01,
+      "stations": 21
+    },
+    "24015": {
+      "regular": 24.0,
+      "premium": 28.52,
+      "diesel": 26.82,
+      "stations": 2
+    },
+    "24016": {
+      "regular": 23.99,
+      "premium": 27.91,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "24017": {
+      "regular": 23.98,
+      "premium": 28.93,
+      "diesel": 27.05,
+      "stations": 5
+    },
+    "24018": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24020": {
+      "regular": 23.94,
+      "premium": 28.88,
+      "diesel": 27.0,
+      "stations": 21
+    },
+    "24021": {
+      "regular": 23.96,
+      "premium": 29.24,
+      "diesel": 27.05,
+      "stations": 3
+    },
+    "24022": {
+      "regular": 23.99,
+      "premium": 28.65,
+      "diesel": 27.2,
+      "stations": 2
+    },
+    "24023": {
+      "regular": 23.99,
+      "premium": 28.66,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "24024": {
+      "regular": 23.98,
+      "premium": 28.32,
+      "diesel": 27.12,
+      "stations": 14
+    },
+    "24025": {
+      "regular": 23.99,
+      "premium": 29.49,
+      "diesel": 27.16,
+      "stations": 3
+    },
+    "24027": {
+      "regular": 23.99,
+      "premium": 28.15,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24028": {
+      "regular": 23.89,
+      "premium": 28.36,
+      "diesel": 27.1,
+      "stations": 87
+    },
+    "24029": {
+      "regular": 24.0,
+      "premium": 28.15,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24032": {
+      "regular": 23.82,
+      "premium": 28.55,
+      "diesel": 27.18,
+      "stations": 3
+    },
+    "24033": {
+      "regular": 24.0,
+      "premium": 28.57,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24034": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "24035": {
+      "regular": 23.76,
+      "premium": 28.42,
+      "diesel": 27.09,
+      "stations": 27
+    },
+    "24036": {
+      "regular": 24.0,
+      "premium": 29.13,
+      "diesel": 27.37,
+      "stations": 4
+    },
+    "24037": {
+      "regular": 23.97,
+      "premium": 27.82,
+      "diesel": 26.92,
+      "stations": 6
+    },
+    "24040": {
+      "regular": 23.93,
+      "premium": 27.63,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "24042": {
+      "regular": 23.99,
+      "premium": 28.2,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24043": {
+      "regular": 24.0,
+      "premium": 29.17,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24044": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24045": {
+      "regular": 24.0,
+      "premium": 28.64,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24046": {
+      "regular": 23.83,
+      "premium": 29.32,
+      "diesel": 27.24,
+      "stations": 3
+    },
+    "24047": {
+      "regular": 24.12,
+      "premium": 29.56,
+      "diesel": 27.15,
+      "stations": 4
+    },
+    "24048": {
+      "regular": 23.8,
+      "premium": null,
+      "diesel": 26.5,
+      "stations": 1
+    },
+    "24049": {
+      "regular": 23.93,
+      "premium": 28.2,
+      "diesel": 26.97,
+      "stations": 4
+    },
+    "24050": {
+      "regular": 23.99,
+      "premium": 28.22,
+      "diesel": 27.11,
+      "stations": 5
+    },
+    "24051": {
+      "regular": 24.0,
+      "premium": 28.76,
+      "diesel": 27.13,
+      "stations": 3
+    },
+    "24052": {
+      "regular": 23.99,
+      "premium": 27.97,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24053": {
+      "regular": 23.93,
+      "premium": 27.92,
+      "diesel": 27.17,
+      "stations": 3
+    },
+    "24054": {
+      "regular": 24.0,
+      "premium": 28.3,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24055": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 27.06,
+      "stations": 4
+    },
+    "24056": {
+      "regular": 24.06,
+      "premium": 29.49,
+      "diesel": 27.22,
+      "stations": 3
+    },
+    "24057": {
+      "regular": 23.99,
+      "premium": 27.74,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "24058": {
+      "regular": 24.0,
+      "premium": 27.9,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "24059": {
+      "regular": 23.95,
+      "premium": 28.29,
+      "diesel": 27.1,
+      "stations": 12
+    },
+    "25001": {
+      "regular": 24.03,
+      "premium": 29.42,
+      "diesel": 26.99,
+      "stations": 95
+    },
+    "25002": {
+      "regular": 23.99,
+      "premium": 29.29,
+      "diesel": 27.1,
+      "stations": 12
+    },
+    "25003": {
+      "regular": 24.24,
+      "premium": 29.79,
+      "diesel": 27.25,
+      "stations": 4
+    },
+    "25004": {
+      "regular": 24.21,
+      "premium": 29.77,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "25005": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.79,
+      "stations": 2
+    },
+    "25006": {
+      "regular": 23.8,
+      "premium": 29.28,
+      "diesel": 26.94,
+      "stations": 205
+    },
+    "25007": {
+      "regular": 23.99,
+      "premium": 28.95,
+      "diesel": 28.0,
+      "stations": 2
+    },
+    "25008": {
+      "regular": 24.15,
+      "premium": 29.92,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "25009": {
+      "regular": 24.11,
+      "premium": 29.14,
+      "diesel": 27.06,
+      "stations": 8
+    },
+    "25010": {
+      "regular": 24.02,
+      "premium": 29.09,
+      "diesel": 27.08,
+      "stations": 14
+    },
+    "25011": {
+      "regular": 23.92,
+      "premium": 29.2,
+      "diesel": 27.01,
+      "stations": 57
+    },
+    "25012": {
+      "regular": 24.04,
+      "premium": 29.47,
+      "diesel": 26.99,
+      "stations": 68
+    },
+    "25013": {
+      "regular": 24.25,
+      "premium": 29.5,
+      "diesel": 27.0,
+      "stations": 9
+    },
+    "25014": {
+      "regular": 23.98,
+      "premium": 29.08,
+      "diesel": 27.03,
+      "stations": 8
+    },
+    "25015": {
+      "regular": 23.93,
+      "premium": 29.16,
+      "diesel": 26.93,
+      "stations": 22
+    },
+    "25016": {
+      "regular": 24.12,
+      "premium": 29.44,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "25017": {
+      "regular": 23.99,
+      "premium": 28.84,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "25018": {
+      "regular": 24.3,
+      "premium": 28.88,
+      "diesel": 27.04,
+      "stations": 22
+    },
+    "25019": {
+      "regular": 24.0,
+      "premium": 29.22,
+      "diesel": 27.33,
+      "stations": 6
+    },
+    "25020": {
+      "regular": 23.99,
+      "premium": 29.22,
+      "diesel": 27.14,
+      "stations": 5
+    },
+    "26001": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.9,
+      "stations": 2
+    },
+    "26002": {
+      "regular": 19.59,
+      "premium": 25.97,
+      "diesel": 26.16,
+      "stations": 18
+    },
+    "26003": {
+      "regular": 23.99,
+      "premium": 29.9,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "26004": {
+      "regular": 22.84,
+      "premium": 27.37,
+      "diesel": 25.56,
+      "stations": 4
+    },
+    "26006": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "26011": {
+      "regular": 22.0,
+      "premium": null,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "26012": {
+      "regular": 23.99,
+      "premium": 28.16,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "26013": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 28.55,
+      "stations": 1
+    },
+    "26014": {
+      "regular": 23.82,
+      "premium": 29.23,
+      "diesel": 27.62,
+      "stations": 2
+    },
+    "26016": {
+      "regular": 23.99,
+      "premium": 29.71,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "26017": {
+      "regular": 22.46,
+      "premium": 27.56,
+      "diesel": 26.03,
+      "stations": 21
+    },
+    "26018": {
+      "regular": 23.93,
+      "premium": 29.31,
+      "diesel": 27.01,
+      "stations": 79
+    },
+    "26019": {
+      "regular": 23.36,
+      "premium": 27.28,
+      "diesel": 27.25,
+      "stations": 7
+    },
+    "26020": {
+      "regular": 23.95,
+      "premium": 29.49,
+      "diesel": 27.25,
+      "stations": 2
+    },
+    "26021": {
+      "regular": 24.0,
+      "premium": 27.5,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "26023": {
+      "regular": 24.45,
+      "premium": 29.2,
+      "diesel": 27.7,
+      "stations": 2
+    },
+    "26025": {
+      "regular": 24.54,
+      "premium": 29.82,
+      "diesel": 27.73,
+      "stations": 10
+    },
+    "26026": {
+      "regular": 23.89,
+      "premium": 29.23,
+      "diesel": 26.92,
+      "stations": 5
+    },
+    "26027": {
+      "regular": 24.98,
+      "premium": 28.98,
+      "diesel": 29.49,
+      "stations": 1
+    },
+    "26029": {
+      "regular": 24.59,
+      "premium": 29.97,
+      "diesel": 28.28,
+      "stations": 31
+    },
+    "26030": {
+      "regular": 24.08,
+      "premium": 29.48,
+      "diesel": 27.21,
+      "stations": 162
+    },
+    "26032": {
+      "regular": 24.5,
+      "premium": 23.37,
+      "diesel": 28.76,
+      "stations": 1
+    },
+    "26033": {
+      "regular": 23.82,
+      "premium": 29.32,
+      "diesel": 26.93,
+      "stations": 14
+    },
+    "26035": {
+      "regular": 24.49,
+      "premium": 29.94,
+      "diesel": 27.49,
+      "stations": 2
+    },
+    "26036": {
+      "regular": 24.02,
+      "premium": 29.85,
+      "diesel": 27.04,
+      "stations": 9
+    },
+    "26038": {
+      "regular": 24.33,
+      "premium": 29.33,
+      "diesel": 27.8,
+      "stations": 3
+    },
+    "26039": {
+      "regular": 20.97,
+      "premium": 25.7,
+      "diesel": null,
+      "stations": 2
+    },
+    "26040": {
+      "regular": 24.79,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "26041": {
+      "regular": 24.99,
+      "premium": 29.98,
+      "diesel": 27.99,
+      "stations": 3
+    },
+    "26042": {
+      "regular": 24.0,
+      "premium": 29.97,
+      "diesel": 27.0,
+      "stations": 28
+    },
+    "26043": {
+      "regular": 20.63,
+      "premium": 26.79,
+      "diesel": 25.87,
+      "stations": 36
+    },
+    "26047": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "26048": {
+      "regular": 23.54,
+      "premium": 28.45,
+      "diesel": 26.59,
+      "stations": 18
+    },
+    "26049": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "26051": {
+      "regular": 24.99,
+      "premium": 29.99,
+      "diesel": 28.99,
+      "stations": 1
+    },
+    "26052": {
+      "regular": 25.48,
+      "premium": 29.99,
+      "diesel": 28.98,
+      "stations": 2
+    },
+    "26055": {
+      "regular": 20.01,
+      "premium": 25.61,
+      "diesel": 25.27,
+      "stations": 46
+    },
+    "26056": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "26058": {
+      "regular": 24.07,
+      "premium": 29.94,
+      "diesel": 27.53,
+      "stations": 7
+    },
+    "26059": {
+      "regular": 22.3,
+      "premium": 23.5,
+      "diesel": 25.4,
+      "stations": 1
+    },
+    "26066": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 28.28,
+      "stations": 2
+    },
+    "26067": {
+      "regular": 24.5,
+      "premium": null,
+      "diesel": 28.75,
+      "stations": 1
+    },
+    "26069": {
+      "regular": 25.84,
+      "premium": 29.74,
+      "diesel": 28.24,
+      "stations": 2
+    },
+    "26070": {
+      "regular": 20.27,
+      "premium": 25.73,
+      "diesel": 25.38,
+      "stations": 4
+    },
+    "26071": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "26072": {
+      "regular": 25.34,
+      "premium": 27.34,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "27001": {
+      "regular": 24.45,
+      "premium": 29.26,
+      "diesel": 27.77,
+      "stations": 4
+    },
+    "27002": {
+      "regular": 23.63,
+      "premium": 28.32,
+      "diesel": 27.02,
+      "stations": 21
+    },
+    "27003": {
+      "regular": 23.97,
+      "premium": 28.47,
+      "diesel": 27.0,
+      "stations": 7
+    },
+    "27004": {
+      "regular": 23.84,
+      "premium": 28.48,
+      "diesel": 27.0,
+      "stations": 97
+    },
+    "27005": {
+      "regular": 23.43,
+      "premium": 27.58,
+      "diesel": 26.59,
+      "stations": 22
+    },
+    "27006": {
+      "regular": 23.85,
+      "premium": 28.29,
+      "diesel": 26.99,
+      "stations": 16
+    },
+    "27007": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 27.1,
+      "stations": 5
+    },
+    "27008": {
+      "regular": 23.92,
+      "premium": 28.78,
+      "diesel": 27.0,
+      "stations": 12
+    },
+    "27009": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "27010": {
+      "regular": 23.99,
+      "premium": 28.75,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "27011": {
+      "regular": 23.99,
+      "premium": 29.16,
+      "diesel": 28.48,
+      "stations": 2
+    },
+    "27012": {
+      "regular": 23.99,
+      "premium": 28.58,
+      "diesel": 27.06,
+      "stations": 12
+    },
+    "27013": {
+      "regular": 23.94,
+      "premium": 28.55,
+      "diesel": 27.0,
+      "stations": 11
+    },
+    "27014": {
+      "regular": 23.57,
+      "premium": 27.55,
+      "diesel": 26.58,
+      "stations": 14
+    },
+    "27015": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "27016": {
+      "regular": 23.99,
+      "premium": 28.1,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "27017": {
+      "regular": 23.86,
+      "premium": 28.13,
+      "diesel": 27.08,
+      "stations": 6
+    },
+    "28001": {
+      "regular": 23.98,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "28002": {
+      "regular": 23.99,
+      "premium": 29.32,
+      "diesel": 26.77,
+      "stations": 4
+    },
+    "28003": {
+      "regular": 23.8,
+      "premium": 27.72,
+      "diesel": 27.0,
+      "stations": 28
+    },
+    "28004": {
+      "regular": 23.97,
+      "premium": 27.98,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "28005": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "28007": {
+      "regular": 21.18,
+      "premium": 23.68,
+      "diesel": 25.36,
+      "stations": 5
+    },
+    "28009": {
+      "regular": 23.85,
+      "premium": 27.65,
+      "diesel": 27.0,
+      "stations": 19
+    },
+    "28010": {
+      "regular": 23.98,
+      "premium": 27.99,
+      "diesel": 27.39,
+      "stations": 2
+    },
+    "28011": {
+      "regular": 23.99,
+      "premium": 28.69,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "28012": {
+      "regular": 23.95,
+      "premium": 27.87,
+      "diesel": 26.64,
+      "stations": 5
+    },
+    "28013": {
+      "regular": 23.93,
+      "premium": 28.38,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "28014": {
+      "regular": 21.34,
+      "premium": 25.79,
+      "diesel": 27.25,
+      "stations": 2
+    },
+    "28015": {
+      "regular": 21.28,
+      "premium": 24.79,
+      "diesel": 25.39,
+      "stations": 4
+    },
+    "28016": {
+      "regular": 23.98,
+      "premium": 28.16,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "28017": {
+      "regular": 23.98,
+      "premium": 28.48,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "28018": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "28019": {
+      "regular": 24.19,
+      "premium": 29.11,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "28021": {
+      "regular": 23.82,
+      "premium": 28.48,
+      "diesel": 26.99,
+      "stations": 15
+    },
+    "28022": {
+      "regular": 20.62,
+      "premium": 24.19,
+      "diesel": 26.76,
+      "stations": 91
+    },
+    "28023": {
+      "regular": 23.56,
+      "premium": 23.38,
+      "diesel": 26.2,
+      "stations": 2
+    },
+    "28024": {
+      "regular": 20.99,
+      "premium": 24.99,
+      "diesel": 25.39,
+      "stations": 1
+    },
+    "28025": {
+      "regular": 20.98,
+      "premium": 24.99,
+      "diesel": 25.39,
+      "stations": 9
+    },
+    "28027": {
+      "regular": 21.12,
+      "premium": 26.81,
+      "diesel": 25.98,
+      "stations": 77
+    },
+    "28029": {
+      "regular": 23.99,
+      "premium": 24.8,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "28030": {
+      "regular": 23.98,
+      "premium": 28.44,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "28031": {
+      "regular": 23.98,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "28032": {
+      "regular": 20.49,
+      "premium": 24.54,
+      "diesel": 25.59,
+      "stations": 143
+    },
+    "28033": {
+      "regular": 20.99,
+      "premium": 24.35,
+      "diesel": 25.05,
+      "stations": 28
+    },
+    "28035": {
+      "regular": 24.1,
+      "premium": 27.87,
+      "diesel": 26.99,
+      "stations": 12
+    },
+    "28037": {
+      "regular": 23.79,
+      "premium": 28.8,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "28038": {
+      "regular": 23.72,
+      "premium": 27.54,
+      "diesel": 27.0,
+      "stations": 43
+    },
+    "28039": {
+      "regular": 24.0,
+      "premium": 29.29,
+      "diesel": 27.19,
+      "stations": 2
+    },
+    "28040": {
+      "regular": 20.45,
+      "premium": 24.03,
+      "diesel": 26.45,
+      "stations": 15
+    },
+    "28041": {
+      "regular": 23.86,
+      "premium": 28.28,
+      "diesel": 26.99,
+      "stations": 66
+    },
+    "28042": {
+      "regular": 24.49,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "28043": {
+      "regular": 23.82,
+      "premium": 27.62,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "29002": {
+      "regular": 23.95,
+      "premium": 28.25,
+      "diesel": 26.97,
+      "stations": 4
+    },
+    "29003": {
+      "regular": 23.99,
+      "premium": 28.2,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "29004": {
+      "regular": 23.68,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "29005": {
+      "regular": 23.7,
+      "premium": 28.12,
+      "diesel": 26.93,
+      "stations": 14
+    },
+    "29006": {
+      "regular": 23.59,
+      "premium": 27.58,
+      "diesel": 26.86,
+      "stations": 8
+    },
+    "29007": {
+      "regular": 22.99,
+      "premium": null,
+      "diesel": 26.55,
+      "stations": 1
+    },
+    "29008": {
+      "regular": 23.32,
+      "premium": 27.99,
+      "diesel": 26.77,
+      "stations": 4
+    },
+    "29010": {
+      "regular": 23.99,
+      "premium": 28.25,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "29011": {
+      "regular": 23.99,
+      "premium": 28.19,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "29013": {
+      "regular": 23.59,
+      "premium": 27.8,
+      "diesel": 26.85,
+      "stations": 14
+    },
+    "29014": {
+      "regular": 23.7,
+      "premium": 27.7,
+      "diesel": 26.99,
+      "stations": 6
+    },
+    "29015": {
+      "regular": 23.89,
+      "premium": 28.16,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "29019": {
+      "regular": 24.65,
+      "premium": 28.63,
+      "diesel": 27.06,
+      "stations": 4
+    },
+    "29020": {
+      "regular": 23.89,
+      "premium": 27.99,
+      "diesel": 27.34,
+      "stations": 2
+    },
+    "29021": {
+      "regular": 23.33,
+      "premium": 27.88,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "29022": {
+      "regular": 23.7,
+      "premium": 28.3,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "29023": {
+      "regular": 22.99,
+      "premium": 26.69,
+      "diesel": 25.93,
+      "stations": 3
+    },
+    "29025": {
+      "regular": 21.81,
+      "premium": 28.16,
+      "diesel": 24.46,
+      "stations": 4
+    },
+    "29026": {
+      "regular": 23.41,
+      "premium": 27.55,
+      "diesel": 26.84,
+      "stations": 4
+    },
+    "29027": {
+      "regular": 23.6,
+      "premium": 27.5,
+      "diesel": 26.9,
+      "stations": 1
+    },
+    "29029": {
+      "regular": 22.93,
+      "premium": 27.7,
+      "diesel": 26.55,
+      "stations": 2
+    },
+    "29030": {
+      "regular": 23.67,
+      "premium": 24.99,
+      "diesel": 25.8,
+      "stations": 1
+    },
+    "29031": {
+      "regular": 23.0,
+      "premium": 27.38,
+      "diesel": 26.62,
+      "stations": 7
+    },
+    "29032": {
+      "regular": 23.95,
+      "premium": 28.3,
+      "diesel": 27.14,
+      "stations": 2
+    },
+    "29033": {
+      "regular": 23.97,
+      "premium": 28.11,
+      "diesel": 26.99,
+      "stations": 9
+    },
+    "29034": {
+      "regular": 23.68,
+      "premium": 28.01,
+      "diesel": 26.91,
+      "stations": 5
+    },
+    "29036": {
+      "regular": 23.92,
+      "premium": 27.99,
+      "diesel": 24.25,
+      "stations": 2
+    },
+    "29037": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "29038": {
+      "regular": 23.39,
+      "premium": 27.59,
+      "diesel": 26.84,
+      "stations": 2
+    },
+    "29039": {
+      "regular": 23.26,
+      "premium": 27.73,
+      "diesel": 26.72,
+      "stations": 4
+    },
+    "29040": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "29041": {
+      "regular": 23.55,
+      "premium": 27.87,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "29042": {
+      "regular": 23.38,
+      "premium": 27.54,
+      "diesel": 26.93,
+      "stations": 2
+    },
+    "29043": {
+      "regular": 23.44,
+      "premium": 27.64,
+      "diesel": 26.87,
+      "stations": 5
+    },
+    "29044": {
+      "regular": 23.44,
+      "premium": 27.67,
+      "diesel": 26.74,
+      "stations": 4
+    },
+    "29046": {
+      "regular": 22.79,
+      "premium": null,
+      "diesel": 26.65,
+      "stations": 1
+    },
+    "29047": {
+      "regular": 22.9,
+      "premium": 27.29,
+      "diesel": 26.79,
+      "stations": 1
+    },
+    "29048": {
+      "regular": 23.73,
+      "premium": 28.72,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "29059": {
+      "regular": 23.55,
+      "premium": 27.79,
+      "diesel": 27.12,
+      "stations": 2
+    },
+    "29060": {
+      "regular": 23.59,
+      "premium": 28.68,
+      "diesel": 26.95,
+      "stations": 1
+    },
+    "30001": {
+      "regular": 23.7,
+      "premium": 27.8,
+      "diesel": 26.9,
+      "stations": 1
+    },
+    "30003": {
+      "regular": 23.93,
+      "premium": 27.82,
+      "diesel": 26.99,
+      "stations": 8
+    },
+    "30004": {
+      "regular": 23.93,
+      "premium": 28.21,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "30006": {
+      "regular": 23.99,
+      "premium": 28.24,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30009": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30010": {
+      "regular": 23.99,
+      "premium": 28.42,
+      "diesel": 27.1,
+      "stations": 3
+    },
+    "30011": {
+      "regular": 23.9,
+      "premium": 28.0,
+      "diesel": 27.0,
+      "stations": 10
+    },
+    "30012": {
+      "regular": 23.99,
+      "premium": 27.84,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30013": {
+      "regular": 23.65,
+      "premium": 27.44,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30014": {
+      "regular": 23.99,
+      "premium": 27.96,
+      "diesel": 27.04,
+      "stations": 11
+    },
+    "30015": {
+      "regular": 23.92,
+      "premium": 28.11,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30016": {
+      "regular": 23.89,
+      "premium": 28.1,
+      "diesel": 27.19,
+      "stations": 6
+    },
+    "30021": {
+      "regular": 23.94,
+      "premium": 27.5,
+      "diesel": 26.94,
+      "stations": 1
+    },
+    "30023": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30024": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "30026": {
+      "regular": 23.99,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30028": {
+      "regular": 23.5,
+      "premium": 27.44,
+      "diesel": 26.92,
+      "stations": 27
+    },
+    "30030": {
+      "regular": 23.99,
+      "premium": 28.36,
+      "diesel": 27.1,
+      "stations": 3
+    },
+    "30032": {
+      "regular": 23.34,
+      "premium": 27.67,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "30033": {
+      "regular": 23.98,
+      "premium": 28.3,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "30034": {
+      "regular": 23.32,
+      "premium": 28.11,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "30038": {
+      "regular": 23.59,
+      "premium": 28.06,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "30039": {
+      "regular": 23.3,
+      "premium": 27.69,
+      "diesel": 26.98,
+      "stations": 39
+    },
+    "30040": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 3
+    },
+    "30042": {
+      "regular": null,
+      "premium": 28.09,
+      "diesel": null,
+      "stations": 1
+    },
+    "30044": {
+      "regular": 23.75,
+      "premium": 27.68,
+      "diesel": 27.03,
+      "stations": 29
+    },
+    "30045": {
+      "regular": 23.99,
+      "premium": 28.46,
+      "diesel": 27.0,
+      "stations": 8
+    },
+    "30046": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30047": {
+      "regular": 23.97,
+      "premium": 27.71,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30048": {
+      "regular": 23.46,
+      "premium": 26.94,
+      "diesel": 27.0,
+      "stations": 9
+    },
+    "30049": {
+      "regular": 23.94,
+      "premium": 28.61,
+      "diesel": 26.98,
+      "stations": 8
+    },
+    "30051": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30053": {
+      "regular": 23.92,
+      "premium": 27.97,
+      "diesel": 26.98,
+      "stations": 6
+    },
+    "30055": {
+      "regular": 23.89,
+      "premium": 27.48,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "30058": {
+      "regular": 23.98,
+      "premium": 29.24,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30059": {
+      "regular": 23.99,
+      "premium": 27.85,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30060": {
+      "regular": 23.99,
+      "premium": 28.0,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30061": {
+      "regular": 23.86,
+      "premium": 28.36,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "30062": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.94,
+      "stations": 1
+    },
+    "30063": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.99,
+      "stations": 1
+    },
+    "30065": {
+      "regular": 23.96,
+      "premium": 28.3,
+      "diesel": 27.0,
+      "stations": 17
+    },
+    "30066": {
+      "regular": 23.79,
+      "premium": null,
+      "diesel": 26.95,
+      "stations": 2
+    },
+    "30068": {
+      "regular": 23.94,
+      "premium": 28.2,
+      "diesel": 27.0,
+      "stations": 7
+    },
+    "30069": {
+      "regular": 23.98,
+      "premium": 29.13,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30070": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "30071": {
+      "regular": 23.99,
+      "premium": 29.09,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30072": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30073": {
+      "regular": 23.99,
+      "premium": 27.69,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30074": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "30075": {
+      "regular": 23.99,
+      "premium": 26.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30077": {
+      "regular": 23.82,
+      "premium": 27.43,
+      "diesel": 26.99,
+      "stations": 7
+    },
+    "30081": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30082": {
+      "regular": 23.74,
+      "premium": 27.64,
+      "diesel": 26.98,
+      "stations": 2
+    },
+    "30083": {
+      "regular": 24.0,
+      "premium": 28.46,
+      "diesel": 27.33,
+      "stations": 3
+    },
+    "30085": {
+      "regular": 23.98,
+      "premium": 28.42,
+      "diesel": 27.02,
+      "stations": 5
+    },
+    "30086": {
+      "regular": 23.51,
+      "premium": 28.22,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30087": {
+      "regular": 23.71,
+      "premium": 28.2,
+      "diesel": 26.97,
+      "stations": 38
+    },
+    "30089": {
+      "regular": 23.95,
+      "premium": 27.68,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30090": {
+      "regular": 23.54,
+      "premium": 27.14,
+      "diesel": 26.97,
+      "stations": 1
+    },
+    "30091": {
+      "regular": 23.89,
+      "premium": 27.87,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30092": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "30093": {
+      "regular": 23.99,
+      "premium": 28.19,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30094": {
+      "regular": 23.91,
+      "premium": 27.6,
+      "diesel": 27.08,
+      "stations": 5
+    },
+    "30097": {
+      "regular": 23.64,
+      "premium": 27.49,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30099": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30100": {
+      "regular": 23.74,
+      "premium": 25.98,
+      "diesel": 26.75,
+      "stations": 2
+    },
+    "30101": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30102": {
+      "regular": 23.94,
+      "premium": 28.93,
+      "diesel": 26.99,
+      "stations": 17
+    },
+    "30104": {
+      "regular": 23.75,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "30105": {
+      "regular": 23.65,
+      "premium": 27.51,
+      "diesel": 26.94,
+      "stations": 23
+    },
+    "30108": {
+      "regular": 23.64,
+      "premium": 27.69,
+      "diesel": 27.06,
+      "stations": 22
+    },
+    "30109": {
+      "regular": 23.95,
+      "premium": 28.96,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "30111": {
+      "regular": 24.0,
+      "premium": 28.76,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30112": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30114": {
+      "regular": 23.99,
+      "premium": 28.95,
+      "diesel": 27.2,
+      "stations": 1
+    },
+    "30115": {
+      "regular": 23.99,
+      "premium": 28.27,
+      "diesel": 27.06,
+      "stations": 5
+    },
+    "30116": {
+      "regular": 23.94,
+      "premium": 27.88,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30117": {
+      "regular": 23.86,
+      "premium": 28.06,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30118": {
+      "regular": 23.9,
+      "premium": 28.41,
+      "diesel": 26.99,
+      "stations": 16
+    },
+    "30120": {
+      "regular": 23.99,
+      "premium": 27.85,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30121": {
+      "regular": 23.99,
+      "premium": 27.78,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30123": {
+      "regular": 23.94,
+      "premium": 27.88,
+      "diesel": 27.0,
+      "stations": 15
+    },
+    "30124": {
+      "regular": 23.99,
+      "premium": 29.03,
+      "diesel": 27.0,
+      "stations": 13
+    },
+    "30125": {
+      "regular": 23.96,
+      "premium": 27.55,
+      "diesel": 26.97,
+      "stations": 3
+    },
+    "30126": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30128": {
+      "regular": 23.95,
+      "premium": 28.57,
+      "diesel": 26.98,
+      "stations": 9
+    },
+    "30129": {
+      "regular": 23.95,
+      "premium": 27.75,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "30130": {
+      "regular": 23.9,
+      "premium": 28.38,
+      "diesel": 26.89,
+      "stations": 5
+    },
+    "30131": {
+      "regular": 23.89,
+      "premium": 28.51,
+      "diesel": 26.99,
+      "stations": 28
+    },
+    "30132": {
+      "regular": 23.99,
+      "premium": 28.77,
+      "diesel": 27.05,
+      "stations": 4
+    },
+    "30133": {
+      "regular": 23.94,
+      "premium": 26.09,
+      "diesel": 26.43,
+      "stations": 4
+    },
+    "30134": {
+      "regular": 23.92,
+      "premium": 28.18,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "30135": {
+      "regular": 23.99,
+      "premium": 28.3,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30136": {
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30138": {
+      "regular": 23.99,
+      "premium": 28.34,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30141": {
+      "regular": 24.18,
+      "premium": 28.78,
+      "diesel": 27.18,
+      "stations": 9
+    },
+    "30142": {
+      "regular": 23.78,
+      "premium": 27.44,
+      "diesel": 26.98,
+      "stations": 3
+    },
+    "30143": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30144": {
+      "regular": 23.86,
+      "premium": 28.09,
+      "diesel": 27.07,
+      "stations": 7
+    },
+    "30145": {
+      "regular": 23.9,
+      "premium": 27.38,
+      "diesel": 26.97,
+      "stations": 3
+    },
+    "30148": {
+      "regular": 23.87,
+      "premium": 27.49,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30150": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "30151": {
+      "regular": 23.98,
+      "premium": 29.24,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30152": {
+      "regular": 23.99,
+      "premium": 27.8,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30155": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30157": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30158": {
+      "regular": 23.99,
+      "premium": 28.59,
+      "diesel": 26.99,
+      "stations": 4
+    },
+    "30160": {
+      "regular": 23.98,
+      "premium": 29.1,
+      "diesel": 27.0,
+      "stations": 13
+    },
+    "30161": {
+      "regular": 23.98,
+      "premium": 27.69,
+      "diesel": 27.0,
+      "stations": 4
+    },
+    "30164": {
+      "regular": 23.99,
+      "premium": 28.5,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30167": {
+      "regular": 23.99,
+      "premium": 28.3,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30169": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30172": {
+      "regular": 23.55,
+      "premium": 27.15,
+      "diesel": 26.89,
+      "stations": 2
+    },
+    "30173": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30174": {
+      "regular": 23.79,
+      "premium": 27.74,
+      "diesel": 26.98,
+      "stations": 13
+    },
+    "30175": {
+      "regular": 23.98,
+      "premium": 28.74,
+      "diesel": 27.01,
+      "stations": 15
+    },
+    "30176": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30178": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "30181": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30183": {
+      "regular": 23.97,
+      "premium": 28.61,
+      "diesel": 26.99,
+      "stations": 5
+    },
+    "30185": {
+      "regular": 23.99,
+      "premium": 28.3,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30188": {
+      "regular": 23.99,
+      "premium": 28.69,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30189": {
+      "regular": 23.92,
+      "premium": 28.4,
+      "diesel": 26.99,
+      "stations": 24
+    },
+    "30191": {
+      "regular": 23.93,
+      "premium": 27.84,
+      "diesel": 26.98,
+      "stations": 5
+    },
+    "30192": {
+      "regular": 23.98,
+      "premium": 29.09,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30193": {
+      "regular": 23.45,
+      "premium": 27.38,
+      "diesel": 26.88,
+      "stations": 90
+    },
+    "30196": {
+      "regular": 23.99,
+      "premium": 28.53,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "30199": {
+      "regular": 23.97,
+      "premium": 28.79,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30200": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "30201": {
+      "regular": 24.0,
+      "premium": 28.96,
+      "diesel": 26.95,
+      "stations": 2
+    },
+    "30204": {
+      "regular": 23.92,
+      "premium": 27.9,
+      "diesel": 27.2,
+      "stations": 7
+    },
+    "30205": {
+      "regular": 23.9,
+      "premium": 27.95,
+      "diesel": 26.24,
+      "stations": 2
+    },
+    "30206": {
+      "regular": 23.69,
+      "premium": 27.69,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "30207": {
+      "regular": 23.95,
+      "premium": 28.07,
+      "diesel": 26.85,
+      "stations": 7
+    },
+    "30208": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30209": {
+      "regular": 23.99,
+      "premium": 27.72,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "30210": {
+      "regular": 23.99,
+      "premium": 28.79,
+      "diesel": 27.21,
+      "stations": 2
+    },
+    "30211": {
+      "regular": 23.99,
+      "premium": 28.92,
+      "diesel": 27.07,
+      "stations": 3
+    },
+    "31002": {
+      "regular": 24.39,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31003": {
+      "regular": 24.89,
+      "premium": 28.84,
+      "diesel": 27.7,
+      "stations": 2
+    },
+    "31004": {
+      "regular": 24.25,
+      "premium": 28.17,
+      "diesel": 27.2,
+      "stations": 2
+    },
+    "31006": {
+      "regular": 24.69,
+      "premium": 28.74,
+      "diesel": null,
+      "stations": 1
+    },
+    "31007": {
+      "regular": 23.99,
+      "premium": 28.0,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31009": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31011": {
+      "regular": 24.89,
+      "premium": 27.94,
+      "diesel": 27.7,
+      "stations": 2
+    },
+    "31013": {
+      "regular": 24.39,
+      "premium": 28.43,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "31015": {
+      "regular": 23.59,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31019": {
+      "regular": 24.14,
+      "premium": 27.61,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31024": {
+      "regular": 23.98,
+      "premium": null,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "31027": {
+      "regular": 23.99,
+      "premium": 27.5,
+      "diesel": null,
+      "stations": 1
+    },
+    "31028": {
+      "regular": 23.99,
+      "premium": null,
+      "diesel": null,
+      "stations": 2
+    },
+    "31029": {
+      "regular": null,
+      "premium": null,
+      "diesel": 26.19,
+      "stations": 1
+    },
+    "31032": {
+      "regular": 23.79,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31033": {
+      "regular": 24.59,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31035": {
+      "regular": 23.48,
+      "premium": 27.38,
+      "diesel": 26.98,
+      "stations": 1
+    },
+    "31038": {
+      "regular": 24.43,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "31039": {
+      "regular": 24.29,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31040": {
+      "regular": 24.39,
+      "premium": 28.44,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "31041": {
+      "regular": 23.83,
+      "premium": 27.81,
+      "diesel": 26.97,
+      "stations": 21
+    },
+    "31042": {
+      "regular": 24.79,
+      "premium": 28.99,
+      "diesel": 27.89,
+      "stations": 1
+    },
+    "31044": {
+      "regular": 23.99,
+      "premium": 27.49,
+      "diesel": null,
+      "stations": 1
+    },
+    "31045": {
+      "regular": 24.39,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31048": {
+      "regular": 24.49,
+      "premium": 28.04,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31050": {
+      "regular": 24.11,
+      "premium": 28.14,
+      "diesel": 27.0,
+      "stations": 171
+    },
+    "31052": {
+      "regular": 24.32,
+      "premium": 28.27,
+      "diesel": 27.49,
+      "stations": 6
+    },
+    "31053": {
+      "regular": 24.34,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31056": {
+      "regular": 24.57,
+      "premium": 28.67,
+      "diesel": 27.39,
+      "stations": 6
+    },
+    "31057": {
+      "regular": 23.99,
+      "premium": 27.99,
+      "diesel": null,
+      "stations": 1
+    },
+    "31058": {
+      "regular": 24.89,
+      "premium": 28.59,
+      "diesel": 27.73,
+      "stations": 3
+    },
+    "31059": {
+      "regular": 24.12,
+      "premium": 28.19,
+      "diesel": 27.0,
+      "stations": 14
+    },
+    "31061": {
+      "regular": 24.64,
+      "premium": 27.99,
+      "diesel": null,
+      "stations": 1
+    },
+    "31065": {
+      "regular": 24.04,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "31067": {
+      "regular": 24.39,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31069": {
+      "regular": 24.79,
+      "premium": 28.99,
+      "diesel": 27.89,
+      "stations": 1
+    },
+    "31070": {
+      "regular": 24.0,
+      "premium": 28.49,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31074": {
+      "regular": 24.39,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31075": {
+      "regular": 24.89,
+      "premium": 28.44,
+      "diesel": 27.7,
+      "stations": 1
+    },
+    "31076": {
+      "regular": 23.98,
+      "premium": 27.93,
+      "diesel": null,
+      "stations": 1
+    },
+    "31078": {
+      "regular": 23.49,
+      "premium": null,
+      "diesel": null,
+      "stations": 1
+    },
+    "31079": {
+      "regular": 24.53,
+      "premium": 28.66,
+      "diesel": 27.52,
+      "stations": 5
+    },
+    "31082": {
+      "regular": 24.2,
+      "premium": 28.04,
+      "diesel": 27.2,
+      "stations": 2
+    },
+    "31083": {
+      "regular": 24.29,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31084": {
+      "regular": 23.94,
+      "premium": 27.44,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31085": {
+      "regular": 24.24,
+      "premium": 28.19,
+      "diesel": 27.5,
+      "stations": 2
+    },
+    "31089": {
+      "regular": 24.53,
+      "premium": 28.66,
+      "diesel": 27.41,
+      "stations": 5
+    },
+    "31091": {
+      "regular": 24.84,
+      "premium": 27.99,
+      "diesel": 27.89,
+      "stations": 2
+    },
+    "31093": {
+      "regular": 24.29,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "31095": {
+      "regular": 24.29,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31096": {
+      "regular": 24.12,
+      "premium": 28.09,
+      "diesel": 27.2,
+      "stations": 11
+    },
+    "31098": {
+      "regular": 23.99,
+      "premium": 27.19,
+      "diesel": 27.74,
+      "stations": 2
+    },
+    "31100": {
+      "regular": 24.39,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "31101": {
+      "regular": 23.88,
+      "premium": 27.84,
+      "diesel": 27.0,
+      "stations": 14
+    },
+    "31102": {
+      "regular": 24.3,
+      "premium": 28.05,
+      "diesel": 27.49,
+      "stations": 19
+    },
+    "32001": {
+      "regular": null,
+      "premium": 29.3,
+      "diesel": null,
+      "stations": 1
+    },
+    "32003": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.5,
+      "stations": 1
+    },
+    "32004": {
+      "regular": 24.0,
+      "premium": 29.99,
+      "diesel": 27.2,
+      "stations": 1
+    },
+    "32005": {
+      "regular": 23.98,
+      "premium": 28.61,
+      "diesel": 27.0,
+      "stations": 6
+    },
+    "32006": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "32007": {
+      "regular": 24.39,
+      "premium": 28.64,
+      "diesel": 27.24,
+      "stations": 5
+    },
+    "32008": {
+      "regular": 23.99,
+      "premium": 29.99,
+      "diesel": 27.99,
+      "stations": 2
+    },
+    "32009": {
+      "regular": 24.77,
+      "premium": null,
+      "diesel": 28.49,
+      "stations": 2
+    },
+    "32010": {
+      "regular": 23.92,
+      "premium": 28.79,
+      "diesel": 26.99,
+      "stations": 39
+    },
+    "32011": {
+      "regular": 24.0,
+      "premium": 29.39,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "32013": {
+      "regular": 23.99,
+      "premium": 28.67,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "32014": {
+      "regular": 24.33,
+      "premium": 28.85,
+      "diesel": 27.65,
+      "stations": 3
+    },
+    "32016": {
+      "regular": 23.97,
+      "premium": 28.69,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "32017": {
+      "regular": 23.96,
+      "premium": 28.85,
+      "diesel": 27.01,
+      "stations": 28
+    },
+    "32019": {
+      "regular": 23.86,
+      "premium": 28.87,
+      "diesel": 27.03,
+      "stations": 4
+    },
+    "32020": {
+      "regular": 23.99,
+      "premium": 28.58,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "32022": {
+      "regular": 23.99,
+      "premium": 28.73,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "32023": {
+      "regular": 23.96,
+      "premium": 28.75,
+      "diesel": 27.46,
+      "stations": 3
+    },
+    "32024": {
+      "regular": 23.94,
+      "premium": 28.81,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "32025": {
+      "regular": 23.91,
+      "premium": 28.84,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "32026": {
+      "regular": 24.09,
+      "premium": 29.36,
+      "diesel": 27.16,
+      "stations": 3
+    },
+    "32029": {
+      "regular": 23.71,
+      "premium": 28.06,
+      "diesel": 26.36,
+      "stations": 7
+    },
+    "32030": {
+      "regular": 23.99,
+      "premium": 29.3,
+      "diesel": 27.47,
+      "stations": 1
+    },
+    "32031": {
+      "regular": 23.89,
+      "premium": 28.7,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "32032": {
+      "regular": 23.96,
+      "premium": 28.72,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "32033": {
+      "regular": 24.0,
+      "premium": 29.3,
+      "diesel": 27.45,
+      "stations": 1
+    },
+    "32034": {
+      "regular": 23.99,
+      "premium": 29.62,
+      "diesel": 27.07,
+      "stations": 7
+    },
+    "32036": {
+      "regular": 23.99,
+      "premium": 28.89,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "32037": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "32038": {
+      "regular": 23.91,
+      "premium": 28.39,
+      "diesel": 27.0,
+      "stations": 5
+    },
+    "32039": {
+      "regular": 24.25,
+      "premium": 28.57,
+      "diesel": 27.17,
+      "stations": 9
+    },
+    "32040": {
+      "regular": 23.97,
+      "premium": 28.99,
+      "diesel": 27.0,
+      "stations": 2
+    },
+    "32042": {
+      "regular": 24.17,
+      "premium": 28.99,
+      "diesel": 27.21,
+      "stations": 7
+    },
+    "32044": {
+      "regular": 23.96,
+      "premium": 29.69,
+      "diesel": 26.99,
+      "stations": 2
+    },
+    "32045": {
+      "regular": 23.99,
+      "premium": 29.2,
+      "diesel": 27.24,
+      "stations": 2
+    },
+    "32047": {
+      "regular": 23.99,
+      "premium": 29.51,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "32048": {
+      "regular": 23.99,
+      "premium": 28.99,
+      "diesel": 27.38,
+      "stations": 4
+    },
+    "32049": {
+      "regular": 23.99,
+      "premium": 29.01,
+      "diesel": 27.08,
+      "stations": 6
+    },
+    "32051": {
+      "regular": 23.95,
+      "premium": 28.79,
+      "diesel": 27.05,
+      "stations": 5
+    },
+    "32053": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 1
+    },
+    "32054": {
+      "regular": 24.0,
+      "premium": null,
+      "diesel": 27.0,
+      "stations": 3
+    },
+    "32055": {
+      "regular": 23.98,
+      "premium": 29.18,
+      "diesel": 27.09,
+      "stations": 5
+    },
+    "32056": {
+      "regular": 24.0,
+      "premium": 29.23,
+      "diesel": 27.01,
+      "stations": 23
+    },
+    "32057": {
+      "regular": 23.99,
+      "premium": 28.69,
+      "diesel": 26.99,
+      "stations": 1
+    },
+    "32058": {
+      "regular": 24.0,
+      "premium": 29.45,
+      "diesel": 27.6,
+      "stations": 1
+    }
+  },
+  "citation": {
+    "source": "cre",
+    "source_name": "Comisión Reguladora de Energía, precios de gasolinas y diésel reportados por los permisionarios",
+    "url": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
+    "places_url": "https://publicacionexterna.azurewebsites.net/publicaciones/places",
+    "published_at": null,
+    "retrieved_at": "2026-11-07T17:37:46Z"
+  }
+}

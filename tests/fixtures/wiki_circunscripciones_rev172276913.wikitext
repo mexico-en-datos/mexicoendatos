@@ -1,0 +1,133 @@
+Las cinco '''circunscripciones electorales de México''' son [[Circunscripción plurinominal|plurinominales]], es decir, que en cada una de ellas son electos más de un diputado federal (40) mediante el principio de [[Escrutinio proporcional plurinominal|representación proporcional]]. 
+
+Estos diputados, sumados a los electos de manera directa en cada distrito electoral (60 +/- 1) por circunscripción forman el total de 100 miembros de cada una de las 5 circunscripciones de la [[Cámara de Diputados de México|Cámara de Diputados]].
+
+Los estados que conforman  las circunscripciones se modificada antes de cada proceso electoral de acorde con los cambios poblacionales de para mantener cantidades de población cercanas entre circunscripciones. 
+
+En la distribución para las [[Elecciones federales de México de 2024|elecciones de 2024]], vigente desde el 29 de marzo de 2023, 2 estados cambiaron de circunscripción: 
+*[[Estado de Hidalgo|Hidalgo]] pasó de la 5ª a la 4ª y
+*[[Querétaro]] pasó de la 2ª a la 5ª.
+
+[[Imagen:Circunscripciones Plurinominales México 2023.svg|center|700px|Mapa de México dividido por estados]]
+
+==Listas de candidatos==
+Todos los votos acumulados en cada una de las 5 circunscripciones determinan la selección de los diputados por representación proporcional, mediante 5 listas de candidatos registradas por cada [[Partidos políticos de México|partido político]] sin voto  directo del pueblo.
+ 
+Para que estos puestos sean dados por voto popular se ha puesto eliminar dichas listas de partido y remplazarlas por los candidatos más votados de cada partido que no quedaron en primer lugar en su distrito. Dando más valor al voto del pueblo que a la decisión interna del partido.
+
+== Organización de las circunscripciones==
+<!-- Tabla de los estados -->
+{| class="wikitable" style="margin:0 auto"
+|- bgcolor=#efefef align=center
+| colspan="3" | '''Circunscripción''' 
+|rowspan=2| '''[[Anexo:Entidades federativas de México|Entidades federativas]]  y [[Distritos electorales federales de México|distritos electorales federales]]''' 
+|rowspan=2| '''Habitantes en 2020 (habs.)  y distritos totales (dttos.) 
+|- bgcolor=#efefef align=center
+| '''N.º'''
+| '''Cabecera''' 
+!Sala
+|-
+| '''1.ª'''
+| [[Guadalajara (México)|Guadalajara]] 
+| Sala Regional Guadalajara del Tribunal Electoral del Poder Judicial de la Federación
+| {{lista horizontal|
+* [[Baja California]] 9 dttos.
+* [[Baja California Sur]] 2 dttos.
+* [[Chihuahua]] 9 dttos.
+* [[Durango]] 4 dttos.
+* [[Jalisco]] 20 dttos.
+* [[Nayarit]] 3 dttos.
+* [[Sinaloa]] 7 dttos.
+* [[Sonora]] 7 dttos.
+}}
+| 25,697,376 habs.
+61 dttos.
+|- 
+| '''2.ª'''
+| [[Monterrey]] 
+| Sala Regional Monterrey del Tribunal Electoral del Poder Judicial de la Federación
+| {{lista horizontal|
+* [[Aguascalientes]] 3 dttos.
+* [[Coahuila]] 8 dttos.
+* [[Guanajuato]] 15 dttos.
+* [[Nuevo León]] 14 dttos.
+* [[San Luis Potosí]] 7 dttos.
+* [[Tamaulipas]] 8 dttos.
+* [[Zacatecas]] 4 dttos.
+}}
+| 24,495,882 habs.
+59 dttos.
+|- 
+|'''3.ª'''
+| [[Xalapa]]
+| Sala Regional Xalapa del Tribunal Electoral del Poder Judicial de la Federación
+| {{lista horizontal|
+* [[Campeche]] 2 dttos.
+* [[Chiapas]] 13 dttos.
+* [[Oaxaca]] 10 dttos.
+* [[Quintana Roo]] 4 dttos.
+* [[Tabasco]] 6 dttos.
+* [[Veracruz]] 19 dttos.
+* [[Yucatán]] 6 dttos.
+}}
+| 25,248,399 habs.
+60 dttos.
+|- 
+| '''4.ª'''
+| [[Ciudad de México]]
+| Sala Regional Ciudad de México del Tribunal Electoral del Poder Judicial de la Federación
+| {{lista horizontal|
+* [[Ciudad de México]] 22 dttos.
+* [[Estado de Guerrero|Guerrero]] 8 dttos.
+* [[Estado de Hidalgo|Hidalgo]] 7 dttos.
+* [[Morelos]] 5 dttos.
+* [[Puebla]] 16 dttos.
+* [[Tlaxcala]] 3 dttos.
+}}
+| 25,731,245 habs.
+61 dttos.
+|- 
+| '''5.ª'''
+| [[Toluca]]
+| Sala Regional Toluca del Tribunal Electoral del Poder Judicial de la Federación
+| {{lista horizontal|
+* [[Colima]] 2 dttos.
+* [[Estado de México]] 40 dttos.
+* [[Michoacán]] 11 dttos.
+* [[Querétaro]] 6 dttos.
+}}
+| 24,841,122 habs.
+59 dttos.
+|-
+|}
+<!-- Fin de la tabla -->
+
+==Iniciativa de listas estatales ==
+Explica la iniciativa que para determinar el número de curules de cada estado, se dividirá el número total de personas mexicanas, fijado conforme al último censo general de población, entre el número total de diputaciones (300); 
+el resultado de esta operación será el cociente de distribución base para asignar el número de diputaciones que corresponderá a la lista de cada estado.
+
+Bajo este método de elección cada estado tendría los mismos diputados federales que los de [[Distritos electorales federales de México|distritos]] actuales pero reemplazados por listas estatales.
+
+La elección por listas obligaría a las personas candidatas a hacer campaña territorial en cada estado, contrario a lo que ocurre con las actuales cinco listas de las circunscripciones plurinominales. 
+
+Al votarse en cada entidad, las listas estarían integradas por personas nacidas en la entidad federativa o por residentes con antigüedad domiciliaria mínima de un año.
+
+Los partidos políticos presentarían listas por estados y de acuerdo a la proporción de votos que saquen se asignarían las diputaciones que les corresponden en cada uno. El sistema se hace proporcional a nivel estatal.
+
+Así ninguna entidad federativa podría estar representada en la Cámara de Diputados por una lista de menos de 2, actualmente [[Baja California Sur]]. Mientras que el estado con mayor número de diputados federales seguiría siendo el [[Estado de México]], con 40. 
+
+El Senado sería integrado por 96 senadurías —tres por cada entidad federativa—  pero elegidas por lista. Manteniendo aumentando el peso de los estados menos poblados en este organismo.
+
+== Véase también ==
+*[[Elecciones federales de México de 2024]]
+*[[Instituto Federal Electoral (México)]]
+*[[Política de México]]
+*[[Regiones de México]]
+
+== Enlaces externos ==
+*[https://web.archive.org/web/20170418220413/http://www.ife.org.mx/documentos/DERFE/Cartografia/Circunscripciones_Electorales.html Circunscripciones electorales (IFE)]
+*[https://web.archive.org/web/20120801204610/http://www.ife.org.mx/docs/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2011/septiembre/CGex201109-14_1/CGe140911ap8.pdf Acuerdo del Consejo General del Instituto Federal Electoral por el que se aprueba mantener (…) las cinco circunscripciones plurinominales]
+*[https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Poblacion_Poblacion_01_e60cd8cf-927f-4b94-823e-972457a12d4b Población por entidad federativa (Censo 2020 INEGI)]
+{{Control de autoridades}}
+[[Categoría:Política de México]]
+[[Categoría:Regiones de México]]
