@@ -1,41 +1,19 @@
 # México en datos
 
-A map of Mexico with all its municipalities, showing what each place is and who
-runs it: population and dwellings, each state's GDP and its rank, homicide
-victims this year and last, today's gasoline and diesel prices, and who governs
-and represents it (governor, senators, deputy, municipal president), the
-Presidency and its cabinet, and the three elected bodies of the federal
-judiciary (Supreme Court, Tribunal Electoral, Tribunal de Disciplina Judicial).
+A map of Mexico, down to its 2,478 municipalities, with public figures for
+every place and who holds every office. Each figure and each name carries its
+source and the date it was read. No cookies, no tracking, no third-party code.
 
-The main page (`web/index.html`, "Explorar México") is one map you go into
-level by level. At the country level each state carries a star on its capital and a mark: a
-square for its governor and three circles for its senators, in party colours,
-and under them three grey bars (unemployment, homicide rate, gasoline price)
-whose height is the state's place among the 32. Inside a state, its cities of
-100,000 people or more are named on the map and listed in its data. Inside a state the map stays neutral and
-shows municipality lines and dashed federal-district lines together; pointing
-at a municipality names its president and the deputy of the district under the
-pointer. Each level's data is grouped as Población, Economía, Seguridad,
-Combustibles and Gobierno y representación, with ranks. The second page (`web/mapas-politicos.html`, "Mapas políticos")
-is one map per office, coloured by party, with every seat of the body shown
-drawn as a hemicycle with party counts and majorities. "Mapas económicos" (`web/mapas-economicos.html`) and "Mapas de seguridad"
-(`web/mapas-seguridad.html`) colour the map by one figure at a time (GDP,
-unemployment, poverty, income bands, gasoline price, homicides…) with a
-five-step scale and every state ranked. The last page
-(`web/poderes.html`, "Poderes de la Nación") shows the three powers: Legislativo (Senate and
-Chamber as hemicycles with counts and majorities), Ejecutivo (Presidency and
-cabinet) and Judicial (Supreme Court, Tribunal Electoral's Sala Superior and
-Tribunal de Disciplina Judicial, each with who presides it). Every page lists people by name
-only; clicking a seat or a name shows that person's data as one row per fact:
-office, party, where they were elected, term, schooling, source and, for
-legislators, the official email, phone and office of their seat as SIL lists
-them. `web/common.js` holds what the three pages share.
+Pages (`web/`):
+
+- **Explorar México** (`index.html`): country → state → district → municipality. Population, economy, security, fuel prices and government at each level, with ranks; capitals and cities of 100,000+ on the map.
+- **Mapas políticos** (`mapas-politicos.html`): one map per office, coloured by party, with each chamber's seats and majorities.
+- **Mapas económicos** / **Mapas de seguridad** (`mapas-economicos.html`, `mapas-seguridad.html`): one map per figure, five-step scale, every state ranked.
+- **Poderes de la Nación** (`poderes.html`): the three powers; every seat and name opens that person's data.
 
 The site is meant to live at mexicoendatos.net; `DEPLOY.md` explains how to
-publish it without it pointing back at its author. Every person and every
-figure carries a citation: a link plus the date it was read.
-
-The page itself is in Spanish; the code and this file are in English.
+publish it without it pointing back at its author. The page is in Spanish; the
+code and this file are in English.
 
 ## Run it
 
