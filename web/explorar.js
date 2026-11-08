@@ -175,7 +175,7 @@
       return;
     }
     capitalMark.style("display", null).attr("transform", `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`);
-    capitalMark.select("text").text(`Capital: ${capital.capital}`);
+    capitalMark.select("text").text(capital.capital);
   }
 
   /** The federal district under the pointer, within a state; null over no district. */
