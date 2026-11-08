@@ -1,0 +1,689 @@
+Esta es una tabla, del número de habitantes de las ciudades más pobladas de [[México]], de acuerdo a los resultados de la Encuesta Intercensal de 2025 hecha por el [[Instituto Nacional de Estadística y Geografía|INEGI]]. En la siguiente tabla, están todas las ciudades mexicanas con más de 100 000 habitantes.<ref name=":0">{{cita web|título=Encuesta Intercensal (EIC) 2025|url=https://www.inegi.org.mx/programas/eic/2025/|sitioweb=[[Instituto Nacional de Estadística y Geografía|INEGI]]|fechaacceso=6 de noviembre de 2026}}</ref><ref>{{cita web|título=Sistema para la Consulta de Información Intercensal (SCIINCE 2025)|url=https://gaia.inegi.org.mx/sciince2025|sitioweb=[[Instituto Nacional de Estadística y Geografía|INEGI]]|fechaacceso=6 de noviembre de 2026}}</ref>
+
+Cabe señalar que los datos corresponden únicamente a la población de la ciudad (localidad), no a la del municipio completo, ya que, en muchos casos, estas ciudades son cabeceras municipales de su respectivo municipio y tienen el mismo nombre. Además, algunas veces comparten el mismo territorio, por lo que sus límites coinciden y suele confundirse la población de ambos.
+
+== Ciudades más pobladas de México ==
+
+El <font style="background:#f5f6ce"> sombreado terroso</font> destaca las 32 capitales de las entidades federativas y la '''negrita''' las localidades más pobladas de cada estado, 22 localidades son a la vez capital y ciudad más poblada de su respectivo estado; las únicas capitales que no alcanzan los {{unidad|100000|habitantes}} son [[Guanajuato (Guanajuato)|Guanajuato]] capital de Guanajuato con {{unidad|64097|hab.}} si se le considera solamente la cabecera municipal y capital estatal, sin contar las localidades del municipio conurbadas con la cabecera, y [[Tlaxcala de Xicohténcatl]] capital de [[Tlaxcala]]. El estado de Tlaxcala es el único que no tiene ninguna ciudad de más {{unidad|100000|hab.}}
+
+{| class="wikitable sortable" style="margin:auto; font-size:95%;"
+! colspan="7" style="background:#2b2b2b; color:#ffffff; font-size:110%;" | Ciudades más pobladas de México<br><small>(100 000 habitantes o más según la Encuesta Intercensal de 2025)</small>
+|-
+!
+!
+! Ciudad
+! Población
+! Entidad Federativa
+! Área metropolitana
+! Región
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 001 || bgcolor=#d8d8d8 | CDMX-01 || '''[[Ciudad de México]]'''
+| align=right | {{formatnum:9165819}} || {{Bandera2|Ciudad de México}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 002 || bgcolor=#d8d8d8 | BCN-01 || '''[[Tijuana]]'''
+| align=right | {{formatnum:1914035}} || {{MEX|BCN}}
+| [[Zona metropolitana de Tijuana|Tijuana]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 003 || bgcolor=#d8d8d8 | GUA-01 || '''[[León (Guanajuato)|León de los Aldama]]'''
+| align=right | {{formatnum:1656702}} || {{MEX|GUA}}
+| [[Zona metropolitana de León (México)|León]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 004 || bgcolor=#d8d8d8 | MEX-01 || '''[[Ecatepec de Morelos]]'''
+| align=right | {{formatnum:1650330}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 005 || bgcolor=#d8d8d8 | CHH-01 || '''[[Ciudad Juárez]]'''
+| align=right | {{formatnum:1585983}} || {{MEX|CHH}}
+| [[Municipio de Juárez (Chihuahua)|Juárez]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 006 || bgcolor=#d8d8d8 | PUE-01 || '''[[Puebla de Zaragoza]]'''
+| align=right | {{formatnum:1519878}} || {{MEX|PUE}}
+| [[Zona metropolitana de Puebla-Tlaxcala|Puebla-Tlaxcala]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 007 || bgcolor=#d8d8d8 | JAL-01 || '''[[Zapopan]]'''
+| align=right | {{formatnum:1317146}} || {{MEX|JAL}}
+| [[Zona metropolitana de Guadalajara|Guadalajara]]
+|[[Occidente de México|Occidente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 008 || bgcolor=#d8d8d8 | JAL-02 || [[Guadalajara (México)|Guadalajara]]
+| align=right | {{formatnum:1244738}} || {{MEX|JAL}}
+| [[Zona metropolitana de Guadalajara|Guadalajara]]
+|[[Occidente de México|Occidente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 009 || bgcolor=#d8d8d8 | NLE-01 || '''[[Monterrey]]'''
+| align=right | {{formatnum:1135776}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 010 || bgcolor=#d8d8d8 | ROO-01 || '''[[Cancún]]'''
+| align=right | {{formatnum:998714}} || {{MEX|ROO}}
+| [[Zona metropolitana de Cancún|Cancún]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 011 || bgcolor=#d8d8d8 | MEX-02 || [[Ciudad Nezahualcóyotl|Ciudad Nezahualcóyotl]]
+| align=right | {{formatnum:995405}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 012 || bgcolor=#d8d8d8 | YUC-01 || '''[[Mérida (México)|Mérida]]'''
+| align=right | {{formatnum:967937}} || {{MEX|YUC}}
+| [[Zona metropolitana de Mérida|Mérida]]
+|[[Sureste de México|Sureste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 013 || bgcolor=#d8d8d8 | COA-01 || '''[[Saltillo]]'''
+| align=right | {{formatnum:959061}} || {{MEX|COA}}
+| [[Zona metropolitana de Saltillo|Saltillo]]
+|[[Noreste de México|Noreste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 014 || bgcolor=#d8d8d8 | CHH-02 || [[Chihuahua (Chihuahua)|Chihuahua]]
+| align=right | {{formatnum:951599}} || {{MEX|CHH}}
+| [[Zona metropolitana de Chihuahua|Chihuahua]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 015 || bgcolor=#d8d8d8 | AGU-01 || '''[[Aguascalientes (Aguascalientes)|Aguascalientes]]'''
+| align=right | {{formatnum:926164}} || {{MEX|AGU}}
+| [[Zona metropolitana de Aguascalientes|Aguascalientes]]
+|[[Centronorte de México|Centronorte]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 016 || bgcolor=#d8d8d8 | BCN-02 || [[Mexicali]]
+| align=right | {{formatnum:893378}} || {{MEX|BCN}}
+| [[Municipio de Mexicali|Mexicali]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 017 || bgcolor=#d8d8d8 | SON-01 || '''[[Hermosillo]]'''
+| align=right | {{formatnum:875581}} || {{MEX|SON}}
+| [[Municipio de Hermosillo|Hermosillo]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 018 || bgcolor=#d8d8d8 | MIC-01 || '''[[Morelia]]'''
+| align=right | {{formatnum:795244}} || {{MEX|MIC}}
+| [[Zona metropolitana de Morelia|Morelia]]
+|[[Occidente de México|Occidente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 019 || bgcolor=#d8d8d8 | SIN-01 || '''[[Culiacán Rosales]]'''
+| align=right | {{formatnum:780903}} || {{MEX|SIN}}
+| [[Municipio de Culiacán|Culiacán]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 020 || bgcolor=#d8d8d8 | QUE-01 || '''[[Santiago de Querétaro]]'''
+| align=right | {{formatnum:775103}} || {{MEX|QUE}}
+| [[Zona metropolitana de Querétaro|Querétaro]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 021 || bgcolor=#d8d8d8 | COA-02 || [[Torreón (Coahuila de Zaragoza)|Torreón]]
+| align=right | {{formatnum:771797}} || {{MEX|COA}}
+| [[Zona metropolitana de La Laguna|La Laguna]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 022 || bgcolor=#d8d8d8 | MEX-03 || [[Naucalpan de Juárez]] (municipio de Naucalpan)
+| align=right | {{formatnum:760229}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 023 || bgcolor=#d8d8d8 | MEX-04 || [[Santa María Chimalhuacán|Chimalhuacán]]
+| align=right | {{formatnum:730151}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 024 || bgcolor=#d8d8d8 | SLP-01 || '''[[San Luis Potosí (San Luis Potosí)|San Luis Potosí]]'''
+| align=right | {{formatnum:718108}} || {{MEX|SLP}}
+| [[Zona metropolitana de San Luis Potosí|San Luis Potosí]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 025 || bgcolor=#d8d8d8 | TAM-01 || '''[[Reynosa]]'''
+| align=right | {{formatnum:715182}} || {{MEX|TAM}}
+| [[Zona metropolitana de Reynosa|Reynosa]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 026 || bgcolor=#d8d8d8 | JAL-03 || [[Tlaquepaque]]
+| align=right | {{formatnum:694651}} || {{MEX|JAL}}
+| [[Zona metropolitana de Guadalajara|Guadalajara]]
+|[[Occidente de México|Occidente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 027 || bgcolor=#d8d8d8 | DUR-01 || '''[[Victoria de Durango]]'''
+| align=right | {{formatnum:681487}} || {{MEX|DUR}}
+| [[Municipio de Durango|Durango]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 028 || bgcolor=#d8d8d8 | MEX-05 || [[Ciudad de Tlalnepantla|Tlalnepantla]]
+| align=right | {{formatnum:646537}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 029 || bgcolor=#d8d8d8 | GRO-01 || '''[[Acapulco de Juárez]]'''
+| align=right | {{formatnum:640604}} || {{MEX|GRO}}
+| [[Zona metropolitana de Acapulco|Acapulco]]
+|[[Suroeste de México|Suroeste]]
+|-
+| bgcolor=#d8d8d8 | 030 || bgcolor=#d8d8d8 | NLE-02 || [[Guadalupe (Nuevo León)|Guadalupe]]
+| align=right | {{formatnum:623788}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 031 || bgcolor=#d8d8d8 | CHP-01 || '''[[Tuxtla Gutiérrez]]'''
+| align=right | {{formatnum:585264}} || {{MEX|CHP}}
+| [[Zona metropolitana de Tuxtla Gutiérrez|Tuxtla Gutiérrez]]
+|[[Suroeste de México|Suroeste]]
+|-
+| bgcolor=#d8d8d8 | 032 || bgcolor=#d8d8d8 | NLE-03 || [[Apodaca|Ciudad Apodaca]]
+| align=right | {{formatnum:569922}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 033 || bgcolor=#d8d8d8 | TAM-02 || [[Heroica Matamoros]]
+| align=right | {{formatnum:555267}} || {{MEX|TAM}}
+| [[Municipio de Matamoros (Tamaulipas)|Matamoros]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 034 || bgcolor=#d8d8d8 | MEX-06 || [[Cuautitlán Izcalli]]
+| align=right | {{formatnum:548372}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 035 || bgcolor=#d8d8d8 | MEX-07 || [[Ciudad López Mateos]]
+| align=right | {{formatnum:527895}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 036 || bgcolor=#d8d8d8 | SIN-02 || [[Mazatlán]]
+| align=right | {{formatnum:486880}} || {{MEX|SIN}}
+| [[Municipio de Mazatlán|Mazatlán]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 037 || bgcolor=#d8d8d8 | GUA-02 || [[Irapuato]]
+| align=right | {{formatnum:478652}} || {{MEX|GUA}}
+| [[Municipio de Irapuato|Irapuato]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 038 || bgcolor=#d8d8d8 | NLE-04 || [[Ciudad General Escobedo]]
+| align=right | {{formatnum:473796}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 039 || bgcolor=#d8d8d8 | JAL-04 || [[Tonalá (Jalisco)|Tonalá]]
+| align=right | {{formatnum:450699}} || {{MEX|JAL}}
+| [[Zona metropolitana de Guadalajara|Guadalajara]]
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 040 || bgcolor=#d8d8d8 | TAM-03 || [[Nuevo Laredo]]
+| align=right | {{formatnum:440199}} || {{MEX|TAM}}
+| [[Municipio de Nuevo Laredo|Nuevo Laredo]]
+|[[Noreste de México|Noreste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 041 || bgcolor=#d8d8d8 | VER-01 || '''[[Xalapa-Enríquez]]'''
+| align=right | {{formatnum:438388}} || {{MEX|VER}}
+| [[Zona metropolitana de Xalapa|Xalapa]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 042 || bgcolor=#d8d8d8 | NLE-05 || [[Ciudad Benito Juárez]]
+| align=right | {{formatnum:416299}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 043 || bgcolor=#d8d8d8 | MEX-08 || [[Ojo de Agua (Tecámac)|Ojo de Agua]]
+| align=right | {{formatnum:394192}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 044 || bgcolor=#d8d8d8 | VER-02 || [[Veracruz]] (municipio de Veracruz)
+| align=right | {{formatnum:386560}} || {{MEX|VER}}
+| [[Zona metropolitana de Veracruz|Veracruz]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 045 || bgcolor=#d8d8d8 | NLE-06 || [[San Nicolás de los Garza]]
+| align=right | {{formatnum:382034}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 046 || bgcolor=#d8d8d8 | MOR-01 || '''[[Cuernavaca]]'''
+| align=right | {{formatnum:378099}} || {{MEX|MOR}}
+| [[Zona metropolitana de Cuernavaca|Cuernavaca]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 047 || bgcolor=#d8d8d8 | MEX-09 || [[Ixtapaluca]]
+| align=right | {{formatnum:370592}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 048 || bgcolor=#d8d8d8 | NAY-01 || '''[[Tepic]]'''
+| align=right | {{formatnum:368798}} || {{MEX|NAY}}
+| [[Zona metropolitana de Tepic|Tepic]]
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 049 || bgcolor=#d8d8d8 | ROO-02 || [[Playa del Carmen]]
+| align=right | {{formatnum:367770}} || {{MEX|ROO}}
+| [[Municipio de Playa del Carmen|Playa del Carmen]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 050 || bgcolor=#d8d8d8 | GUA-03 || [[Celaya]]
+| align=right | {{formatnum:355273}} || {{MEX|GUA}}
+| [[Zona metropolitana de Celaya|Celaya]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 051 || bgcolor=#d8d8d8 | MEX-10 || [[Xico (Estado de México)|Xico]]
+| align=right | {{formatnum:353874}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 052 || bgcolor=#d8d8d8 | TAB-01 || '''[[Villahermosa (Tabasco)|Villahermosa]]'''
+| align=right | {{formatnum:347695}} || {{MEX|TAB}}
+| [[Zona metropolitana de Villahermosa|Villahermosa]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 053 || bgcolor=#d8d8d8 | BCN-03 || [[Ensenada (Baja California)|Ensenada]]
+| align=right | {{formatnum:346479}} || {{MEX|BCN}}
+| [[Municipio de Ensenada|Ensenada]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 054 || bgcolor=#d8d8d8 | SON-02 || [[Ciudad Obregón]]
+| align=right | {{formatnum:339136}} || {{MEX|SON}}
+| [[Municipio de Cajeme|Ciudad Obregón]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 055 || bgcolor=#d8d8d8 | TAM-04 || [[Ciudad Victoria]]
+| align=right | {{formatnum:337155}} || {{MEX|TAM}}
+| [[Municipio de Victoria (Tamaulipas)|Ciudad Victoria]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 056 || bgcolor=#d8d8d8 | DUR-02 || [[Gómez Palacio]]
+| align=right | {{formatnum:329483}} || {{MEX|DUR}}
+| [[Zona metropolitana de La Laguna|La Laguna]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 057 || bgcolor=#d8d8d8 | MEX-11 || [[Ciudad Nicolás Romero]]
+| align=right | {{formatnum:320942}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 058 || bgcolor=#d8d8d8 | NLE-07 || [[García (Nuevo León)|García]]
+| align=right | {{formatnum:320493}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 059 || bgcolor=#d8d8d8 | SLP-02 || [[Soledad de Graciano Sánchez]]
+| align=right | {{formatnum:320106}} || {{MEX|SLP}}
+| [[Zona Metropolitana de San Luis Potosí|San Luis Potosí]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 060 || bgcolor=#d8d8d8 | MIC-02 || [[Uruapan del Progreso|Uruapan]]
+| align=right | {{formatnum:315251}} || {{MEX|MIC}}
+| [[Municipio de Uruapan|Uruapan]]
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 061 || bgcolor=#d8d8d8 | SIN-03 || [[Los Mochis]]
+| align=right | {{formatnum:312041}} || {{MEX|SIN}}
+| [[Municipio de Ahome|Los Mochis]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 062 || bgcolor=#d8d8d8 | MEX-12 || [[San Francisco Coacalco]]
+| align=right | {{formatnum:311864}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 063 || bgcolor=#d8d8d8 | NLE-08 || [[Santa Catarina (Nuevo León)|Ciudad Santa Catarina]]
+| align=right | {{formatnum:305444}} || {{MEX|NLE}}
+| [[Zona Metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 064 || bgcolor=#d8d8d8 | PUE-02 || [[Tehuacán]]
+| align=right | {{formatnum:301107}} || {{MEX|PUE}}
+| [[Zona metropolitana de Tehuacán|Tehuacán]]
+|[[Oriente de México|Oriente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 065 || bgcolor=#d8d8d8 | HID-01 || '''[[Pachuca de Soto]]'''
+| align=right | {{formatnum:295546}} || {{MEX|HID}}
+| [[Zona metropolitana de Pachuca de Soto|Pachuca]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 066 || bgcolor=#d8d8d8 | SON-03 || [[Heroica Nogales]]
+| align=right | {{formatnum:287790}} || {{MEX|SON}}
+| [[Municipio de Nogales (Sonora)|Nogales]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 067 || bgcolor=#d8d8d8 | TAM-05 || [[Tampico]]
+| align=right | {{formatnum:286801}} || {{MEX|TAM}}
+| [[Zona metropolitana de Tampico|Tampico]]
+|[[Noreste de México|Noreste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 068 || bgcolor=#d8d8d8 | BCS-01 || '''[[La Paz (Baja California Sur)|La Paz]]'''
+| align=right | {{formatnum:277324}} || {{MEX|BCS}}
+| [[Municipio de La Paz (Baja California Sur)|La Paz]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 069 || bgcolor=#d8d8d8 | BCS-02 || [[Cabo San Lucas]]
+| align=right | {{formatnum:269302}} || {{MEX|BCS}}
+| [[Municipio de Los Cabos|Los Cabos]]
+|[[Noroeste de México|Noroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 070 || bgcolor=#d8d8d8 | OAX-01 || '''[[Oaxaca de Juárez]]'''
+| align=right | {{formatnum:250430}} || {{MEX|OAX}}
+| [[Zona metropolitana de Oaxaca|Oaxaca]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 071 || bgcolor=#d8d8d8 | CHP-02 || [[Tapachula|Tapachula de Córdova y Ordóñez]]
+| align=right | {{formatnum:248670}} || {{MEX|CHP}}
+| [[Municipio de Tapachula|Tapachula]]
+|[[Suroeste de México|Suroeste]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 072 || bgcolor=#d8d8d8 | CAM-01 || '''[[San Francisco de Campeche]]'''
+| align=right | {{formatnum:245335}} || {{MEX|CAM}}
+| [[Municipio de Campeche|Campeche]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 073 || bgcolor=#d8d8d8 | COA-03 || [[Monclova]]
+| align=right | {{formatnum:245282}} || {{MEX|COA}}
+| [[Zona metropolitana de Monclova-Frontera|Monclova-Frontera]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 074 || bgcolor=#d8d8d8 | JAL-05 || [[Puerto Vallarta]]
+| align=right | {{formatnum:232469}} || {{MEX|JAL}}
+| [[Zona metropolitana de Puerto Vallarta|Puerto Vallarta]]
+|[[Occidente de México|Occidente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 075 || bgcolor=#d8d8d8 | GRO-02 || [[Chilpancingo de los Bravo]]
+| align=right | {{formatnum:232036}} || {{MEX|GRO}}
+| [[Zona metropolitana de Chilpancingo|Chilpancingo]]
+|[[Suroeste de México|Suroeste]]
+|-
+| bgcolor=#d8d8d8 | 076 || bgcolor=#d8d8d8 | MEX-13 || [[Buenavista (Tultitlán)|Buenavista]]
+| align=right | {{formatnum:212628}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 077 || bgcolor=#d8d8d8 | MEX-14 || [[Toluca de Lerdo]]
+| align=right | {{formatnum:206569}} || {{MEX|MEX}}
+| [[Zona metropolitana del Valle de Toluca|Valle de Toluca]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 078 || bgcolor=#d8d8d8 | TAM-06 || [[Ciudad Madero]]
+| align=right | {{formatnum:197097}} || {{MEX|TAM}}
+| [[Zona metropolitana de Tampico|Tampico]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 079 || bgcolor=#d8d8d8 | VER-03 || [[Coatzacoalcos]]
+| align=right | {{formatnum:196626}} || {{MEX|VER}}
+| [[Zona metropolitana de Coatzacoalcos|Coatzacoalcos]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 080 || bgcolor=#d8d8d8 | CAM-02 || [[Ciudad del Carmen]]
+| align=right | {{formatnum:194482}} || {{MEX|CAM}}
+| —
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 081 || bgcolor=#d8d8d8 | QUE-02 || [[San Juan del Río (Querétaro)|San Juan del Río]]
+| align=right | {{formatnum:191793}} || {{MEX|QUE}}
+| —
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 082 || bgcolor=#d8d8d8 | MEX-15 || [[Chicoloapan de Juárez]]
+| align=right | {{formatnum:189585}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+||[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 083 || bgcolor=#d8d8d8 | ZAC-01 || '''[[Guadalupe (Zacatecas)|Guadalupe]]'''
+| align=right | {{formatnum:188911}} || {{MEX|ZAC}}
+| [[Zona metropolitana de Zacatecas|Zacatecas]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 084 || bgcolor=#d8d8d8 | CHP-03 || [[San Cristóbal de las Casas]]
+| align=right | {{formatnum:186807}} || {{MEX|CHP}}
+| —
+|[[Suroeste de México|Suroeste]]
+|-
+| bgcolor=#d8d8d8 | 085 || bgcolor=#d8d8d8 | JAL-06 || [[Hacienda Santa Fe]]
+| align=right | {{formatnum:186098}} || {{MEX|JAL}}
+| [[Zona metropolitana de Guadalajara|Guadalajara]]
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 086 || bgcolor=#d8d8d8 | COA-04 || [[Piedras Negras]]
+| align=right | {{formatnum:182564}} || {{MEX|COA}}
+| [[Zona metropolitana de Piedras Negras|Piedras Negras]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 087 || bgcolor=#d8d8d8 | BCS-03 || [[San José del Cabo]]
+| align=right | {{formatnum:180292}} || {{MEX|BCS}}
+| [[Municipio de Los Cabos|Los Cabos]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 088 || bgcolor=#d8d8d8 | SON-04 || [[San Luis Río Colorado]]
+| align=right | {{formatnum:179107}} || {{MEX|SON}}
+| —
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 089 || bgcolor=#d8d8d8 | YUC-02 || [[Kanasín]]
+| align=right | {{formatnum:175995}} || {{MEX|YUC}}
+| [[Zona metropolitana de Mérida|Mérida]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 090 || bgcolor=#d8d8d8 | COL-01 || '''[[Manzanillo]]'''
+| align=right | {{formatnum:173684}} || {{MEX|COL}}
+| —
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 091 || bgcolor=#d8d8d8 | COA-05 || [[Ciudad Acuña]]
+| align=right | {{formatnum:172600}} || {{MEX|COA}}
+| —
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 092 || bgcolor=#d8d8d8 | MEX-16 || [[Chalco de Díaz Covarrubias]]
+| align=right | {{formatnum:168080}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 093 || bgcolor=#d8d8d8 | TAM-07 || [[Miramar (Tamaulipas)|Miramar]]
+| align=right | {{formatnum:167715}} || {{MEX|TAM}}
+| [[Zona metropolitana de Tampico|Tampico]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 094 || bgcolor=#d8d8d8 | GUA-04 || [[Salamanca (Guanajuato)|Salamanca]]
+| align=right | {{formatnum:167609}} || {{MEX|GUA}}
+| —
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 095 || bgcolor=#d8d8d8 | MOR-02 || [[Jiutepec]]
+| align=right | {{formatnum:164079}} || {{MEX|MOR}}
+| [[Zona metropolitana de Cuernavaca|Cuernavaca]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 096 || bgcolor=#d8d8d8 | MEX-17 || [[Cuautitlán (estado de México)|Cuautitlán]]
+| align=right | {{formatnum:163629}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 097 || bgcolor=#d8d8d8 | MEX-18 || [[Naucalpan (Huixquilucan)|Naucalpan de Juárez]] (Municipio de Huixquilucan)
+| align=right | {{formatnum:162602}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 098 || bgcolor=#d8d8d8 | ROO-03 || [[Chetumal]]
+| align=right | {{formatnum:161894}} || {{MEX|ROO}}
+| [[Municipio de Othón P. Blanco|Chetumal]]
+|[[Sureste de México|Sureste]]
+|-
+| bgcolor=#d8d8d8 | 099 || bgcolor=#d8d8d8 | MIC-03 || [[Zamora de Hidalgo]]
+| align=right | {{formatnum:157167}} || {{MEX|MIC}}
+| [[Zona metropolitana de Zamora|Zamora]]
+|[[Occidente de México|Occidente]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 100 || bgcolor=#d8d8d8 | COL-02 || [[Colima (Colima)|Colima]]
+| align=right | {{formatnum:153675}} || {{MEX|COL}}
+| [[Zona metropolitana de Colima-Villa de Álvarez|Colima-Villa de Álvarez]]
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 101 || bgcolor=#d8d8d8 | COL-03 || [[Villa de Álvarez|Ciudad de Villa de Álvarez]]
+| align=right | {{formatnum:153463}} || {{MEX|COL}}
+| [[Zona metropolitana de Colima-Villa de Álvarez|Colima-Villa de Álvarez]]
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 102 || bgcolor=#d8d8d8 | MOR-03 || [[Cuautla (Morelos)|Cuautla]]
+| align=right | {{formatnum:147305}} || {{MEX|MOR}}
+| [[Zona metropolitana de Cuautla|Cuautla]]
+|[[Centrosur de México|Centrosur]]
+|- bgcolor=#f5f6ce
+| bgcolor=#d8d8d8 | 103 || bgcolor=#d8d8d8 | ZAC-02 || [[Zacatecas (Zacatecas)|Zacatecas]]
+| align=right | {{formatnum:147054}} || {{MEX|ZAC}}
+| [[Zona metropolitana de Zacatecas|Zacatecas]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 104 || bgcolor=#d8d8d8 | ZAC-03 || [[Fresnillo]]
+| align=right | {{formatnum:145320}} || {{MEX|ZAC}}
+| —
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 105 || bgcolor=#d8d8d8 | MEX-19 || [[San Pablo de las Salinas]]
+| align=right | {{formatnum:144259}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 106 || bgcolor=#d8d8d8 | VER-04 || [[Poza Rica de Hidalgo]]
+| align=right | {{formatnum:143540}} || {{MEX|VER}}
+| [[Zona metropolitana de Poza Rica|Poza Rica]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 107 || bgcolor=#d8d8d8 | SLP-03 || [[Villa de Pozos]]
+| align=right | {{formatnum:143070}} || {{MEX|SLP}}
+| [[Zona metropolitana de San Luis Potosí|San Luis Potosí]]
+||[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 108 || bgcolor=#d8d8d8 | CHH-03 || [[Ciudad Cuauhtémoc (Chihuahua)|Cuauhtémoc]]
+| align=right | {{formatnum:139501}} || {{MEX|CHH}}
+| —
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 109 || bgcolor=#d8d8d8 | VER-05 || [[Córdoba (México)|Córdoba]]
+| align=right | {{formatnum:137105}} || {{MEX|VER}}
+| [[Zona metropolitana de Córdoba|Córdoba]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 110 || bgcolor=#d8d8d8 | VER-06 || [[Veracruz (Boca del Río)|Veracruz]] (Municipio de Boca del Río)
+| align=right | {{formatnum:135478}} || {{MEX|VER}}
+| [[Zona metropolitana de Veracruz|Veracruz]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 111 || bgcolor=#d8d8d8 | CHH-04 || [[Delicias (Chihuahua)|Delicias]]
+| align=right | {{formatnum:134598}} || {{MEX|CHH}}
+| [[Zona metropolitana de Delicias|Delicias]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 112 || bgcolor=#d8d8d8 | GRO-03 || [[Iguala de la Independencia|Iguala de la Independencia]]
+| align=right | {{formatnum:133570}} || {{MEX|GRO}}
+| —
+|[[Suroeste de México|Suroeste]]
+|-
+| bgcolor=#d8d8d8 | 113 || bgcolor=#d8d8d8 | NLE-09 || [[San Pedro Garza García]]
+| align=right | {{formatnum:132933}} || {{MEX|NLE}}
+| [[Zona metropolitana de Monterrey|Monterrey]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 114 || bgcolor=#d8d8d8 | COA-06 || [[Ramos Arizpe]]
+| align=right | {{formatnum:131562}} || {{MEX|COA}}
+| [[Zona metropolitana de Saltillo|Saltillo]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 115 || bgcolor=#d8d8d8 | SLP-04 || [[Ciudad Valles]]
+| align=right | {{formatnum:127289}} || {{MEX|SLP}}
+| —
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 116 || bgcolor=#d8d8d8 | QUE-03 || [[Villa del Pueblito (Querétaro)|El Pueblito]]
+| align=right | {{formatnum:126163}} || {{MEX|QUE}}
+| [[Zona metropolitana de Querétaro|Querétaro]]
+|[[Centronorte de México|Centronorte]]
+|-
+| bgcolor=#d8d8d8 | 117 || bgcolor=#d8d8d8 | SON-05 || [[Navojoa]]
+| align=right | {{formatnum:125793}} || {{MEX|SON}}
+| —
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 118 || bgcolor=#d8d8d8 | PUE-03 || [[San Bernardino Tlaxcalancingo]]
+| align=right | {{formatnum:123945}} || {{MEX|PUE}}
+| [[Zona metropolitana de Puebla-Tlaxcala|Puebla-Tlaxcala]]
+||[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 119 || bgcolor=#d8d8d8 | BCN-04 || [[Playas de Rosarito|Playas de Rosarito]]
+| align=right | {{formatnum:123234}} || {{MEX|BCN}}
+| [[Zona metropolitana de Tijuana|Tijuana]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 120 || bgcolor=#d8d8d8 | TAM-08 || [[Río Bravo (Tamaulipas)|Ciudad Río Bravo]]
+| align=right | {{formatnum:120006}} || {{MEX|TAM}}
+| [[Zona metropolitana de Reynosa|Reynosa]]
+|[[Noreste de México|Noreste]]
+|-
+| bgcolor=#d8d8d8 | 121 || bgcolor=#d8d8d8 | MEX-20 || [[Tepexpan]]
+| align=right | {{formatnum:119334}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 122 || bgcolor=#d8d8d8 | JAL-07 || [[Ciudad Guzmán]]
+| align=right | {{formatnum:118876}} || {{MEX|JAL}}
+| —
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 123 || bgcolor=#d8d8d8 | CHP-04 || [[Comitán de Domínguez]]
+| align=right | {{formatnum:117347}} || {{MEX|CHP}}
+| —
+|[[Suroeste de México|Suroeste]]
+|-
+| bgcolor=#d8d8d8 | 124 || bgcolor=#d8d8d8 | SON-06 || [[Guaymas|Heroica Guaymas]]
+| align=right | {{formatnum:116238}} || {{MEX|SON}}
+| [[Zona metropolitana de Guaymas|Guaymas]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 125 || bgcolor=#d8d8d8 | CHH-05 || [[Hidalgo del Parral]]
+| align=right | {{formatnum:115993}} || {{MEX|CHH}}
+| [[Zona conurbada de Hidalgo del Parral|Hidalgo del Parral]]
+|[[Noroeste de México|Noroeste]]
+|-
+| bgcolor=#d8d8d8 | 126 || bgcolor=#d8d8d8 | MOR-04 || [[Temixco]]
+| align=right | {{formatnum:114772}} || {{MEX|MOR}}
+| [[Zona metropolitana de Cuernavaca|Cuernavaca]]
+|[[Centrosur de México|Centrosur]]
+|-
+| bgcolor=#d8d8d8 | 127 || bgcolor=#d8d8d8 | JAL-08 || [[Lagos de Moreno]]
+| align=right | {{formatnum:114477}} || {{MEX|JAL}}
+| —
+|[[Occidente de México|Occidente]]
+|-
+| bgcolor=#d8d8d8 | 128 || bgcolor=#d8d8d8 | VER-07 || [[Orizaba]]
+| align=right | {{formatnum:113509}} || {{MEX|VER}}
+| [[Zona metropolitana de Orizaba|Orizaba]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 129 || bgcolor=#d8d8d8 | HID-02 || [[Tulancingo]]
+| align=right | {{formatnum:110803}} || {{MEX|HID}}
+| [[Zona metropolitana de Tulancingo|Tulacingo]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 130 || bgcolor=#d8d8d8 | PUE-04 || [[Cholula de Rivadavia]]
+| align=right | {{formatnum:108239}} || {{MEX|PUE}}
+| [[Zona metropolitana de Puebla-Tlaxcala|Puebla-Tlaxcala]]
+|[[Oriente de México|Oriente]]
+|-
+| bgcolor=#d8d8d8 | 131 || bgcolor=#d8d8d8 | MEX-21 || [[San Mateo Atenco]]
+| align=right | {{formatnum:103685}} || {{MEX|MEX}}
+| [[Zona metropolitana de Ciudad de México|Ciudad de México]]
+||[[Centrosur de México|Centrosur]]
+|}
+
+== Véase también ==
+* [[Áreas metropolitanas de México]]
+* [[Anexo:Ciudades de México por superficie]]
+* [[Anexo:Entidades federativas de México por población|Estados de México por población]]
+
+== Referencias ==
+{{listaref}}
+{{ORDENAR:Ciudades Mas Pobladas}}
+
+{{Control de autoridades}}
+[[Categoría:Demografía de México]]
+[[Categoría:Anexos:Geografía de México]]
+[[Categoría:Anexos:Ciudades por población|Mexico]]
+[[Categoría:Ciudades de México| ]]

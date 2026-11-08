@@ -5,7 +5,7 @@
 (() => {
   "use strict";
 
-  const { el, link, swatch, partyOf, partyRank, partyLabel, integer, signed, oneDecimal, moment, day, motionOK, fact, facts, personLine, personCard, regions, EVERYDAY_NAME } = MXD;
+  const { el, link, swatch, partyOf, partyRank, partyLabel, fold, integer, signed, oneDecimal, moment, day, motionOK, fact, facts, personLine, personCard, regions, EVERYDAY_NAME } = MXD;
   // Where a state's mark sits when its centre is too crowded: a nudge in map units, or, for the three
   // smallest central states, a fixed spot in a labelled column over the Pacific, joined by a thin line.
   const MARK_NUDGE = { "22": [-4, -16], "13": [18, -4], "15": [-12, 16], "21": [-4, 14], "06": [-30, 22], "12": [25, 14], "11": [-24, 10] };
@@ -18,7 +18,7 @@
   ];
 
   // Where the reader is: a level, what was chosen to get there, and the person whose data is open.
-  const S = { data: null, gdp: null, crime: null, fuel: null, economy: null, capitals: null, topo: null, districtTopo: null, mapSource: null, states: [], districts: [], munis: [], level: "country", state: null, district: null, muni: null, person: null, ctx: null };
+  const S = { data: null, gdp: null, crime: null, fuel: null, economy: null, capitals: null, cities: null, topo: null, districtTopo: null, mapSource: null, states: [], districts: [], munis: [], level: "country", state: null, district: null, muni: null, person: null, ctx: null };
   const $ = (selector) => document.querySelector(selector);
   const stateName = (code) => EVERYDAY_NAME[code] || (S.states.find((s) => s.code === code) || {}).name || code;
 
@@ -51,7 +51,8 @@
   const cssColor = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
   const hexCache = new Map();
   const hexOf = (variable) => (hexCache.has(variable) ? hexCache : hexCache.set(variable, cssColor(variable))).get(variable);
-  let zoomLayer, hoverShape, chosenOutline, marks, capitalMark, zoom, graticule, stateLines, districtLines, muniLines, tip;
+  let zoomLayer, hoverShape, chosenOutline, marks, capitalMark, capitalStars, cityMarks, zoom, graticule, stateLines, districtLines, muniLines, tip;
+  const STAR = "M0,-6.5 L1.9,-2 L6.5,-2 L2.8,0.9 L4,5.5 L0,2.6 L-4,5.5 L-2.8,0.9 L-6.5,-2 L-1.9,-2 Z";
   let transform = d3.zoomIdentity;
 
   function buildMap() {
@@ -128,6 +129,7 @@
     // Drawn last, so inside a state the other states still answer as whole states.
     hits(S.states, "state", stateTip, (state) => go("state", { state }));
     buildMarks();
+    buildCities();
     capitalMark = zoomLayer.append("g").attr("class", "capital").style("display", "none");
     capitalMark.append("circle").attr("class", "capital__dot").attr("r", 4);
     capitalMark.append("text").attr("class", "capital__label").attr("x", 7).attr("y", 4);
@@ -146,6 +148,7 @@
         zoomLayer.attr("transform", transform).style("--k", transform.k);
         marks.attr("transform", (d) => `translate(${d.mark[0]}, ${d.mark[1]}) scale(${1 / transform.k})`);
         placeCapital();
+        placeCities();
         draw();
       });
     svg.call(zoom).on("dblclick.zoom", null);
@@ -164,6 +167,48 @@
     });
   }
 
+  /** Stars on every state capital at the country level; dots with names for the main cities inside a state. */
+  const citiesOf = (code) => (S.cities ? S.cities.cities.filter((c) => c.state_code === code && c.municipality_code && S.muniByCode.get(c.municipality_code)) : []);
+  function buildCities() {
+    const capitals = S.capitals ? Object.entries(S.capitals.states).map(([code, c]) => ({ code, ...c, muni: c.municipality_code ? S.muniByCode.get(c.municipality_code) : null })).filter((c) => c.muni) : [];
+    capitalStars = zoomLayer
+      .insert("g", ".marks")
+      .attr("class", "stars")
+      .selectAll("g")
+      .data(capitals)
+      .join("g")
+      .attr("class", "star")
+      .attr("transform", (d) => `translate(${d.muni.centre[0]}, ${d.muni.centre[1]})`)
+      .on("pointermove", (event, d) => tip.show(event, `cap${d.code}`, () => [el("p", {}, d.capital), el("p", { class: "tooltip__place" }, `Capital de ${stateName(d.code)}`), el("p", { class: "tooltip__sub" }, "Pulsa para entrar")]))
+      .on("pointerleave", () => tip.hide())
+      .on("click", (event, d) => go("state", { state: stateOf(d.code) }));
+    capitalStars.append("path").attr("class", "star__shape").attr("d", STAR);
+    const cities = S.cities ? S.cities.cities.filter((c) => c.municipality_code && S.muniByCode.get(c.municipality_code)) : [];
+    cityMarks = zoomLayer
+      .append("g")
+      .attr("class", "cities")
+      .selectAll("g")
+      .data(cities)
+      .join("g")
+      .attr("class", "city")
+      .style("display", "none");
+    cityMarks.append("circle").attr("class", "city__dot").attr("r", 3);
+    cityMarks.append("text").attr("class", "city__label").attr("x", 6).attr("y", 3.5).text((d) => d.name);
+  }
+  /** Inside a state: its cities, biggest first, keeping constant size while zooming; hidden elsewhere. */
+  function placeCities() {
+    if (!cityMarks) return;
+    const code = S.state && S.level !== "country" ? S.state.code : null;
+    const capital = code ? capitalOf(code) : null;
+    cityMarks
+      .style("display", (d) => (code && d.state_code === code && !(capital && capital.municipality_code === d.municipality_code) ? null : "none"))
+      .attr("transform", (d) => {
+        const muni = S.muniByCode.get(d.municipality_code);
+        return `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`;
+      });
+    if (capitalStars) capitalStars.attr("transform", (d) => `translate(${d.muni.centre[0]}, ${d.muni.centre[1]}) scale(${1 / transform.k})`).style("display", S.level === "country" ? null : "none");
+  }
+
   /** The capital of the chosen state: where it is, and the marker on the map (inside the state only). */
   const capitalOf = (code) => (S.capitals && S.capitals.states[code]) || null;
   function placeCapital() {
@@ -176,6 +221,8 @@
     }
     capitalMark.style("display", null).attr("transform", `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`);
     capitalMark.select("text").text(capital.capital);
+    capitalMark.select("circle").attr("display", "none");
+    if (capitalMark.select("path").empty()) capitalMark.insert("path", "text").attr("class", "star__shape").attr("d", STAR);
   }
 
   /** The federal district under the pointer, within a state; null over no district. */
@@ -379,7 +426,7 @@
   // ---------- Levels ----------
 
   const HINTS = {
-    country: "En cada entidad: el cuadrado es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
+    country: "La estrella de cada entidad es su capital. El cuadrado es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
     state: "Las líneas finas son los municipios; las punteadas, los distritos electorales federales. Pulsa un municipio para ver su ayuntamiento y la diputación de su distrito, u otra entidad para cambiar.",
     district: "El distrito elegido va punteado más grueso. Pulsa un municipio para ver su ayuntamiento, u otra entidad para cambiar.",
     municipality: "Pulsa otro municipio, u otra entidad; arriba puedes volver a un nivel anterior.",
@@ -400,6 +447,7 @@
     tip.reset();
     zoomToBox(focus ? focus.box : null);
     placeCapital();
+    placeCities();
     draw();
     $("#hint").textContent = HINTS[level];
     renderCrumbs();
@@ -420,6 +468,22 @@
     if (S.district) parts.push(crumb(`Distrito ${S.district.number}`, S.level === "district" ? null : () => go("district", { state: S.state, district: S.district })));
     if (S.muni) parts.push(crumb(S.muni.name, null));
     $("#crumbs").replaceChildren(...parts.flatMap((part, i) => (i ? [el("span", { class: "crumbs__sep", "aria-hidden": "true" }, "›"), part] : [part])));
+  }
+
+  /** The state's main cities, biggest first, each a jump to its municipality. */
+  function cityRows(code) {
+    const list = citiesOf(code).sort((a, b) => b.population - a.population);
+    if (!list.length) return null;
+    const row = (c) => {
+      const muni = S.muniByCode.get(c.municipality_code);
+      const label = c.municipality && fold(c.municipality) !== fold(c.name) ? `${c.name} (municipio de ${c.municipality})` : c.name;
+      return fact(el("button", { type: "button", class: "persona__link", onclick: () => go("municipality", { state: stateOf(code), district: null, muni }) }, label), `${integer.format(c.population)} habitantes`);
+    };
+    return [
+      el("h3", {}, `Ciudades de más de 100 mil habitantes: ${list.length}`),
+      facts(list.map(row), sourceRow("Fuente", S.cities.citation.url, "Wikipedia, ciudades más pobladas", S.cities.citation.published_at, S.cities.citation.retrieved_at)),
+      el("p", { class: "ficha__intro" }, `Población de las ciudades según la ${S.cities.population_source.split(" (")[0]}, como la da la fuente; es la ciudad, no el municipio.`),
+    ];
   }
 
   /** "Capital: Villahermosa (municipio Centro)" with a jump to that municipality. */
@@ -660,6 +724,7 @@
           fact(`${S.state.code === "09" ? "Alcaldías" : "Presidencias municipales"} (${integer.format(S.state.municipalities)})`, mayors.length ? partySplit(mayors) : "Sin dato en la fuente"),
           mayors.length < S.state.municipalities ? fact("Municipios sin titular en la fuente", integer.format(S.state.municipalities - mayors.length)) : null
         ),
+        cityRows(S.state.code),
         el("p", { class: "ficha__intro" }, "Pulsa un municipio para ver su ayuntamiento y la diputación de su distrito."),
         back("Volver al país", () => go("country", {})),
       ];
@@ -682,6 +747,7 @@
         facts(
           fact("Entidad", stateName(S.state.code)),
           capitalOf(S.state.code) && capitalOf(S.state.code).municipality_code === S.muni.code ? fact("Capital de la entidad", capitalOf(S.state.code).capital) : null,
+          ...citiesOf(S.state.code).filter((c) => c.municipality_code === S.muni.code).map((c) => fact("Ciudad", `${c.name}: ${integer.format(c.population)} habitantes`)),
           fact("Cabecera", S.muni.seat),
           fact("Población (2020)", S.muni.population == null ? "Sin dato: municipio creado después del censo" : integer.format(S.muni.population)),
           fact("Lugar en la entidad por población", `${muniRank(S.muni.code, munisOfState(S.state.code), (m) => (S.munis.find((x) => x.code === m) || {}).population)} municipios con cifra del censo`),
@@ -723,6 +789,7 @@
         item("Senadurías y diputaciones, con sus datos de contacto", sil),
         item("Gubernaturas", wikipedia, " Fuente secundaria."),
         S.capitals ? item("Capitales de las entidades", S.capitals.citation, " Fuente secundaria; cada capital se ubica en su municipio según el INEGI.") : null,
+        S.cities ? item("Ciudades de más de 100 mil habitantes", S.cities.citation, ` Fuente secundaria; población según la ${S.cities.population_source}; cada ciudad se ubica en su municipio.`) : null,
         mayors ? el("li", {}, "Presidencias municipales: ", `${mayors.name}; consultados el ${day(mayors.retrieved_at)}. Fuente secundaria; cada persona enlaza a la página de su entidad.`) : null,
         court ? item("Suprema Corte", court, " Fuente secundaria.") : null,
         presidency ? item("Presidencia", presidency, " Fuente secundaria.") : null,
@@ -744,7 +811,7 @@
       return response.json();
     };
     try {
-      [S.topo, S.districtTopo, S.mapSource, S.data, S.gdp, S.crime, S.fuel, S.economy, S.capitals] = await Promise.all([
+      [S.topo, S.districtTopo, S.mapSource, S.data, S.gdp, S.crime, S.fuel, S.economy, S.capitals, S.cities] = await Promise.all([
         getJSON("data/municipios.topojson"),
         getJSON("data/distritos.topojson"),
         getJSON("data/map_source.json"),
@@ -754,6 +821,7 @@
         getJSON("data/fuel.json", true),
         getJSON("data/economy.json", true),
         getJSON("data/capitals.json", true),
+        getJSON("data/cities.json", true),
       ]);
     } catch (error) {
       const notice = $("#load-error");

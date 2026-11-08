@@ -16,8 +16,12 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      # Each source is read on its own: if one refuses GitHub's addresses that day, the others still update.
       - run: python tools/fetch_politicians.py
+        continue-on-error: true
       - run: python tools/fetch_fuel.py
+        continue-on-error: true
+      - run: python -m pytest -q
       - name: Guardar los datos nuevos
         run: |
           git config user.name "mexico-en-datos"

@@ -1,0 +1,1060 @@
+{
+  "population_source": "Encuesta Intercensal 2025 (INEGI), según la página",
+  "cities": [
+    {
+      "name": "Ciudad de México",
+      "state_code": "09",
+      "population": 9165819,
+      "rank": 1,
+      "municipality_code": null,
+      "municipality": null
+    },
+    {
+      "name": "Tijuana",
+      "state_code": "02",
+      "population": 1914035,
+      "rank": 2,
+      "municipality_code": "02004",
+      "municipality": "Tijuana"
+    },
+    {
+      "name": "León de los Aldama",
+      "state_code": "11",
+      "population": 1656702,
+      "rank": 3,
+      "municipality_code": "11020",
+      "municipality": "León"
+    },
+    {
+      "name": "Ecatepec de Morelos",
+      "state_code": "15",
+      "population": 1650330,
+      "rank": 4,
+      "municipality_code": "15033",
+      "municipality": "Ecatepec de Morelos"
+    },
+    {
+      "name": "Ciudad Juárez",
+      "state_code": "08",
+      "population": 1585983,
+      "rank": 5,
+      "municipality_code": "08037",
+      "municipality": "Juárez"
+    },
+    {
+      "name": "Puebla de Zaragoza",
+      "state_code": "21",
+      "population": 1519878,
+      "rank": 6,
+      "municipality_code": "21114",
+      "municipality": "Puebla"
+    },
+    {
+      "name": "Zapopan",
+      "state_code": "14",
+      "population": 1317146,
+      "rank": 7,
+      "municipality_code": "14120",
+      "municipality": "Zapopan"
+    },
+    {
+      "name": "Guadalajara",
+      "state_code": "14",
+      "population": 1244738,
+      "rank": 8,
+      "municipality_code": "14039",
+      "municipality": "Guadalajara"
+    },
+    {
+      "name": "Monterrey",
+      "state_code": "19",
+      "population": 1135776,
+      "rank": 9,
+      "municipality_code": "19039",
+      "municipality": "Monterrey"
+    },
+    {
+      "name": "Cancún",
+      "state_code": "23",
+      "population": 998714,
+      "rank": 10,
+      "municipality_code": "23005",
+      "municipality": "Benito Juárez"
+    },
+    {
+      "name": "Ciudad Nezahualcóyotl",
+      "state_code": "15",
+      "population": 995405,
+      "rank": 11,
+      "municipality_code": "15058",
+      "municipality": "Nezahualcóyotl"
+    },
+    {
+      "name": "Mérida",
+      "state_code": "31",
+      "population": 967937,
+      "rank": 12,
+      "municipality_code": "31050",
+      "municipality": "Mérida"
+    },
+    {
+      "name": "Saltillo",
+      "state_code": "05",
+      "population": 959061,
+      "rank": 13,
+      "municipality_code": "05030",
+      "municipality": "Saltillo"
+    },
+    {
+      "name": "Chihuahua",
+      "state_code": "08",
+      "population": 951599,
+      "rank": 14,
+      "municipality_code": "08019",
+      "municipality": "Chihuahua"
+    },
+    {
+      "name": "Aguascalientes",
+      "state_code": "01",
+      "population": 926164,
+      "rank": 15,
+      "municipality_code": "01001",
+      "municipality": "Aguascalientes"
+    },
+    {
+      "name": "Mexicali",
+      "state_code": "02",
+      "population": 893378,
+      "rank": 16,
+      "municipality_code": "02002",
+      "municipality": "Mexicali"
+    },
+    {
+      "name": "Hermosillo",
+      "state_code": "26",
+      "population": 875581,
+      "rank": 17,
+      "municipality_code": "26030",
+      "municipality": "Hermosillo"
+    },
+    {
+      "name": "Morelia",
+      "state_code": "16",
+      "population": 795244,
+      "rank": 18,
+      "municipality_code": "16053",
+      "municipality": "Morelia"
+    },
+    {
+      "name": "Culiacán Rosales",
+      "state_code": "25",
+      "population": 780903,
+      "rank": 19,
+      "municipality_code": "25006",
+      "municipality": "Culiacán"
+    },
+    {
+      "name": "Santiago de Querétaro",
+      "state_code": "22",
+      "population": 775103,
+      "rank": 20,
+      "municipality_code": "22014",
+      "municipality": "Querétaro"
+    },
+    {
+      "name": "Torreón",
+      "state_code": "05",
+      "population": 771797,
+      "rank": 21,
+      "municipality_code": "05035",
+      "municipality": "Torreón"
+    },
+    {
+      "name": "Naucalpan de Juárez",
+      "state_code": "15",
+      "population": 760229,
+      "rank": 22,
+      "municipality_code": "15057",
+      "municipality": "Naucalpan de Juárez"
+    },
+    {
+      "name": "Chimalhuacán",
+      "state_code": "15",
+      "population": 730151,
+      "rank": 23,
+      "municipality_code": "15031",
+      "municipality": "Chimalhuacán"
+    },
+    {
+      "name": "San Luis Potosí",
+      "state_code": "24",
+      "population": 718108,
+      "rank": 24,
+      "municipality_code": "24028",
+      "municipality": "San Luis Potosí"
+    },
+    {
+      "name": "Reynosa",
+      "state_code": "28",
+      "population": 715182,
+      "rank": 25,
+      "municipality_code": "28032",
+      "municipality": "Reynosa"
+    },
+    {
+      "name": "Tlaquepaque",
+      "state_code": "14",
+      "population": 694651,
+      "rank": 26,
+      "municipality_code": "14098",
+      "municipality": "San Pedro Tlaquepaque"
+    },
+    {
+      "name": "Victoria de Durango",
+      "state_code": "10",
+      "population": 681487,
+      "rank": 27,
+      "municipality_code": "10005",
+      "municipality": "Durango"
+    },
+    {
+      "name": "Tlalnepantla",
+      "state_code": "15",
+      "population": 646537,
+      "rank": 28,
+      "municipality_code": "15104",
+      "municipality": "Tlalnepantla de Baz"
+    },
+    {
+      "name": "Acapulco de Juárez",
+      "state_code": "12",
+      "population": 640604,
+      "rank": 29,
+      "municipality_code": "12001",
+      "municipality": "Acapulco de Juárez"
+    },
+    {
+      "name": "Guadalupe",
+      "state_code": "19",
+      "population": 623788,
+      "rank": 30,
+      "municipality_code": "19026",
+      "municipality": "Guadalupe"
+    },
+    {
+      "name": "Tuxtla Gutiérrez",
+      "state_code": "07",
+      "population": 585264,
+      "rank": 31,
+      "municipality_code": "07101",
+      "municipality": "Tuxtla Gutiérrez"
+    },
+    {
+      "name": "Ciudad Apodaca",
+      "state_code": "19",
+      "population": 569922,
+      "rank": 32,
+      "municipality_code": "19006",
+      "municipality": "Apodaca"
+    },
+    {
+      "name": "Heroica Matamoros",
+      "state_code": "28",
+      "population": 555267,
+      "rank": 33,
+      "municipality_code": "28022",
+      "municipality": "Matamoros"
+    },
+    {
+      "name": "Cuautitlán Izcalli",
+      "state_code": "15",
+      "population": 548372,
+      "rank": 34,
+      "municipality_code": "15121",
+      "municipality": "Cuautitlán Izcalli"
+    },
+    {
+      "name": "Ciudad López Mateos",
+      "state_code": "15",
+      "population": 527895,
+      "rank": 35,
+      "municipality_code": "15013",
+      "municipality": "Atizapán de Zaragoza"
+    },
+    {
+      "name": "Mazatlán",
+      "state_code": "25",
+      "population": 486880,
+      "rank": 36,
+      "municipality_code": "25012",
+      "municipality": "Mazatlán"
+    },
+    {
+      "name": "Irapuato",
+      "state_code": "11",
+      "population": 478652,
+      "rank": 37,
+      "municipality_code": "11017",
+      "municipality": "Irapuato"
+    },
+    {
+      "name": "Ciudad General Escobedo",
+      "state_code": "19",
+      "population": 473796,
+      "rank": 38,
+      "municipality_code": "19021",
+      "municipality": "General Escobedo"
+    },
+    {
+      "name": "Tonalá",
+      "state_code": "14",
+      "population": 450699,
+      "rank": 39,
+      "municipality_code": "14101",
+      "municipality": "Tonalá"
+    },
+    {
+      "name": "Nuevo Laredo",
+      "state_code": "28",
+      "population": 440199,
+      "rank": 40,
+      "municipality_code": "28027",
+      "municipality": "Nuevo Laredo"
+    },
+    {
+      "name": "Xalapa-Enríquez",
+      "state_code": "30",
+      "population": 438388,
+      "rank": 41,
+      "municipality_code": "30087",
+      "municipality": "Xalapa"
+    },
+    {
+      "name": "Ciudad Benito Juárez",
+      "state_code": "19",
+      "population": 416299,
+      "rank": 42,
+      "municipality_code": "19031",
+      "municipality": "Juárez"
+    },
+    {
+      "name": "Ojo de Agua",
+      "state_code": "15",
+      "population": 394192,
+      "rank": 43,
+      "municipality_code": "15081",
+      "municipality": "Tecámac"
+    },
+    {
+      "name": "Veracruz",
+      "state_code": "30",
+      "population": 386560,
+      "rank": 44,
+      "municipality_code": "30193",
+      "municipality": "Veracruz"
+    },
+    {
+      "name": "San Nicolás de los Garza",
+      "state_code": "19",
+      "population": 382034,
+      "rank": 45,
+      "municipality_code": "19046",
+      "municipality": "San Nicolás de los Garza"
+    },
+    {
+      "name": "Cuernavaca",
+      "state_code": "17",
+      "population": 378099,
+      "rank": 46,
+      "municipality_code": "17007",
+      "municipality": "Cuernavaca"
+    },
+    {
+      "name": "Ixtapaluca",
+      "state_code": "15",
+      "population": 370592,
+      "rank": 47,
+      "municipality_code": "15039",
+      "municipality": "Ixtapaluca"
+    },
+    {
+      "name": "Tepic",
+      "state_code": "18",
+      "population": 368798,
+      "rank": 48,
+      "municipality_code": "18017",
+      "municipality": "Tepic"
+    },
+    {
+      "name": "Playa del Carmen",
+      "state_code": "23",
+      "population": 367770,
+      "rank": 49,
+      "municipality_code": "23008",
+      "municipality": "Playa del Carmen"
+    },
+    {
+      "name": "Celaya",
+      "state_code": "11",
+      "population": 355273,
+      "rank": 50,
+      "municipality_code": "11007",
+      "municipality": "Celaya"
+    },
+    {
+      "name": "Xico",
+      "state_code": "15",
+      "population": 353874,
+      "rank": 51,
+      "municipality_code": "15122",
+      "municipality": "Valle de Chalco Solidaridad"
+    },
+    {
+      "name": "Villahermosa",
+      "state_code": "27",
+      "population": 347695,
+      "rank": 52,
+      "municipality_code": "27004",
+      "municipality": "Centro"
+    },
+    {
+      "name": "Ensenada",
+      "state_code": "02",
+      "population": 346479,
+      "rank": 53,
+      "municipality_code": "02001",
+      "municipality": "Ensenada"
+    },
+    {
+      "name": "Ciudad Obregón",
+      "state_code": "26",
+      "population": 339136,
+      "rank": 54,
+      "municipality_code": "26018",
+      "municipality": "Cajeme"
+    },
+    {
+      "name": "Ciudad Victoria",
+      "state_code": "28",
+      "population": 337155,
+      "rank": 55,
+      "municipality_code": "28041",
+      "municipality": "Victoria"
+    },
+    {
+      "name": "Gómez Palacio",
+      "state_code": "10",
+      "population": 329483,
+      "rank": 56,
+      "municipality_code": "10007",
+      "municipality": "Gómez Palacio"
+    },
+    {
+      "name": "Ciudad Nicolás Romero",
+      "state_code": "15",
+      "population": 320942,
+      "rank": 57,
+      "municipality_code": "15060",
+      "municipality": "Nicolás Romero"
+    },
+    {
+      "name": "García",
+      "state_code": "19",
+      "population": 320493,
+      "rank": 58,
+      "municipality_code": "19018",
+      "municipality": "García"
+    },
+    {
+      "name": "Soledad de Graciano Sánchez",
+      "state_code": "24",
+      "population": 320106,
+      "rank": 59,
+      "municipality_code": "24035",
+      "municipality": "Soledad de Graciano Sánchez"
+    },
+    {
+      "name": "Uruapan",
+      "state_code": "16",
+      "population": 315251,
+      "rank": 60,
+      "municipality_code": "16102",
+      "municipality": "Uruapan"
+    },
+    {
+      "name": "Los Mochis",
+      "state_code": "25",
+      "population": 312041,
+      "rank": 61,
+      "municipality_code": "25001",
+      "municipality": "Ahome"
+    },
+    {
+      "name": "San Francisco Coacalco",
+      "state_code": "15",
+      "population": 311864,
+      "rank": 62,
+      "municipality_code": "15020",
+      "municipality": "Coacalco de Berriozábal"
+    },
+    {
+      "name": "Ciudad Santa Catarina",
+      "state_code": "19",
+      "population": 305444,
+      "rank": 63,
+      "municipality_code": "19048",
+      "municipality": "Santa Catarina"
+    },
+    {
+      "name": "Tehuacán",
+      "state_code": "21",
+      "population": 301107,
+      "rank": 64,
+      "municipality_code": "21156",
+      "municipality": "Tehuacán"
+    },
+    {
+      "name": "Pachuca de Soto",
+      "state_code": "13",
+      "population": 295546,
+      "rank": 65,
+      "municipality_code": "13048",
+      "municipality": "Pachuca de Soto"
+    },
+    {
+      "name": "Heroica Nogales",
+      "state_code": "26",
+      "population": 287790,
+      "rank": 66,
+      "municipality_code": "26043",
+      "municipality": "Nogales"
+    },
+    {
+      "name": "Tampico",
+      "state_code": "28",
+      "population": 286801,
+      "rank": 67,
+      "municipality_code": "28038",
+      "municipality": "Tampico"
+    },
+    {
+      "name": "La Paz",
+      "state_code": "03",
+      "population": 277324,
+      "rank": 68,
+      "municipality_code": "03003",
+      "municipality": "La Paz"
+    },
+    {
+      "name": "Cabo San Lucas",
+      "state_code": "03",
+      "population": 269302,
+      "rank": 69,
+      "municipality_code": "03008",
+      "municipality": "Los Cabos"
+    },
+    {
+      "name": "Oaxaca de Juárez",
+      "state_code": "20",
+      "population": 250430,
+      "rank": 70,
+      "municipality_code": "20067",
+      "municipality": "Oaxaca de Juárez"
+    },
+    {
+      "name": "Tapachula de Córdova y Ordóñez",
+      "state_code": "07",
+      "population": 248670,
+      "rank": 71,
+      "municipality_code": "07089",
+      "municipality": "Tapachula"
+    },
+    {
+      "name": "San Francisco de Campeche",
+      "state_code": "04",
+      "population": 245335,
+      "rank": 72,
+      "municipality_code": "04002",
+      "municipality": "Campeche"
+    },
+    {
+      "name": "Monclova",
+      "state_code": "05",
+      "population": 245282,
+      "rank": 73,
+      "municipality_code": "05018",
+      "municipality": "Monclova"
+    },
+    {
+      "name": "Puerto Vallarta",
+      "state_code": "14",
+      "population": 232469,
+      "rank": 74,
+      "municipality_code": "14067",
+      "municipality": "Puerto Vallarta"
+    },
+    {
+      "name": "Chilpancingo de los Bravo",
+      "state_code": "12",
+      "population": 232036,
+      "rank": 75,
+      "municipality_code": "12029",
+      "municipality": "Chilpancingo de los Bravo"
+    },
+    {
+      "name": "Buenavista",
+      "state_code": "15",
+      "population": 212628,
+      "rank": 76,
+      "municipality_code": "15109",
+      "municipality": "Tultitlán"
+    },
+    {
+      "name": "Toluca de Lerdo",
+      "state_code": "15",
+      "population": 206569,
+      "rank": 77,
+      "municipality_code": "15106",
+      "municipality": "Toluca"
+    },
+    {
+      "name": "Ciudad Madero",
+      "state_code": "28",
+      "population": 197097,
+      "rank": 78,
+      "municipality_code": "28009",
+      "municipality": "Ciudad Madero"
+    },
+    {
+      "name": "Coatzacoalcos",
+      "state_code": "30",
+      "population": 196626,
+      "rank": 79,
+      "municipality_code": "30039",
+      "municipality": "Coatzacoalcos"
+    },
+    {
+      "name": "Ciudad del Carmen",
+      "state_code": "04",
+      "population": 194482,
+      "rank": 80,
+      "municipality_code": "04003",
+      "municipality": "Carmen"
+    },
+    {
+      "name": "San Juan del Río",
+      "state_code": "22",
+      "population": 191793,
+      "rank": 81,
+      "municipality_code": "22016",
+      "municipality": "San Juan del Río"
+    },
+    {
+      "name": "Chicoloapan de Juárez",
+      "state_code": "15",
+      "population": 189585,
+      "rank": 82,
+      "municipality_code": "15029",
+      "municipality": "Chicoloapan"
+    },
+    {
+      "name": "Guadalupe",
+      "state_code": "32",
+      "population": 188911,
+      "rank": 83,
+      "municipality_code": "32017",
+      "municipality": "Guadalupe"
+    },
+    {
+      "name": "San Cristóbal de las Casas",
+      "state_code": "07",
+      "population": 186807,
+      "rank": 84,
+      "municipality_code": "07078",
+      "municipality": "San Cristóbal de las Casas"
+    },
+    {
+      "name": "Hacienda Santa Fe",
+      "state_code": "14",
+      "population": 186098,
+      "rank": 85,
+      "municipality_code": "14097",
+      "municipality": "Tlajomulco de Zúñiga"
+    },
+    {
+      "name": "Piedras Negras",
+      "state_code": "05",
+      "population": 182564,
+      "rank": 86,
+      "municipality_code": "05025",
+      "municipality": "Piedras Negras"
+    },
+    {
+      "name": "San José del Cabo",
+      "state_code": "03",
+      "population": 180292,
+      "rank": 87,
+      "municipality_code": "03008",
+      "municipality": "Los Cabos"
+    },
+    {
+      "name": "San Luis Río Colorado",
+      "state_code": "26",
+      "population": 179107,
+      "rank": 88,
+      "municipality_code": "26055",
+      "municipality": "San Luis Río Colorado"
+    },
+    {
+      "name": "Kanasín",
+      "state_code": "31",
+      "population": 175995,
+      "rank": 89,
+      "municipality_code": "31041",
+      "municipality": "Kanasín"
+    },
+    {
+      "name": "Manzanillo",
+      "state_code": "06",
+      "population": 173684,
+      "rank": 90,
+      "municipality_code": "06007",
+      "municipality": "Manzanillo"
+    },
+    {
+      "name": "Ciudad Acuña",
+      "state_code": "05",
+      "population": 172600,
+      "rank": 91,
+      "municipality_code": "05002",
+      "municipality": "Acuña"
+    },
+    {
+      "name": "Chalco de Díaz Covarrubias",
+      "state_code": "15",
+      "population": 168080,
+      "rank": 92,
+      "municipality_code": "15025",
+      "municipality": "Chalco"
+    },
+    {
+      "name": "Miramar",
+      "state_code": "28",
+      "population": 167715,
+      "rank": 93,
+      "municipality_code": "28003",
+      "municipality": "Altamira"
+    },
+    {
+      "name": "Salamanca",
+      "state_code": "11",
+      "population": 167609,
+      "rank": 94,
+      "municipality_code": "11027",
+      "municipality": "Salamanca"
+    },
+    {
+      "name": "Jiutepec",
+      "state_code": "17",
+      "population": 164079,
+      "rank": 95,
+      "municipality_code": "17011",
+      "municipality": "Jiutepec"
+    },
+    {
+      "name": "Cuautitlán",
+      "state_code": "15",
+      "population": 163629,
+      "rank": 96,
+      "municipality_code": "15024",
+      "municipality": "Cuautitlán"
+    },
+    {
+      "name": "Naucalpan de Juárez",
+      "state_code": "15",
+      "population": 162602,
+      "rank": 97,
+      "municipality_code": "15037",
+      "municipality": "Huixquilucan"
+    },
+    {
+      "name": "Chetumal",
+      "state_code": "23",
+      "population": 161894,
+      "rank": 98,
+      "municipality_code": "23004",
+      "municipality": "Othón P. Blanco"
+    },
+    {
+      "name": "Zamora de Hidalgo",
+      "state_code": "16",
+      "population": 157167,
+      "rank": 99,
+      "municipality_code": "16108",
+      "municipality": "Zamora"
+    },
+    {
+      "name": "Colima",
+      "state_code": "06",
+      "population": 153675,
+      "rank": 100,
+      "municipality_code": "06002",
+      "municipality": "Colima"
+    },
+    {
+      "name": "Ciudad de Villa de Álvarez",
+      "state_code": "06",
+      "population": 153463,
+      "rank": 101,
+      "municipality_code": "06010",
+      "municipality": "Villa de Álvarez"
+    },
+    {
+      "name": "Cuautla",
+      "state_code": "17",
+      "population": 147305,
+      "rank": 102,
+      "municipality_code": "17006",
+      "municipality": "Cuautla"
+    },
+    {
+      "name": "Zacatecas",
+      "state_code": "32",
+      "population": 147054,
+      "rank": 103,
+      "municipality_code": "32056",
+      "municipality": "Zacatecas"
+    },
+    {
+      "name": "Fresnillo",
+      "state_code": "32",
+      "population": 145320,
+      "rank": 104,
+      "municipality_code": "32010",
+      "municipality": "Fresnillo"
+    },
+    {
+      "name": "San Pablo de las Salinas",
+      "state_code": "15",
+      "population": 144259,
+      "rank": 105,
+      "municipality_code": "15109",
+      "municipality": "Tultitlán"
+    },
+    {
+      "name": "Poza Rica de Hidalgo",
+      "state_code": "30",
+      "population": 143540,
+      "rank": 106,
+      "municipality_code": "30131",
+      "municipality": "Poza Rica de Hidalgo"
+    },
+    {
+      "name": "Villa de Pozos",
+      "state_code": "24",
+      "population": 143070,
+      "rank": 107,
+      "municipality_code": "24059",
+      "municipality": "Villa de Pozos"
+    },
+    {
+      "name": "Cuauhtémoc",
+      "state_code": "08",
+      "population": 139501,
+      "rank": 108,
+      "municipality_code": "08017",
+      "municipality": "Cuauhtémoc"
+    },
+    {
+      "name": "Córdoba",
+      "state_code": "30",
+      "population": 137105,
+      "rank": 109,
+      "municipality_code": "30044",
+      "municipality": "Córdoba"
+    },
+    {
+      "name": "Veracruz",
+      "state_code": "30",
+      "population": 135478,
+      "rank": 110,
+      "municipality_code": "30028",
+      "municipality": "Boca del Río"
+    },
+    {
+      "name": "Delicias",
+      "state_code": "08",
+      "population": 134598,
+      "rank": 111,
+      "municipality_code": "08021",
+      "municipality": "Delicias"
+    },
+    {
+      "name": "Iguala de la Independencia",
+      "state_code": "12",
+      "population": 133570,
+      "rank": 112,
+      "municipality_code": "12035",
+      "municipality": "Iguala de la Independencia"
+    },
+    {
+      "name": "San Pedro Garza García",
+      "state_code": "19",
+      "population": 132933,
+      "rank": 113,
+      "municipality_code": "19019",
+      "municipality": "San Pedro Garza García"
+    },
+    {
+      "name": "Ramos Arizpe",
+      "state_code": "05",
+      "population": 131562,
+      "rank": 114,
+      "municipality_code": "05027",
+      "municipality": "Ramos Arizpe"
+    },
+    {
+      "name": "Ciudad Valles",
+      "state_code": "24",
+      "population": 127289,
+      "rank": 115,
+      "municipality_code": "24013",
+      "municipality": "Ciudad Valles"
+    },
+    {
+      "name": "El Pueblito",
+      "state_code": "22",
+      "population": 126163,
+      "rank": 116,
+      "municipality_code": "22006",
+      "municipality": "Corregidora"
+    },
+    {
+      "name": "Navojoa",
+      "state_code": "26",
+      "population": 125793,
+      "rank": 117,
+      "municipality_code": "26042",
+      "municipality": "Navojoa"
+    },
+    {
+      "name": "San Bernardino Tlaxcalancingo",
+      "state_code": "21",
+      "population": 123945,
+      "rank": 118,
+      "municipality_code": "21119",
+      "municipality": "San Andrés Cholula"
+    },
+    {
+      "name": "Playas de Rosarito",
+      "state_code": "02",
+      "population": 123234,
+      "rank": 119,
+      "municipality_code": "02005",
+      "municipality": "Playas de Rosarito"
+    },
+    {
+      "name": "Ciudad Río Bravo",
+      "state_code": "28",
+      "population": 120006,
+      "rank": 120,
+      "municipality_code": "28033",
+      "municipality": "Río Bravo"
+    },
+    {
+      "name": "Tepexpan",
+      "state_code": "15",
+      "population": 119334,
+      "rank": 121,
+      "municipality_code": "15002",
+      "municipality": "Acolman"
+    },
+    {
+      "name": "Ciudad Guzmán",
+      "state_code": "14",
+      "population": 118876,
+      "rank": 122,
+      "municipality_code": "14023",
+      "municipality": "Zapotlán el Grande"
+    },
+    {
+      "name": "Comitán de Domínguez",
+      "state_code": "07",
+      "population": 117347,
+      "rank": 123,
+      "municipality_code": "07019",
+      "municipality": "Comitán de Domínguez"
+    },
+    {
+      "name": "Heroica Guaymas",
+      "state_code": "26",
+      "population": 116238,
+      "rank": 124,
+      "municipality_code": "26029",
+      "municipality": "Guaymas"
+    },
+    {
+      "name": "Hidalgo del Parral",
+      "state_code": "08",
+      "population": 115993,
+      "rank": 125,
+      "municipality_code": "08032",
+      "municipality": "Hidalgo del Parral"
+    },
+    {
+      "name": "Temixco",
+      "state_code": "17",
+      "population": 114772,
+      "rank": 126,
+      "municipality_code": "17018",
+      "municipality": "Temixco"
+    },
+    {
+      "name": "Lagos de Moreno",
+      "state_code": "14",
+      "population": 114477,
+      "rank": 127,
+      "municipality_code": "14053",
+      "municipality": "Lagos de Moreno"
+    },
+    {
+      "name": "Orizaba",
+      "state_code": "30",
+      "population": 113509,
+      "rank": 128,
+      "municipality_code": "30118",
+      "municipality": "Orizaba"
+    },
+    {
+      "name": "Tulancingo",
+      "state_code": "13",
+      "population": 110803,
+      "rank": 129,
+      "municipality_code": "13077",
+      "municipality": "Tulancingo de Bravo"
+    },
+    {
+      "name": "Cholula de Rivadavia",
+      "state_code": "21",
+      "population": 108239,
+      "rank": 130,
+      "municipality_code": "21140",
+      "municipality": "San Pedro Cholula"
+    },
+    {
+      "name": "San Mateo Atenco",
+      "state_code": "15",
+      "population": 103685,
+      "rank": 131,
+      "municipality_code": "15076",
+      "municipality": "San Mateo Atenco"
+    }
+  ],
+  "citation": {
+    "source": "wikipedia_cities",
+    "source_name": "Wikipedia en español, «Anexo:Ciudades más pobladas de México»",
+    "url": "https://es.wikipedia.org/w/index.php?title=Anexo:Ciudades_m%C3%A1s_pobladas_de_M%C3%A9xico&oldid=176170825",
+    "published_at": "2026-11-06T01:03:51Z",
+    "retrieved_at": "2026-11-08T16:29:13Z"
+  }
+}

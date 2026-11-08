@@ -8,10 +8,11 @@ Presidency and its cabinet, and the three elected bodies of the federal
 judiciary (Supreme Court, Tribunal Electoral, Tribunal de Disciplina Judicial).
 
 The main page (`web/index.html`, "Explorar México") is one map you go into
-level by level. At the country level each state carries a mark: a square for
-its governor and three circles for its senators, in party colours, and under
-them three grey bars (unemployment, homicide rate, gasoline price) whose height
-is the state's place among the 32. Inside a state the map stays neutral and
+level by level. At the country level each state carries a star on its capital and a mark: a
+square for its governor and three circles for its senators, in party colours,
+and under them three grey bars (unemployment, homicide rate, gasoline price)
+whose height is the state's place among the 32. Inside a state, its cities of
+100,000 people or more are named on the map and listed in its data. Inside a state the map stays neutral and
 shows municipality lines and dashed federal-district lines together; pointing
 at a municipality names its president and the deputy of the district under the
 pointer. Each level's data is grouped as Población, Economía, Seguridad,
@@ -51,6 +52,7 @@ python3 -m venv .venv
 .venv/bin/python tools/fetch_fuel.py         # tool 6: gasoline and diesel prices per municipality (daily)
 .venv/bin/python tools/fetch_economy.py      # tool 7: minimum wage, employment, income bands and poverty per state
 .venv/bin/python tools/fetch_capitals.py     # tool 8: the capital of each state (on demand)
+.venv/bin/python tools/fetch_cities.py       # tool 9: cities of 100,000 people or more (on demand)
 ```
 
 Run the tests with `.venv/bin/python -m pytest`.
@@ -65,6 +67,7 @@ Run the tests with `.venv/bin/python -m pytest`.
 | `tools/fetch_fuel.py` | Reads the CRE's two XML feeds (stations and prices), places each station in its municipality (INEGI boundaries from the map cache, or the published map when the cache is absent, as in the daily workflow) and averages regular, premium and diesel per municipality, state and country. | `web/data/fuel.json` |
 | `tools/fetch_economy.py` | Reads CONASAMI's minimum-wage table (general and northern-border wage, and the border municipalities, matched to INEGI codes), INEGI's quarterly ENOE bulletin (cuadro 5: employed, unemployed, participation, unemployment and informality per state) and INEGI's poverty workbook (poverty and extreme poverty per state, 2024), and ranks the states. Addresses and dates are in `informate/economy.py`; update them for each new edition. | `web/data/economy.json` |
 | `tools/fetch_capitals.py` | Reads each state's capital from the Wikipedia annex of federal entities and places it in its INEGI municipality (a short table in `informate/capitals.py` covers the capitals whose municipality has another name, such as Villahermosa in Centro). | `web/data/capitals.json` |
+| `tools/fetch_cities.py` | Reads the Wikipedia annex of Mexico's most populous cities (100,000 or more) and places each in its INEGI municipality (explicit pairs in `informate/cities.py` for the ones named differently, such as Cancún in Benito Juárez). | `web/data/cities.json` |
 | `tools/fetch_gdp.py` | Reads each state's GDP from INEGI's yearly PIBE press release (a PDF; its cuadro 1). INEGI's indicator API has the same numbers but needs a personal token, which this project avoids. | `web/data/gdp.json` |
 | `tools/serve.py` | Serves `web/` on this computer. The page's "Actualizar datos" button re-runs tool 2 (at most once a minute). | (updates `politicians.json`) |
 
@@ -86,6 +89,7 @@ All links below were opened on 2026-11-06.
 | Income bands of the employed per state (share earning up to 1, 1-2, 2-3, 3-5, over 5 minimum wages; none) | INEGI, ENOE, second quarter of 2026, one press release per state (32 PDFs, "Nivel de ingresos"). Used because the average wage per state is IMSS's figure and IMSS's servers refuse automated readers. | Official | e.g. [enoe2026_08_Jal.pdf](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08_Jal.pdf) (published 2026-08-25, read 2026-11-07) |
 | Employment per state: employed, unemployed, participation, unemployment, informality | INEGI, ENOE, second quarter of 2026, press release cuadro 5. Next release 2026-11-25. | Official | [enoe2026_08.pdf](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_08.pdf) (published 2026-08-25, read 2026-11-07) |
 | Poverty per state, 2024: population in poverty and in extreme poverty, people and percent | INEGI, Pobreza Multidimensional 2024, tabulados por entidad federativa (Coneval methodology, ENIGH 2024). | Official | [pm_ef_2024.xlsx](https://www.inegi.org.mx/contenidos/desarrollosocial/pm/tabulados/pm_ef_2024.xlsx) (published 2025-08-13, read 2026-11-07) |
+| Cities of 100,000 people or more, with population | Spanish Wikipedia, «Anexo:Ciudades más pobladas de México» (population per the Encuesta Intercensal 2025, as the page states). | Secondary | [revision 176170825](https://es.wikipedia.org/w/index.php?title=Anexo:Ciudades_m%C3%A1s_pobladas_de_M%C3%A9xico&oldid=176170825) (published 2026-11-06, read 2026-11-08) |
 | State capitals | Spanish Wikipedia, «Anexo:Entidades federativas de México», capital column. | Secondary | [revision 175410084](https://es.wikipedia.org/w/index.php?title=Anexo:Entidades_federativas_de_M%C3%A9xico&oldid=175410084) (published 2026-09-18, read 2026-11-08) |
 | Population per state | INEGI, *Censo de Población y Vivienda, 2020*, from the same web service (summed from its municipalities; 9 municipalities created after the census have no figure of their own) | Official | same downloads (2026-11-06) |
 | Federal deputies: name, party, state and district, or regional list | SIL. One profile page per deputy, which is also where the district is read. | Official | [roster of the LXVI Legislature](http://sil.gobernacion.gob.mx/Numeralia/Legisladores/resultadosNumeraliaLegisladores.php?SID=&Legislatura=66&Camara=1&Estatus=A) (read 2026-11-06) |
