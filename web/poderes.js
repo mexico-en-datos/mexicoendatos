@@ -133,14 +133,6 @@
     );
   }
 
-  function renderSources() {
-    const { sil, wikipedia_scjn: court, wikipedia_tepjf: electoral, wikipedia_tdj: discipline, wikipedia_president: presidency, wikipedia_cabinet: cabinet } = S.data.sources;
-    const item = (what, source, extra = "") => el("li", {}, `${what}: `, link(source.url, source.name), source.published_at ? `, versión del ${day(source.published_at)}` : "", `; consultada el ${day(source.retrieved_at)}.${extra}`);
-    $("#sources-body").replaceChildren(
-      el("ul", { class: "sources__list" }, item("Senadurías y diputaciones, con sus datos de contacto", sil), court ? item("Suprema Corte", court, " Fuente secundaria.") : null, electoral ? item("Tribunal Electoral, Sala Superior", electoral, " Fuente secundaria.") : null, discipline ? item("Tribunal de Disciplina Judicial", discipline, " Fuente secundaria.") : null, presidency ? item("Presidencia", presidency, " Fuente secundaria.") : null, cabinet ? item("Gabinete", cabinet, " Fuente secundaria; sin fechas de nombramiento.") : null),
-      el("p", { class: "ficha__intro" }, "Las fechas de término salen de la Constitución; ", el("a", { href: "mapas-politicos.html#fuentes" }, "el detalle está en Mapas políticos"), ".")
-    );
-  }
 
   async function start() {
     const getJSON = async (url) => {
@@ -161,7 +153,6 @@
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
     renderChambers();
     renderFicha();
-    renderSources();
   }
 
   start();

@@ -53,7 +53,7 @@
           <div class="map" id="map">
             <canvas aria-hidden="true"></canvas>
             <svg role="img" aria-label="Mapa de México dividido en entidades. La tabla «Todas las personas» contiene la misma información."></svg>
-            <p class="map__hint">Pulsa una entidad para ver a sus titulares. Arrastra para mover el mapa; Ctrl + rueda para acercar.</p>
+            <p class="map__hint">Pulsa una entidad para ver a sus titulares. Arrastra para mover el mapa; la rueda acerca.</p>
             <p class="map__credit" id="map-credit"></p>
           </div>
           <figure class="inset chamber" id="inset">
@@ -115,26 +115,12 @@
         </table>
       </div>
       <button type="button" id="roster-more" class="button button--quiet" hidden></button>
-      <p class="table-note">La fecha de término de senadurías y diputaciones se calcula con reglas constitucionales; el detalle está en <a href="#fuentes">Fuentes</a>.</p>
+      <p class="table-note">La fecha de término de senadurías y diputaciones se calcula con reglas constitucionales; el detalle está en <a href="fuentes.html">Fuentes</a>.</p>
     </section>
 
-    <section class="sources" id="fuentes">
-      <h2>Fuentes</h2>
-      <div id="sources"></div>
-    </section>
   </main>
 
-  <footer class="about" id="sobre">
-    <h2>Sobre este sitio</h2>
-    <dl class="facts">
-      <dt>Qué es</dt><dd>Un mapa de México con cifras públicas: quién ocupa cada cargo y qué población, economía, seguridad y precios tiene cada lugar.</dd>
-      <dt>De dónde salen los datos</dt><dd>De fuentes oficiales (INEGI, INE, SESNSP, CRE, CONASAMI, SIL de la Secretaría de Gobernación) y, donde no hay una lectura oficial automática, de Wikipedia en español, señalada como fuente secundaria. Cada cifra y cada nombre llevan su enlace y la fecha en que se leyeron.</dd>
-      <dt>Quién aparece</dt><dd>Solo personas en cargos públicos, con los datos que las propias instituciones publican sobre ese cargo. No hay opiniones ni calificaciones.</dd>
-      <dt>Qué no hace</dt><dd>No usa cookies, no mide visitas, no carga nada de otros sitios y no guarda nada de quien lo consulta.</dd>
-      <dt>Quién lo hace</dt><dd>Se publica bajo el nombre del proyecto, sin autoría personal. El código y los datos son públicos: <a href="https://github.com/mexico-en-datos/mexicoendatos" rel="noopener noreferrer">github.com/mexico-en-datos/mexicoendatos</a>.</dd>
-      <dt>Si una cifra está mal</dt><dd>La fuente enlazada es la referencia; las correcciones se reciben en el repositorio.</dd>
-    </dl>
-  </footer>
+  <footer class="foot"><a href="fuentes.html">Fuentes y sobre este sitio</a></footer>
 
   <script src="vendor/d3.min.js"></script>
   <script src="vendor/topojson-client.min.js"></script>

@@ -121,7 +121,7 @@
       .scaleExtent([1, 40])
       .translateExtent([[-120, -60], [W + 120, H + 60]])
       .filter((event) => {
-        if (event.type === "wheel") return event.ctrlKey || event.metaKey;
+        if (event.type === "wheel") return true; // the wheel zooms the map
         if (event.type.startsWith("touch")) return event.touches.length > 1;
         return !event.button;
       })

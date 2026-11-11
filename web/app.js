@@ -202,7 +202,7 @@
       .scaleExtent([1, 30])
       .translateExtent([[-240, -60], [W + 240, H + 60]])
       .filter((event) => {
-        if (event.type === "wheel") return event.ctrlKey || event.metaKey; // plain wheel scrolls the page
+        if (event.type === "wheel") return true; // the wheel zooms the map
         if (event.type.startsWith("touch")) return event.touches.length > 1; // one finger scrolls the page
         return !event.button;
       })
@@ -788,128 +788,12 @@
     return el("div", { class: "source" }, el("div", {}, el("h3", {}, title), el("p", { class: "source__kind" }, kind)), el("div", { class: "source__body" }, body));
   }
 
-  function renderSources() {
-    const map = S.mapSource;
-    const { sil, wikipedia } = S.data.sources;
-    const rules = [S.data.rules.senate_term, S.data.rules.deputies_term, S.data.rules.justices_term, S.data.rules.president_term].filter(Boolean);
-    const court = S.data.sources.wikipedia_scjn;
-    const presidency = S.data.sources.wikipedia_president;
-    const cabinetSource = S.data.sources.wikipedia_cabinet;
-    const ine = map.districts;
-    const regions = S.data.circunscripciones;
-    const mayorPages = S.data.sources.wikipedia_mayors;
-    const noFigure = map.municipalities_without_population.length;
-    $("#map-credit").replaceChildren(`${map.attribution}, consultado el ${day(map.retrieved_at)}. `, el("a", { href: "#fuentes" }, "Fuentes"));
-    const blocks = [
-      sourceBlock(
-        "Mapa de municipios",
-        "Fuente oficial",
-        el("p", {}, `${map.edition}. ${integer.format(map.municipality_count)} municipios en ${map.states.length} entidades.`),
-        el("p", {}, `Los límites se descargaron del servicio web del INEGI, entidad por entidad, el ${day(map.retrieved_at)}. ${map.processing_note}`),
-        el("p", {}, `Población: ${map.population_source}, del mismo servicio. ${noFigure} municipios creados después de ese censo no tienen cifra propia.`),
-        el(
-          "details",
-          {},
-          el("summary", {}, `Los ${map.states.length} enlaces de descarga, consultados el ${day(map.retrieved_at)}`),
-          el("ul", {}, map.states.map((s) => el("li", {}, link(s.url, `${EVERYDAY_NAME[s.cve_ent] || s.name}: ${s.municipalities} municipios`))))
-        ),
-        el("ul", { class: "cite" }, map.reference_links.map((r) => el("li", {}, link(r.url, r.label), `, enlace revisado el ${day(r.checked_at)}.`)))
-      ),
-      sourceBlock(
-        "Senado y Cámara de Diputados",
-        "Fuente oficial",
-        el("p", {}, `${sil.name}; consultado el ${day(sil.retrieved_at)}.`),
-        el(
-          "ul",
-          {},
-          el("li", {}, link(sil.url, "Senado: integrantes de la LXVI Legislatura"), `, consultado el ${day(sil.retrieved_at)}.`),
-          sil.deputies_url
-            ? el("li", {}, link(sil.deputies_url, "Cámara de Diputados: integrantes de la LXVI Legislatura"), `, consultado el ${day(sil.retrieved_at)}.`)
-            : null
-        ),
-        el("p", {}, "Cada persona enlaza a su propia ficha en el SIL, que la Secretaría de Gobernación compila a partir de fuentes públicas como las gacetas del Congreso. El distrito de cada diputación se lee en esa ficha.")
-      ),
-      sourceBlock(
-        "Gobernadoras, gobernadores y jefa de Gobierno",
-        "Fuente secundaria",
-        el("p", {}, link(wikipedia.url, wikipedia.name), `, versión del ${day(wikipedia.published_at)}; consultada el ${day(wikipedia.retrieved_at)}.`),
-        el("p", {}, "No encontramos una lista oficial, única y vigente de quienes encabezan los gobiernos estatales que pueda consultarse de forma automática. Por eso se cita la versión exacta de Wikipedia que se leyó, para que cualquiera pueda comprobarla.")
-      ),
-      mayorPages
-        ? sourceBlock(
-            "Presidencias municipales y alcaldías",
-            "Fuente secundaria",
-            el("p", {}, `${mayorPages.name}; consultados el ${day(mayorPages.retrieved_at)}.`),
-            el("p", {}, "No hay una lista oficial y vigente de presidentes municipales que pueda consultarse de forma automática; la del gobierno federal corresponde al periodo anterior. Se cita la versión exacta de cada anexo de Wikipedia que se leyó."),
-            el(
-              "details",
-              {},
-              el("summary", {}, `Los ${mayorPages.pages.length} anexos, consultados el ${day(mayorPages.retrieved_at)}`),
-              el("ul", {}, mayorPages.pages.map((page) => el("li", {}, link(page.url, EVERYDAY_NAME[page.state_code] || page.state), `, versión del ${day(page.published_at)}.`)))
-            )
-          )
-        : null,
-      ine
-        ? sourceBlock(
-            "Mapa de distritos electorales",
-            "Fuente oficial",
-            el("p", {}, `${ine.attribution}: la capa ${ine.layer} del archivo publicado por el INE, con ${ine.district_count} distritos federales (distritación de 2023).`),
-            el("p", { class: "cite" }, link(ine.url, "Archivo de shapefiles del Marco Geográfico Seccional"), `, con fecha del ${day(ine.published_at)}; descargado el ${day(ine.retrieved_at)}. Límites simplificados para visualización.`)
-          )
-        : null,
-      cabinetSource
-        ? sourceBlock(
-            "Gabinete",
-            "Fuente secundaria",
-            el("p", {}, link(cabinetSource.url, cabinetSource.name), `, versión del ${day(cabinetSource.published_at)}; consultada el ${day(cabinetSource.retrieved_at)}.`),
-            el("p", {}, "La tabla «Gabinete legal» del artículo lista las dependencias del Ejecutivo federal con sus titulares. No da fechas de nombramiento ni partido, y no encontramos una página oficial que pueda leerse de forma automática.")
-          )
-        : null,
-      presidency
-        ? sourceBlock(
-            "Presidencia de la República",
-            "Fuente secundaria",
-            el("p", {}, link(presidency.url, presidency.name), `, versión del ${day(presidency.published_at)}; consultada el ${day(presidency.retrieved_at)}.`),
-            el("p", {}, "El artículo sobre el cargo dice quién lo ocupa y desde cuándo; el partido se toma del artículo de la persona titular, enlazado en su ficha.")
-          )
-        : null,
-      regions
-        ? sourceBlock(
-            "Circunscripciones de la Cámara de Diputados",
-            "Fuente secundaria",
-            el("p", {}, "Las 200 diputaciones de lista se eligen en cinco circunscripciones, cada una un grupo de entidades. La composición vigente desde el 29 de marzo de 2023 se tomó de ", link(regions.source.url, regions.source.name), `, versión del ${day(regions.source.published_at)}; enlace revisado el ${day(regions.source.checked_at)}.`),
-            el("ul", {}, regions.list.map((r) => el("li", {}, `${r.name} (cabecera ${r.seat}): ${regionStates(r)}.`)))
-          )
-        : null,
-      court
-        ? sourceBlock(
-            "Suprema Corte de Justicia de la Nación",
-            "Fuente secundaria",
-            el("p", {}, link(court.url, court.name), `, versión del ${day(court.published_at)}; consultada el ${day(court.retrieved_at)}.`),
-            el("p", {}, "El sitio de la Corte no responde a consultas desde fuera de México, así que se usa el artículo de Wikipedia, citado en la versión exacta que se leyó.")
-          )
-        : null,
-      sourceBlock(
-        "Fechas de inicio y de término",
-        "Fuentes citadas y dos reglas constitucionales",
-        el("p", {}, "La fecha en que cada persona asumió el cargo viene de su fuente: el SIL para el Congreso (toma de protesta) y Wikipedia para los gobiernos estatales y municipales, que también da la fecha de término."),
-        el("p", {}, "El SIL no publica cuándo termina cada senaduría o diputación, y las fuentes de la Corte y de la Presidencia tampoco dan el final del periodo, así que esas fechas se calculan con estas reglas:"),
-        rules.map((rule) => [
-          el("p", {}, rule.text),
-          el("p", { class: "cite" }, link(rule.url, rule.source_name), `, texto con última reforma del ${day(rule.published_at)}; enlace revisado el ${day(rule.checked_at)}.`),
-        ])
-      ),
-      S.data.warnings.length
-        ? sourceBlock("Avisos", "Diferencias entre lo que listan las fuentes y lo que marca la ley", el("ul", {}, S.data.warnings.map((w) => el("li", {}, w))))
-        : null,
-    ];
-    $("#sources").replaceChildren(...blocks.filter(Boolean));
-  }
 
   // ---------- Header, refresh, view switch ----------
 
   function renderDataDate() {
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
+    $("#map-credit").replaceChildren(`${S.mapSource.attribution}, consultado el ${day(S.mapSource.retrieved_at)}. `, el("a", { href: "fuentes.html" }, "Fuentes"));
   }
 
   function renderPeople() {
@@ -918,7 +802,6 @@
     renderInset();
     renderFicha();
     renderRoster();
-    renderSources();
     renderDataDate();
   }
 

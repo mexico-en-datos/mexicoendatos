@@ -139,7 +139,7 @@
       .scaleExtent([1, 60])
       .translateExtent([[-120, -60], [W + 120, H + 60]])
       .filter((event) => {
-        if (event.type === "wheel") return event.ctrlKey || event.metaKey;
+        if (event.type === "wheel") return true; // the wheel zooms the map
         if (event.type.startsWith("touch")) return event.touches.length > 1;
         return !event.button;
       })
@@ -807,33 +807,6 @@
   }
 
   /** The sources section: every source with its date, in one place. */
-  function renderSources() {
-    const { sil, wikipedia, wikipedia_scjn: court, wikipedia_president: presidency, wikipedia_cabinet: cabinet, wikipedia_mayors: mayors } = S.data.sources;
-    const item = (what, source, extra = "") => el("li", {}, `${what}: `, link(source.url, source.name || source.source_name), source.published_at ? `, versión del ${day(source.published_at)}` : "", `; consultada el ${day(source.retrieved_at)}.${extra}`);
-    $("#sources-body").replaceChildren(
-      el(
-        "ul",
-        { class: "sources__list" },
-        el("li", {}, "Mapa y población: ", link(S.mapSource.service_url, S.mapSource.edition), ` (${S.mapSource.population_source}); consultado el ${day(S.mapSource.retrieved_at)}.`),
-        el("li", {}, "Distritos electorales federales: ", link("https://cartografia.ine.mx/mapoteca/MGS_CCL/SHAPEFILE.7z", "INE, Marco Geográfico Seccional"), `, archivo del ${day(S.mapSource.districts.archive_modified || S.mapSource.districts.retrieved_at)}; descargado el ${day(S.mapSource.districts.retrieved_at)}.`),
-        S.gdp ? el("li", {}, "PIB por entidad: ", link(S.gdp.citation.url, S.gdp.citation.source_name), `, publicado el ${day(S.gdp.citation.published_at)}; consultado el ${day(S.gdp.citation.retrieved_at)}. Cifras en ${S.gdp.unit}.`) : null,
-        S.crime ? el("li", {}, "Homicidios dolosos y feminicidios: ", link(S.crime.citation.url, S.crime.citation.source_name), `, página del ${day(S.crime.citation.published_at)}; archivos descargados el ${day(S.crime.citation.retrieved_at)}. Víctimas de ${S.crime.period} y de todo ${S.crime.previous_year}; tasas sobre la población del Censo 2020.`) : null,
-        S.economy ? el("li", {}, "Salario mínimo: ", link(S.economy.minimum_wage.citation.url, S.economy.minimum_wage.citation.source_name), `; consultada el ${day(S.economy.minimum_wage.citation.retrieved_at)}. La zona fronteriza son los ${S.economy.minimum_wage.border_municipalities.length} municipios que la tabla enumera.`) : null,
-        S.economy ? el("li", {}, "Empleo: ", link(S.economy.employment.citation.url, S.economy.employment.citation.source_name), `, publicado el ${day(S.economy.employment.citation.published_at)}; consultado el ${day(S.economy.employment.citation.retrieved_at)}. Próxima entrega: ${day(S.economy.employment.next_release)}.`) : null,
-        S.economy ? el("li", {}, "Pobreza: ", link(S.economy.poverty.citation.url, S.economy.poverty.citation.source_name), `, publicado el ${day(S.economy.poverty.citation.published_at)}; consultado el ${day(S.economy.poverty.citation.retrieved_at)}.`) : null,
-        S.fuel ? el("li", {}, "Precios de gasolina y diésel: ", link(S.fuel.citation.url, S.fuel.citation.source_name), `; consultado el ${day(S.fuel.citation.retrieved_at)}. Promedio simple de las estaciones con precio, ubicadas en su municipio con los límites del INEGI.`) : null,
-        item("Senadurías y diputaciones, con sus datos de contacto", sil),
-        item("Gubernaturas", wikipedia, " Fuente secundaria."),
-        S.capitals ? item("Capitales de las entidades", S.capitals.citation, " Fuente secundaria; cada capital se ubica en su municipio según el INEGI.") : null,
-        S.cities ? item("Ciudades de más de 100 mil habitantes", S.cities.citation, ` Fuente secundaria; población según la ${S.cities.population_source}; cada ciudad se ubica en su municipio.`) : null,
-        mayors ? el("li", {}, "Presidencias municipales: ", `${mayors.name}; consultados el ${day(mayors.retrieved_at)}. Fuente secundaria; cada persona enlaza a la página de su entidad.`) : null,
-        court ? item("Suprema Corte", court, " Fuente secundaria.") : null,
-        presidency ? item("Presidencia", presidency, " Fuente secundaria.") : null,
-        cabinet ? item("Gabinete", cabinet, " Fuente secundaria; sin fechas de nombramiento.") : null
-      ),
-      el("p", { class: "ficha__intro" }, "Las fechas de término de los cargos legislativos y de la Presidencia salen de la Constitución; ", el("a", { href: "mapas-politicos.html#fuentes" }, "el detalle está en Mapas políticos"), ".")
-    );
-  }
 
   // ---------- Start ----------
 
@@ -870,7 +843,6 @@
     S.ctx = { stateName, ...regions(S.data, stateName) };
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
     $("#map-credit").replaceChildren(`${S.mapSource.attribution}, consultado el ${day(S.mapSource.retrieved_at)}. Distritos: INE, descargados el ${day(S.mapSource.districts.retrieved_at)}.`);
-    renderSources();
     // Deep links: #entidad=14, #entidad=14&distrito=5, #entidad=14&municipio=14039
     const wanted = new URLSearchParams(location.hash.slice(1));
     const state = S.states.find((s) => s.code === wanted.get("entidad"));

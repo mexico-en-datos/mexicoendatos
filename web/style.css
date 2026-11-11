@@ -656,3 +656,10 @@ body[data-tema] .map.level-municipality .hits--state .hit { pointer-events: none
   body.sheet-open .ficha { display: block; position: fixed; top: auto; left: 0; right: 0; bottom: 0; max-height: 62vh; overflow: auto; z-index: 20; box-shadow: 0 -8px 24px rgba(22, 32, 42, 0.18); padding-bottom: calc(20px + env(safe-area-inset-bottom, 0px)); }
   body.sheet-open .ficha__close { display: block; margin: 0 0 8px; text-align: right; }
 }
+
+/* ---------- Footer link and the sources page ---------- */
+.foot { margin: 28px var(--gutter) 32px; font-size: 0.9375rem; }
+.page { padding: 0 var(--gutter); max-width: 1100px; }
+.page .sources { margin-top: 24px; }
+.page .about { margin-left: 0; margin-right: 0; }
+@media (max-width: 700px) { .foot { margin: 16px var(--gutter) 24px; } }
