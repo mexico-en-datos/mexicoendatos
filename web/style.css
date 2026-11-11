@@ -759,3 +759,4 @@ abbr.term { text-decoration: underline dotted; text-decoration-color: var(--ink-
 .autonomous { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; align-items: start; }
 .autonomous__body { border: 1px solid var(--ink); background: var(--sheet); padding: 12px 14px 14px; }
 .autonomous__body h3 { margin: 0 0 6px; font-stretch: var(--place); font-weight: 700; font-size: 1rem; line-height: 1.25; }
+.facts .muted { color: var(--ink-2); font-size: 0.875rem; }

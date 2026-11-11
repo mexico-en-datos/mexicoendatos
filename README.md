@@ -31,6 +31,7 @@ python3 -m venv .venv
 .venv/bin/python tools/fetch_economy.py      # tool 7: minimum wage, employment, income bands and poverty per state
 .venv/bin/python tools/fetch_capitals.py     # tool 8: the capital of each state (on demand)
 .venv/bin/python tools/fetch_cities.py       # tool 9: cities of 100,000 people or more (on demand)
+.venv/bin/python tools/build_district_index.py  # tool 10: which municipalities each district covers (after tool 1)
 ```
 
 Run the tests with `.venv/bin/python -m pytest`.
@@ -46,6 +47,7 @@ Run the tests with `.venv/bin/python -m pytest`.
 | `tools/fetch_economy.py` | Reads CONASAMI's minimum-wage table (general and northern-border wage, and the border municipalities, matched to INEGI codes), INEGI's quarterly ENOE bulletin (cuadro 5: employed, unemployed, participation, unemployment and informality per state) and INEGI's poverty workbook (poverty and extreme poverty per state, 2024), and ranks the states. Addresses and dates are in `informate/economy.py`; update them for each new edition. | `web/data/economy.json` |
 | `tools/fetch_capitals.py` | Reads each state's capital from the Wikipedia annex of federal entities and places it in its INEGI municipality (a short table in `informate/capitals.py` covers the capitals whose municipality has another name, such as Villahermosa in Centro). | `web/data/capitals.json` |
 | `tools/fetch_cities.py` | Reads the Wikipedia annex of Mexico's most populous cities (100,000 or more) and places each in its INEGI municipality (explicit pairs in `informate/cities.py` for the ones named differently, such as Cancún in Benito Juárez). | `web/data/cities.json` |
+| `tools/build_district_index.py` | Overlays INE's district polygons on INEGI's municipal polygons (both from the map cache) and writes, for each of the 300 districts, the municipalities it covers with the share of each one's area inside it (over the ground both maps cover; "whole" from 98 %, slivers under 1 % dropped). | `web/data/distritos_municipios.json` |
 | `tools/fetch_gdp.py` | Reads each state's GDP from INEGI's yearly PIBE press release (a PDF; its cuadro 1). INEGI's indicator API has the same numbers but needs a personal token, which this project avoids. | `web/data/gdp.json` |
 | `tools/serve.py` | Serves `web/` on this computer. The page's "Actualizar datos" button re-runs tool 2 (at most once a minute). | (updates `politicians.json`) |
 

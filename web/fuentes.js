@@ -16,9 +16,9 @@
       }
       return response.json();
     };
-    let data, map, gdp, crime, fuel, economy, capitals, cities;
+    let data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex;
     try {
-      [data, map, gdp, crime, fuel, economy, capitals, cities] = await Promise.all([
+      [data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex] = await Promise.all([
         getJSON("data/politicians.json"),
         getJSON("data/map_source.json"),
         getJSON("data/gdp.json", true),
@@ -27,6 +27,7 @@
         getJSON("data/economy.json", true),
         getJSON("data/capitals.json", true),
         getJSON("data/cities.json", true),
+        getJSON("data/distritos_municipios.json", true),
       ]);
     } catch (error) {
       const notice = $("#load-error");
@@ -57,6 +58,14 @@
               "Fuente oficial",
               el("p", {}, `${ine.attribution}: la capa ${ine.layer} del archivo publicado por el INE, con ${ine.district_count} distritos federales (distritación de 2023).`),
               el("p", { class: "cite" }, link(ine.url, "Archivo de shapefiles del Marco Geográfico Seccional"), `, con fecha del ${day(ine.published_at)}; descargado el ${day(ine.retrieved_at)}. Límites simplificados para visualización.`)
+            )
+          : null,
+        districtIndex
+          ? block(
+              "Municipios de cada distrito",
+              "Cálculo propio sobre dos fuentes oficiales",
+              el("p", {}, districtIndex.method),
+              el("p", { class: "cite" }, `Distritos: ${districtIndex.sources.districts.name}, archivo del ${day(districtIndex.sources.districts.published_at)}, descargado el ${day(districtIndex.sources.districts.retrieved_at)}. Municipios: ${districtIndex.sources.municipalities.name}. Calculado el ${day(districtIndex.generated_at)}.`)
             )
           : null,
         capitals ? block("Capitales de las entidades", "Fuente secundaria", el("p", {}, link(capitals.citation.url, capitals.citation.source_name), read(capitals.citation)), el("p", {}, "Cada capital se ubica en su municipio según el catálogo del INEGI; las capitales cuyo municipio tiene otro nombre (Villahermosa en Centro, Chetumal en Othón P. Blanco…) están emparejadas una por una.")) : null,

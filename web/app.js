@@ -7,7 +7,7 @@
   const { PARTIES, PARTY_ORDER, EVERYDAY_NAME, INSET, el, link, swatch, partyOf, partyRank, partyLabel, fold, integer, moment, day, motionOK, fact, facts, sourceValue, samePerson, districtOf, personLine, personCard, seatingOrder, drawSeats, chamberCounts, seatTipLines } = MXD;
   const NATIONAL_LIST = "LN";
 
-  const S = { view: "governor", showMunis: false, selected: null, person: null, topo: null, mapSource: null, data: null, states: [], munis: [], districts: [], byState: new Map(), national: [], mayorOf: new Map(), mayorShapes: new Map(), deputyOfDistrict: new Map() };
+  const S = { view: "governor", showMunis: false, selected: null, district: null, districtIndex: null, person: null, topo: null, mapSource: null, data: null, states: [], munis: [], districts: [], byState: new Map(), national: [], mayorOf: new Map(), mayorShapes: new Map(), deputyOfDistrict: new Map() };
 
   // ---------- Small helpers ----------
 
@@ -191,11 +191,7 @@
         litSeats(d.state_code);
         showTip(event, `d${d.state_code}-${d.number}`, () => districtTip(d));
       })
-      .on("click", (event, d) => {
-        const deputy = S.deputyOfDistrict.get(`${d.state_code}-${d.number}`);
-        if (deputy) showPerson(deputy);
-        else select(d.state_code);
-      });
+      .on("click", (event, d) => selectDistrict(d));
 
     zoom = d3
       .zoom()
@@ -454,6 +450,7 @@
       el("p", { class: "tooltip__place" }, stateName(district.state_code)),
       el("p", { class: "tooltip__sub" }, deputy ? `${deputy.title}, mayoría relativa` : "Diputación de mayoría relativa"),
       el("div", { class: "tooltip__people" }, [deputy ? tipPerson(deputy) : el("span", {}, "Ficha aún no leída en el SIL")]),
+      el("p", { class: "tooltip__sub" }, "Pulsa para ver el distrito: sus municipios y su diputación"),
     ];
   }
 
@@ -543,6 +540,7 @@
 
   function select(code, { zoomMap = true } = {}) {
     S.person = null;
+    S.district = null;
     S.selected = code;
     const state = S.states.find((s) => s.code === code) || null;
     selectedOutline.attr("d", state ? state.outline : null);
@@ -550,12 +548,47 @@
     renderFicha();
   }
 
+  /** A federal district as the chosen place: the map outlines it and its data replace the state's. */
+  function selectDistrict(district) {
+    S.person = null;
+    S.selected = district.state_code;
+    S.district = district;
+    selectedOutline.attr("d", district.outline);
+    renderFicha();
+  }
+
+  /** The district's rows: where it is, its deputy (a name to click) and every municipality it covers, whole or in part. */
+  function districtFicha(district) {
+    const deputy = S.deputyOfDistrict.get(`${district.state_code}-${district.number}`) || null;
+    const seat = deputy && deputy.district.includes("(") ? deputy.district.slice(deputy.district.lastIndexOf("(") + 1, -1) : null;
+    const covered = S.districtIndex ? S.districtIndex.districts[`${district.state_code}-${district.number}`] || [] : null;
+    const muniRow = (m) => {
+      const mayor = S.mayorOf.get(m.code) || null;
+      const how = m.whole ? "Completo" : `En parte: ${Math.round(m.share * 100)} % de su superficie`;
+      return fact(
+        m.name,
+        el("span", {}, el("span", { class: "muted" }, how), mayor ? [el("br"), swatch(mayor.party), " ", el("button", { type: "button", class: "persona__link", onclick: () => showPerson(mayor) }, mayor.name), el("span", { class: "muted" }, mayor.office === "mayor" ? ` · ${mayor.title}` : "")] : null)
+      );
+    };
+    return [
+      el("h2", { class: "ficha__place" }, `Distrito ${district.number}`),
+      facts(fact("Entidad", stateName(district.state_code)), fact("Cabecera", seat), covered ? fact("Municipios que abarca", `${covered.length}: ${covered.filter((m) => m.whole).length} completos, ${covered.filter((m) => !m.whole).length} en parte`) : null),
+      el("h3", {}, "Cámara de Diputados"),
+      deputy ? people(deputy) : el("p", { class: "ficha__intro" }, "La ficha de esta diputación en el SIL aún no se ha leído; aparecerá en una próxima actualización."),
+      el("h3", {}, "Municipios"),
+      covered && covered.length ? [facts(covered.map(muniRow)), el("p", { class: "cite" }, S.districtIndex.method)] : el("p", { class: "ficha__intro" }, "La correspondencia entre distritos y municipios aún no se ha calculado."),
+      el("p", { class: "ficha__back" }, el("button", { type: "button", class: "link-button", onclick: () => select(district.state_code, { zoomMap: false }) }, `Volver a ${stateName(district.state_code)}`)),
+    ];
+  }
+
   function renderFicha() {
     $("#state-picker").value = S.selected || "";
     litSeats(S.selected);
     const content = S.person
-      ? [personCard(S.person, ctx()), el("p", { class: "ficha__back" }, el("button", { type: "button", class: "link-button", onclick: () => select(S.selected === NATIONAL_LIST ? NATIONAL_LIST : S.selected, { zoomMap: false }) }, S.selected === NATIONAL_LIST ? "Volver a la lista nacional" : S.selected ? `Volver a ${stateName(S.selected)}` : "Ver todo el país"))]
-      : !S.selected
+      ? [personCard(S.person, ctx()), el("p", { class: "ficha__back" }, el("button", { type: "button", class: "link-button", onclick: () => (S.district ? selectDistrict(S.district) : select(S.selected === NATIONAL_LIST ? NATIONAL_LIST : S.selected, { zoomMap: false })) }, S.district ? `Volver al distrito ${S.district.number}` : S.selected === NATIONAL_LIST ? "Volver a la lista nacional" : S.selected ? `Volver a ${stateName(S.selected)}` : "Ver todo el país"))]
+      : S.district
+        ? districtFicha(S.district)
+        : !S.selected
         ? countryFicha()
         : S.selected === NATIONAL_LIST
           ? nationalListFicha()
@@ -847,6 +880,7 @@
       notice.textContent = `No se pudieron cargar los datos (${error.message}). Genera los archivos con «python tools/build_map.py» y «python tools/fetch_politicians.py», y abre la página con «python tools/serve.py».`;
       return;
     }
+    S.districtIndex = await fetch("data/distritos_municipios.json").then((response) => (response.ok ? response.json() : null)).catch(() => null);
     buildMap();
     fillPicker();
     fillFilters();

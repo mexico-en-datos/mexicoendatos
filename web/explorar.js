@@ -690,6 +690,18 @@
       sourceRow("Fuente", f.citation.url, "CRE, precios reportados", null, f.citation.retrieved_at),
     ];
   }
+  /** The municipalities a district covers, whole or in part, each a way into that municipality. */
+  function districtMunicipalities(district) {
+    const covered = S.districtIndex ? S.districtIndex.districts[`${district.state_code}-${district.number}`] || [] : null;
+    if (!covered) return el("p", { class: "ficha__intro" }, "La correspondencia entre distritos y municipios aún no se ha calculado.");
+    const rows = covered.map((m) => {
+      const muni = S.munis.find((x) => x.code === m.code) || null;
+      const name = muni ? el("button", { type: "button", class: "persona__link", onclick: () => go("municipality", { state: S.state, district, muni }) }, m.name) : m.name;
+      return fact(name, m.whole ? "Completo" : `En parte: ${Math.round(m.share * 100)} % de su superficie`);
+    });
+    return [facts(rows), el("p", { class: "cite" }, S.districtIndex.method)];
+  }
+
   const levelName = () => (S.level === "municipality" ? S.muni.name : S.level === "district" ? `Distrito ${S.district.number}` : S.level === "state" ? stateName(S.state.code) : "México");
 
   const closeControl = () => el("p", { class: "ficha__close" }, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar y ver el mapa"));
@@ -772,7 +784,9 @@
         facts(fact("Entidad", stateName(S.state.code)), fact("Cabecera", seat), fact("Población, PIB, homicidios y precios", "No se publican por distrito electoral; los municipios de abajo sí los tienen")),
         el("h3", {}, "Cámara de Diputados"),
         deputy ? people(deputy) : el("p", { class: "ficha__intro" }, "La ficha de esta diputación en el SIL aún no se ha leído; aparecerá en una próxima actualización."),
-        el("p", { class: "ficha__intro" }, "Pulsa un municipio para ver quién preside su ayuntamiento."),
+        el("h3", {}, "Municipios que abarca"),
+        districtMunicipalities(S.district),
+        el("p", { class: "ficha__intro" }, "Pulsa un municipio, aquí o en el mapa, para ver sus datos y quién preside su ayuntamiento."),
         back(`Volver a ${stateName(S.state.code)}`, () => go("state", { state: S.state })),
       ];
     } else {
@@ -889,6 +903,7 @@
     }
     tip = MXD.tooltip($("#tooltip"), $(".map-area"));
     buildMap();
+    S.districtIndex = await fetch("data/distritos_municipios.json").then((response) => (response.ok ? response.json() : null)).catch(() => null);
     S.ctx = { stateName, legislature: S.data.legislature || null, ...regions(S.data, stateName) };
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
     $("#map-credit").replaceChildren(`${S.mapSource.attribution} (${day(S.mapSource.retrieved_at)}); distritos: INE (${day(S.mapSource.districts.retrieved_at)}).`);
