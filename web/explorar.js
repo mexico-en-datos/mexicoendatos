@@ -204,15 +204,16 @@
       const capital = capitalOf(d.state_code);
       return Boolean(capital && capital.municipality_code === d.municipality_code);
     };
-    // At the country level one name per metropolitan area: its largest city, unless that is a capital (which has the star).
-    const all = S.cities ? S.cities.cities.filter((c) => c.municipality_code) : [];
+    // At the country level one name per metropolitan area, its largest city; a metro that holds a capital shows only the star.
+    const all = S.cities ? S.cities.cities : [];
+    const metroKey = (c) => c.metro || c.name;
     const largestOfMetro = new Map();
+    const metroHasCapital = new Set();
     for (const c of all) {
-      const key = c.metro || c.name;
-      if (!largestOfMetro.has(key) || largestOfMetro.get(key).population < c.population) largestOfMetro.set(key, c);
+      if (c.state_code === "09" || isCapital(c)) metroHasCapital.add(metroKey(c));
+      if (c.municipality_code && (!largestOfMetro.has(metroKey(c)) || largestOfMetro.get(metroKey(c)).population < c.population)) largestOfMetro.set(metroKey(c), c);
     }
-    const leadsItsMetro = (d) => largestOfMetro.get(d.metro || d.name) === d;
-    const shown = (d) => (isCapital(d) ? false : code ? d.state_code === code : d.population >= BIG_CITY && leadsItsMetro(d) && !isCapital(largestOfMetro.get(d.metro || d.name)));
+    const shown = (d) => (isCapital(d) ? false : code ? d.state_code === code : d.population >= BIG_CITY && largestOfMetro.get(metroKey(d)) === d && !metroHasCapital.has(metroKey(d)));
     cityMarks
       .style("display", (d) => (shown(d) ? null : "none"))
       .attr("transform", (d) => {
