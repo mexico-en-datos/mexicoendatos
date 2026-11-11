@@ -663,3 +663,26 @@ body[data-tema] .map.level-municipality .hits--state .hit { pointer-events: none
 .page .sources { margin-top: 24px; }
 .page .about { margin-left: 0; margin-right: 0; }
 @media (max-width: 700px) { .foot { margin: 16px var(--gutter) 24px; } }
+
+/* ---------- Compact top bar: everything on one line, the map gets the rest of the screen ---------- */
+.masthead { align-items: center; gap: 8px 22px; padding: 12px var(--gutter) 10px; border-bottom: 1px solid var(--rule); }
+.masthead h1 { font-size: 1.5rem; line-height: 1; letter-spacing: -0.01em; }
+.masthead h1 a { color: inherit; text-decoration: none; }
+.masthead .tabs { margin-top: 0; }
+.masthead .tabs a { padding: 6px 12px; font-size: 0.875rem; }
+.masthead__status { margin-left: auto; gap: 4px; }
+.masthead__status p { font-size: 0.75rem; }
+main { padding-top: 12px; }
+.map { aspect-ratio: auto; height: calc(100vh - 176px); min-height: 380px; max-height: none; }
+.ficha { top: 12px; max-height: calc(100vh - 100px); }
+.page .sources { margin-top: 8px; }
+@media (max-width: 900px) {
+  .masthead__status { margin-left: 0; }
+  .map { height: calc(100vh - 220px); }
+}
+@media (max-width: 700px) {
+  .masthead { padding: 8px var(--gutter) 6px; }
+  .masthead h1 { font-size: 1.25rem; }
+  .map { height: calc(100vh - 128px); }
+}
+.map__hint { max-width: 56%; }

@@ -11,17 +11,15 @@
 </head>
 <body>
   <header class="masthead">
-    <div class="masthead__title">
-      <h1>México en datos</h1>
-      <p>Un mapa por cargo: quién encabeza cada gobierno estatal y cada ayuntamiento, quién ocupa cada senaduría y cada diputación, por partido, con los escaños de cada cámara. Pulsa un nombre o un escaño para ver los datos de esa persona. Cada dato lleva su fuente y la fecha en que se consultó.</p>
-      <nav class="tabs" aria-label="Secciones">
+    <h1><a href="index.html">México en datos</a></h1>
+    <nav class="tabs" aria-label="Secciones">
         <a href="index.html">Explorar México</a>
         <a href="mapas-politicos.html" aria-current="page">Mapas políticos</a>
         <a href="mapas-economicos.html">Mapas económicos</a>
         <a href="mapas-seguridad.html">Mapas de seguridad</a>
         <a href="poderes.html">Poderes de la Nación</a>
-      </nav>
-    </div>
+        <a href="fuentes.html">Fuentes</a>
+    </nav>
     <div class="masthead__status">
       <p id="data-date"></p>
       <button type="button" id="refresh" class="button" hidden>Actualizar datos</button>
@@ -120,7 +118,6 @@
 
   </main>
 
-  <footer class="foot"><a href="fuentes.html">Fuentes y sobre este sitio</a></footer>
 
   <script src="vendor/d3.min.js"></script>
   <script src="vendor/topojson-client.min.js"></script>
