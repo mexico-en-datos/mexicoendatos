@@ -73,8 +73,57 @@ window.MXD = (() => {
   const day = (iso) => (!iso ? "" : iso.length === 4 ? iso : iso.length === 10 ? dayUTC.format(new Date(`${iso}T00:00:00Z`)) : dayLocal.format(new Date(iso)));
   const motionOK = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
+  // ---------- Glossary: one line per technical term, shown when the pointer rests on it ----------
+
+  const GLOSSARY = {
+    "Mayoría relativa": "Gana quien obtiene más votos en su distrito o entidad, aunque no llegue a la mitad (artículos 52 y 56 de la Constitución).",
+    "Primera minoría": "La senaduría que recibe el partido que quedó en segundo lugar en la entidad (artículo 56 de la Constitución).",
+    "Representación proporcional": "Escaños repartidos entre los partidos según su porcentaje de votos, por listas y no por distrito (artículos 53, 54 y 56 de la Constitución).",
+    "Circunscripción": "Cada una de las cinco regiones del país en que se eligen las 200 diputaciones de lista (artículo 53 de la Constitución).",
+    "Suplente": "Persona electa junto con la titular para ocupar el cargo si esta falta (artículos 51 y 57 de la Constitución).",
+    "Mayoría calificada": "Dos tercios de los escaños: la que hace falta para reformar la Constitución (artículo 135) o superar un veto (artículo 72).",
+    "Mayoría simple": "Más de la mitad de los escaños: 65 en el Senado, 251 en la Cámara de Diputados.",
+    "Legislatura": "Periodo de tres años de la Cámara de Diputados, numerado de corrido desde 1857; el Senado se renueva cada dos legislaturas.",
+    "Distrito federal": "Cada una de las 300 zonas en que el INE divide el país para elegir una diputación de mayoría relativa.",
+    "Distritos federales": "Las zonas en que el INE divide el país para elegir las 300 diputaciones de mayoría relativa.",
+    "Distrito": "Zona electoral federal: en cada una se elige una diputación de mayoría relativa; hay 300.",
+    "Cabecera": "Localidad donde se asientan las autoridades del municipio o del distrito.",
+    "PIB por habitante": "El PIB de la entidad dividido entre su población; una medida de producción por persona, no de ingreso.",
+    "PIB": "Producto interno bruto: el valor de todo lo producido en un año. El INEGI lo da a precios de 2018, es decir, sin el efecto de la inflación.",
+    "Desocupación": "Personas que buscaron trabajo y no lo encontraron, como porcentaje de la población económicamente activa (INEGI, ENOE).",
+    "Informalidad laboral": "Personas ocupadas sin seguridad social por su trabajo o en negocios no registrados, como porcentaje de las ocupadas (INEGI, ENOE).",
+    "Informalidad": "Trabajo sin seguridad social ni registro, como porcentaje de las personas ocupadas (INEGI, ENOE).",
+    "Pobreza extrema": "Ingreso por debajo de la línea de pobreza extrema y tres o más carencias sociales (medición multidimensional, metodología del Coneval).",
+    "Pobreza": "Ingreso por debajo de la línea de pobreza y al menos una carencia social: educación, salud, seguridad social, vivienda, servicios o alimentación (medición multidimensional).",
+    "Salario mínimo": "Lo menos que puede pagarse por una jornada; lo fija la CONASAMI cada año, con un monto mayor en la Zona Libre de la Frontera Norte.",
+    "Zona Libre de la Frontera Norte": "Los 45 municipios que colindan con Estados Unidos, con salario mínimo e IVA propios.",
+    "Homicidios dolosos": "Muertes causadas a propósito, como las registran las fiscalías estatales (SESNSP); no cuentan los culposos, por ejemplo en accidentes.",
+    "Feminicidios": "Homicidios de mujeres por razones de género, registrados como tales por las fiscalías.",
+    "Por cada 100 mil habitantes": "La cifra dividida entre la población y multiplicada por 100 mil, para comparar lugares de distinto tamaño.",
+    "Gabinete": "Las secretarías de Estado y dependencias cuyos titulares nombra la Presidencia.",
+    "Tribunal de Disciplina Judicial": "Órgano creado por la reforma judicial de 2024 que vigila y sanciona a jueces, magistrados y ministros.",
+    "Tribunal Electoral": "Máxima autoridad electoral del país; su Sala Superior resuelve las impugnaciones de las elecciones federales.",
+    "Suprema Corte": "El máximo tribunal del país: nueve ministras y ministros, elegidos por voto desde 2025.",
+    "Viviendas habitadas": "Viviendas con personas residentes el día del censo (INEGI, Censo 2020).",
+  };
+  const GLOSSARY_KEYS = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length);
+
+  /** Text with its glossary terms wrapped so the definition shows when the pointer rests on them. */
+  function gloss(text) {
+    if (typeof text !== "string") return text;
+    const lower = fold(text);
+    let best = null;
+    for (const key of GLOSSARY_KEYS) {
+      const at = lower.indexOf(fold(key));
+      if (at >= 0 && (best === null || at < best.at)) best = { at, key };
+    }
+    if (!best) return text;
+    const { at, key } = best;
+    return [text.slice(0, at), el("abbr", { class: "term", title: GLOSSARY[key] }, text.slice(at, at + key.length)), ...[gloss(text.slice(at + key.length))].flat()];
+  }
+
   /** One row of a facts list: label and value. Null when there is no value. */
-  const fact = (label, value) => (value == null || value === "" ? null : [el("dt", {}, label), el("dd", {}, value)]);
+  const fact = (label, value) => (value == null || value === "" ? null : [el("dt", {}, gloss(label)), el("dd", {}, value)]);
   const facts = (...rows) => el("dl", { class: "facts" }, rows.flat(Infinity).filter(Boolean));
 
   /** The value of a "Fuente" row: the source, its version date and the day it was read. */
@@ -87,6 +136,8 @@ window.MXD = (() => {
   // ---------- One person ----------
 
   const NO_PARTY = new Set(["justice", "magistrate_tepjf", "magistrate_tdj", "secretary"]);
+  /** "LXVI Legislatura (2024-2027)" for titles, from the dataset. */
+  const legislatureLabel = (data) => (data && data.legislature ? `${data.legislature.roman} Legislatura (${data.legislature.start.slice(0, 4)}–${data.legislature.end.slice(0, 4)})` : null);
   const samePerson = (a, b) => Boolean(a && b) && a.office === b.office && a.name === b.name && a.district === b.district;
   /** "distrito 4 (Saltillo)" read off the end of the district label. */
   const districtOf = (person) => (person.district || "").slice(person.district.indexOf("distrito"));
@@ -104,7 +155,7 @@ window.MXD = (() => {
       "li",
       { class: "person-line" },
       swatch(person.party),
-      el("div", { class: "person-line__text" }, el("button", { type: "button", class: "persona__link person-line__name", onclick: () => onOpen(person) }, person.name), el("span", { class: "person-line__role" }, extra ? `${roleText(person)} · ${extra}` : roleText(person)))
+      el("div", { class: "person-line__text" }, el("button", { type: "button", class: "persona__link person-line__name", onclick: () => onOpen(person) }, person.name), el("span", { class: "person-line__role" }, gloss(extra ? `${roleText(person)} · ${extra}` : roleText(person))))
     );
   }
 
@@ -124,6 +175,7 @@ window.MXD = (() => {
     return [
       fact("Cargo", person.title),
       fact("Poder u órgano", OFFICE_BODY[person.office]),
+      legislator && ctx.legislature ? fact("Legislatura", `${ctx.legislature.roman} (${day(ctx.legislature.start)} a ${day(ctx.legislature.end)})`) : null,
       fact("Partido", party),
       fact("Entidad", where),
       fact("Distrito", seat),
@@ -142,7 +194,7 @@ window.MXD = (() => {
 
   /** The full card: name, role line and every row. */
   function personCard(person, ctx) {
-    return [el("h2", { class: "ficha__place" }, person.name), el("p", { class: "ficha__sub" }, swatch(person.party), ` ${roleText(person)}`), facts(personRows(person, ctx))];
+    return [el("h2", { class: "ficha__place" }, person.name), el("p", { class: "ficha__sub" }, swatch(person.party), " ", gloss(roleText(person))), facts(personRows(person, ctx))];
   }
 
   // ---------- Chambers: every seat drawn as a hemicycle ----------
@@ -294,7 +346,7 @@ window.MXD = (() => {
     PARTIES, PARTY_ORDER, EVERYDAY_NAME, SOURCE_SHORT, INSET,
     el, link, partyOf, partyRank, partyLabel, swatch, fold, capitalise,
     integer, signed, oneDecimal, moment, day, motionOK,
-    fact, facts, sourceValue,
+    fact, facts, sourceValue, gloss, GLOSSARY, legislatureLabel,
     samePerson, districtOf, roleText, personLine, personRows, personCard,
     hemicycle, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions,
   };

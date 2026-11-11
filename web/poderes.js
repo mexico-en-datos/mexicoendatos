@@ -4,7 +4,7 @@
 (() => {
   "use strict";
 
-  const { el, link, swatch, integer, moment, day, fact, facts, personLine, personCard, samePerson, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions, EVERYDAY_NAME } = MXD;
+  const { el, link, swatch, integer, moment, day, fact, facts, gloss, legislatureLabel, personLine, personCard, samePerson, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions, EVERYDAY_NAME } = MXD;
   const $ = (selector) => document.querySelector(selector);
   const S = { data: null, mapSource: null, person: null, ctx: null };
 
@@ -74,8 +74,8 @@
         el(
           "section",
           { class: "power" },
-          el("h2", { class: "power__title" }, power.title),
-          power.intro ? el("p", { class: "ficha__intro" }, power.intro) : null,
+          el("h2", { class: "power__title" }, power.title, power.title === "Poder Legislativo" && legislatureLabel(S.data) ? el("span", { class: "power__when" }, " · ", gloss(legislatureLabel(S.data))) : null),
+          power.intro ? el("p", { class: "ficha__intro" }, gloss(power.intro)) : null,
           power.title === "Poder Ejecutivo" ? executive() : el("div", { class: `overview__grid overview__grid--${power.bodies.length}` }, power.bodies.map(chamber))
         )
       )
@@ -117,7 +117,7 @@
     box.replaceChildren(
       el("h2", { class: "ficha__place" }, "Poderes de la Nación"),
       el("h3", {}, "Poder Legislativo"),
-      facts(fact("Senado", `${count("senator")} escaños`), fact("Cámara de Diputados", `${count("deputy")} escaños`)),
+      facts(legislatureLabel(S.data) ? fact("Legislatura", legislatureLabel(S.data)) : null, fact("Senado", `${count("senator")} escaños`), fact("Cámara de Diputados", `${count("deputy")} escaños`)),
       el("h3", {}, "Poder Ejecutivo"),
       facts(fact("Presidencia de la República", name(peopleOf("president")[0])), fact("Gabinete", `${count("secretary")} titulares`)),
       el("h3", {}, "Poder Judicial"),
@@ -148,7 +148,7 @@
       notice.textContent = `No se pudieron cargar los datos (${error.message}). Genera los archivos con «python tools/fetch_politicians.py» y abre la página con «python tools/serve.py».`;
       return;
     }
-    S.ctx = { stateName, ...regions(S.data, stateName) };
+    S.ctx = { stateName, legislature: S.data.legislature || null, ...regions(S.data, stateName) };
     tip = tooltip($("#tooltip"), $("#chambers"));
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
     renderChambers();

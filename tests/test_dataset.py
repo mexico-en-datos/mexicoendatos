@@ -488,3 +488,13 @@ def test_deputy_with_a_profile_gets_contact_details_too(deputies):
     abramo = by_name(deputy_records(parse_roster(page), regions=rich, retrieved_at=RETRIEVED), "Yerico Abramo Masso")
     assert abramo["contact"]["email"] == "yerico.abramo@diputados.gob.mx"
     assert abramo["education"] == "Licenciatura, Administración de Empresas"
+
+
+# ----- The dataset says which legislature the Congress figures belong to -----
+
+from informate.dataset import legislature_info  # noqa: E402
+
+
+def test_legislature_info_names_the_sixty_sixth_with_its_dates():
+    info = legislature_info()
+    assert info == {"number": 66, "roman": "LXVI", "start": "2024-09-01", "end": "2027-08-31", "source_url": "http://sil.gobernacion.gob.mx/Numeralia/Legisladores/resultadosNumeraliaLegisladores.php?SID=&Legislatura=66&Camara=2&Estatus=A"}

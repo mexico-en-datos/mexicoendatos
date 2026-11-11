@@ -808,6 +808,55 @@
 
   /** The sources section: every source with its date, in one place. */
 
+  // ---------- Search: states, municipalities and cities by name ----------
+
+  function buildSearch() {
+    const box = $("#search-box");
+    const list = $("#search-results");
+    if (!box || !list) return;
+    const entries = [];
+    for (const state of S.states) entries.push({ label: stateName(state.code), detail: "Entidad", key: fold(stateName(state.code)) + " " + fold(state.name), weight: 3, go: () => go("state", { state }) });
+    for (const muni of S.munis) entries.push({ label: muni.name, detail: `Municipio · ${stateName(muni.state_code)}`, key: fold(muni.name), weight: muni.population || 0, go: () => go("municipality", { state: stateOf(muni.state_code), district: null, muni }) });
+    for (const city of S.cities ? S.cities.cities : []) {
+      const muni = city.municipality_code ? S.muniByCode.get(city.municipality_code) : null;
+      if (!muni || fold(city.name) === fold(muni.name)) continue; // the municipality entry already covers it
+      entries.push({ label: city.name, detail: `Ciudad · ${muni.name}, ${stateName(city.state_code)}`, key: fold(city.name), weight: city.population, go: () => go("municipality", { state: stateOf(city.state_code), district: null, muni }) });
+    }
+    let shown = [];
+    const close = () => {
+      list.hidden = true;
+      list.replaceChildren();
+      box.setAttribute("aria-expanded", "false");
+      shown = [];
+    };
+    const pick = (entry) => {
+      box.value = "";
+      close();
+      entry.go();
+    };
+    box.addEventListener("input", () => {
+      const q = fold(box.value.trim());
+      if (q.length < 2) return close();
+      const starts = entries.filter((e) => e.key.startsWith(q) || e.key.split(" ").some((w) => w.startsWith(q)));
+      const contains = entries.filter((e) => !starts.includes(e) && e.key.includes(q));
+      const rank = (a, b) => (b.detail === "Entidad") - (a.detail === "Entidad") || b.weight - a.weight;
+      shown = [...starts.sort(rank), ...contains.sort(rank)].slice(0, 8);
+      list.replaceChildren(...shown.map((entry) => el("li", { role: "option" }, el("button", { type: "button", onclick: () => pick(entry) }, el("span", { class: "search__label" }, entry.label), el("span", { class: "search__detail" }, entry.detail)))));
+      if (!shown.length) list.replaceChildren(el("li", { class: "search__none" }, "Sin coincidencias"));
+      list.hidden = false;
+      box.setAttribute("aria-expanded", "true");
+    });
+    box.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" && shown.length) {
+        event.preventDefault();
+        pick(shown[0]);
+      } else if (event.key === "Escape") close();
+    });
+    document.addEventListener("pointerdown", (event) => {
+      if (!$("#search").contains(event.target)) close();
+    });
+  }
+
   // ---------- Start ----------
 
   async function start() {
@@ -840,9 +889,10 @@
     }
     tip = MXD.tooltip($("#tooltip"), $(".map-area"));
     buildMap();
-    S.ctx = { stateName, ...regions(S.data, stateName) };
+    S.ctx = { stateName, legislature: S.data.legislature || null, ...regions(S.data, stateName) };
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
     $("#map-credit").replaceChildren(`${S.mapSource.attribution} (${day(S.mapSource.retrieved_at)}); distritos: INE (${day(S.mapSource.districts.retrieved_at)}).`);
+    buildSearch();
     // Deep links: #entidad=14, #entidad=14&distrito=5, #entidad=14&municipio=14039
     const wanted = new URLSearchParams(location.hash.slice(1));
     const state = S.states.find((s) => s.code === wanted.get("entidad"));

@@ -73,7 +73,7 @@
   const people = (...persons) => el("ul", { class: "people" }, persons.flat().filter(Boolean).map((p) => personLine(p, showPerson)));
   /** The short "Fuente" cell of the roster. */
   const shortSource = (c) => el("span", {}, link(c.url, MXD.SOURCE_SHORT[c.source] || c.source_name), c.published_at ? `, ${day(c.published_at)}` : "", `; leída el ${day(c.retrieved_at)}`);
-  const ctx = () => ({ stateName, regionByNumber, regionStates });
+  const ctx = () => ({ stateName, regionByNumber, regionStates, legislature: S.data.legislature || null });
 
   /** Open a person's data where the place's data was; the map outlines their state, if they have one. */
   function showPerson(person) {
@@ -474,8 +474,8 @@
 
   const CHAMBER = {
     governor: { title: (n) => `Gubernaturas: ${n}`, seats: false, majorities: false },
-    senator: { title: (n) => `Senado: ${n} escaños`, seats: true, majorities: true, list: (n) => `${n} de lista nacional, sin entidad.` },
-    deputy: { title: (n) => `Cámara de Diputados: ${n} escaños`, seats: true, majorities: true, list: (n) => `${n} de listas regionales, por circunscripción (sombreadas).` },
+    senator: { title: (n) => `Senado${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (n) => `${n} de lista nacional, sin entidad.` },
+    deputy: { title: (n) => `Cámara de Diputados${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (n) => `${n} de listas regionales, por circunscripción (sombreadas).` },
     mayor: { title: (n) => `Municipios: ${integer.format(n)}`, seats: false, majorities: false },
     justice: { title: (n) => `Suprema Corte: ${n} ministras y ministros`, seats: true, majorities: false },
   };

@@ -449,6 +449,20 @@ def check_dataset(people: list[dict]) -> list[str]:
     return warnings
 
 
+def _roman(number: int) -> str:
+    out, n = "", number
+    for value, numeral in ((1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")):
+        while n >= value:
+            out, n = out + numeral, n - value
+    return out
+
+
+def legislature_info() -> dict:
+    """The legislature whose rosters are read, with the dates of its three-year period."""
+    start, end = deputies_term(sil.LEGISLATURE)
+    return {"number": sil.LEGISLATURE, "roman": _roman(sil.LEGISLATURE), "start": start, "end": end, "source_url": sil.ROSTER_URL}
+
+
 def build_dataset(
     senators: list[dict],
     governors: list[dict],
@@ -526,6 +540,7 @@ def build_dataset(
                 "retrieved_at": retrieved_at,
             },
         },
+        "legislature": legislature_info(),
         "rules": {
             "senate_term": SENATE_TERM_RULE,
             "deputies_term": DEPUTIES_TERM_RULE,

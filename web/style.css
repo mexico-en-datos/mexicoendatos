@@ -729,3 +729,19 @@ body.locked .roster th:nth-child(5), body.locked .roster th:nth-child(6), body.l
 body.locked .sheet__foot { flex: none; }
 @media (max-width: 900px) { .sheet__foot .map__hint { display: block; } .sheet__foot .map__credit { white-space: normal; } }
 @media (max-width: 700px) { .sheet__foot { display: none; } }
+
+/* Glossary terms: a dotted line says there is a definition; the browser shows it when the pointer rests. */
+abbr.term { text-decoration: underline dotted; text-decoration-color: var(--ink-3); text-underline-offset: 3px; cursor: help; }
+.power__when { font-weight: 600; font-size: 0.9375rem; color: var(--ink-2); }
+
+/* ---------- Search ---------- */
+.search { position: relative; flex: 1 1 220px; max-width: 360px; }
+.search input { width: 100%; padding: 7px 10px; border: 1px solid var(--ink); background: var(--sheet); font: inherit; font-size: 0.9375rem; }
+.search input:focus-visible { outline: 2px solid var(--ink); outline-offset: 1px; }
+.search__results { position: absolute; left: 0; right: 0; top: calc(100% + 2px); z-index: 30; margin: 0; padding: 4px 0; list-style: none; background: var(--sheet); border: 1px solid var(--ink); box-shadow: 0 8px 24px rgba(22, 32, 42, 0.16); max-height: 60vh; overflow: auto; }
+.search__results button { display: flex; justify-content: space-between; gap: 12px; width: 100%; padding: 7px 10px; border: 0; background: none; font: inherit; text-align: left; cursor: pointer; }
+.search__results button:hover, .search__results button:focus-visible { background: var(--land); outline: none; }
+.search__label { font-weight: 600; }
+.search__detail { font-stretch: var(--source); font-size: 0.8125rem; color: var(--ink-2); white-space: nowrap; }
+.search__none { padding: 7px 10px; color: var(--ink-2); font-size: 0.875rem; }
+@media (max-width: 700px) { .search { flex-basis: 100%; max-width: none; order: 3; } .search__results { max-height: 40vh; } }

@@ -32,6 +32,10 @@
       <div class="sheet">
         <div class="sheet__bar">
           <nav class="crumbs" id="crumbs" aria-label="Nivel actual"></nav>
+          <div class="search" id="search">
+            <input type="search" id="search-box" placeholder="Buscar entidad, municipio o ciudad" autocomplete="off" aria-label="Buscar un lugar" aria-controls="search-results" aria-expanded="false">
+            <ul class="search__results" id="search-results" role="listbox" hidden></ul>
+          </div>
           <div class="zoom" role="group" aria-label="Acercamiento del mapa">
             <button type="button" id="zoom-out" aria-label="Alejar">−</button>
             <button type="button" id="zoom-in" aria-label="Acercar">+</button>
