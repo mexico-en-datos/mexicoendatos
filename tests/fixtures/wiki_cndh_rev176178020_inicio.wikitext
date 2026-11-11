@@ -1,0 +1,37 @@
+{{Ficha de organismo oficial
+| nombre = Comisión Nacional de los Derechos Humanos
+| nombre_original = 
+| nombre_oficial = 
+| nombre_cooficial = 
+| siglas = CNDH
+| logo = Logo_Horizontal_Color.png
+| ancho_logo = 200px
+| título_logo = 
+| sello = 
+| ancho_sello = 
+| título_sello = 
+| imagen = 
+| ancho_imagen = 
+| título_imagen = 
+| sistema = 
+| tipo = [[Órganos constitucionales autónomos de México|Organismo constitucional autónomo]].
+| creado = 1992 <small>como Dirección General de Derechos Humanos</small>
+| predecesora = Dirección General de Derechos Humanos [[Secretaría de Gobernación]] (1989-1992)
+| disuelto = 
+| sucesora = 
+| jurisdicción = 
+| ámbito = 
+| país = {{MEX}}
+| sede = {{MEX|DIF}} [[Anillo Periférico (Valle de México)|Periférico Sur]] 3469, [[Magdalena Contreras]], [[Ciudad de México]]
+| empleados = 
+| presupuesto = {{esd|1 722 143 661 $}} (mil setecientos veintidós millones, ciento cuarenta y tres mil, seiscientos sesenta y un pesos {{esd|00/100 m. n.}})<ref>{{cita publicación|url=https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2024.pdf&fecha=25/11/2023|título=Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2024|autor=Cámara de diputados|publicación=Diario Oficial de la Federación|fecha=25 de noviembre de 2023}}</ref>
+| ministro = 
+| ministro_par = 
+| director = 
+| director_pos = 
+| titular_tipo = Presidenta
+| titular_nom = [[Rosario Piedra Ibarra]]
+| titular_pos = 
+| composición = 
+| notas = 
+}}

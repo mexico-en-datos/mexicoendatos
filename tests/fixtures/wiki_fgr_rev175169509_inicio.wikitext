@@ -1,0 +1,39 @@
+{{Ficha de organismo oficial
+| nombre = Fiscalía General de la República
+| acrónimo = FGR
+| logo = Logo de la FGR México.png
+| ancho_logo = 250px
+| título_logo = Logotipo
+| tipo = [[Órganos constitucionales autónomos de México|Órgano constitucional autónomo]]
+| creado = 20 de diciembre de 2018<ref>{{cita noticia|apellidos1=Dávila|nombre1=Patricia|título=Nace la Fiscalía General de la República; Senado prepara ternas para fiscal|url=https://www.proceso.com.mx/564734/nace-la-fiscalia-general-de-la-republica-senado-prepara-ternas-para-fiscal|fechaacceso=19 de enero de 2019|obra=Proceso|fecha=20 de diciembre de 2018}}</ref>
+| predecesora = [[Procuraduría General de la República (México)|Procuraduría General de la República]]
+| disuelto = 
+| sucesora = 
+| ámbito = 
+| país = {{MEX}}
+| sede = {{MEX|DIF}}
+| latd = 19
+| latm = 25
+| lats = 49
+| latNS = N
+| longd = 99
+| longm = 09
+| longs = 44
+| longEW = W
+| region_code = MX-DIF
+| presupuesto = {{esd|20 240 442 089}} millones de [[peso mexicano|pesos]] <small>(2026)</small><ref name=Presupuesto2026>{{cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf|título=Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026 (página 33)|fecha=1 de enero de 2026|fechaacceso=2 de enero de 2026|sitio web=Cámara de Diputados|cita=}}</ref>
+| ministro = 
+| ministro_par = 
+| director = 
+| director_pos = 
+| titular_tipo = [[Fiscal general de la República (México)|Fiscal general]]
+| titular_nom = [[Ernestina Godoy Ramos]]<ref>{{cita noticia|apellidos1=|nombre1=|título=Senado elige a Ernestina Godoy como nueva fiscal general de la República|url=https://www.jornada.com.mx/noticia/2025/12/03/politica/senado-elige-a-ernestina-godoy-como-nueva-fiscal-general-de-la-republica|fechaacceso=2025-12-03|obra=La Jornada|fecha=2025-12-03}}</ref>
+| titular_pos = 
+| composición = 
+| dependiente_de = 
+| superior = 
+| bajo_su_dependencia = 
+| relacionados = 
+| sitio_web = https://www.fgr.org.mx
+| notas = 
+}}

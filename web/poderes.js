@@ -4,7 +4,7 @@
 (() => {
   "use strict";
 
-  const { el, link, swatch, integer, moment, day, fact, facts, gloss, legislatureLabel, personLine, personCard, samePerson, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions, EVERYDAY_NAME } = MXD;
+  const { el, link, swatch, integer, moment, day, fact, facts, gloss, legislatureLabel, personLine, personCard, samePerson, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions, EVERYDAY_NAME, partyOf, sourceValue } = MXD;
   const $ = (selector) => document.querySelector(selector);
   const S = { data: null, mapSource: null, person: null, ctx: null };
 
@@ -56,15 +56,67 @@
     });
     const listSeats = placed.filter((d) => !d.person.state_code && !d.person.placeholder).length;
     const head = presides(office);
+    const leadership = S.data.congress && S.data.congress[office] ? leadershipRows(office, members) : null;
     figure.querySelector(".chamber__body").replaceChildren(
       ...[
         body.counts === false ? [] : chamberCounts(members, { majorities: body.majorities }),
         head ? facts(fact("Preside", el("button", { type: "button", class: "persona__link", onclick: () => showPerson(head) }, head.name))) : null,
+        leadership,
         el("p", { class: "inset__note" }, body.note(listSeats)),
-        el("p", { class: "inset__key" }, "Pulsa un escaño para ver los datos de quien lo ocupa."),
+        el("p", { class: "inset__key" }, leadership ? "Pulsa un escaño para ver los datos de quien lo ocupa. Los escaños de borde grueso son de quienes presiden la Mesa Directiva o la Junta de Coordinación Política y de quienes coordinan cada grupo." : "Pulsa un escaño para ver los datos de quien lo ocupa."),
       ].flat(Infinity).filter(Boolean)
     );
     return figure;
+  }
+
+  /** Who presides the chamber and the Junta, and who coordinates each group: rows, with each name as the way to the person. */
+  function leadershipRows(office, members) {
+    const summary = S.data.congress[office];
+    const holder = (entry) => members.find((p) => (p.roles || []).some((r) => r.kind === entry.kind && r.role === entry.role && (r.group || null) === (entry.group || null)));
+    const nameOf = (entry) => {
+      const person = holder(entry);
+      return person ? el("button", { type: "button", class: "persona__link", onclick: () => showPerson(person) }, person.name) : el("span", {}, `${entry.name} (no aparece con ese nombre en el padrón del SIL)`);
+    };
+    const withParty = (entry) => el("span", {}, swatch(entry.party), " ", nameOf(entry));
+    const president = summary.board.find((b) => /^president[ea]\b/i.test(b.role)) || null;
+    const vices = summary.board.filter((b) => b !== president);
+    const jucopo = summary.jucopo_president;
+    return [
+      el("h3", { class: "chamber__heading" }, gloss("Mesa Directiva"), ` · año legislativo ${summary.period}`),
+      facts(
+        fact("Preside", president ? withParty(president) : "La fuente no lo indica"),
+        vices.length ? fact("Vicepresidencias", el("ul", { class: "plain" }, vices.map((v) => el("li", {}, withParty(v), ` (${v.role.toLowerCase()})`)))) : null,
+        fact("Periodo", `${day(summary.start)} a ${day(summary.end)}`)
+      ),
+      el("h3", { class: "chamber__heading" }, gloss("Junta de Coordinación Política")),
+      facts(
+        fact("Preside", jucopo ? el("span", {}, withParty(jucopo), ` · su grupo tiene mayoría absoluta por sí solo: ${integer.format(jucopo.seats)} de ${integer.format(jucopo.total)} escaños`) : "Ningún grupo tiene mayoría absoluta por sí solo; la presidencia se turna cada año y la fuente no dice a quién toca"),
+        fact("Grupos parlamentarios", el("ul", { class: "plain" }, summary.coordinators.map((c) => el("li", {}, swatch(c.group), ` ${partyOf(c.group).label}: `, nameOf(c)))))
+      ),
+      el("p", { class: "inset__note" }, "Estos cargos según ", sourceValue(summary.citation)),
+    ];
+  }
+
+  /** One autonomous body: its head (the way to the person), the post, its dates, what the body does and its legal basis. */
+  function autonomousBlock(body) {
+    const person = peopleOf("autonomous_head").find((p) => p.body_key === body.key) || null;
+    return el(
+      "div",
+      { class: "autonomous__body" },
+      el("h3", {}, body.name === body.short ? body.name : `${body.name} (${body.short})`),
+      facts(
+        fact("Titular", person ? el("button", { type: "button", class: "persona__link", onclick: () => showPerson(person) }, person.name) : body.head),
+        fact("Cargo", body.head_title),
+        person && person.provisional ? fact("Designación", "Provisional, según la fuente") : null,
+        fact("Desde", person && person.term_start ? day(person.term_start) : "Sin dato en la fuente"),
+        person ? fact("Fin del periodo", person.term_end ? `${day(person.term_end)} (regla legal)` : person.term_end_note) : null,
+        fact("Qué hace", body.mandate),
+        fact("Fundamento", body.basis),
+        fact("Nombramiento", body.appointment),
+        fact("Duración del cargo", body.term),
+        person ? fact("Fuente", sourceValue(person.citation)) : null
+      )
+    );
   }
 
   function renderChambers() {
@@ -78,7 +130,16 @@
           power.intro ? el("p", { class: "ficha__intro" }, gloss(power.intro)) : null,
           power.title === "Poder Ejecutivo" ? executive() : el("div", { class: `overview__grid overview__grid--${power.bodies.length}` }, power.bodies.map(chamber))
         )
-      )
+      ),
+      S.data.autonomous && S.data.autonomous.length
+        ? el(
+            "section",
+            { class: "power" },
+            el("h2", { class: "power__title" }, gloss("Órganos constitucionales autónomos")),
+            el("p", { class: "ficha__intro" }, gloss("Instituciones que la Constitución crea fuera de los tres poderes, con presupuesto y titulares propios. Hoy son cinco; aquí está quién encabeza cada una, hasta cuándo y con qué fundamento.")),
+            el("div", { class: "autonomous" }, S.data.autonomous.map(autonomousBlock))
+          )
+        : null
     );
     markChosen();
   }
@@ -114,10 +175,22 @@
     }
     const count = (office) => peopleOf(office).length;
     const name = (person) => (person ? person.name : "Sin dato en la fuente");
+    const presidesChamber = (office, label) => {
+      const summary = S.data.congress && S.data.congress[office];
+      const entry = summary && summary.board.find((b) => /^president[ea]\b/i.test(b.role));
+      return entry ? fact(label, entry.name) : null;
+    };
+    const headOf = (key) => peopleOf("autonomous_head").find((p) => p.body_key === key) || null;
     box.replaceChildren(
       el("h2", { class: "ficha__place" }, "Poderes de la Nación"),
       el("h3", {}, "Poder Legislativo"),
-      facts(legislatureLabel(S.data) ? fact("Legislatura", legislatureLabel(S.data)) : null, fact("Senado", `${count("senator")} escaños`), fact("Cámara de Diputados", `${count("deputy")} escaños`)),
+      facts(
+        legislatureLabel(S.data) ? fact("Legislatura", legislatureLabel(S.data)) : null,
+        fact("Senado", `${count("senator")} escaños`),
+        presidesChamber("senator", "Preside el Senado"),
+        fact("Cámara de Diputados", `${count("deputy")} escaños`),
+        presidesChamber("deputy", "Preside la Cámara de Diputados")
+      ),
       el("h3", {}, "Poder Ejecutivo"),
       facts(fact("Presidencia de la República", name(peopleOf("president")[0])), fact("Gabinete", `${count("secretary")} titulares`)),
       el("h3", {}, "Poder Judicial"),
@@ -129,6 +202,7 @@
         fact("Tribunal de Disciplina Judicial", `${count("magistrate_tdj")} magistraturas`),
         fact("Preside el Tribunal de Disciplina", name(presides("magistrate_tdj")))
       ),
+      ...(S.data.autonomous && S.data.autonomous.length ? [el("h3", {}, gloss("Órganos constitucionales autónomos")), facts(S.data.autonomous.map((b) => fact(b.short, name(headOf(b.key)))))] : []),
       el("p", { class: "ficha__intro" }, "Pulsa un escaño o un nombre para ver los datos de esa persona: cargo, partido, entidad, periodo, contacto oficial y fuente.")
     );
   }

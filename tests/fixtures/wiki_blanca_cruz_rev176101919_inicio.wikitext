@@ -1,0 +1,35 @@
+{{actualidad}}
+{{Ficha de persona
+| encabezado = Blanca Cruz García
+| imagen = 
+| escudo = Logo INE 2026 (sin texto).png
+| cargo = [[Instituto Nacional Electoral|Presidenta del Instituto Nacional Electoral]]
+| designada = [[Instituto Nacional Electoral#Estructura Permanente|Consejo General del INE]]
+| inicio = {{Fecha|27|10|2026}}
+| final = 
+| predecesora = [[Guadalupe Taddei Zavala]]
+| sucesor = 
+| escudo2 = Logo INE 2026 (sin texto).png
+| cargo2 = [[Instituto Nacional Electoral|Consejera del Instituto Nacional Electoral]]
+| inicio2 = {{fecha|22|4|2026}}
+| final2 = 
+| escudo3 = Coat of arms of Puebla.svg
+| cargo3 = Presidenta del Instituto Electoral del Estado de [[Puebla]]
+| inicio3 = {{fecha|22|8|2022}}
+| final3 = {{fecha|21|4|2026}}
+| predecesor3 = Miguel Ángel García Onofre
+| sucesora3 = Christian Mariana Ceballos
+| fecha de nacimiento = {{Fecha|6|9|1986|edad}}
+| lugar de nacimiento = [[Huajuapan de León]], [[Oaxaca]], {{bandera2|MEX}}
+| nacionalidad = [[mexicana]]
+| educación = [[Abogado|Licenciada en Derecho]]
+| alma mater = [[File:Logo de la BUAP.svg|15px]] [[Benemérita Universidad Autónoma de Puebla]]
+| partido político = 
+| distinciones = 
+| subtítulo = Provisional
+}}
+
+'''Blanca Yassahara Cruz García''' ([[Huajuapan de León]], [[Oaxaca]]; 6 de septiembre de 1986)<ref name="">{{cita web|url =https://www.sdpnoticias.com/mexico/quien-es-blanca-yassahara-cruz-garcia-presidenta-provisional-del-ine/|título =¿Quién es Blanca Yassahara Cruz García, presidenta provisional del INE?|fechaacceso = 27 de octubre|añoacceso = 2026|autor =Yazmín Medina|fecha =27 de octubre de 2026|año =|mes =|editorial =SDP Noticias}}</ref> es una funcionaria electoral mexicana. Se desempeña como consejera presidenta del [[Instituto Nacional Electoral]] ([[Instituto Nacional Electoral|INE]]) desde el 27 de octubre de 2026 ante la renuncia de [[Guadalupe Taddei Zavala]] tras el escándalo en medio de las investigaciones abiertas por la Auditoría Superior Federación por posible conflicto de interés con el empresario José Alfredo Hernández Casillas, uno de los principales proveedores del instituto durante los años en los que fue presidenta.<ref>{{Cita web|url=https://elpais.com/mexico/2026-10-26/guadalupe-taddei-entrega-su-renuncia-al-ine-a-la-camara-de-diputados.html|título=“Conservo mis principios y convicciones”: Guadalupe Taddei entrega su renuncia al INE a la Cámara de Diputados|fechaacceso=2026-10-26|fecha=2026-10-26|sitioweb=El Pais|idioma=es}}</ref>
+
+Es licenciada y maestra en Derecho por la [[Benemérita Universidad Autónoma de Puebla]].
+

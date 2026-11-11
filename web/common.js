@@ -27,6 +27,8 @@ window.MXD = (() => {
     wikipedia_cabinet: "Wikipedia en español",
     wikipedia_tepjf: "Wikipedia en español",
     wikipedia_tdj: "Wikipedia en español",
+    wikipedia_congress: "Wikipedia en español",
+    wikipedia_autonomous: "Wikipedia en español",
   };
   const OFFICE_BODY = {
     senator: "Poder Legislativo: Senado",
@@ -38,6 +40,7 @@ window.MXD = (() => {
     mayor: "Ayuntamiento",
     president: "Poder Ejecutivo federal",
     secretary: "Poder Ejecutivo federal: gabinete",
+    autonomous_head: "Órgano constitucional autónomo",
   };
 
   // ---------- DOM and formatting ----------
@@ -105,6 +108,13 @@ window.MXD = (() => {
     "Tribunal Electoral": "Máxima autoridad electoral del país; su Sala Superior resuelve las impugnaciones de las elecciones federales.",
     "Suprema Corte": "El máximo tribunal del país: nueve ministras y ministros, elegidos por voto desde 2025.",
     "Viviendas habitadas": "Viviendas con personas residentes el día del censo (INEGI, Censo 2020).",
+    "Mesa Directiva": "Quien preside cada cámara, con sus vicepresidencias y secretarías: conduce las sesiones y representa a la cámara. Se elige para un año legislativo (Ley Orgánica del Congreso, artículos 17 y 62).",
+    "Junta de Coordinación Política": "Reunión de quienes coordinan cada grupo parlamentario; acuerda la agenda de la cámara. La preside toda la legislatura quien coordina al grupo con mayoría absoluta (Ley Orgánica del Congreso, artículos 31 y 81).",
+    "Grupos parlamentarios": "Las bancadas: legisladores de un mismo partido, cada una con una coordinación que habla por ella.",
+    "Grupo parlamentario": "La bancada de un partido en una cámara; quien la coordina habla por ella y la representa en la Junta de Coordinación Política.",
+    "Mayoría absoluta": "Más de la mitad de los escaños de la cámara en manos de un solo grupo.",
+    "Órganos constitucionales autónomos": "Instituciones que la Constitución crea fuera de los tres poderes, con presupuesto y titulares propios, para que ningún poder sea juez y parte en lo que hacen: elecciones, moneda, estadística, derechos humanos y persecución de los delitos.",
+    "Órgano constitucional autónomo": "Institución creada por la Constitución fuera de los tres poderes, con titular que estos no pueden remover libremente.",
   };
   const GLOSSARY_KEYS = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length);
 
@@ -135,7 +145,7 @@ window.MXD = (() => {
 
   // ---------- One person ----------
 
-  const NO_PARTY = new Set(["justice", "magistrate_tepjf", "magistrate_tdj", "secretary"]);
+  const NO_PARTY = new Set(["justice", "magistrate_tepjf", "magistrate_tdj", "secretary", "autonomous_head"]);
   /** "LXVI Legislatura (2024-2027)" for titles, from the dataset. */
   const legislatureLabel = (data) => (data && data.legislature ? `${data.legislature.roman} Legislatura (${data.legislature.start.slice(0, 4)}–${data.legislature.end.slice(0, 4)})` : null);
   const samePerson = (a, b) => Boolean(a && b) && a.office === b.office && a.name === b.name && a.district === b.district;
@@ -172,9 +182,11 @@ window.MXD = (() => {
     const contact = person.contact || null;
     const contactNote = legislator ? "Aún no leído de su ficha en el SIL; aparecerá en una próxima actualización" : "La fuente no lo publica para este cargo";
     const party = NO_PARTY.has(person.office) ? null : el("span", {}, swatch(person.party), ` ${partyLabel(person)}`);
+    const roles = person.roles || [];
     return [
       fact("Cargo", person.title),
-      fact("Poder u órgano", OFFICE_BODY[person.office]),
+      fact("Poder u órgano", person.office === "autonomous_head" ? `${OFFICE_BODY[person.office]}: ${person.body}` : OFFICE_BODY[person.office]),
+      person.office === "autonomous_head" && person.provisional ? fact("Designación", "Provisional, según la fuente") : null,
       legislator && ctx.legislature ? fact("Legislatura", `${ctx.legislature.roman} (${day(ctx.legislature.start)} a ${day(ctx.legislature.end)})`) : null,
       fact("Partido", party),
       fact("Entidad", where),
@@ -182,6 +194,8 @@ window.MXD = (() => {
       region ? fact("Circunscripción", `${region.name} (cabecera ${region.seat}): ${ctx.regionStates(region)}`) : null,
       fact("Municipio", person.municipality),
       fact("Elección", election),
+      roles.map((role) => roleRow(role)),
+      roles.length ? fact("Cargos en la cámara según", sourceValue(roles[0].citation)) : null,
       fact("Suplente", person.substitute),
       fact("Inicio del cargo", person.term_start ? day(person.term_start) : "Sin dato en la fuente"),
       fact("Fin del periodo", person.term_end ? `${day(person.term_end)}${ruled}` : person.term_end_note ? person.term_end_note : legislator || person.office === "president" ? null : "Sin dato en la fuente"),
@@ -189,7 +203,24 @@ window.MXD = (() => {
       contact ? [fact("Correo oficial", contact.email ? el("a", { href: `mailto:${contact.email}` }, contact.email) : "Sin dato"), fact("Teléfono", contact.phone), fact("Oficina", contact.office)] : fact("Contacto oficial", contactNote),
       fact("Fuente", sourceValue(person.citation)),
       person.citation.party_url ? fact("Partido según", el("span", {}, link(person.citation.party_url, "el artículo de la persona"), `, versión del ${day(person.citation.party_published_at)}`)) : null,
+      person.citation.person_url ? fact("Inicio del cargo según", el("span", {}, link(person.citation.person_url, "el artículo de la persona"), `, versión del ${day(person.citation.person_published_at)}`)) : null,
     ];
+  }
+
+  /** One row for a post held inside a chamber: in the Mesa Directiva, coordinating a group, presiding the Junta. */
+  function roleRow(role) {
+    if (role.kind === "board") return fact("Mesa Directiva", `${role.role}, año legislativo ${role.period} (${day(role.start)} a ${day(role.end)})`);
+    if (role.kind === "coordinator") return fact("Grupo parlamentario", el("span", {}, swatch(role.group), ` Coordina el de ${partyOf(role.group).label}`));
+    if (role.kind === "jucopo") return fact("Junta de Coordinación Política", `La preside: su grupo tiene mayoría absoluta por sí solo (${integer.format(role.seats)} de ${integer.format(role.total)} escaños)`);
+    return null;
+  }
+
+  /** The same post in a few words, for tooltips and lists. */
+  function roleLine(role) {
+    if (role.kind === "board") return `${role.role} de la Mesa Directiva`;
+    if (role.kind === "coordinator") return `Coordina el grupo parlamentario de ${partyOf(role.group).label}`;
+    if (role.kind === "jucopo") return "Preside la Junta de Coordinación Política";
+    return null;
   }
 
   /** The full card: name, role line and every row. */
@@ -265,6 +296,7 @@ window.MXD = (() => {
       .data(placed)
       .join("circle")
       .attr("class", "seat")
+      .classed("seat--role", (d) => Boolean(d.person.roles && d.person.roles.length))
       .attr("cx", (d) => d.x)
       .attr("cy", (d) => d.y)
       .attr("r", radius)
@@ -300,7 +332,7 @@ window.MXD = (() => {
     if (person.placeholder) return [el("p", {}, person.municipality || person.name), person.state_code ? el("p", { class: "tooltip__place" }, ctx.stateName(person.state_code)) : null, el("p", { class: "tooltip__sub" }, person.note || "Sin dato en la fuente")];
     const region = person.office === "deputy" && person.region_number ? ctx.regionByNumber(person.region_number) : null;
     const where = person.state_code ? ctx.stateName(person.state_code) : region ? `${region.name}: ${ctx.regionStates(region)}` : person.district;
-    return [el("p", {}, swatch(person.party), ` ${person.name}, ${partyLabel(person)}`), el("p", { class: "tooltip__place" }, where), el("p", { class: "tooltip__sub" }, roleText(person)), el("p", { class: "tooltip__sub" }, "Pulsa para ver sus datos")];
+    return [el("p", {}, swatch(person.party), ` ${person.name}, ${partyLabel(person)}`), el("p", { class: "tooltip__place" }, where), el("p", { class: "tooltip__sub" }, roleText(person)), (person.roles || []).map((role) => el("p", { class: "tooltip__sub tooltip__role" }, roleLine(role))), el("p", { class: "tooltip__sub" }, "Pulsa para ver sus datos")];
   }
 
   // ---------- Hover box ----------
@@ -347,7 +379,7 @@ window.MXD = (() => {
     el, link, partyOf, partyRank, partyLabel, swatch, fold, capitalise,
     integer, signed, oneDecimal, moment, day, motionOK,
     fact, facts, sourceValue, gloss, GLOSSARY, legislatureLabel,
-    samePerson, districtOf, roleText, personLine, personRows, personCard,
+    samePerson, districtOf, roleText, roleRow, roleLine, personLine, personRows, personCard,
     hemicycle, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions,
   };
 })();

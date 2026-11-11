@@ -1,0 +1,21 @@
+{{Ficha de organismo oficial
+|nombre              = Instituto Nacional de Estadística y Geografía
+|acrónimo            = INEGI
+|logo                = INEGI.png{{!}}class=skin-invert
+|ancho_logo          = 130px
+|título_logo         = Logotipo
+|imagen              = INEGI Aguascalientes 2021 2.jpg
+|título_imagen       = Sede central del INEGI en [[Aguascalientes (Aguascalientes)|Aguascalientes]]
+|tipo                = [[Órganos constitucionales autónomos de México|Organismo constitucional autónomo]]
+|ámbito              = {{MEX}}
+|creado              = {{fecha|25|1|1983}}{{Refn|1=Como Instituto Nacional de Estadística, Geografía e Informática|group=lower-alpha}}<br>{{fecha|16|4|2006}}{{Refn|1=Con su nombre actual|group=lower-alpha}}
+|sede                = [[Archivo:Escudo de Aguascalientes.svg|20px]] [[Aguascalientes (Aguascalientes)|Aguascalientes]],<br />{{Bandera2|Aguascalientes}}.
+|presupuesto         = {{creciente}} 14&nbsp;245&nbsp;298&nbsp;738 [[Peso mexicano|MXN]] <small>(2024)</small><ref name="PEF">{{Cita web |url=https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2024.pdf |autor=Cámara de Diputados |enlaceautor=Cámara de Diputados (México) |título=Presupuesto de Egresos de la Federación para el ejercicio fiscal 2024 |fecha=25 de noviembre de 2023 |p=39 |formato=PDF |fechaacceso=27 de diciembre de 2023}}</ref>
+|titular_tipo        = Presidenta
+|titular_nom         = [[Graciela Márquez Colín]]
+|titular2_tipo       = Vicepresidentes
+|titular2_nom        = [[Paloma Merodio Gómez]]<br>[[Adrián Franco Barrios]]<br>[[Mauricio Márquez Corona]]<br>[[Arturo Blancas Espejo]]
+|bajo_su_dependencia = Sistema Nacional de Información Estadística y Geográfica
+|sitio_web           = http://www.inegi.org.mx
+|notas               = {{listaref|group=lower-alpha}}
+}}

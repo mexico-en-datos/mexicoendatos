@@ -6,7 +6,9 @@ source) and `published_at` (the source's own date, when it states one).
 import re
 from collections import Counter
 
+from . import autonomous as autonomous_source
 from . import cabinet as cabinet_source
+from . import congress
 from . import judiciary
 from . import circunscripciones
 from . import mayors as mayor_pages_source
@@ -17,6 +19,7 @@ from .states import STATES, state_code
 from .president import PRESIDENT_TERM_RULE, presidential_term
 from .scjn import JUSTICES_TERM_RULE
 from .terms import DEPUTIES_TERM_RULE, SENATE_TERM_RULE, deputies_term, senate_term
+from .text import roman
 
 SOURCES = {
     "sil": {
@@ -51,7 +54,16 @@ SOURCES = {
         "name": f"Wikipedia en español, «{president_source.OFFICE_TITLE}» y el artículo de la persona titular",
         "official": False,
     },
+    "wikipedia_congress": {
+        "name": f"Wikipedia en español, «{congress.page_title(sil.LEGISLATURE)}»",
+        "official": False,
+    },
+    "wikipedia_autonomous": {
+        "name": "Wikipedia en español, los artículos de los cinco órganos constitucionales autónomos y de sus titulares",
+        "official": False,
+    },
 }
+CHAMBER_NAME = {"senator": "Senado", "deputy": "Cámara de Diputados"}
 
 SENATORS_PER_STATE = 3
 NATIONAL_LIST_SEATS = 32
@@ -405,6 +417,94 @@ def cabinet_records(parsed: list[dict], revision: dict, retrieved_at: str) -> tu
     return records, notes
 
 
+def leadership_roles(parsed: dict, revision: dict, retrieved_at: str, people: list[dict]) -> tuple[dict, list[str]]:
+    """Attach to senators' and deputies' records the posts they hold in their chamber (the
+    Mesa Directiva, the coordination of a parliamentary group, the presidency of the Junta
+    de Coordinación Política) and return the per-chamber summary plus warnings for any
+    name the roster does not have."""
+    permalink = wikipedia.page_permalink(revision["id"], title=congress.page_title(sil.LEGISLATURE))
+    citation = _citation("wikipedia_congress", permalink, retrieved_at, revision["timestamp"])
+    summary, warnings = {}, []
+    for office, chamber in parsed.items():
+        members = [p for p in people if p["office"] == office]
+        start, end = congress.legislative_year(chamber["period"])
+
+        def attach(entry: dict, role: dict) -> dict:
+            person = congress.find_member(entry, members)
+            if person is None:
+                warnings.append(f"{CHAMBER_NAME[office]}: {entry['name']} ({role['role']}) no aparece con ese nombre en el padrón del SIL.")
+            else:
+                person.setdefault("roles", []).append(role | {"citation": citation})
+            return {"name": entry["name"], "party": entry.get("party"), "matched": person is not None} | role
+
+        board = [attach(m, {"kind": "board", "role": m["role"], "period": chamber["period"], "start": start, "end": end}) for m in chamber["board"]]
+        coordinators = [attach(c, {"kind": "coordinator", "role": "Coordinación", "group": c["party"], "group_name": c["party_name"]}) for c in chamber["coordinators"]]
+        seats = Counter(p["party"] for p in members)
+        head = congress.jucopo_president(chamber["coordinators"], seats, len(members))
+        presides = attach(head, {"kind": "jucopo", "role": "Presidencia", "group": head["party"], "seats": head["seats"], "total": head["total"]}) if head else None
+        if not head:
+            warnings.append(f"{CHAMBER_NAME[office]}: ningún grupo tiene mayoría absoluta por sí solo; la presidencia de la Junta de Coordinación Política se turna y la fuente no dice a quién toca.")
+        summary[office] = {"period": chamber["period"], "start": start, "end": end, "board": board, "coordinators": coordinators, "jucopo_president": presides, "seats": len(members), "citation": citation}
+    return summary, warnings
+
+
+def autonomous_records(heads: list[dict], retrieved_at: str) -> tuple[list[dict], list[dict]]:
+    """The head of each autonomous body as a person record, plus one summary per body for
+    the page. `heads` items: spec, head (from the body's article), tenure (from the head's
+    article) and both revisions."""
+    records, bodies = [], []
+    for item in heads:
+        spec, head, tenure = item["spec"], item["head"], item["tenure"]
+        citation = _citation(
+            "wikipedia_autonomous",
+            wikipedia.page_permalink(item["body_revision"]["id"], title=spec["page"]),
+            retrieved_at,
+            item["body_revision"]["timestamp"],
+            source_name=f"Wikipedia en español, «{spec['page']}» y el artículo de la persona titular",
+        )
+        citation["person_url"] = wikipedia.page_permalink(item["person_revision"]["id"], title=head["article"])
+        citation["person_published_at"] = item["person_revision"]["timestamp"]
+        end, basis, note = autonomous_source.term_end(spec, tenure)
+        title = tenure["title"] or (f"{head['title']} del {spec['name']}" if head["title"] else f"Titular del {spec['name']}")
+        records.append(
+            {
+                "office": "autonomous_head",
+                "title": title,
+                "name": head["name"],
+                "party": "SP",
+                "party_name": "Cargo sin partido",
+                "state_code": None,
+                "state": None,
+                "district": spec["name"],
+                "election_type": None,
+                "seat_status": None,
+                "term_start": tenure["start"],
+                "term_end": end,
+                "term_end_basis": basis,
+                "term_end_note": note,
+                "provisional": tenure["provisional"],
+                "body_key": spec["key"],
+                "body": spec["name"],
+                "body_short": spec["short"],
+                "citation": citation,
+            }
+        )
+        bodies.append(
+            {
+                "key": spec["key"],
+                "name": spec["name"],
+                "short": spec["short"],
+                "mandate": spec["mandate"],
+                "basis": spec["basis"],
+                "appointment": spec["appointment"],
+                "term": spec["term"]["text"],
+                "head": head["name"],
+                "head_title": title,
+            }
+        )
+    return records, bodies
+
+
 def check_dataset(people: list[dict]) -> list[str]:
     """Plain-language warnings (in Spanish, shown on the page) where the sources
     list fewer or more office holders than the law provides for."""
@@ -443,24 +543,19 @@ def check_dataset(people: list[dict]) -> list[str]:
     discipline = sum(1 for p in people if p["office"] == "magistrate_tdj")
     if discipline and discipline != judiciary.TDJ_SEATS:
         warnings.append(f"Tribunal de Disciplina Judicial: la fuente lista {discipline} magistraturas (se esperaban {judiciary.TDJ_SEATS}).")
+    autonomous = sum(1 for p in people if p["office"] == "autonomous_head")
+    if autonomous and autonomous != len(autonomous_source.BODIES):
+        warnings.append(f"Órganos autónomos: se leyeron {autonomous} titulares de {len(autonomous_source.BODIES)} órganos.")
     presidents = sum(1 for p in people if p["office"] == "president")
     if presidents > 1:
         warnings.append(f"Presidencia de la República: la fuente lista {presidents} titulares (se esperaba 1).")
     return warnings
 
 
-def _roman(number: int) -> str:
-    out, n = "", number
-    for value, numeral in ((1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")):
-        while n >= value:
-            out, n = out + numeral, n - value
-    return out
-
-
 def legislature_info() -> dict:
     """The legislature whose rosters are read, with the dates of its three-year period."""
     start, end = deputies_term(sil.LEGISLATURE)
-    return {"number": sil.LEGISLATURE, "roman": _roman(sil.LEGISLATURE), "start": start, "end": end, "source_url": sil.ROSTER_URL}
+    return {"number": sil.LEGISLATURE, "roman": roman(sil.LEGISLATURE), "start": start, "end": end, "source_url": sil.ROSTER_URL}
 
 
 def build_dataset(
@@ -482,9 +577,28 @@ def build_dataset(
     magistrates: list[dict] = (),
     judiciary_revisions: dict | None = None,
     judiciary_vacancies: dict | None = None,
+    leadership: dict | None = None,
+    leadership_revision: dict | None = None,
+    autonomous_heads: list[dict] = (),
 ) -> dict:
-    people = governors + senators + list(deputies) + list(mayors) + list(justices) + list(magistrates) + list(president) + list(cabinet)
+    congress_summary, leadership_notes = (leadership_roles(leadership, leadership_revision, retrieved_at, senators + list(deputies)) if leadership else (None, []))
+    autonomous, autonomous_bodies = autonomous_records(list(autonomous_heads), retrieved_at)
+    people = governors + senators + list(deputies) + list(mayors) + list(justices) + list(magistrates) + list(president) + list(cabinet) + autonomous
     mayor_source = {}
+    if leadership_revision:
+        mayor_source["wikipedia_congress"] = SOURCES["wikipedia_congress"] | {
+            "url": wikipedia.page_permalink(leadership_revision["id"], title=congress.page_title(sil.LEGISLATURE)),
+            "published_at": leadership_revision["timestamp"],
+            "retrieved_at": retrieved_at,
+        }
+    if autonomous:
+        mayor_source["wikipedia_autonomous"] = SOURCES["wikipedia_autonomous"] | {
+            "retrieved_at": retrieved_at,
+            "pages": [
+                {"key": p["body_key"], "body": p["body"], "url": p["citation"]["url"], "published_at": p["citation"]["published_at"], "person_url": p["citation"]["person_url"], "person_published_at": p["citation"]["person_published_at"]}
+                for p in autonomous
+            ],
+        }
     for body, revision in (judiciary_revisions or {}).items():
         spec = BODIES[body]
         mayor_source[spec["source"]] = SOURCES[spec["source"]] | {
@@ -548,8 +662,13 @@ def build_dataset(
             "electoral_term": judiciary.TEPJF_TERM_RULE,
             "discipline_term": judiciary.TDJ_TERM_RULE,
             "president_term": PRESIDENT_TERM_RULE,
+            "board_term": congress.BOARD_RULE,
+            "jucopo": congress.JUCOPO_RULE,
+            **{f"autonomous_term_{spec['key']}": spec["term"] for spec in autonomous_source.BODIES},
         },
         "circunscripciones": {"list": circunscripciones.CIRCUNSCRIPCIONES, "source": circunscripciones.SOURCE},
-        "warnings": check_dataset(people) + list(extra_warnings),
+        "congress": congress_summary,
+        "autonomous": autonomous_bodies,
+        "warnings": check_dataset(people) + leadership_notes + list(extra_warnings),
         "people": people,
     }

@@ -1,0 +1,864 @@
+{{Ficha de congreso
+| nombre = LXVI Legislatura
+| órgano = [[Congreso de la Unión]]
+| lema = Soberanía y Justicia Social
+| salon_sesiones_baja = EscudoDiputados-LXVI.png
+| salon_res_baja    = 150px
+| sede_baja         = Logotipo de la Cámara de Diputados
+| país = {{MEX}}
+| tipo_cámara = [[Bicameral]]
+| cámara_alta = [[Senado de México|Cámara de Senadores]]
+| cámara_baja = [[Cámara de Diputados (México)|Cámara de Diputados]]
+| inicio_sesiones = 1 de septiembre de 2024
+| última_sesión = 
+| tipo_lider1 = [[Presidente del Senado de México|{{abreviatura|Sen.|Senador}} Presidente]]
+| lider1 = [[Higinio Martínez Miranda]]
+| tipo_lider2 = [[Presidente de la Cámara de Diputados (México)|{{abreviatura|Dip.|Diputado}} Presidente]]
+| lider2 = [[Raúl Bolaños Cacho Cué]]
+| camara1 = [[Senado de México|Cámara de Senadores]]
+| estructura1 = Cámara de Senadores de México - LXVI Legislatura.svg
+| estructura1_res = 250px
+| grupos_politicos1 = {{columnas}}
+{{leyenda|#B5261E|[[Morena (partido político)|Morena]]|color2=white|texto2=66}}
+{{leyenda|#05338D|[[Partido Acción Nacional|PAN]]|color2=white|texto2=21}}
+{{leyenda|#04B404|[[Partido Verde Ecologista de México|PVEM]]|color2=white|texto2=14}}
+{{leyenda|#009150|[[Partido Revolucionario Institucional|PRI]]|color2=white|texto2=13}}
+{{nueva columna}}
+{{leyenda|#DA251D|[[Partido del Trabajo (México)|PT]]|color2=white|texto2=6}}
+{{leyenda|#FFA500|[[Movimiento Ciudadano (partido político de México)|MC]]|color2=white|texto2=6}}
+{{leyenda|#c0c0c0|{{abreviatura|SP|Sin partido}}|color2=black|texto2=2}}
+{{final columnas}}
+| camara2 = [[Cámara de Diputados (México)|Cámara de Diputados]]
+| estructura2 = Cámara de Diputados de México - LXVI Legislatura.svg
+| estructura2_res = 250px
+| grupos_politicos2 = {{columnas}}
+{{leyenda|#B5261E|[[Morena (partido político)|Morena]]|color2=white|texto2=254}}
+{{leyenda|#05338D|[[Partido Acción Nacional|PAN]]|color2=white|texto2=69}}
+{{leyenda|#04B404|[[Partido Verde Ecologista de México|PVEM]]|color2=white|texto2=62}}
+{{leyenda|#DA251D|[[Partido del Trabajo (México)|PT]]|color2=white|texto2=49}}
+{{nueva columna}}
+{{leyenda|#009150|[[Partido Revolucionario Institucional|PRI]]|color2=white|texto2=36}}
+{{leyenda|#FFA500|[[Movimiento Ciudadano (partido político de México)|MC]]|color2=white|texto2=29}}
+{{leyenda|#c0c0c0|{{abreviatura|SP|Sin partido}}|color2=black|texto2=1}}
+{{final columnas}}
+| anterior = [[Anexo:LXV Legislatura del Congreso de la Unión de México|{{versalita|LXV Legislatura}}]]
+| siguiente = [[Anexo:LXVII Legislatura del Congreso de la Unión de México|{{versalita|LXVII Legislatura}}]]
+}}
+La '''LXVI Legislatura del [[Congreso de la Unión]] de [[México]]''' está conformada por los senadores y los diputados miembros de sus respectivas cámaras, inició sus funciones el 1 de septiembre de 2024 para concluir el 31 de agosto de 2027.
+
+Los senadores y los diputados fueron electos en el [[Elecciones federales de México de 2024|proceso electoral de 2024]]; los senadores para un periodo de seis años que se extenderá también a la siguiente legislatura, y los diputados por un periodo de tres años correspondiente solo a la presente. Los miembros del Senado pudieron haber sido reelegidos, ya habiendo ejercido el cargo en los seis años precedentes o lo podrán ser para otro consecutivo de la misma duración; mientras que los diputados podrán ocupar su cargo por hasta cuatro periodos consecutivos, de forma previa o posterior a la presente.
+
+Se caracteriza por el hecho de ser la primera desde las [[Elecciones federales de México de 1988|elecciones federales de 1988]] ([[LIV Legislatura del Congreso de la Unión de México|LIV Legislatura]]) en contar con una clara [[Mayoría cualificada|mayoría calificada]] en la [[Cámara de Diputados (México)|Cámara de Diputados]] y el [[Senado de México|Senado]] al mismo tiempo, en este caso, de [[Sigamos Haciendo Historia|Morena y aliados]]. La coalición [[Sigamos Haciendo Historia]] (conformada por [[Morena (partido político)|Morena]], el [[Partido Verde Ecologista de México|Partido Verde]] y el [[Partido del Trabajo (México)|Partido del Trabajo]]) gozó de una mayoría calificada en ambas cámaras, fenómeno que no se ha dado desde la [[LIII Legislatura del Congreso de la Unión de México|LIII Legislatura]].
+
+La conformación de la LXVI Legislatura es la siguiente:<ref>{{cita web | url = https://computos2024.ine.mx/senadurias/nacional/entidades | título = Cómputos distritales 2024. Senadurías - Nacional - Votos por Entidades - Mayoría Relativa | fechaacceso = 7 de junio de 2024 | autor = Instituto Nacional Electoral}}</ref>
+
+== Senado de la República ==
+{{AP|Senado de México}}
+Los miembros del Senado de la República son electos para un periodo de seis años, tres por cada uno de los estados y por la Ciudad de México, y 32 más por una lista nacional, dando un total de 128 senadores. Pueden ser reelectos para un nuevo periodo consecutivo de seis años.
+
+La composición del Senado de la República en la LXVI Legislatura será como sigue:<ref>{{cita web | url = https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/176369/CGex202408-23-ap-5.pdf | título = ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EFECTÚA EL CÓMPUTO TOTAL, SE DECLARA VALIDEZ DE LA ELECCIÓN DE SENADURÍAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, SE ASIGNAN A LOS PARTIDOS POLÍTICOS NACIONALES ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, DEL TRABAJO, VERDE ECOLOGISTA DE MÉXICO, MOVIMIENTO CIUDADANO Y MORENA LAS SENADURÍAS QUE LES CORRESPONDEN PARA EL PERIODO 2024-2030, Y POR EL QUE, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-JDC-935/2024, SE EMITE PRONUNCIAMIENTO SOBRE EL PROCEDIMIENTO DE ASIGNACIÓN DE SENADURÍAS DE REPRESENTACIÓN PROPORCIONAL | fechaacceso = 26 de agosto de 2024 | autor = Instituto Nacional Electoral}}</ref>
+
+=== Número de Senadores por partido político ===
+Para el gobierno interior del Senado, los senadores se agrupan según el partido político por el que fueron elegidos en '''grupos parlamentarios''', cada uno de los cuales está encabezado por un coordinador. Los coordinadores de todos los grupos constituyen a su vez la '''Junta de Coordinación Política''' del Senado.
+{| class="wikitable"
+! colspan="6" |[[Archivo:Cámara de Senadores de México - LXVI Legislatura.svg|centro|sinmarco|300x300px]] 
+! rowspan="12" | Senadores de primera fórmula<br>[[File:Mexico template.svg|centro|sinmarco|300px]]<hr>Senadores de segunda fórmula<br>[[File:Mexico template.svg|centro|sinmarco|300px]]<hr>Senadores de primera minoría<br>[[File:Mexico template.svg|centro|sinmarco|300px]]
+|- style="background:#efefef;"
+! Colspan=2 | Partido !! Mayoría relativa !! Primera minoría !! Lista nacional !! Total
+|-
+| [[Archivo:PAN logo (Mexico) 2025.svg|centro|36x36px]]|| [[Partido Acción Nacional]] || align=right| 4 ||align=right| 11 ||align=right| 6 || align="right" | 21
+|-
+| [[Archivo:PRI Party (Mexico).svg|30px|centrado]] || [[Partido Revolucionario Institucional]] || align=right| 0 ||align=right| 9 ||align=right| 4 || align="right" | 13
+|-
+| [[Archivo:PT Party (Mexico).svg|30px|centrado]] || [[Partido del Trabajo (México)|Partido del Trabajo]] || align=right| 3 ||align=right| 0 ||align=right| 3 || align="right" | 6
+|-
+| [[Archivo:PVE logo (Mexico).svg|30px|centrado]] || [[Partido Verde Ecologista de México]] || align=right| 10 ||align=right| 1 ||align=right| 3 || align="right" | 14
+|-
+| [[Archivo:MC_Party_(Mexico).svg|30px|centrado]] || [[Movimiento Ciudadano (partido político)|Movimiento Ciudadano]] || align=right| 0 ||align=right| 3 ||align=right| 3 || align="right" | 6
+|-
+| [[Archivo:Morena logo (Mexico).svg|30px|centrado]] || [[Movimiento Regeneración Nacional]] || align=right| 46 ||align=right| 7 ||align=right| 13 || align="right" | 66
+|-
+| [[Archivo:EmblemaCSP.png|30px|centrado]] || Sin partido || align=right| 1 ||align=right| 1 ||align=right| 0 || align="right" | 2
+|- style="background:#efefef;"
+| Colspan=2 | '''Total''' || align=right|'''64'''|| align=right|'''32''' || align=right|'''32''' || align=right|'''128'''
+|- style="background:#efefef;"
+| Colspan=6| '''Fuente:''' Senado de la República<ref>{{cita web|url=https://www.senado.gob.mx/66/senadores/por_principio_de_eleccion|título=Por principio de elección|fechaacceso = 4 de septiembre de 2024}}</ref> 
+|}
+
+=== Senadores por entidad federativa ===
+{| class="wikitable"
+|- style="background:#efefef;"
+! '''Estado''' !! '''Senador''' !! '''Partido''' !! '''Estado''' !! '''Senador''' || '''Partido''' 
+|-
+| [[Aguascalientes]] || [[Juan Antonio Martín del Campo]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Morelos]] || [[Víctor Mercado Salgado]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Aguascalientes]] || [[María de Jesús Díaz Marmolejo]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Morelos]] || [[Juanita Guerra Mena]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|- 
+| [[Aguascalientes]] || [[Jennifer Kristel Parra Salas]]<br /><small>Suple a [[Nora Ruvalcaba Gámez]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Morelos]] || [[Ángel García Yáñez]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| [[Baja California]] || [[Cleotilde Molina López]]<br /><small>Suple a [[Julieta Ramírez Padilla]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Nayarit]] || [[Angélica Montes Rentería]]<br /><small>Suple a [[Jasmine Bugarín Rodríguez]]</small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| [[Baja California]] || [[Juan Meléndrez Espinoza]]<br /><small>Suple a [[Armando Ayala Robles]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Nayarit]] || [[Alejandro García Monroy]]<br /><small>Suple a [[Pavel Jarero Velázquez]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Baja California]] || [[Máximo García López (político mexicano)|Máximo García López]]<br /><small>Suple a [[Gustavo Sánchez Vásquez]]<ref>{{cita noticia| nombre = Benjamín | apellido = Pacheco López | url = https://www.proceso.com.mx/nacional/estados/2026/1/31/fallecio-el-senador-gustavo-sanchez-vazquez-expresidente-municipal-de-mexicali-367622.html | título = Falleció el senador Gustavo Sánchez Vázquez, expresidente municipal de Mexicali | periódico = Proceso | fecha = 1 de febrero de 2026 | fechaacceso = 1 de febrero de 2026}}</ref></small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Nayarit]] || [[Ivideliza Reyes Hernández]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]]
+|-
+| [[Baja California Sur]] || [[Lucía Trasviña|Lucía Trasviña Waldenrath]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Nuevo León]] || [[Carlos Humberto Suárez Flores]]<br /><small>Suple a [[Waldo Fernández González]]</small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| [[Baja California Sur]] || [[Homero Davis Castro]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Nuevo León]] || [[Rosa Fierro Campos]]<br /><small>Suple a [[Judith Díaz Delgado]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Baja California Sur]] || [[Susana Zatarain García]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Nuevo León]] || [[Luis Donaldo Colosio Riojas]] || [[Archivo:MC Party (Mexico).svg|22px|centrado|link=Movimiento Ciudadano (partido político)]]
+|-
+| [[Campeche]] || [[María Martina Kantún Can]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Oaxaca]] || [[Antonino Morales Toledo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Campeche]] || [[Aníbal Ostoa Ortega]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Oaxaca]] || [[Luisa Cortés García]] || [[Archivo:Morena logo (Mexico).svg|centro|22x22px|Morena]]
+|-
+| [[Campeche]] || [[Daniel Barreda Pavón]]<ref>El candidato postulado, [[Eliseo Fernández Montúfar]], fue declarado inelegible, por existir una orden de aprehensión vigente dictada en su contra. {{cita noticia|url=https://animalpolitico.com/elecciones-2024/congreso/tepjf-cancelacion-candidatura-senado-eliseo-fernandez|título=Tribunal Electoral confirma cancelación de candidatura al Senado de Eliseo Fernández de Movimiento Ciudadano en Campeche|periódico=Animal Político|fecha=15 de mayo de 2024|fechaacceso=7 de junio de 2024}}</ref><ref>{{Cita web|url=https://www.poresto.net/campeche/2024/6/9/entregan-constancia-de-mayoria-y-minoria-a-senadores-electos-en-campeche-.html|título=Entregan constancia de mayoría relativa y minoría a senadores electos en Campeche|fechaacceso=2024-06-28|apellido=Villamonte|nombre=Wilbert Casanova|fecha=2024-06-09|sitioweb=Por Esto!|idioma=español}}</ref> || [[Archivo:MC Party (Mexico).svg|22px|centrado|link=Movimiento Ciudadano (partido político)]] || [[Oaxaca]] || [[Laura Estrada Mauro]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Chiapas]] || [[Sasil de León Villard]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Puebla]] || [[Ignacio Mier Velazco]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Chiapas]] || [[José Manuel Cruz Castellanos]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Puebla]] || [[Lizeth Sánchez García]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| [[Chiapas]] || [[Luis Armando Melgar Bravo]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || [[Puebla]] || [[Néstor Camarillo Medina]] || [[Archivo:MC Party (Mexico).svg|22px|centrado|link=Movimiento Ciudadano (partido político)]]
+|-
+| [[Chihuahua]] || [[Nora Yu Hernández]]<br /><small>Suple a [[Andrea Chávez Treviño]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Querétaro]] || [[Guadalupe Murguía Gutiérrez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]]
+|-
+| [[Chihuahua]] || [[Luis Mario Baeza Cano]]<br/><small>Suple a [[Juan Carlos Loera de la Rosa]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Querétaro]] || [[Agustín Dorantes Lámbarri]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]]
+|-
+| [[Chihuahua]] || [[Mario Vázquez Robles]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Querétaro]] || [[Beatriz Robles Gutiérrez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Ciudad de México]] || [[Francisco Chíguil Figueroa]]<br /><small>Suple a [[Omar García Harfuch]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Quintana Roo]] || [[Anahí González Hernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Ciudad de México]] || [[Karen Castrejón Trujillo]]<br /><small>Suple a [[Ernestina Godoy Ramos]]</small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || [[Quintana Roo]] || [[Francisco Alejandro Carrillo Flores]]<br /><small>Suple a [[Eugenio Segura Vázquez]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Ciudad de México]] || [[Cynthia López Castro]] ||[[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Quintana Roo]] || [[Mayuli Martínez Simón]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]]
+|-
+| [[Coahuila de Zaragoza|Coahuila]] || [[Luis Fernando Salazar Fernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[San Luis Potosí]] || [[Ruth González Silva]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| [[Coahuila de Zaragoza|Coahuila]] || [[Cecilia Guadiana Mandujano]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[San Luis Potosí]] || [[Gilberto Hernández Villafuerte]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| [[Coahuila de Zaragoza|Coahuila]] || [[Gabriel Elizondo Pérez]]<br /><small>Suple a [[Miguel Riquelme Solís]]</small> || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || [[San Luis Potosí]] || [[Verónica Rodríguez Hernández]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]]
+|-
+| [[Colima]] || [[Virgilio Mendoza Amezcua]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || [[Sinaloa]] || [[Ana Chiquete Elizalde]]<br /><small>Suple a [[Imelda Castro Castro]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Colima]] || [[Ana Karen Hernández Aceves]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || [[Sinaloa]] || [[Enrique Inzunza Cázarez]] || [[Archivo:Logo Sin Partido.svg|22px|centrado]]
+|-
+| [[Colima]] || [[Mely Romero Celis]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || [[Sinaloa]] || [[Paloma Sánchez Ramos]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| [[Durango]] || [[Alejandro González Yáñez]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || [[Sonora]] || [[Lizeth Vásquez Ochoa]]<br /><small>Suple a [[Lorenia Valles Sampedro]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Durango]] || [[Margarita Valdéz Martínez|Margarita Valdez Martínez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Sonora]] || [[Heriberto Aguilar Castillo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Durango]] || [[Gina Campuzano González]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || | [[Sonora]] || [[Manlio Fabio Beltrones]] || [[Archivo:Logo Sin Partido.svg|22px|centrado]]
+|-
+| [[Guanajuato]] || [[Ricardo Sheffield|Ricardo Sheffield Padilla]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Tabasco]] || [[Alejandra Arias Trevilla]]<br /><small>Suple a [[Rosalinda López Hernández]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Guanajuato]] || [[Virginia Magaña Fonseca]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || [[Tabasco]] || [[Óscar Cantón Zetina]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Guanajuato]] || [[Miguel Márquez Márquez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Tabasco]] || [[José Sabino Herrera Dagdug]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Estado de Guerrero|Guerrero]] || [[Patricia Ramírez Bazán]]<br /><small>Suple a [[Beatriz Mojica Morga]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Tamaulipas]] || [[Olga Patricia Sosa Ruiz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Estado de Guerrero|Guerrero]] || [[Francisco Arturo Pérez Pérez]]<br /><small>Suple a [[Félix Salgado Macedonio]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Tamaulipas]] || [[José Ramón Gómez Leal]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Estado de Guerrero|Guerrero]] || [[Manuel Añorve Baños]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || [[Tamaulipas]] || [[Imelda Sanmiguel Sánchez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]]
+|-
+| [[Hidalgo (México)|Hidalgo]] || [[Simey Olvera Bautista]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Tlaxcala]] || [[José Antonio Álvarez Lima]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Hidalgo (México)|Hidalgo]] || [[Cuauhtémoc Ochoa Fernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Tlaxcala]] || [[Eréndira Cova Brindis]]<br /><small>Suple a [[Ana Lilia Rivera Rivera]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Hidalgo (México)|Hidalgo]] || [[Carolina Viggiano Austria]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || [[Tlaxcala]] || [[Anabell Ávalos Zempoalteca]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| [[Jalisco]] || [[Carlos Lomelí Bolaños]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Estado de Veracruz|Veracruz]] || [[Claudia Tello Espinosa]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Jalisco]] || [[Rocío Corona Nakamura]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || [[Estado de Veracruz|Veracruz]] || [[Manuel Huerta Ladrón de Guevara]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Jalisco]] || [[Francisco Javier Ramírez Acuña]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Estado de Veracruz|Veracruz]] || [[Miguel Ángel Yunes Márquez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Estado de México|México]] || [[Higinio Martínez Miranda]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Yucatán]] || [[Verónica Camino Farjat]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Estado de México|México]] || [[Mariela Gutiérrez Escalante]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Yucatán]] || [[Jorge Carlos Ramírez Marín]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| [[Estado de México|México]] || [[Enrique Vargas del Villar]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|22x22px]] || [[Yucatán]] || [[Rolando Zapata Bello]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| [[Michoacán]] || [[Itzel Yunuen Iturbe Hernández]]<br /><small>Suple a [[Celeste Ascencio Ortega]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Zacatecas]] || [[Gabriela Pinedo Morales]]<br /><small>Suple a [[Verónica Díaz Robles]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Michoacán]] || [[Luis Reyes Zavala]]<br /><small>Suple a [[Raúl Morón Orozco]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || [[Zacatecas]] || [[Saúl Monreal Ávila]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| [[Michoacán]] || [[Araceli Saucedo Reyes]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || [[Zacatecas]] || [[Claudia Anaya Mota]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|}
+
+=== Senadores por lista nacional ===
+{| class="wikitable"
+|- style="background:#efefef;"
+! '''Senador''' !! '''Partido''' !! '''Senador''' || '''Partido''' !! '''Senador''' || '''Partido'''
+|-
+| [[Marko Cortés Mendoza]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|24x24px]] || [[Yeidckol Polevnsky|Yeidckol Polevnsky Gurwitz]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || [[Gerardo Fernández Noroña]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Alma Cristina Rodríguez Vallejo]]<br /><small>Suple a [[Michel González Márquez]]</small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|24x24px]] || [[Manuel Velasco Coello]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || [[Blanca Elizabeth Fiesco Díaz]]<br /><small>Suple a [[Laura Itzel Castillo|Laura Itzel Castillo Juárez]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Ricardo Anaya|Ricardo Anaya Cortés]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|24x24px]] || [[Maki Esther Ortiz Domínguez]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || [[Emmanuel Reyes Carmona]]<br /><small>Suple a [[Marcelo Ebrard|Marcelo Ebrard Casaubón]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Lilly Téllez|Lilly Téllez García]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|24x24px]] || [[Luis Alfonso Silva Romo]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || [[Martha Lucía Mícher Camarena]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Mauricio Vila Dosal]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|24x24px]] || [[Clemente Castañeda Hoeflich]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político de México)]] || [[Javier Corral Jurado]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Laura Esquivel Torres]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|24x24px]]|| [[Alejandra Barrales]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político de México)]] || [[Geovanna Bañuelos de la Torre]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]]
+|-
+| [[Alejandro Moreno Cárdenas]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || [[Amalia García|Amalia García Medina]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político de México)]] || [[Alfonso Cepeda Salas]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Karla Toledo Zamora]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || [[Adán Augusto López|Adán Augusto López Hernández]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || [[Karina Ruiz Ruiz]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Pablo Guillermo Angulo Briceño|Pablo Angulo Briceño]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || [[Guadalupe Chavira de la Rosa]]<br /><small>Suple a [[Citlalli Hernández|Citlalli Hernández Mora]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || [[Alejandro Murat Hinojosa]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Cristina Ruiz Sandoval]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || [[Alejandro Esquer Verdugo]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || [[Edith López Hernández]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| [[Alberto Anaya|Alberto Anaya Gutiérrez]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || [[Susana Harp|Susana Harp Iturribarría]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] ||  || 
+|}
+
+=== Mesa directiva ===
+==== 2026-27 ====
+{| class="wikitable"
+! Fotografía
+! Senador
+! Cargo
+! Partido
+! Estado
+|-
+| align = "center" | [[Archivo:Martínez Miranda, Higinio.jpg|100px]]
+| [[Higinio Martínez Miranda|Higinio<br>'''Martínez Miranda''']]
+| [[Presidente del Senado de México|Presidente]]
+| [[Archivo:Morena logo (alt).svg|20x20px]] [[Movimiento Regeneración Nacional]]
+| {{Bandera2|Estado de México}}<br><small>Primera fórmula</small>
+|-
+| align = "center" | [[Archivo:Sen. Verónica Camino Farjat.jpg|100px]]
+| [[Verónica Camino Farjat|Verónica Noemí<br>'''Camino Farjat''']]
+| Primera Vicepresidenta
+| [[Archivo:Morena logo (alt).svg|20x20px]] [[Movimiento Regeneración Nacional]]
+| {{Bandera2|Yucatán}}<br><small>Primera fórmula</small>
+|-
+| align = "center" | [[Archivo:Mauricio Vila.jpg|100px]]
+| [[Mauricio Vila Dosal|Mauricio<br>'''Vila Dosal''']]
+| Segundo Vicepresidente
+| [[Archivo:PAN logo (Mexico) 2025.svg|20x20px]] [[Partido Acción Nacional]]
+| {{Bandera2|Yucatán}}<br><small>Lista nacional</small>
+|-
+| align = "center" | [[Archivo:Jorge Carlos Ramírez Marín (cropped).jpg|100px]]
+| [[Jorge Carlos Ramírez Marín|Jorge Carlos<br>'''Ramírez Marín''']]
+| Tercer Vicepresidente
+| [[Archivo:Logo_Partido_Verde_(México).svg|20x20px]] [[Partido Verde Ecologista de México]]
+| {{Bandera2|Yucatán}}<br><small>Segunda fórmula</small>
+|}
+
+=== Coordinadores parlamentarios ===
+* [[Archivo:PAN logo (Mexico) 2025.svg|20x20px]] '''Partido Acción Nacional:''' [[Ricardo Anaya Cortés]]<ref>{{cita noticia| nombre = Juan Carlos | apellido = Cortés | url = https://www.proceso.com.mx/nacional/2025/1/30/pan-designa-ricardo-anaya-como-coordinador-de-su-bancada-en-el-senado-344669.html | título = PAN designa a Ricardo Anaya como coordinador de su bancada en el Senado | periódico = Proceso | fecha = 30 de enero de 2025 | fechaacceso = 1 de febrero de 2026}}</ref>
+* [[Archivo:PRI logo (Mexico).svg|22px]] '''Partido Revolucionario Institucional:''' [[Manuel Añorve Baños]]<ref>{{cita noticia| nombre = Rolando | apellido = Ramos | url = https://www.milenio.com/politica/pt-elige-a-nuevos-coordinadores-para-el-senado-y-camara-de-diputados | título = Añorve, al frente del PRI en Senado | periódico = El Economista | fecha = 13 de agosto de 2024 | fechaacceso = 28 de agosto de 2024}}</ref>
+* [[Archivo:PT_Party_(Mexico).svg|vínculo=Archivo:PT_Party_(México).svg|22x22px]] '''Partido del Trabajo:''' [[Alberto Anaya Gutiérrez]]<ref name=CoordPT>{{cita noticia| nombre = Silvia | apellido = Arellano | url = https://www.milenio.com/politica/pt-elige-a-nuevos-coordinadores-para-el-senado-y-camara-de-diputados | título = PT elige a nuevos coordinadores para el Senado y Cámara de Diputados | periódico = Milenio Diario | fecha = 15 de junio de 2024 | fechaacceso = 28 de agosto de 2024}}</ref>
+* [[Archivo:PVE logo (Mexico).svg|22px]] '''Partido Verde Ecologista de México:''' [[Manuel Velasco Coello]]<ref name=CoordPVEM>{{cita noticia| nombre = Tamara | apellido = Mares | url = https://animalpolitico.com/elecciones-2024/congreso/partido-verde-coordinadores-diputados-senado | título = Partido Verde recicla a Manuel Velasco y a Carlos Puente como coordinadores en el Congreso | periódico = Diario A. M. | fecha = 22 de agosto de 2024 | fechaacceso = 28 de agosto de 2024}}</ref>
+* [[Archivo:MC Party (Mexico).svg|22px]] '''Movimiento Ciudadano:''' [[Clemente Castañeda Hoeflich]]<ref name=CoordMC>{{cita noticia| nombre = Juan Carlos | apellido = Cortés | url = https://www.proceso.com.mx/nacional/2024/8/29/clemente-castaneda-repite-como-coordinador-de-mc-en-el-senado-ivonne-ortega-coordinara-diputados-335738.html | título = Clemente Castañeda repite como coordinador de MC en el Senado; Ivonne Ortega coordinará a diputados | periódico = Proceso | fecha = 29 de agosto de 2024 | fechaacceso = 31 de agosto de 2024}}</ref>
+* [[Archivo:Morena logo (Mexico).svg|22px]] '''Movimiento Regeneración Nacional:''' [[Ignacio Mier Velazco]]<ref>{{cita noticia| nombre = Georgina | apellido = Saldierna | url = https://www.jornada.com.mx/noticia/2026/02/01/politica/adan-augusto-lopez-renuncia-a-la-coordinacion-de-los-senadores-de-morena | título = Adán Augusto López renuncia a la coordinación de Morena en el Senado | periódico = La Jornada | fecha = 1 de febrero de 2026 | fechaacceso = 1 de febrero de 2026}}</ref>
+
+== Cámara de Diputados ==
+{{AP|Cámara de Diputados (México)}}
+La Cámara de Diputados estará compuesta por 500 legisladores electos para un periodo de 3 años. 300 diputados son electos mediante voto directo por cada uno de los [[Distritos electorales federales de México|distritos electorales]] del país, y los otros 200 mediante un sistema de listas votadas en cada una de las [[Anexo:Circunscripciones electorales de México|circunscripciones electorales]].
+
+La composición de la Cámara de Diputados en la LXVI Legislatura será como sigue:<ref>{{cita web | url = https://computos2024.ine.mx/diputaciones/nacional/distritos | título = Cómputos distritales 2024. Diputaciones - Nacional - Votos por Distritos | fechaacceso = 7 de junio de 2024 | autor = Instituto Nacional Electoral}}</ref><ref>{{cita web | url = https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/176370/CGex202408-23-ap-4.pdf | título = ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EFECTÚA EL CÓMPUTO TOTAL, SE DECLARA LA VALIDEZ DE LA ELECCIÓN DE DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y SE ASIGNAN A LOS PARTIDOS POLÍTICOS NACIONALES ACCIÓN NACIONAL, REVOLUCIONARIO INSTITUCIONAL, DEL TRABAJO, VERDE ECOLOGISTA DE MÉXICO, MOVIMIENTO CIUDADANO Y MORENA, LAS DIPUTACIONES QUE LES CORRESPONDEN PARA EL PERIODO 2024-2027 | fechaacceso = 26 de agosto de 2024 | autor = Instituto Nacional Electoral}}</ref>
+
+=== Número de Diputados por partido político ===
+{| class="wikitable"
+! colspan="5" |[[Archivo:Cámara de Diputados de México - LXVI Legislatura.svg|sinmarco|300x300px]]
+! rowspan="14" |'''Diputados por distrito (300)'''<br/>[[File:Distritacion federal electoral de México.svg|sinmarco|550px]] <hr> '''Diputados por circunscripción (200)'''<br/>[[File:Circunscripciones de México (escaños).svg|sinmarco|550px]]
+|- style="background:#efefef;" 
+! Colspan=2 | '''Partido''' !! '''Diputados<br /><small>Mayoría relativa''' !! '''Diputados<br /><small>Rep. proporcional''' !! '''Total'''
+|-
+| [[Archivo:PAN logo (Mexico) 2025.svg|centro|36x36px]]|| [[Partido Acción Nacional]] || 30 || 39 || 69
+|-
+| [[Archivo:PRI Party (Mexico).svg|30px|centrado]] || [[Partido Revolucionario Institucional]] || 11 || 25 || 36
+|-
+| [[Archivo:PT logo (Mexico).svg|30px|centrado|link=Partido del Trabajo (México)]] || [[Partido del Trabajo (México)|Partido del Trabajo]] || 36 || 13 || 49
+|-
+| [[Archivo:PVE logo (Mexico).svg|30px|centrado]] || [[Partido Verde Ecologista de México]] || 41 || 21 || 62
+|-
+| [[Archivo:MC Party (Mexico).svg|30px|centrado]] || [[Movimiento Ciudadano (partido político)|Movimiento Ciudadano]] || 2 || 27 || 29
+|-
+| [[Archivo:Morena logo (Mexico).svg|30px|centrado]] || [[Movimiento Regeneración Nacional]] || 179 || 75 || 254
+|-
+| [[Archivo:Logo candidato independiente.png|30px|centrado]] || [[Candidato independiente en México|Candidatos independientes]] || 1 || 0 || 1
+|- style="background:#efefef;"
+| Colspan=2 | '''Total''' || align=right|'''300''' || align=right|'''200''' || align=right|'''500'''
+|- style="background:#efefef;"
+| Colspan=5| '''Fuente:''' H. Cámara de Diputados<ref>{{cita web | url = https://sitl.diputados.gob.mx/LXVI_leg/info_diputados.php |título = Integrantes de la LXVI Legislatura |fechaacceso = 1 de septiembre de 2024 | autor = H. Cámara de Diputados}}</ref> 
+|}
+
+=== Diputados por distrito uninominal (mayoría relativa) ===
+{| class="wikitable"
+|- style="background:#efefef;"
+! '''Estado''' !! '''Distrito''' !! '''Diputado''' !! '''Partido''' !! '''Estado''' !! '''Distrito''' !! '''Diputado''' !! '''Partido'''
+|-
+| Aguascalientes || [[Distrito electoral federal 1 de Aguascalientes|1]] || [[Humberto Ambriz Delgadillo]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || México || [[Distrito electoral federal 27 del estado de México|27]] || [[Wblester Santiago Pineda]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Aguascalientes || [[Distrito electoral federal 2 de Aguascalientes|2]] || [[Mónica Becerra Moreno]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| México || [[Distrito electoral federal 28 del estado de México|28]] || [[Roberto Ángel Domínguez Rodríguez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Aguascalientes || [[Distrito electoral federal 3 de Aguascalientes|3]] || [[Paulo Gonzalo Martínez López]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| México || [[Distrito electoral federal 29 del estado de México|29]] || [[Gerardo Ulloa Pérez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 1 de Baja California|1]] || [[Laura Ruiz López]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 30 del estado de México|30]] || [[César Agustín Hernández Pérez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 2 de Baja California|2]] || [[Nancy Sánchez Arredondo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 31 del estado de México|31]] || [[Juan Ángel Bautista Bravo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 3 de Baja California|3]] || [[Claudia Moreno Ramírez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 32 del estado de México|32]] || [[Luis Enrique Martínez Ventura]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Baja California || [[Distrito electoral federal 4 de Baja California|4]] || [[Rocío López Gorosave]]<ref>La candidata original, [[Irma Andazola Gómez]], falleció diez días antes de las elecciones, y el 1 de junio Morena hizo oficial su sustitución en la candidatura por Rocío López Gorosave, a quien se le asignan los votos recibidos. {{cita noticia|url = https://animalpolitico.com/elecciones-2024/congreso/irma-andazola-morena-gana-diputacion-baja-california| título = Irma Andazola, candidata de Morena que falleció antes de la elección, gana diputación por Baja California| periódico = Animal Político| fecha = 3 de junio de 2024| fechaacceso = 5 de junio de 2024}}</ref><ref>{{cita noticia| nombre = Eduardo| apellido = Villa|url= https://zetatijuana.com/2024/06/sustituyen-a-irma-andazola-con-rocio-lopez-gorosave/|título = Sustituyen a Irma Andazola con Rocio López Gorosave|periódico = Semanario Zeta|fecha = 2 de junio de 2024|fechaacceso = 6 de junio de 2024}}</ref> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 33 del estado de México|33]] || [[Anaís Burgos Hernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|- 
+| Baja California || [[Distrito electoral federal 5 de Baja California|5]] || [[Karla Sánchez Rodelo]]<br /><small>Suple a [[Evangelina Moreno Guerra]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 34 del estado de México|34]] || [[Mónica Álvarez Nemer]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 6 de Baja California|6]] || [[Gilberto Herrera Solórzano]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 35 del estado de México|35]] || [[Arturo Roberto Hernández Tapia]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 7 de Baja California|7]] || [[Armando Fernández Samaniego]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 36 del estado de México|36]] || [[Juan Carlos Varela Domínguez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 8 de Baja California|8]] || [[Fausto Gallardo García]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || México || [[Distrito electoral federal 37 del estado de México|37]] || [[Pedro Zenteno Santaella]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Baja California || [[Distrito electoral federal 9 de Baja California|9]] || [[Araceli Brown Figueredo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || México || [[Distrito electoral federal 38 del estado de México|38]] || [[Jesús Martín Cuanalo Araujo]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Baja California Sur || [[Distrito electoral federal 1 de Baja California Sur|1]] || [[Juan Carlos González Bareño]]<br /><small>Suple a [[Manuel Cota Cárdenas]]</small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || México || [[Distrito electoral federal 39 del estado de México|39]] || [[José Luis Montalvo Luna]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Baja California Sur || [[Distrito electoral federal 2 de Baja California Sur|2]] || [[Luis Armando Díaz]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || México || [[Distrito electoral federal 40 del estado de México|40]] || [[Azucena Huerta Romero]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Campeche || [[Distrito electoral federal 1 de Campeche|1]] || [[Elda Castillo Quintana]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 1 de Michoacán|1]] || [[Leonel Godoy Rangel]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Campeche || [[Distrito electoral federal 2 de Campeche|2]] || [[Gabriela Basto González]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 2 de Michoacán|2]] || [[José Luis Cruz Lucatero]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chiapas || [[Distrito electoral federal 1 de Chiapas|1]] || [[Juan Miguel Alegría Gómez]]<br /><small>Suple a [[Carlos Morelos Rodríguez]]</small> || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Michoacán || [[Distrito electoral federal 3 de Michoacán|3]] || [[Mary Carmen Bernal Martínez]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Chiapas || [[Distrito electoral federal 2 de Chiapas|2]] || [[Karina del Río Zenteno]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 4 de Michoacán|4]] || [[Rosa Guadalupe Ortega Tiburcio]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chiapas || [[Distrito electoral federal 3 de Chiapas|3]] || [[Alfredo Vázquez Vázquez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 5 de Michoacán|5]] || [[Miroslava Shember Domínguez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chiapas || [[Distrito electoral federal 4 de Chiapas|4]] || [[Joaquín Zebadúa Alva]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 6 de Michoacán|6]] || [[José Luis Téllez Marín]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Chiapas || [[Distrito electoral federal 5 de Chiapas|5]] || [[Emilio Ramón Ramírez Guzmán]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 7 de Michoacán|7]] || [[Marcela Velázquez Vázquez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chiapas || [[Distrito electoral federal 6 de Chiapas|6]] || [[Flor Esponda Torres]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 8 de Michoacán|8]] || [[Ernesto Núñez Aguilar]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Chiapas || [[Distrito electoral federal 7 de Chiapas|7]] || [[Azucena Arreola Trinidad]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 9 de Michoacán|9]] || [[Guadalupe Mendoza Arias]] || [[Archivo:Logo_candidato_independiente.png|22px|centrado|link=]]
+|-
+| Chiapas || [[Distrito electoral federal 8 de Chiapas|8]] || [[Roberto Albores Gleason]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Michoacán || [[Distrito electoral federal 10 de Michoacán|10]] || [[David Cortés Mendoza]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Chiapas || [[Distrito electoral federal 9 de Chiapas|9]] || [[Guillermo Santiago Rodríguez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Michoacán || [[Distrito electoral federal 11 de Michoacán|11]] || [[Vanessa López Carrillo]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Chiapas || [[Distrito electoral federal 10 de Chiapas|10]] || [[Deliamaría González Flandez]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Morelos || [[Distrito electoral federal 1 de Morelos|1]] || [[Sandra Anaya Villegas]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chiapas || [[Distrito electoral federal 11 de Chiapas|11]] || [[Carmen Moreno Villatoro]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Morelos || [[Distrito electoral federal 2 de Morelos|2]] || [[Ariadna Barrera Vázquez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chiapas || [[Distrito electoral federal 12 de Chiapas|12]] || [[Rosa Irene Urbina Castañeda]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Morelos || [[Distrito electoral federal 3 de Morelos|3]] || [[Cindy Winkler Trujillo]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Chiapas || [[Distrito electoral federal 13 de Chiapas|13]] || [[Jorge Villatoro Osorio]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Morelos || [[Distrito electoral federal 4 de Morelos|4]] || [[Juan Ángel Flores Bustamante]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chihuahua || [[Distrito electoral federal 1 de Chihuahua|1]] || [[Daniel Murguía Lardizábal]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Morelos || [[Distrito electoral federal 5 de Morelos|5]] || [[Agustín Alonso Gutiérrez (político mexicano)|Agustín Alonso Gutiérrez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chihuahua || [[Distrito electoral federal 2 de Chihuahua|2]] || [[Maité Vargas Meraz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nayarit || [[Distrito electoral federal 1 de Nayarit|1]] || [[Any Marilú Porras Baylón]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chihuahua || [[Distrito electoral federal 3 de Chihuahua|3]] || [[Lilia Aguilar Gil]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Nayarit || [[Distrito electoral federal 2 de Nayarit|2]] || [[Andrea Navarro Pérez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chihuahua || [[Distrito electoral federal 4 de Chihuahua|4]] || [[Alejandro Pérez Cuéllar]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Nayarit || [[Distrito electoral federal 3 de Nayarit|3]] || [[Jorge Armando Ortiz Rodríguez]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Chihuahua || [[Distrito electoral federal 5 de Chihuahua|5]] || [[Juan Antonio Meléndez Ortega]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 1 de Nuevo León|1]] || [[Homero Niño de Rivera Vela]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Chihuahua || [[Distrito electoral federal 6 de Chihuahua|6]] || [[María Angélica Granados Trespalacios]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Nuevo León || [[Distrito electoral federal 2 de Nuevo León|2]] || [[Andrés Cantú Ramírez]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| Chihuahua || [[Distrito electoral federal 7 de Chihuahua|7]] || [[Roberto Corral Ordóñez]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Nuevo León || [[Distrito electoral federal 3 de Nuevo León|3]] || [[Sandra Patricia Palacios Medina]]<br /><small>Suple a [[Clara Luz Flores]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Chihuahua || [[Distrito electoral federal 8 de Chihuahua|8]] || [[Alejandro Domínguez Domínguez]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || Nuevo León || [[Distrito electoral federal 4 de Nuevo León|4]] || [[Elisa Paola Zamora Ramírez]]<br /><small>Suple a [[Lilia Olivares Castañeda]]|| [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|- 
+| Chihuahua || [[Distrito electoral federal 9 de Chihuahua|9]] || [[Noel Chávez Velázquez]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || Nuevo León || [[Distrito electoral federal 5 de Nuevo León|5]] || [[Santiago González Soto]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Ciudad de México || [[Distrito electoral federal 1 de la Ciudad de México|1]] || [[Emiliano Álvarez López]]<br /><small>Suple a [[César Cravioto Romero]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 6 de Nuevo León|6]] || [[Annia Gómez Cárdenas]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Ciudad de México || [[Distrito electoral federal 2 de la Ciudad de México|2]] || [[José Benavides Castañeda]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Nuevo León || [[Distrito electoral federal 7 de Nuevo León|7]] || [[Carlos Guevara Garza]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Ciudad de México || [[Distrito electoral federal 3 de la Ciudad de México|3]] || [[Gabriela Jiménez Godoy]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 8 de Nuevo León|8]] || [[Adriana Quiroz Gallegos]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 4 de la Ciudad de México|4]] || [[Dolores Padierna Luna]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 9 de Nuevo León|9]] || [[Juan Francisco Espinosa Eguía]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 5 de la Ciudad de México|5]] || [[Irugami Perea Cruz]]<br /><small>Suple a [[Carlos Ulloa Pérez]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 10 de Nuevo León|10]] || [[Ana González González]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 6 de la Ciudad de México|6]] || [[Daniel Campos Plancarte]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 11 de Nuevo León|11]] || [[Samantha Garza de la Garza]]<br /><small>Suple a [[Pedro Garza Treviño]]</small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Ciudad de México || [[Distrito electoral federal 7 de la Ciudad de México|7]] || [[Guillermo Rendón Gómez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 12 de Nuevo León|12]] || [[Héctor de la Garza Villarreal]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Ciudad de México || [[Distrito electoral federal 8 de la Ciudad de México|8]] || [[Ruth Maricela Silva Andraca]]<br /><small>Suple a [[Ana María Lomelí]]</small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Nuevo León || [[Distrito electoral federal 13 de Nuevo León|13]] || [[Luis Orlando Quiroga Treviño]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Ciudad de México || [[Distrito electoral federal 9 de la Ciudad de México|9]] || [[Roberto Mejía Méndez]]<br /><small>Suple a [[Rigoberto Salgado Vázquez]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Nuevo León || [[Distrito electoral federal 14 de Nuevo León|14]] || [[José Gloria López]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Ciudad de México || [[Distrito electoral federal 10 de la Ciudad de México|10]] || [[Margarita Zavala]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Oaxaca || [[Distrito electoral federal 1 de Oaxaca|1]] || [[Miriam Vázquez Ruiz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 11 de la Ciudad de México|11]] || [[Elena Segura Trejo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Oaxaca || [[Distrito electoral federal 2 de Oaxaca|2]] || [[Irma Juan Carlos]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 12 de la Ciudad de México|12]] || [[Mónica Sandoval Hernández]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido de Revolucionario Institucional]] || Oaxaca || [[Distrito electoral federal 3 de Oaxaca|3]] || [[Margarita García García]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Ciudad de México || [[Distrito electoral federal 13 de la Ciudad de México|13]] || [[Francisco Javier Sánchez Cervantes]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Oaxaca || [[Distrito electoral federal 4 de Oaxaca|4]] || [[Naty Jiménez Vásquez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 14 de la Ciudad de México|14]] || [[Carlos Hernández Mirón]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Oaxaca || [[Distrito electoral federal 5 de Oaxaca|5]] || [[Carol Antonio Altamirano]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 15 de la Ciudad de México|15]] || [[Federico Döring Casar]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Oaxaca || [[Distrito electoral federal 6 de Oaxaca|6]] || [[José Alejandro López Sánchez]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Ciudad de México || [[Distrito electoral federal 16 de la Ciudad de México|16]] || [[Carina Piceno Navarro]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Oaxaca || [[Distrito electoral federal 7 de Oaxaca|7]] || [[Gloria Sánchez López]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 17 de la Ciudad de México|17]] || [[Carlos Arturo Madrazo Silva]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Oaxaca || [[Distrito electoral federal 8 de Oaxaca|8]] || [[Raúl Bolaños Cacho Cué]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Ciudad de México || [[Distrito electoral federal 18 de la Ciudad de México|18]] || [[Gabriel García Hernández (político)|Gabriel García Hernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Oaxaca || [[Distrito electoral federal 9 de Oaxaca|9]] || [[Carmen Bautista Peláez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 19 de la Ciudad de México|19]] || [[Héctor Saúl Téllez Hernández]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Oaxaca || [[Distrito electoral federal 10 de Oaxaca|10]] || [[Carmelo Cruz Mendoza]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 20 de la Ciudad de México|20]] || [[Ana Karina Rojo Pimentel]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Puebla || [[Distrito electoral federal 1 de Puebla|1]] || [[Gissel Santander Soto]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Ciudad de México || [[Distrito electoral federal 21 de la Ciudad de México|21]] || [[Edén Garcés Medina]]<br /><small>Suple a [[José Carlos Acosta Ruiz]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 2 de Puebla|2]] || [[Fátima Cruz Peláez]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Ciudad de México || [[Distrito electoral federal 22 de la Ciudad de México|22]] || [[Marisela Zúñiga Cerón]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 3 de Puebla|3]] || [[Norma Reyes Cabrera]]<br /><small>Por licencia de [[María de los Ángeles Ballesteros García]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Coahuila || [[Distrito electoral federal 1 de Coahuila|1]] || [[Brígido Moreno Hernández]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Puebla || [[Distrito electoral federal 4 de Puebla|4]] || [[Juan Antonio González Hernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Coahuila || [[Distrito electoral federal 2 de Coahuila|2]] || [[Javier Borrego Adame]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 5 de Puebla|5]] || [[Vianey García Romero]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Coahuila || [[Distrito electoral federal 3 de Coahuila|3]] || [[Theodoros Kalionchiz de la Fuente]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Parido Revolucionario Institucional]] || Puebla || [[Distrito electoral federal 6 de Puebla|6]] || [[Alejandro Carvajal Hidalgo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Coahuila || [[Distrito electoral federal 4 de Coahuila|4]] || [[Jericó Abramo Masso]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Parido Revolucionario Institucional]] || Puebla || [[Distrito electoral federal 7 de Puebla|7]] || [[Claudia Rivera Vivanco]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Coahuila || [[Distrito electoral federal 5 de Coahuila|5]] || [[Guillermo Anaya Llamas]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Puebla || [[Distrito electoral federal 8 de Puebla|8]] || [[Ignacio Mier Bañuelos]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] 
+|-
+| Coahuila || [[Distrito electoral federal 6 de Coahuila|6]] || [[Cintia Cuevas Sánchez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 9 de Puebla|9]] || [[José Antonio Gali López]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Coahuila || [[Distrito electoral federal 7 de Coahuila|7]] || [[Antonio Castro Villarreal]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 10 de Puebla|10]] || [[Karina Pérez Popoca]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Coahuila || [[Distrito electoral federal 8 de Coahuila|8]] || [[Hilda Magdalena Licerio Valdés]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 11 de Puebla|11]] || [[José Antonio López Ruiz]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Colima || [[Distrito electoral federal 1 de Colima|1]] || [[Leoncio Morán Sánchez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 12 de Puebla|12]] || [[Nora Merino Escamilla]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Colima || [[Distrito electoral federal 2 de Colima|2]] || [[Gricelda Valencia de la Mora]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 13 de Puebla|13]] || [[Mario Miguel Carrillo Cubillas]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Durango || [[Distrito electoral federal 1 de Durango|1]] || [[Martha Olivia García Vidaña]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 14 de Puebla|14]] || [[Eduardo Castillo López]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Durango || [[Distrito electoral federal 2 de Durango|2]] || [[Alejandra del Valle Ramírez]]<br /><small>Suple a [[Betzabé Martínez Arango]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Puebla || [[Distrito electoral federal 15 de Puebla|15]] || [[Rosario Orozco Caballero]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Durango || [[Distrito electoral federal 3 de Durango|3]] || [[Gerardo Villarreal Solís]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Puebla || [[Distrito electoral federal 16 de Puebla|16]] || [[Adolfo Alatriste Cantú]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Durango || [[Distrito electoral federal 4 de Durango|4]] || [[Patricia Jiménez Delgado]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Querétaro || [[Distrito electoral federal 1 de Querétaro|1]] || [[Gilberto Herrera Ruiz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 1 de Guanajuato|1]] || [[Luis Gerardo Sánchez Sánchez]] || [[Archivo:PRI logo (Mexico).svg|22px|centrado|link=Partido Revolucionario Institucional]] || Querétaro || [[Distrito electoral federal 2 de Querétaro|2]] || [[Ricardo Astudillo Suárez]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Guanajuato || [[Distrito electoral federal 2 de Guanajuato|2]] || [[Alma Rosa de la Vega Vargas]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Querétaro || [[Distrito electoral federal 3 de Querétaro|3]] || [[Lorena García Jimeno Alcocer]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Guanajuato || [[Distrito electoral federal 3 de Guanajuato|3]] || [[Fernando Torres Graciano]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Querétaro || [[Distrito electoral federal 4 de Querétaro|4]] || [[Roberto Sosa Pichardo]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Guanajuato || [[Distrito electoral federal 4 de Guanajuato|4]] || [[Francisco Javier Estrada Domínguez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Querétaro || [[Distrito electoral federal 5 de Querétaro|5]] || [[Mario Calzada Mercado]] || [[Archivo:MC Party (Mexico).svg|22px|centrado|link=Movimiento Ciudadano (partido político)]]
+|-
+| Guanajuato || [[Distrito electoral federal 5 de Guanajuato|5]] || [[Éctor Jaime Ramírez Barba]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Querétaro || [[Distrito electoral federal 6 de Querétaro|6]] || [[Luis Humberto Fernández Fuentes]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 6 de Guanajuato|6]] || [[Cristina Márquez Alcalá]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quintana Roo || [[Distrito electoral federal 1 de Quintana Roo|1]] || [[Juan Luis Carrillo Soberanis]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Guanajuato || [[Distrito electoral federal 7 de Guanajuato|7]] || [[Diana Gutiérrez Valtierra]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quintana Roo || [[Distrito electoral federal 2 de Quintana Roo|2]] || ''Vacante''<br /><small>Por licencia de [[Marybel Villegas Canché]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 8 de Guanajuato|8]] || [[Ernesto Prieto Gallardo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Quintana Roo || [[Distrito electoral federal 3 de Quintana Roo|3]] || [[Humberto Aldana Navarro]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 9 de Guanajuato|9]] || [[Diego Rodríguez Barroso]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quintana Roo || [[Distrito electoral federal 4 de Quintana Roo|4]] || [[Mildred Ávila Vera]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 10 de Guanajuato|10]] || [[Alejandro Calderón Díaz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || San Luis Potosí || [[Distrito electoral federal 1 de San Luis Potosí|1]] || [[Aremy Velazco Bautista]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 11 de Guanajuato|11]] || [[Miguel Salim Alle]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| San Luis Potosí || [[Distrito electoral federal 2 de San Luis Potosí|2]] || [[José Luis Fernández Martínez]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Guanajuato || [[Distrito electoral federal 12 de Guanajuato|12]] || [[Magdalena Rosales Cruz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || San Luis Potosí || [[Distrito electoral federal 3 de San Luis Potosí|3]] || [[Óscar Bautista Villegas]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Guanajuato || [[Distrito electoral federal 13 de Guanajuato|13]] || [[Lucero Higareda Segura]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || San Luis Potosí || [[Distrito electoral federal 4 de San Luis Potosí|4]] || [[Francisco Adrián Castillo Morales]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guanajuato || [[Distrito electoral federal 14 de Guanajuato|14]] || [[Juana Acosta Trujillo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || San Luis Potosí || [[Distrito electoral federal 5 de San Luis Potosí|5]] || [[David Azuara Zúñiga]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Guanajuato || [[Distrito electoral federal 15 de Guanajuato|15]] || [[José Javier Aguirre Gallardo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || San Luis Potosí || [[Distrito electoral federal 6 de San Luis Potosí|6]] || [[Juan Carlos Valladares Eichelmann]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Guerrero || [[Distrito electoral federal 1 de Guerrero|1]] || [[Celeste Mora Eguiluz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || San Luis Potosí || [[Distrito electoral federal 7 de San Luis Potosí|7]] || [[Briceyda García Antonio]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guerrero || [[Distrito electoral federal 2 de Guerrero|2]] || [[Yoloczin Domínguez Serna]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sinaloa || [[Distrito electoral federal 1 de Sinaloa|1]] || [[Sara Jaime Ontiveros]]<br /><small>Suple a [[Graciela Domínguez Nava]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guerrero || [[Distrito electoral federal 3 de Guerrero|3]] || [[Ma. del Carmen Cabrera Lagunas]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Sinaloa || [[Distrito electoral federal 2 de Sinaloa|2]] || [[Ana Elizabeth Ayala Leyva]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guerrero || [[Distrito electoral federal 4 de Guerrero|4]] || [[Javier Taja Ramírez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sinaloa || [[Distrito electoral federal 3 de Sinaloa|3]] || [[Jesús Fernando García Hernández]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Guerrero || [[Distrito electoral federal 5 de Guerrero|5]] || [[Gerardo Olivares Mejía]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Sinaloa || [[Distrito electoral federal 4 de Sinaloa|4]] || [[Felicita Pompa Robles]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guerrero || [[Distrito electoral federal 6 de Guerrero|6]] || [[Carmen Nava García]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Sinaloa || [[Distrito electoral federal 5 de Sinaloa|5]] || [[Luis Sebastián González Carrillo]]<br /><small>Suple a [[Jesús Ibarra Ramos]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guerrero || [[Distrito electoral federal 7 de Guerrero|7]] || [[Carlos Sánchez Barrios]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sinaloa || [[Distrito electoral federal 6 de Sinaloa|6]] || [[Olegaria Carrazco Macías]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Guerrero || [[Distrito electoral federal 8 de Guerrero|8]] || [[Marco Antonio de la Mora Torreblanca]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Sinaloa || [[Distrito electoral federal 7 de Sinaloa|7]] || [[Merary Villegas Sánchez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Hidalgo || [[Distrito electoral federal 1 de Hidalgo|1]] || [[Daniel Andrade Zurutuza]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sonora || [[Distrito electoral federal 1 de Sonora|1]] || [[Manuel Baldenebro Arredondo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Hidalgo || [[Distrito electoral federal 2 de Hidalgo|2]] || [[Yamile Salomón Durán]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Sonora || [[Distrito electoral federal 2 de Sonora|2]] || [[Jesús Antonio Pujol Irastorza]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Hidalgo || [[Distrito electoral federal 3 de Hidalgo|3]] || [[Tatiana Ángeles Moreno]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sonora || [[Distrito electoral federal 3 de Sonora|3]] || [[Diana Karina Barreras Samaniego]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Hidalgo || [[Distrito electoral federal 4 de Hidalgo|4]] || [[Alma de la Vega Sánchez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sonora || [[Distrito electoral federal 4 de Sonora|4]] || [[Ramón Flores Robles]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Hidalgo || [[Distrito electoral federal 5 de Hidalgo|5]] || [[Viridiana Cornejo Gómez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sonora || [[Distrito electoral federal 5 de Sonora|5]] || [[Jacobo Mendoza Ruiz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Hidalgo || [[Distrito electoral federal 6 de Hidalgo|6]] || [[Ricardo Crespo Arroyo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sonora || [[Distrito electoral federal 6 de Sonora|6]] || [[Anabel Acosta Islas]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Hidalgo || [[Distrito electoral federal 7 de Hidalgo|7]] || [[Mirna Rubio Sánchez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Sonora || [[Distrito electoral federal 7 de Sonora|7]] || [[Alma Higuera Esquer]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 1 de Jalisco|1]] || [[Javier Guízar Macías]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Tabasco || [[Distrito electoral federal 1 de Tabasco|1]] || [[Julio Ernesto Gutiérrez Bocanegra]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 2 de Jalisco|2]] || [[Tecutli Gómez Villalobos]] || [[Archivo:MC Party (Mexico).svg|22px|centrado|link=Movimiento Ciudadano (partido político)]] || Tabasco || [[Distrito electoral federal 2 de Tabasco|2]] || [[Iván Peña Vidal]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 3 de Jalisco|3]] || [[José Mario Íñiguez Franco]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tabasco || [[Distrito electoral federal 3 de Tabasco|3]] || [[Rosa Margarita Graniel Zenteno]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 4 de Jalisco|4]] || [[Raúl Álvarez Villaseñor]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tabasco || [[Distrito electoral federal 4 de Tabasco|4]] || [[Jaime Humberto Lastra Bastar]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 5 de Jalisco|5]] || [[Bruno Blancas Mercado]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tabasco || [[Distrito electoral federal 5 de Tabasco|5]] || [[Beatriz Millánd Pérez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 6 de Jalisco|6]] || [[Beatriz Carranza Gómez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tabasco || [[Distrito electoral federal 6 de Tabasco|6]] || [[Tey Mollinedo Cano]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 7 de Jalisco|7]] || [[Claudia García Hernández]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tamaulipas || [[Distrito electoral federal 1 de Tamaulipas|1]] || [[Carlos Enrique Canturosas Villarreal]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Jalisco || [[Distrito electoral federal 8 de Jalisco|8]] || [[Paola Espinosa]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tamaulipas || [[Distrito electoral federal 2 de Tamaulipas|2]] || [[Claudia Hernández Sáenz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 9 de Jalisco|9]] || [[Favio Castellanos Polanco]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tamaulipas || [[Distrito electoral federal 3 de Tamaulipas|3]] || [[Casandra de los Santos Flores]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Jalisco || [[Distrito electoral federal 10 de Jalisco|10]] || [[Omar Borboa Becerra]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tamaulipas || [[Distrito electoral federal 4 de Tamaulipas|4]] || [[Mario Alberto López Hernández]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Jalisco || [[Distrito electoral federal 11 de Jalisco|11]] || [[Merilyn Gómez Pozos]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tamaulipas || [[Distrito electoral federal 5 de Tamaulipas|5]] || [[José Braña Mojica]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Jalisco || [[Distrito electoral federal 12 de Jalisco|12]] || [[Sandra Beatriz González Pérez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tamaulipas || [[Distrito electoral federal 6 de Tamaulipas|6]] || [[Blanca Narro Panameño]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 13 de Jalisco|13]] || [[José Luis Sánchez González]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Tamaulipas || [[Distrito electoral federal 7 de Tamaulipas|7]] || [[Olga Juliana Elizondo Guerra]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Jalisco || [[Distrito electoral federal 14 de Jalisco|14]] || [[Marcela Michel López]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tamaulipas || [[Distrito electoral federal 8 de Tamaulipas|8]] || [[Jesús Nader Nasrallah]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Jalisco || [[Distrito electoral federal 15 de Jalisco|15]] || [[Alonso Vázquez Jiménez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tlaxcala || [[Distrito electoral federal 1 de Tlaxcala|1]] || [[Alejandro Aguilar López]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Jalisco || [[Distrito electoral federal 16 de Jalisco|16]] || [[Alberto Maldonado Chavarín]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Tlaxcala || [[Distrito electoral federal 2 de Tlaxcala|2]] || [[Raymundo Vázquez Conchas]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 17 de Jalisco|17]] || [[Antonio Ramírez Ramos]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Tlaxcala || [[Distrito electoral federal 3 de Tlaxcala|3]] || [[Irma Yordana Garay Loredo]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| Jalisco || [[Distrito electoral federal 18 de Jalisco|18]] || [[Haidyd Arreola López]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 1 de Veracruz|1]] || [[Denisse Guzmán González]]<br /><small>Suple a [[María del Carmen Pinete Vargas]]</small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| Jalisco || [[Distrito electoral federal 19 de Jalisco|19]] || [[Clara Cárdenas Galván]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 2 de Veracruz|2]] || [[Elizabeth Cervantes de la Cruz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| Jalisco || [[Distrito electoral federal 20 de Jalisco|20]] || [[Katia Castillo Lozano]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 3 de Veracruz|3]] || [[Magaly Armenta Oliveros]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 1 del estado de México|1]] || [[María Luisa Mendoza Mondragón]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Veracruz || [[Distrito electoral federal 4 de Veracruz|4]] || [[María del Rosario Vera]]<br /><small>Suple a [[María Josefina Gamboa Torales]]</small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| México || [[Distrito electoral federal 2 del estado de México|2]] || [[Dionicia Vázquez García]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 5 de Veracruz|5]] || [[Francisco Javier Velázquez Vallejo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 3 del estado de México|3]] || [[Diana Castillo Gabino]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Veracruz || [[Distrito electoral federal 6 de Veracruz|6]] || [[Jaime Humberto Pérez Bernabé]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 4 del estado de México|4]] || [[Melva Carrasco Godínez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 7 de Veracruz|7]] || [[Mónica Herrera Villavicencio]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 5 del estado de México|5]] || [[Patricia Galindo Alarcón]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Veracruz || [[Distrito electoral federal 8 de Veracruz|8]] || [[Jorge Alberto Mier Acolt]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 6 del estado de México|6]] || [[Julieta Villalpando Riquelme]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 9 de Veracruz|9]] || [[Adrián González Naveda]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|-
+| México || [[Distrito electoral federal 7 del estado de México|7]] || [[Xóchitl Zagal Ramírez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 10 de Veracruz|10]] || [[Ana Miriam Ferráez Centeno]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 8 del estado de México|8]] || [[Yessica Juárez García]]<br /><small>Suple a [[Anay Beltrán Reyes]]<ref name=Fallecimiento>{{cita noticia| nombre = Enrique | apellido = Gómez | url = https://www.eluniversal.com.mx/nacion/fallece-anay-beltran-reyes-diputada-federal-de-morena-legisladores-expresan-sus-condolencias/ | título = Fallece Anay Beltrán Reyes, diputada federal de Morena; legisladores expresan sus condolencias | periódico = El Universal | fecha = 17 de septiembre de 2026 | fechaacceso = 17 de septiembre de 2026}}</ref></small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 11 de Veracruz|11]] || [[Isidro Enrique Villegas García]]<br /><small>Suple a [[Roberto Ramos Alor]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 9 del estado de México|9]] || [[Iván Marín Rangel]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Veracruz || [[Distrito electoral federal 12 de Veracruz|12]] || [[Zoraya Villacis Palacios]]<br /><small>Suple a [[Rosa Hernández Espejo]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 10 del estado de México|10]] || [[Fernando Vilchis Contreras]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Veracruz || [[Distrito electoral federal 13 de Veracruz|13]] || [[Blanca Estela Hernández Rodríguez]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| México || [[Distrito electoral federal 11 del estado de México|11]] || [[Xóchitl Arzola Vargas]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 14 de Veracruz|14]] || [[Jessica Ramírez Cisneros]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 12 del estado de México|12]] || [[Armando Corona Arvizu]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 15 de Veracruz|15]] || [[Corina Villegas Guarneros]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 13 del estado de México|13]] || [[Alma Delia Navarrete Rivera]]<br/><small>Suple a [[Alma Monserrat Córdoba Navarrete]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 16 de Veracruz|16]] || [[Ángel Etiem Jiménez Castañeda]]<br /><small>Suple a [[Zenyazen Escobar García]]<ref>{{cita noticia| nombre = Iván | apellido = Sánchez | url = https://www.jornada.com.mx/noticia/2026/09/04/politica/zenyazen-escobar-diputado-federal-de-morena-fue-encontrado-muerto-en-veracruz | título = Hallan muerto a Zenyazen Escobar, diputado federal de Morena por Veracruz | periódico = La Jornada | fecha = 4 de septiembre de 2026 | fechaacceso = 5 de septiembre de 2026}}</ref></small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 14 del estado de México|14]] || [[Claudia Leticia Garfias Alcantára]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 17 de Veracruz|17]] || [[Margarita Corro Mendoza]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 15 del estado de México|15]] || [[Josefina Anaya Martínez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Veracruz || [[Distrito electoral federal 18 de Veracruz|18]] || [[Jonathan Puertos Chimalhua]]<br><small>Suple a [[Benito Aguas Atlahua]]</small><ref>{{Cita web |url=https://www.jornada.com.mx/noticia/2024/12/09/estados/fallece-diputado-benito-aguas-tras-atentado-en-veracruz-6555 |título=Fallece diputado Benito Aguas tras atentado en Veracruz |títulotrad=Federal deputy Benito Aguas dies after attack in Veracruz |fechaacceso=2024-12-10 |apellido=Sánchez |nombre=Iván |fecha=2024-12-09 |publicación=[[La Jornada]] |urlarchivo=https://web.archive.org/web/20241210064319/https://www.jornada.com.mx/noticia/2024/12/09/estados/fallece-diputado-benito-aguas-tras-atentado-en-veracruz-6555 |fechaarchivo=2024-12-10 |urlmuerta=no}}</ref> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]]
+|-
+| México || [[Distrito electoral federal 16 del estado de México|16]] || [[Emilio Manzanilla Téllez]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]] || Veracruz || [[Distrito electoral federal 19 de Veracruz|19]] || [[Paola Tenorio Adame]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 17 del estado de México|17]] || [[Zaria Aguilera Claro]]<br /><small>Suple a [[Juan Hugo de la Rosa García]]</small> || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Yucatán || [[Distrito electoral federal 1 de Yucatán|1]] || [[Rocío Barrera Puc]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 18 del estado de México|18]] || [[Claudia Sánchez Juárez]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Yucatán || [[Distrito electoral federal 2 de Yucatán|2]] || [[Jorge Luis Sánchez Reyes]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 19 del estado de México|19]] || [[Gabriela Valdepeñas González]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Yucatán || [[Distrito electoral federal 3 de Yucatán|3]] || [[Óscar Brito Zapata]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 20 del estado de México|20]] || [[Montserrat Ruiz Páez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Yucatán || [[Distrito electoral federal 4 de Yucatán|4]] || [[Isabel Rodríguez Heredia]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| México || [[Distrito electoral federal 21 del estado de México|21]] || [[Iván Millán Contreras]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Yucatán || [[Distrito electoral federal 5 de Yucatán|5]] || [[Jazmín Villanueva Moo]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 22 del estado de México|22]] || [[Martha Moya Bastón]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Yucatán || [[Distrito electoral federal 6 de Yucatán|6]] || [[Jessica Saiden Quiroz]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 23 del estado de México|23]] || [[José Luis Hernández Pérez]]<br /><small>Suple a [[Luis Carballo Gutiérrez]]<ref>{{cita noticia| nombre = Veneranda | apellido = Mendoza | url = https://www.proceso.com.mx/nacional/estados/2024/6/28/por-deudor-alimentario-diputado-federal-electo-del-verde-pierde-constancia-de-mayoria-331903.html | título = Por deudor alimentario, diputado federal electo del Verde pierde constancia de mayoría | periódico = Proceso | fecha = 28 de junio de 2024 | fechaacceso = 30 de junio de 2024}}</ref></small> || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Zacatecas || [[Distrito electoral federal 1 de Zacatecas|1]] || [[Soledad Luévano Cantú]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 24 del estado de México|24]] || [[José Luis Durán Reveles]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Zacatecas || [[Distrito electoral federal 2 de Zacatecas|2]] || [[Julia Olguín Serna]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 25 del estado de México|25]] || [[Leide Avilés Domínguez]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]] || Zacatecas || [[Distrito electoral federal 3 de Zacatecas|3]] || [[Ulises Mejía Haro]] || [[Archivo:Morena logo (Mexico).svg|22px|centrado|link=Movimiento Regeneración Nacional]]
+|-
+| México || [[Distrito electoral federal 26 del estado de México|26]] || [[Luis Miranda Barrera]] || [[Archivo:PVE logo (Mexico).svg|22px|centrado|link=Partido Verde Ecologista de México]] || Zacatecas || [[Distrito electoral federal 4 de Zacatecas|4]] || [[Ana Luisa del Muro García]] || [[Archivo:PT logo (Mexico).svg|22px|centrado|link=Partido del Trabajo (México)]]
+|}
+
+=== Diputados por representación proporcional ===
+{| class="wikitable"
+|- style="background:#efefef;"
+! '''Circunscripción''' !! '''Diputado''' !! '''Partido''' !! '''Circunscripción''' !! '''Diputado''' !! '''Partido'''
+|-
+| Primera || [[César Damián Retes]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Ivonne Ortega Pacheco]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Primera || [[Paulina Rubio Fernández]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Francisco Farías Bailón]]|| [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Primera || [[Agustín Rodríguez Torres]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[María de Fátima García León]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Primera || [[Rocío González Alonso]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Rosa María Castro Salinas]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Francisco Pelayo Covarrubias]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Kenia Muñiz Cabrera]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Verónica Pérez Herrera]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Patricia Armendáriz]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Miguel Monraz Ibarra]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Luis Arturo Oliver Cen]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Eva María Vásquez Hernández]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Tercera || [[Zayra Linette Fernández Sarabia]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Arturo Yáñez Cuéllar]] || [[Archivo:PRI_logo_(Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Tercera || [[Humberto Coss y León Zúñiga]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Graciela Ortiz González]] || [[Archivo:PRI_logo_(Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Tercera || [[Herminia López Santiago]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Mario Zamora Gastélum]] || [[Archivo:PRI_logo_(Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Tercera || [[Aniceto Polanco Morales]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Paloma Domínguez Ugarte]]<br /><small>Suple a [[Sylvana Beltrones Sánchez]]</small> || [[Archivo:PRI_logo_(Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Tercera || [[Sonia Rincón Chanona]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Juan Moreno de Haro]]<br /><small>Suple a [[Héctor Melesio Cuén Ojeda]]</small> || [[Archivo:PRI_logo_(Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Tercera || [[Aciel Sibaja Mendoza]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Greycy Marian Durán Alarcón]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Tercera || [[Rocío Abreu Artiñano]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Amarante Gonzalo Gómez Alarcón]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Tercera || [[Venustiano Caamal Cocom]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Erika Santana González]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Tercera || [[Karen Yaiti Calcaneo Constantino]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Alejandra Chedraui Peralta]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Tercera || [[Enrique Vázquez Navarro]]<br /><small>Suple a [[Juan Carlos Natale López]]</small> ||[[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Mayra Espino Suárez]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Tercera || [[Luz María Rodríguez Pérez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Patricia Mercado]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Tercera || [[Eleazar Guerrero Pérez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Hugo Luna Vázquez]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Tercera || [[Bertha Osorio Ferral]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Primera || [[Claudia Salas Rodríguez]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Kenia López Rabadán]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Gustavo de Hoyos Walther]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Daniel Chimal García]]<br /><small>Suple a [[Jorge Romero Herrera]]</small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Patricia Flores Elizondo]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Liliana Ortiz Pérez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Alfredo Lozoya Santillán]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Miguel Ángel Guevara Rodríguez]]<br /><small>Suple a [[Rodrigo Miranda Berumen]]</small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Gloria Núñez Sánchez]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Genoveva Huerta Villegas]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Pablo Vázquez Ahued]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Adrián Martínez Terrazas]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Adasa Saray Vázquez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Mariana Jiménez Zamora|Mariana Guadalupe Jiménez Zamora]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Primera || [[Gilberto Daniel Castillo García]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Asael Hernández Cerón]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Primera || [[Marina Vitela Rodríguez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Xitlalic Ceja García]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Primera || [[Edith Carolina Anda González]]<br /><small>Suple a [[Hugo Eric Flores Cervantes]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Israel Betanzos Cortés]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Primera || [[Mayra Palomar González]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Nadia Navarro Acevedo]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Primera || [[Pedro Haces Barba]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Carlos Gutiérrez Mancilla]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Primera || [[Dora Alicia Moreno Méndez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Reginaldo Sandoval Flores]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]]
+|-
+| Primera || ''Vacante''<br /><small>Por licencia de [[Fernando Castro Trenti]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Magdalena Núñez Monreal]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]]
+|-
+| Primera || [[Nadia Yadira Sepúlveda García]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Felipe Miguel Delgado Carrillo]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Primera || [[Carlos Alfonso Candelaria López]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Nayeli Fernández Cruz]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Primera || [[Karina Martínez Montaño]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Ricardo Madrid Pérez]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Primera || [[Carlos Palacios Rodríguez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Celia Esther Fonseca Galicia]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Primera || [[Giselle Arellano Ávila]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Claudia Ruiz Massieu Salinas]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Primera || [[Armando Cabada Alvídrez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Cuarta || [[Juan Ignacio Zavala Gutiérrez]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Segunda || [[César Verástegui Ostos]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Amancay González Franco]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Segunda || [[Nancy Olguín Díaz]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Gibrán Ramírez Reyes]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Segunda || [[José Alfonso Rubalcava Jiménez]]<br /><small>Suple a [[Luis Enrique García López]]</small> || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Guadalupe Morales Rubio]]<br /><small>Suple a [[Ifigenia Martínez]]<ref>{{cita noticia| url = https://www.eluniversal.com.mx/nacion/muere-ifigenia-martinez-4-dias-despues-de-tomar-protesta-a-claudia-sheinbaum/ | título = Muere Ifigenia Martínez 4 días después de tomar protesta a Claudia Sheinbaum | periódico = El Universal | fecha = 5 de octubre de 2024 | fechaacceso = 5 de octubre de 2024}}</ref></small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Elizabeth Martínez Álvarez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Cuauhtémoc Blanco]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Alan Sahir Márquez Becerra]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Maiella Gómez Maldonado]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Blanca Leticia Gutiérrez Garza]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Arturo Olivares Cerda]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Víctor Pérez Díaz]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Julieta Vences Valencia]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Nubia Castillo Medina]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Jaime López Vela]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Marcelo Torres Cofiño]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Maribel Solache González]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Noemí Luna Ayala]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Daniel Asaf Manjarrez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[César Augusto Rendón García]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Cuarta || [[Eunice Abigail Mendoza Ramírez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Rubén Moreira Valdez]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Cuarta || [[Julio César Moreno Rivera]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Marcela Guerra Castillo]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Cuarta || [[Olga Sánchez Cordero]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Miguel Alonso Reyes]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Cuarta || [[Luis Morales Flores]]<br /><small>Suple a [[Sergio Mayer]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Luvianka Guadalupe Partida Chávez]]<br /><small>Suple a [[Verónica Martínez García]]</small> || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Cuarta || [[María Teresa Ealy Díaz]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Erubiel Alonso Que]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Cuarta || [[Carlos Castillo Pérez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Fuensanta Guerrero Esquivel]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Cuarta || [[Mónica Fernández César]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Olga Herrera Natividad]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Cuarta || [[Jesús Valdés Peña]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Ricardo Mejía Berdeja]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Cuarta || [[María Rosete Sánchez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Rosalía León Rosas]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Cuarta || [[Manuel Vázquez Arellano]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Segunda || [[Carlos Alberto Puente Salas]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Tania Palacios Kuri]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Leonor Noyola Cervantes]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[José Manuel Hinojosa Pérez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Omar Alejandro Acosta Ornelas]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Teresa Ginez Serrano]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Graciela Gaitán Díaz]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Germán Martínez Cázares]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Iraís Reyes de la Torre]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Quinta || [[Ana María Balderas Trejo]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Miguel Ángel Sánchez Rivera]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Quinta || [[Armando Tejeda Cid]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Paola Longoria]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Quinta || [[Julia Jiménez Angulo]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]
+|-
+| Segunda || [[Eduardo Gaona Domínguez]]<br /><small>Suple a [[Raúl Lozano Caballero]]</small> || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Quinta || [[Samuel Palma César]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[Anayeli Muñoz Moreno]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Quinta || [[Leticia Barrera Maldonado]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[Ricardo Monreal Ávila]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Hugo Eduardo Gutiérrez Arroyo]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[Antares Vázquez Alatorre]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Abigail Arredondo Ramos]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[Arturo Ávila Anaya]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Emilio Suárez Licona]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[Petra Romero Gómez]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Ivonne Ruiz Moreno]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[J. Jesús Jiménez]]<br /><small>Suple a [[Napoleón Gómez Urrutia]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Ofelia Socorro Jasso Nieto]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]]
+|-
+| Segunda || [[Amalia López de la Cruz]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[María Isidra de la Luz Rivas]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]]
+|-
+| Segunda || [[José Narro Céspedes]]<br /><small>Suple a [[Jorge Mendoza Sánchez]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Javier Vázquez Calixto]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]]
+|-
+| Segunda || [[Olga Leticia Chávez Rojas]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Gabriela Benavides Cobos]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Segunda || [[Gabino Morales Mendoza]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Eruviel Ávila Villegas]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Segunda || [[Magda Erika Salgado Ponce]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Liliana Carbajal Méndez]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Segunda || [[Adrián Osegura Kernion]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Héctor Pedroza Jiménez]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]]
+|-
+| Tercera || [[Julen Rementería del Puerto]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quinta || [[Gildardo Pérez Gabino]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Tercera || [[Claudia Quiñones Garrido]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quinta || [[Laura Ballesteros Mancilla]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Tercera || [[Elías Lixa Abimerhi]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quinta || [[Alfonso Vidales Vargas Ochoa]]<br /><small>Suple a [[Juan Ignacio Samperio Montaño]]</small> || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Tercera || [[Abril Ferreyro Rosado]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quinta || [[Laura Hernández García]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Tercera || [[Ernesto Sánchez Rodríguez]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quinta || [[Juan Armando Ruiz Hernández]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]]
+|-
+| Tercera || [[María del Rosario Guzmán Avilés]] || [[Archivo:PAN logo (Mexico) 2025.svg|centro|26x26px]]|| Quinta || [[Catalina Díaz Vilchis]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Lorena Piñón Rivera]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Quinta || [[Fernando Mendoza Arce]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Christian Castro Bello]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Quinta || [[Damaris Silva Santiago]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Ariana Rejón Lara]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Quinta || [[Alfonso Ramírez Cuéllar]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Emilio Lara Calderón]] || [[Archivo:PRI Party (Mexico).svg|centrado|22px|link=Partido Revolucionario Institucional]] || Quinta || [[Diana Isela López Orozco]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Francisco Amadeo Espinosa Ramos]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Quinta || [[Víctor Hugo Lobo Román]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Maribel Martínez Ruiz]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Quinta || [[Roselia Suárez Montes de Oca]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Pedro Vázquez González]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Quinta || [[Manuel Espino Barrientos]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Aracely Cruz Jiménez]] || [[Archivo:PT logo (Mexico).svg|centrado|22px|link=Partido del Trabajo (México)]] || Quinta || [[Mónica Miriam Granillo Velazco]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Julio Scherer Pareyón]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Alejandro Peña Villa]]<br /><small>Suple a [[Francisco Javier Cabiedes Uranga]]</small> || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Karina Alejandra Trujillo Trujillo]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Mariana Benítez Tiburcio]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Javier Herrera Borunda]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Vidal Llerenas Morales]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Santy Montemayor Castillo]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]] || Quinta || [[Rosalinda Savala Díaz]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Alejandro Avilés Álvarez]] || [[Archivo:Logo_Partido_Verde_(México).svg|centrado|22px|link=Partido Verde Ecologista de México]] || Quinta || [[Sergio Gutiérrez Luna]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|-
+| Tercera || [[Sergio Gil Rullán]] || [[Archivo:Logo_Partido_Movimiento_Ciudadano_(México).svg|centrado|22px|link=Movimiento Ciudadano (partido político)]] || Quinta || [[Rufina Benítez Estrada]] || [[Archivo:Morena_logo_(Mexico).svg|centrado|22px|link=Movimiento Regeneración Nacional]]
+|}
+
+=== Mesa directiva ===
+==== 2026-27 ====
+{| class="wikitable"
+! Fotografía
+! Diputado
+! Cargo
+! Partido
+! Estado
+|-
+| align = "center" | [[Archivo:Raúl Bolaños-Cacho Cué.jpg|100x100px]]
+| [[Raúl Bolaños Cacho Cué|Rául<br>'''Bolaños Cacho Cué''']]
+| [[Presidente de la Cámara de Diputados (México)|Presidente]]
+| [[Archivo:Logo_Partido_Verde_(México).svg|20x20px]] [[Partido Verde Ecologista de México]]
+| {{Bandera2|Oaxaca}}<br><small>[[Distrito electoral federal 8 de Oaxaca|Distrito 8]]</small>
+|-
+| align = "center" | [[Archivo:Potrait_of_Sergio_Gutiérrez_Luna.jpg|100x100px]]
+| [[Sergio Gutiérrez Luna|Sergio Carlos<br>'''Gutiérrez Luna''']]
+| Primer Vicepresidente
+| [[Archivo:Morena logo (alt).svg|20x20px]] [[Movimiento Regeneración Nacional]]
+| {{Bandera2|Veracruz}}<br><small>Representación proporcional</small>
+|-
+| align = "center" | [[Archivo:Blue - replace this image female.svg|90x90px]]
+| [[Annia Gómez Cárdenas|Annia Sarahí<br>'''Gómez Cárdenas''']]
+| Segunda Vicepresidenta
+| [[Archivo:PAN logo (Mexico) 2025.svg|20x20px]] [[Partido Acción Nacional]]
+| {{Bandera2|Nuevo León}}<br><small>[[Distrito electoral federal 6 de Nuevo León|Distrito 6]]</small>
+|-
+| align = "center" | [[Archivo:Light green - replace this image female.svg|90x90px]]
+| [[Nayeli Fernández Cruz|Nayeli Arlen<br>'''Fernández Cruz''']]
+| Tercera Vicepresidenta
+| [[Archivo:Logo_Partido_Verde_(México).svg|20x20px]] [[Partido Verde Ecologista de México]]
+| {{Bandera2|Ciudad de México}}<br><small>Representación proporcional</small>
+|-
+|}
+
+=== Coordinadores parlamentarios ===
+* [[Archivo:PAN logo (Mexico) 2025.svg|20x20px]] '''Partido Acción Nacional:''' [[Elías Lixa Abimerhi]]
+* [[Archivo:PRI logo (Mexico).svg|22px]] '''Partido Revolucionario Institucional:''' [[Rubén Moreira|Rubén Moreira Valdez]]<ref>{{cita noticia| nombre = Ximena | apellido = Ochoa | url = https://www.infobae.com/mexico/2024/08/12/pri-reelige-a-ruben-moreira-como-coordinador-en-la-camara-de-diputados/ | título = PRI reelige a Rubén Moreira como coordinador en la Cámara de Diputados | periódico = Infobae | fecha = 12 de agosto de 2024 | fechaacceso = 28 de agosto de 2024}}</ref>
+* [[Archivo:PT_Party_(Mexico).svg|vínculo=Archivo:PT_Party_(México).svg|22x22px]] '''Partido del Trabajo:''' [[Reginaldo Sandoval Flores]]<ref name=CoordPT/>
+* [[Archivo:PVE logo (Mexico).svg|22px]] '''Partido Verde Ecologista de México:''' [[Carlos Alberto Puente Salas]]<ref name=CoordPVEM/>
+* [[Archivo:MC Party (Mexico).svg|22px]] '''Movimiento Ciudadano:''' [[Ivonne Ortega Pacheco]]<ref name=CoordMC/>
+* [[Archivo:Morena logo (Mexico).svg|22px]] '''Movimiento Regeneración Nacional:''' [[Ricardo Monreal Ávila]]<ref>{{cita noticia| nombre = Ximena | apellido = Ochoa | url = https://www.excelsior.com.mx/nacional/morenistas-ricardo-monreal-coordinador-66-legislatura/1670555 | título = Morenistas eligen a Monreal como coordinador en la Cámara de Diputados | periódico = Excélsior | fecha = 28 de agosto de 2024 | fechaacceso = 28 de agosto de 2024}}</ref>
+
+== Véase también ==
+* [[Congresos y Legislaturas del Congreso de la Unión de México]]
+* [[Senado de México]]
+* [[Cámara de Diputados (México)]]
+* [[Política de México]]
+
+== Referencias ==
+{{listaref|2}}
+
+== Enlaces externos ==
+* [https://www.diputados.gob.mx/ Página oficial de la Cámara de Diputados]
+* [http://www.senado.gob.mx Página oficial del Senado]
+
+{{control de autoridades}}
+
+[[Categoría:Legislaturas de México|66]]
+[[Categoría:México en 2024]]
+[[Categoría:Elecciones de México de 2024]]

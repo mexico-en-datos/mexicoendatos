@@ -1,0 +1,47 @@
+{{Ficha de persona
+| imagen = Graciela Márquez Colín (cropped).png
+| pie de imagen = Márquez Colín en 2017
+| escudo = INEGI.png
+| cargo = [[Instituto Nacional de Estadística y Geografía|Presidenta del Instituto Nacional de Estadística y Geografía]]
+| inicio = {{fecha|1|1|2022}}
+| final = 
+| nominada = [[Andrés Manuel López Obrador]]
+| designada = [[Senado de México|Senado de la República]]
+| predecesor = [[Julio Santaella Castell]]
+| sucesor = 
+| escudo2 = INEGI.png
+| cargo2 = [[Instituto Nacional de Estadística y Geografía|Vicepresidenta del Instituto Nacional de Estadística y Geografía]]
+| subtítulo2 = Encargada del Subsistema Nacional de Información Económica
+| nominada2 = [[Andrés Manuel López Obrador]]
+| designada2 = [[Senado de México|Senado de la República]]
+| predecesor2 = [[Enrique Jesús Ordaz López]]
+| sucesor2 = [[Mauricio Márquez Corona]]
+| inicio2 = {{fecha|1|1|2021}}
+| final2 = {{fecha|31|12|2021}}
+| cargo3 = [[Secretaría de Economía (México)|Secretaria de Economía]]
+| escudo3 = Seal of the Government of Mexico.svg
+| inicio3 = {{fecha|1|12|2018}}
+| final3 = {{fecha|31|12|2020}}
+| presidente3 = [[Andrés Manuel López Obrador]]
+| predecesor3 = [[Ildefonso Guajardo Villarreal]]
+| sucesora3 = [[Tatiana Clouthier|Tatiana Clouthier Carrillo]]
+| fecha de nacimiento = {{fecha|10|2|1963|edad}}
+| lugar de nacimiento = [[Ciudad de México]] ([[México]])
+| cónyuge = [[Gerardo Esquivel (economista)|Gerardo Esquivel]]
+| educación = [[Economía]]
+| alma mater = [[Archivo:Escudo-UNAM-escalable.svg|15px]] [[Universidad Nacional Autónoma de México]] <small>([[Lic. en economía]]; 1982-1986)</small>
+| posgrado = [[Archivo:Logo neutral de El Colegio de México.svg|15px]] [[El Colegio de México]] <small>([[Maestría en Economía]]; 1989-1991)</small><br>[[Archivo:Harvard_University_shield.png|15px]] [[Universidad de Harvard]] <small>([[Doctorado]] en [[Historia económica|Historia Económica]]; 2000-2002)</small>
+| título tesis = The Political Economy of Protectionism in Mexico, 1872-1910
+| url tesis = https://www.jstor.org/stable/3132450
+| año tesis = 2002
+| ocupación = [[Funcionaria]], [[economista]] y [[académica]]
+| empleador  = [[El Colegio de México]]
+| años activa = Desde 1998
+}}
+
+'''Graciela Márquez Colín''' ([[Ciudad de México]], 10 de febrero de 1963)<ref>{{Cita web|url=https://presidente.gob.mx/graciela-marquez-colin/|título=Graciela Márquez Colín}}</ref> es una [[Funcionario|funcionaria]], [[economista]], [[Historiador|historiadora]] y [[Académico|académica]] [[México|mexicana]]. Desde el 1 de enero de 2022 es la presidenta del [[Instituto Nacional de Estadística y Geografía]] (INEGI), propuesta por el presidente [[Andrés Manuel López Obrador]].
+
+Hasta antes de 2018, jamás había ostentado ningún cargo público; como académica es especialista en [[historia económica]] y se desempeñó como profesora-investigadora de [[El Colegio de México]] entre 1998 y 2018. 
+
+Se desempeñó como [[Secretaría de Economía (México)|secretaria de Economía]] entre 2018 y 2020 durante la presidencia de López Obrador;<ref name="uno">{{cita noticia|apellidos1=Redacción|título=Sale Graciela Márquez de la Secretaría de Economía; entrará Tatiana Clouthier en su lugar|url=https://www.elfinanciero.com.mx/economia/sale-graciela-marquez-de-la-secretaria-de-economia-entrara-tatiana-clouthier-en-su-lugar|fechaacceso=31 de diciembre de 2020|obra=El Financiero|fecha=7 de diciembre de 2020}}</ref> dejó el cargo para ser vicepresidenta en el INEGI entre enero y diciembre de 2021,<ref>{{cita noticia|apellidos1=Senado de la República|título=Ratifica el Senado a Graciela Márquez Colín como integrante de la Junta de Gobierno del INEGI|url=http://comunicacion.senado.gob.mx/index.php/informacion/boletines/49932-ratifica-el-senado-a-graciela-marquez-colin-como-integrante-de-la-junta-de-gobierno-del-inegi.html|fechaacceso=25 de diciembre de 2020|fecha=9 de diciembre de 2020}}</ref> hasta que finalmente fue propuesta para la presidencia del mismo y ratificada por el [[Senado de México|Senado de la República]] en enero de 2022.
+

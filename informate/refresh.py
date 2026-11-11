@@ -8,7 +8,7 @@ import requests
 
 import py7zr
 
-from . import cabinet, districts, geo, judiciary, mayors, president, scjn, sil, wikipedia
+from . import autonomous, cabinet, congress, districts, geo, judiciary, mayors, president, scjn, sil, wikipedia
 from .dataset import (
     build_dataset,
     cabinet_records,
@@ -129,6 +129,7 @@ def refresh_politicians(
     catalog_path: Path | None = None,
     mayors_max_age_hours: float = 24,
     mayors_pause_seconds: float = 6.0,
+    wiki_pause_seconds: float = 1.0,
 ) -> dict:
     """Fetch senators and deputies (SIL), governors and municipal presidents (Wikipedia),
     and write the dataset. Municipal presidents need `catalog_path`, the map file, to be
@@ -138,27 +139,40 @@ def refresh_politicians(
     the existing file stays as it was.
     """
     retrieved_at = now()
+
+    def page(title: str = wikipedia.PAGE_TITLE) -> tuple[str, dict]:
+        time.sleep(wiki_pause_seconds)  # one page at a time, with a breath between: Wikipedia throttles bursts
+        return wikipedia.fetch_page(session, title)
+
     senator_rows = sil.parse_roster(sil.fetch_roster(session))
     deputy_rows = sil.parse_roster(sil.fetch_roster(session, sil.DEPUTIES_ROSTER_URL))
-    wikitext, revision = wikipedia.fetch_page(session)
+    wikitext, revision = page()
     governors = governor_records(wikipedia.parse_governors(wikitext), revision, retrieved_at)
-    court_text, court_revision = wikipedia.fetch_page(session, scjn.PAGE_TITLE)
+    court_text, court_revision = page(scjn.PAGE_TITLE)
     justices = justice_records(scjn.parse_justices(court_text), court_revision, retrieved_at)
-    electoral_text, electoral_revision = wikipedia.fetch_page(session, judiciary.TEPJF_PAGE_TITLE)
+    electoral_text, electoral_revision = page(judiciary.TEPJF_PAGE_TITLE)
     electoral_seats = judiciary.parse_electoral_tribunal(electoral_text)
-    discipline_text, discipline_revision = wikipedia.fetch_page(session, judiciary.TDJ_PAGE_TITLE)
+    discipline_text, discipline_revision = page(judiciary.TDJ_PAGE_TITLE)
     magistrates = magistrate_records(electoral_seats, "tepjf", electoral_revision, retrieved_at) + magistrate_records(
         judiciary.parse_discipline_tribunal(discipline_text), "tdj", discipline_revision, retrieved_at
     )
     judicial_notes = [f"Tribunal Electoral: {n} de las {judiciary.TEPJF_SEATS} magistraturas de la Sala Superior están vacantes según la fuente." for n in [sum(1 for seat in electoral_seats if seat["vacant"])] if n]
-    office_text, office_revision = wikipedia.fetch_page(session, president.OFFICE_TITLE)
+    office_text, office_revision = page(president.OFFICE_TITLE)
     office = president.parse_office(office_text)
-    person_text, person_revision = wikipedia.fetch_page(session, office["article"])
+    person_text, person_revision = page(office["article"])
     head_of_state = president_records(
         office, president.parse_party(person_text), {"office": office_revision, "person": person_revision}, retrieved_at
     )
-    cabinet_text, cabinet_revision = wikipedia.fetch_page(session, cabinet.PAGE_TITLE)
+    cabinet_text, cabinet_revision = page(cabinet.PAGE_TITLE)
     secretaries, cabinet_notes = cabinet_records(cabinet.parse_cabinet(cabinet_text), cabinet_revision, retrieved_at)
+    annex_text, annex_revision = page(congress.page_title(sil.LEGISLATURE))
+    leadership = congress.parse_leadership(annex_text)
+    heads = []
+    for spec in autonomous.BODIES:
+        body_text, body_revision = page(spec["page"])
+        head = autonomous.parse_head(body_text, spec)
+        person_text, person_revision = page(head["article"])
+        heads.append({"spec": spec, "head": head, "tenure": autonomous.parse_tenure(person_text, spec), "body_revision": body_revision, "person_revision": person_revision})
 
     profiles = _legislator_profiles(session, senator_rows + deputy_rows, cache_dir, pause_seconds, max_profiles, log)
     senators = senator_records(senator_rows, retrieved_at, profiles=profiles)
@@ -181,6 +195,7 @@ def refresh_politicians(
         president=head_of_state, president_revisions={"office": office_revision, "person": person_revision},
         cabinet=secretaries, cabinet_revision=cabinet_revision,
         magistrates=magistrates, judiciary_revisions={"tepjf": electoral_revision, "tdj": discipline_revision},
+        leadership=leadership, leadership_revision=annex_revision, autonomous_heads=heads,
     )
     write_json(Path(out_path), dataset)
     return dataset

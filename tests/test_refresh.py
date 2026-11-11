@@ -9,7 +9,7 @@ from pathlib import Path
 import py7zr
 import pytest
 
-from informate import cabinet, districts, geo, president, scjn, sil, wikipedia, judiciary
+from informate import cabinet, congress, districts, geo, president, scjn, sil, wikipedia, judiciary
 from informate.refresh import build_map, refresh_politicians
 
 FIXTURES = Path(__file__).parent / "fixtures"
@@ -20,6 +20,9 @@ class Response:
     def __init__(self, content=b"", payload=None):
         self.content = content
         self._payload = payload
+
+    status_code = 200
+    headers = {}
 
     def raise_for_status(self):
         pass
@@ -78,8 +81,24 @@ def sources():
                                       title=judiciary.TEPJF_PAGE_TITLE, revid=175170851, timestamp="2026-09-03T05:54:46Z")
     tdj_payload = wikipedia_payload((FIXTURES / "wiki_tdj_rev175170915.wikitext").read_text(encoding="utf-8"),
                                     title=judiciary.TDJ_PAGE_TITLE, revid=175170915, timestamp="2026-09-03T06:00:38Z")
+    annex_payload = wikipedia_payload((FIXTURES / "wiki_lxvi_legislatura_rev176247279.wikitext").read_text(encoding="utf-8"),
+                                      title=congress.page_title(66), revid=176247279, timestamp="2026-11-11T05:11:41Z")
+    autonomous_pages = {
+        "Instituto Nacional Electoral": ("wiki_ine_rev176072137_inicio.wikitext", 176072137, "2026-10-30T17:43:57Z"),
+        "Blanca Cruz García": ("wiki_blanca_cruz_rev176101919_inicio.wikitext", 176101919, "2026-11-01T20:39:31Z"),
+        "Banco de México": ("wiki_banxico_rev176248146_inicio.wikitext", 176248146, "2026-11-11T07:37:52Z"),
+        "Victoria Rodríguez Ceja": ("wiki_victoria_rodriguez_rev176059627_inicio.wikitext", 176059627, "2026-10-29T19:30:08Z"),
+        "Comisión Nacional de los Derechos Humanos (México)": ("wiki_cndh_rev176178020_inicio.wikitext", 176178020, "2026-11-06T16:40:02Z"),
+        "Rosario Piedra Ibarra": ("wiki_rosario_piedra_rev175186881_inicio.wikitext", 175186881, "2026-09-04T04:40:31Z"),
+        "Instituto Nacional de Estadística y Geografía": ("wiki_inegi_rev175890478_inicio.wikitext", 175890478, "2026-10-18T20:37:34Z"),
+        "Graciela Márquez Colín": ("wiki_graciela_marquez_rev176107791_inicio.wikitext", 176107791, "2026-11-02T04:35:04Z"),
+        "Fiscalía General de la República (México)": ("wiki_fgr_rev175169509_inicio.wikitext", 175169509, "2026-09-03T03:51:45Z"),
+        "Ernestina Godoy Ramos": ("wiki_ernestina_godoy_rev176059444_inicio.wikitext", 176059444, "2026-10-29T19:24:43Z"),
+    }
     pages = {scjn.PAGE_TITLE: scjn_payload, president.OFFICE_TITLE: office_payload, "Claudia Sheinbaum": person_payload, cabinet.PAGE_TITLE: cabinet_payload,
-             judiciary.TEPJF_PAGE_TITLE: tepjf_payload, judiciary.TDJ_PAGE_TITLE: tdj_payload}
+             judiciary.TEPJF_PAGE_TITLE: tepjf_payload, judiciary.TDJ_PAGE_TITLE: tdj_payload, congress.page_title(66): annex_payload}
+    for title, (name, revid, timestamp) in autonomous_pages.items():
+        pages[title] = wikipedia_payload((FIXTURES / name).read_text(encoding="utf-8"), title=title, revid=revid, timestamp=timestamp)
     return Session({
         sil.ROSTER_URL: Response(content=roster),
         sil.DEPUTIES_ROSTER_URL: Response(content=deputies),
@@ -107,10 +126,14 @@ def test_wikipedia_fetch_fails_clearly_if_the_page_is_gone():
 
 def test_refresh_writes_governors_senators_and_deputies_with_the_time_of_retrieval(sources, tmp_path):
     out = tmp_path / "politicians.json"
-    dataset = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=tmp_path / "cache", pause_seconds=0)
+    dataset = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=tmp_path / "cache", pause_seconds=0, wiki_pause_seconds=0)
     saved = json.loads(out.read_text(encoding="utf-8"))
     assert saved == dataset
-    assert len(saved["people"]) == 32 + 128 + 6 + 9 + 6 + 5 + 1 + 22  # governors, senators, sample deputies, justices, electoral and discipline magistrates, president, cabinet
+    assert len(saved["people"]) == 32 + 128 + 6 + 9 + 6 + 5 + 1 + 22 + 5  # governors, senators, sample deputies, justices, electoral and discipline magistrates, president, cabinet, heads of autonomous bodies
+    assert saved["congress"]["senator"]["period"] == "2026-27" and saved["congress"]["senator"]["board"][0]["matched"]
+    assert [b["short"] for b in saved["autonomous"]] == ["INEGI", "Banxico", "INE", "FGR", "CNDH"]
+    assert saved["sources"]["wikipedia_congress"]["url"].endswith("oldid=176247279")
+    assert len(saved["sources"]["wikipedia_autonomous"]["pages"]) == 5
     assert sum(1 for p in saved["people"] if p["office"] == "magistrate_tepjf") == 6  # seven seats, one vacant
     assert saved["sources"]["wikipedia_tdj"]["url"].endswith("oldid=175170915")
     assert "electoral_term" in saved["rules"] and "discipline_term" in saved["rules"]
@@ -122,7 +145,7 @@ def test_a_failed_refresh_leaves_the_previous_file_untouched(tmp_path):
     out = tmp_path / "politicians.json"
     out.write_text('{"people": ["previous"]}', encoding="utf-8")
     with pytest.raises(ConnectionError):
-        refresh_politicians(out, DownSession(), now=lambda: NOW, cache_dir=tmp_path / "cache", pause_seconds=0)
+        refresh_politicians(out, DownSession(), now=lambda: NOW, cache_dir=tmp_path / "cache", pause_seconds=0, wiki_pause_seconds=0)
     assert out.read_text(encoding="utf-8") == '{"people": ["previous"]}'
     assert [p.name for p in tmp_path.iterdir() if p.is_file()] == [out.name]
 
@@ -176,14 +199,14 @@ def profile_requests(session):
 
 def test_refresh_reads_each_legislators_profile_once_and_remembers_it(sources, tmp_path):
     out, cache = tmp_path / "politicians.json", tmp_path / "cache"
-    first = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=500)
+    first = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=500)
     assert len(profile_requests(sources)) == 128 + 6  # every senator and deputy
     abramo = next(p for p in first["people"] if p["name"] == "Yerico Abramo Masso")
     assert abramo["district_number"] == 4
     assert abramo["contact"]["email"] == "yerico.abramo@diputados.gob.mx"
 
     sources.requested.clear()
-    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=500)
+    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=500)
     assert profile_requests(sources) == []
 
 
@@ -195,26 +218,26 @@ def test_a_profile_that_cannot_be_read_costs_only_that_district_and_is_retried_n
     working_profile = sources.routes[sil.PROFILE_URL]
     sources.routes[sil.PROFILE_URL] = FailingProfile()
     out, cache = tmp_path / "politicians.json", tmp_path / "cache"
-    dataset = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=500)
-    assert len(dataset["people"]) == 32 + 128 + 6 + 9 + 6 + 5 + 1 + 22
+    dataset = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=500)
+    assert len(dataset["people"]) == 32 + 128 + 6 + 9 + 6 + 5 + 1 + 22 + 5
     assert all(p["district_number"] is None for p in dataset["people"] if p["office"] == "deputy")
     assert any("fichas" in w and "134" in w for w in dataset["warnings"])
     assert len(profile_requests(sources)) == 3  # three refusals in a row: stop asking, don't hammer
 
     sources.routes[sil.PROFILE_URL] = working_profile
     sources.requested.clear()
-    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=500)
+    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=500)
     assert len(profile_requests(sources)) == 134
 
 
 def test_refresh_reads_only_a_small_batch_of_profiles_per_run(sources, tmp_path):
     out, cache = tmp_path / "politicians.json", tmp_path / "cache"
-    first = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=2)
+    first = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=2)
     assert len(profile_requests(sources)) == 2
     assert any("fichas" in w and "132" in w for w in first["warnings"])  # 132 still to read
 
     sources.requested.clear()
-    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=2)
+    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=2)
     assert len(profile_requests(sources)) == 2  # the next two
 
 
@@ -222,11 +245,11 @@ def test_a_refusal_page_served_as_a_profile_is_not_remembered_as_an_answer(sourc
     working_profile = sources.routes[sil.PROFILE_URL]
     sources.routes[sil.PROFILE_URL] = Response(content=b"<html>Error. This page can't be displayed.</html>")
     out, cache = tmp_path / "politicians.json", tmp_path / "cache"
-    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=500)
+    refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=500)
 
     sources.routes[sil.PROFILE_URL] = working_profile
     sources.requested.clear()
-    dataset = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, max_profiles=500)
+    dataset = refresh_politicians(out, sources, now=lambda: NOW, cache_dir=cache, pause_seconds=0, wiki_pause_seconds=0, max_profiles=500)
     assert len(profile_requests(sources)) == 134
     assert next(p for p in dataset["people"] if p["name"] == "Yerico Abramo Masso")["district_number"] == 4
 
@@ -264,7 +287,7 @@ def mayor_requests(session):
 def test_refresh_adds_municipal_presidents_when_given_the_map(with_mayors, tmp_path):
     sources, catalog = with_mayors
     dataset = refresh_politicians(tmp_path / "p.json", sources, now=lambda: NOW, cache_dir=tmp_path / "cache",
-                                  pause_seconds=0, catalog_path=catalog)
+                                  pause_seconds=0, wiki_pause_seconds=0, catalog_path=catalog)
     presidents = [p for p in dataset["people"] if p["office"] == "mayor"]
     assert len(presidents) == 11
     assert presidents[0]["municipality_code"] == "01001"
@@ -273,7 +296,7 @@ def test_refresh_adds_municipal_presidents_when_given_the_map(with_mayors, tmp_p
 
 def test_municipal_presidents_are_not_fetched_again_within_a_day(with_mayors, tmp_path):
     sources, catalog = with_mayors
-    args = dict(cache_dir=tmp_path / "cache", pause_seconds=0, catalog_path=catalog)
+    args = dict(cache_dir=tmp_path / "cache", pause_seconds=0, wiki_pause_seconds=0, catalog_path=catalog)
     refresh_politicians(tmp_path / "p.json", sources, now=lambda: NOW, **args)
     sources.asked.clear()
     later = refresh_politicians(tmp_path / "p.json", sources, now=lambda: "2026-11-07T18:00:00Z", **args)
@@ -285,7 +308,7 @@ def test_municipal_presidents_are_not_fetched_again_within_a_day(with_mayors, tm
 
 def test_municipal_presidents_are_fetched_again_after_a_day(with_mayors, tmp_path):
     sources, catalog = with_mayors
-    args = dict(cache_dir=tmp_path / "cache", pause_seconds=0, catalog_path=catalog)
+    args = dict(cache_dir=tmp_path / "cache", pause_seconds=0, wiki_pause_seconds=0, catalog_path=catalog)
     refresh_politicians(tmp_path / "p.json", sources, now=lambda: NOW, **args)
     sources.asked.clear()
     refresh_politicians(tmp_path / "p.json", sources, now=lambda: "2026-11-07T19:30:00Z", **args)
@@ -293,7 +316,7 @@ def test_municipal_presidents_are_fetched_again_after_a_day(with_mayors, tmp_pat
 
 
 def test_without_the_map_there_are_no_municipal_presidents_and_no_extra_requests(sources, tmp_path):
-    dataset = refresh_politicians(tmp_path / "p.json", sources, now=lambda: NOW, cache_dir=tmp_path / "cache", pause_seconds=0)
+    dataset = refresh_politicians(tmp_path / "p.json", sources, now=lambda: NOW, cache_dir=tmp_path / "cache", pause_seconds=0, wiki_pause_seconds=0)
     assert not [p for p in dataset["people"] if p["office"] == "mayor"]
 
 
@@ -326,3 +349,16 @@ def test_build_map_also_builds_the_districts_from_ines_archive(tmp_path, monkeyp
     session.requested.clear()
     build_map(tmp_path / "out", tmp_path / "cache", session, now=lambda: "2026-12-01T08:00:00Z", log=lambda _: None)
     assert districts.ARCHIVE_URL not in session.requested  # the archive is kept, like the INEGI downloads
+
+
+class Throttled(Response):
+    status_code = 429
+    headers = {"Retry-After": "3"}
+
+
+def test_a_throttled_wikipedia_request_waits_what_the_server_asks_and_tries_again():
+    answers = [Throttled(), Response(payload=wikipedia_payload("texto"))]
+    session = Session({wikipedia.API_URL: lambda params: answers.pop(0)})
+    waited = []
+    wikitext, revision = wikipedia.fetch_page(session, sleep=waited.append)
+    assert wikitext == "texto" and waited == [3.0] and len(session.requested) == 2

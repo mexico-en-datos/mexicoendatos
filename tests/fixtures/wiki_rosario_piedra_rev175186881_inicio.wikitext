@@ -1,0 +1,25 @@
+{{Ficha de persona
+| nombre = Rosario Piedra Ibarra
+| imagen = Rosario-piedra-ibarra.jpg
+| tamaño = 
+| escudo = Logo de la CNDH (sin texto).svg
+| cargo = [[Comisión Nacional de los Derechos Humanos (México)|Presidenta de la Comisión Nacional de los Derechos Humanos]]
+| inicio = {{Fecha|16|11|2019}}
+| final = 
+| nominado = [[Andrés Manuel López Obrador]]
+| designado = [[Senado de México|Senado de la República]]
+| predecesor = Luis Raúl González Pérez
+| sucesor = 
+| nombre completo = Ma del Rosario Piedra Ibarra
+| fecha de nacimiento = {{Fecha|14|7|1951|edad}}
+| lugar de nacimiento = {{bandera|MEX}} [[Monterrey]], [[Nuevo León]], [[México]]
+| padres = Jesús Piedra Rosales<br>[[Rosario Ibarra de Piedra]]
+| educación = Maestría en Psicopedagogía<br>Licenciatura en Psicología
+| almamáter = [[File:logo de la UANL.svg|20px]] [[Universidad Autónoma de Nuevo León]]
+| posgrado = [[Escuela de Ciencias de la Educación]]
+| ocupación = [[funcionario|funcionaria]]
+| partido = [[File:Morena logo (alt).svg|20px]] [[Movimiento Regeneración Nacional]] <small>(Desde 2015 )</small>
+}}
+
+'''María del Rosario Piedra Ibarra''' ([[Monterrey]], [[Nuevo León]]; 14 de julio de 1951) es una [[Psicólogo|psicóloga]], [[Activismo|activista]], [[Político|expolítica]] y [[Funcionario|funcionaria]] [[México|mexicana]], miembro del [[Comité ¡Eureka!]]. Es hija de [[Rosario Ibarra de Piedra]]. Fue electa presidenta de la [[Comisión Nacional de los Derechos Humanos (México)|Comisión Nacional de los Derechos Humanos]] (CNDH) el 16 de noviembre de 2019. Fue reelegida para el periodo 2024-2029 al frente de la CNDH.<ref>{{Cita noticia|apellidos=Zerega|nombre=Georgina|título=El Senado reelige a Rosario Piedra Ibarra al frente de la CNDH pese a todas las críticas|url=https://elpais.com/mexico/2024-11-13/el-senado-reelige-a-rosario-piedra-ibarra-al-frente-de-la-cndh-pese-a-todas-las-criticas.html|fecha=13 de noviembre de 2024|fechaacceso=14 de noviembre de 2025|periódico=El País}}</ref><ref>{{Cita noticia|apellidos=Zerega|nombre=Georgina|título=Rosario Piedra pasa a la terna para dirigir la CNDH pese a estar entre las candidatas peor evaluadas|url=https://elpais.com/mexico/2024-11-06/rosario-piedra-pasa-a-la-terna-para-dirigir-la-cndh-pese-a-estar-entre-las-candidatas-peor-evaluadas.html|fecha=6 de noviembre de 2024|fechaacceso=14 de noviembre de 2024|periódico=El País}}</ref> 
+

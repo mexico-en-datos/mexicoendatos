@@ -4,6 +4,7 @@ Wikipedia is a secondary source. Every record we derive from it is cited to the
 exact revision that was read, so a reader can see what the page said that day.
 """
 import re
+import time
 from urllib.parse import quote
 
 from .text import spanish_date_to_iso
@@ -74,8 +75,12 @@ def parse_governors(wikitext: str) -> list[dict]:
     return governors
 
 
-def fetch_page(session, title: str = PAGE_TITLE) -> tuple[str, dict]:
-    """Current wikitext of a page, plus the id and timestamp of that revision."""
+def fetch_page(session, title: str = PAGE_TITLE, retries: int = 2, sleep=time.sleep) -> tuple[str, dict]:
+    """Current wikitext of a page, plus the id and timestamp of that revision.
+
+    Wikipedia answers 429 when asked too quickly; then this waits what the server says
+    (Retry-After, at most a minute; 15 s if it says nothing) and asks again, `retries` times.
+    """
     params = {
         "action": "query",
         "prop": "revisions",
@@ -85,7 +90,12 @@ def fetch_page(session, title: str = PAGE_TITLE) -> tuple[str, dict]:
         "format": "json",
         "formatversion": "2",
     }
-    response = session.get(API_URL, params=params, timeout=60)
+    for attempt in range(retries + 1):
+        response = session.get(API_URL, params=params, timeout=60)
+        if getattr(response, "status_code", 200) != 429 or attempt == retries:
+            break
+        after = (getattr(response, "headers", None) or {}).get("Retry-After", "")
+        sleep(min(float(after), 60.0) if after.isdigit() else 15.0)
     response.raise_for_status()
     page = response.json()["query"]["pages"][0]
     if "revisions" not in page:

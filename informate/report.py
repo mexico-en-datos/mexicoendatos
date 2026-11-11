@@ -9,6 +9,7 @@ OFFICES = (
     ("justice", "Suprema Corte"),
     ("president", "Presidencia"),
     ("secretary", "Gabinete"),
+    ("autonomous_head", "Órganos constitucionales autónomos"),
 )
 
 

@@ -1,0 +1,76 @@
+{{Ficha de persona
+| nombre = Ernestina Godoy
+| imagen = Ernestina Godoy Ramos.jpg
+| pie de imagen = Godoy Ramos en 2024
+| escudo       = Seal of the Government of Mexico (linear).svg
+| cargo        = [[Anexo:Fiscales generales de la República (México)|Fiscal General de la República]]
+| nominada     = [[Claudia Sheinbaum Pardo]]
+| designada    = [[Senado de México|Senado de la República]]
+| inicio       = {{fecha|3|12|2025}}<ref>Encargada del despacho: 28 de noviembre – 3 de diciembre de 2025.</ref>
+| final        = 
+| predecesor   = [[Alejandro Gertz Manero]]
+
+| escudo2      = Seal of the Government of Mexico.svg
+| cargo2       = [[Anexo:Consejeros jurídicos del Ejecutivo federal|Consejera jurídica del Ejecutivo federal]]
+| inicio2      = {{Fecha|1|10|2024}}
+| final2       = {{fecha|27|11|2025}}
+| presidente2  = [[Claudia Sheinbaum Pardo]]
+| predecesora2 = [[María Estela Ríos González]]
+| sucesora2    = [[Esthela Damián Peralta]]
+
+| escudo3      = Seal of the Government of Mexico.svg
+| cargo3       = [[Senado de México|Senadora]] del [[Congreso de la Unión]]
+| distrito3    = la [[Ciudad de México]]
+| subtítulo3   = Segunda fórmula
+| inicio3      = 1 de septiembre de 2024
+| final3       = 30 de septiembre de 2024
+| predecesora3 = [[Citlalli Hernández Mora]]
+| sucesora3    = [[Karen Castrejón Trujillo]]
+
+| escudo4      = Escudo FGJ CDMX.jpg
+| cargo4       = [[Fiscalía General de Justicia de la Ciudad de México|Fiscal General de Justicia de la Ciudad de México]]
+| designada4   = [[Congreso de la Ciudad de México]]
+| nominada4    = [[Claudia Sheinbaum Pardo]]
+| inicio4      = 10 de enero de 2020
+| final4       = 9 de enero de 2024
+| predecesor4  = ''Ella misma'' <small>(como procuradora general de la Ciudad de México)
+| sucesor4     = Ulises Lara López
+
+| escudo5      = Coat of arms of Mexico City, Mexico.svg
+| cargo5       = Procuradora General de Justicia de la [[Ciudad de México]]
+| jefe5        = [[Claudia Sheinbaum Pardo]]
+| inicio5      = 5 de diciembre de 2018
+| final5       = 10 de enero de 2020
+| predecesor5  = Edmundo Garrido Osorio
+| sucesor5     = ''Ella misma'' <small>(como fiscal general de la Ciudad de México)
+
+| escudo6      = Seal of the Government of Mexico.svg
+| cargo6       = [[Cámara de Diputados (México)|Diputada]] del [[Congreso de la Unión]]
+| distrito6    = [[Distrito electoral federal 4 de la Ciudad de México|Distrito 4 de la Ciudad de México]]
+| inicio6      = 1 de septiembre de 2015
+| final6       = 31 de agosto de 2018
+| predecesor6  = Carlos Augusto Morales López
+| sucesor6     = [[Gerardo Fernández Noroña]]
+
+| escudo7      = Coat of arms of Mexico City, Mexico.svg
+| cargo7       = Diputada de la [[Asamblea Legislativa del Distrito Federal (México)|Asamblea Legislativa del Distrito Federal]]
+| distrito7    = el distrito 27
+| inicio7      = 16 de septiembre de 2012
+| final7       = 31 de agosto de 2015
+| predecesora7 = Edith Ruíz Mendicuti
+| sucesora7     = Ana María Rodríguez Ruiz
+
+| nombre de nacimiento = Ernestina Godoy Ramos
+| fecha de nacimiento = {{fecha|17|1|1954|edad}}
+| lugar de nacimiento = [[Ciudad de México]], [[México]]
+| religión = [[Iglesia católica|Católica]]
+| lengua materna = [[Idioma español|Español]]
+| ocupación = [[Abogada]] y [[funcionaria]]
+| alma mater = [[Archivo:Escudo-UNAM-escalable.svg|15px]] [[Universidad Nacional Autónoma de México]] <small>([[Lic. en Derecho]]; 1974-1979)</small>
+| educación = [[Derecho]]
+| partido = [[Archivo:Morena logo (alt).svg|20px]] [[Morena (partido político)|Movimiento Regeneración Nacional]] {{small|(desde 2014)}}<br>[[Archivo:PRD logo (Mexico).svg|20px]] [[Partido de la Revolución Democrática]] {{small|(2000-2012)}}
+}}
+'''Ernestina Godoy Ramos''' ([[Ciudad de México]], 17 de enero de 1954)<ref>{{cita web|título=Perfil del legislador|url=http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9219660|editorial=Sistema de información legislativa. Secretaría de gobernación|fechaacceso=23 de junio de 2019}}</ref><ref>{{Cita web|url=https://politico.mx//minuta-politica/minuta-politica-metropolitano/ernestina-godoy-quien-quiera-dinero-que-no-se-meta-de-pol%C3%ADtico/|título=Ernestina Godoy: quien quiera dinero que no se meta de político|fechaacceso=23 de junio de 2019|apellido=Ávila|nombre=Selene|sitioweb=politico.mx}}</ref>es una [[Abogado|abogada]] y [[Funcionario|funcionaria pública]] [[mexicana]]. Es la [[Fiscalía General de la República (México)|Fiscal General de la República]] desde el 3 de diciembre de 2025.<ref>{{Cita web|título=Ernestina Godoy es la nueva fiscal general de México; es elegida por mayoría en el Senado|url=https://www.eluniversal.com.mx/nacion/ernestina-godoy-es-la-nueva-fiscal-general-de-mexico-es-elegida-por-mayoria-en-el-senado/|sitioweb=El Universal|fechaacceso=2025-12-03|fecha=2025-12-03|apellido=|nombre=}}</ref> Anteriormente fue Procuradora General de Justicia de la [[Ciudad de México]] de 2018 a 2020 y Fiscal General de Justicia de la Ciudad de México, del 10 de enero de 2020 al 9 de enero de 2024.<ref>{{Cita web|url=https://www.infobae.com/mexico/2023/11/30/este-es-el-grado-de-estudios-de-ernestina-godoy-la-primera-fiscal-general-de-cdmx-que-busca-ratificarse/|título=Éste es el grado de estudios de Ernestina Godoy, la primera fiscal general de CDMX que busca ratificarse|fechaacceso=2024-01-08|apellido=López-Castro|nombre=Fernanda|fecha=2023-11-30|sitioweb=infobae|idioma=es-ES}}</ref><ref>{{Cita web|url=https://elpais.com/mexico/2024-01-08/el-congreso-de-ciudad-de-mexico-tumba-la-ratificacion-de-la-fiscal-ernestina-godoy.html|título=El Congreso de Ciudad de México tumba la ratificación de la fiscal Ernestina Godoy|fechaacceso=9 de enero de 2024|fecha=8 de enero de 2024|sitioweb=El País}}</ref>
+
+Es miembro fundadora del partido [[Morena (partido político)|Morena]]. Como legisladora, se desempeñó como diputada a la [[Asamblea Legislativa del Distrito Federal]] por el distrito 27 de 2012 a 2015; como diputada federal por el distrito 4 de la Ciudad de México de 2015 a 2018 y como [[Senadora del Congreso de la Unión|senadora]] en 2024.
+

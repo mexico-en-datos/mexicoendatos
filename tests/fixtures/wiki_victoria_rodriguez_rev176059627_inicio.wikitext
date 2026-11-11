@@ -1,0 +1,47 @@
+{{Ficha de persona
+|nombre              = Victoria Rodríguez Ceja
+|imagen              = Victoria Rodríguez Ceja.jpg
+|pie de imagen       = Rodríguez Ceja en 2021
+|escudo              = Logo_del_Banco_de_México.svg
+|cargo               = [[Gobernador del Banco de México|Gobernadora del Banco de México]]
+|inicio              = {{fecha|1|1|2022}}
+|final               = 
+|nominada            = [[Andrés Manuel López Obrador]]
+|designada = [[Senado de México|Senado de la República]]
+|predecesor          = [[Alejandro Díaz de León]]
+|sucesor             = 
+|cargo2              = [[Secretaría de Hacienda y Crédito Público|Subsecretaria de Egresos]]
+|escudo2             = Seal of the Government of Mexico.svg
+|inicio2             = {{fecha|13|12|2018}}
+|final2              = {{fecha|31|12|2021}}
+|presidente2         = [[Andrés Manuel López Obrador]]
+|secretario2         = {{Lista desplegable
+|título              = Ver secretarios
+|[[Rogelio Ramírez de la O]] <small>(2021)</small>
+|[[Arturo Herrera Gutiérrez]] <small>(2019-2021)</small>
+|[[Carlos Manuel Urzúa Macías]] <small>(2018-2019)</small>
+}}
+|predecesora2        = Úrsula Carreño Colorado
+|sucesor2            = Juan Pablo de Botton Falcón
+|cargo3              = [[Secretaría de Administración y Finanzas de la Ciudad de México|Subsecretaria de Egresos del Distrito Federal]]
+|escudo3             = Coat of arms of Mexico City, Mexico.svg
+|inicio3             = {{fecha|16|04|2012}}
+|final3              = {{fecha|27|03|2018}}
+|jefe3               = [[Miguel Ángel Mancera]]
+|secretario3         = [[Edgar Amador Zamora]]
+|sucesora3           = Bertha Maria Elena Gómez Castro
+|fecha de nacimiento = {{fecha|7|10|1977|edad}}
+|lugar de nacimiento = [[Ciudad de México]] ([[México]])
+|nacionalidad        = Mexicana
+|educación           = [[Economía]]
+|alma mater          = [[Archivo:Logo_del_ITESM.svg|15px]] [[Instituto Tecnológico de Estudios Superiores de Monterrey|Tecnológico de Monterrey]] <small>([[Lic. en Economía]]; 1995-1999)</small>
+|posgrado            = [[Archivo:Logo neutral de El Colegio de México.svg|15px]] [[El Colegio de México]] <small>([[Maestría en Economía]]; 1999-pendiente)</small><ref>{{cita web |autor= |apellido= |nombre= |enlaceautor= |título= Convocatoria. Maestría en Economía 2024-2026 |url= https://cee.colmex.mx/archivos/1091/convocatoria-ME-2024.pdf |sitioweb= El Colegio de México |fecha=2 de octubre de 2023 |editorial= |isbn= |ubicación= Ciudad de México |página=11 |fechaacceso=2024-02-15 |cita= Se menciona a Victoria Rodríguez Ceja como egresada destacada en Maestría de Economía.}}</ref>
+|ocupación           = [[Economista]] y [[Funcionario|funcionaria]] 
+|años activa         = Desde 2001
+}}
+'''Victoria Rodríguez Ceja''' ([[Ciudad de México]], 7 de octubre de 1977) es una [[economista]] y [[Funcionario|funcionaria]] [[México|mexicana]]. Es la gobernadora del [[Banco de México]] desde el 1 de enero de 2022, siendo así la primera mujer en ocupar el cargo.<ref>{{Cita noticia |autor=Muñoz, Héctor |título=Victoria Rodríguez se perfila como primera gobernadora de BANXICO |url=https://www.elsoldemexico.com.mx/analisis/victoria-rodriguez-se-perfila-como-primera-gobernadora-de-banxico-7562555.html |fecha=4 de diciembre de 2021 |fechaacceso=20 de julio de 2022 |periódico=[[El Sol de México]]}}</ref>
+
+Inició su carrera como servidora pública en 2001 dentro [[Gobierno de la Ciudad de México|Gobierno del Distrito Federal]], durante la jefatura de [[Andrés Manuel López Obrador]]. De 2012 a 2018 se desempeñó como subsecretaria de Egresos dentro de la [[Secretaría de Administración y Finanzas de la Ciudad de México|Secretaría de Finanzas del Distrito Federal]]. De 2018 a 2021 ocupó el mismo cargo, pero a nivel federal, de la [[Secretaría de Hacienda y Crédito Público]]. El 2 de diciembre de 2021, el [[Senado de México|Senado de la República]] aprobó su nominación hecha por el presidente López Obrador para ocupar el cargo de gobernadora del Banco de México para el periodo 2022-2027, en sustitución de [[Alejandro Díaz de León]].<ref>{{Cita web |url=https://presidente.gob.mx/presidente-postulara-a-victoria-rodriguez-ceja-para-gobernadora-del-banxico-seria-la-primera-mujer-en-dirigir-el-organo/|título=Presidente postulará a Victoria Rodríguez Ceja para Gobernadora del BANXICO; sería la primera mujer en dirigir el órgano |fecha=24 de noviembre de 2021 |fechaacceso=20 de julio de 2022 |sitioweb=https://presidente.gob.mx/}}</ref><ref>{{Cita web|url=https://dof.gob.mx/nota_detalle.php?codigo=5637285&fecha=03/12/2021|título=OFICIO de la Mesa Directiva de la Cámara de Senadores, dirigido al Secretario de Gobernación, comunicando la aprobación de la propuesta de designación realizada por el Presidente de los Estados Unidos Mexicanos, en favor de la ciudadana Victoria Rodríguez Ceja, como miembro integrante de la Junta de Gobierno del Banco de México, a partir del 1 de enero de 2022.}}</ref>
+
+Es licenciada en Economía por el [[Instituto Tecnológico y de Estudios Superiores de Monterrey]] (el «Tec de Monterrey») y posee estudios de maestría en Economía por [[El Colegio de México]].<ref name=":0" />
+

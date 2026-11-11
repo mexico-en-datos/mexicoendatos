@@ -1,0 +1,11 @@
+{{Ficha de banco central 
+|logo              = Logobm.svg
+|tamaño logo       = 200px
+|fundación         = {{fecha|25|8|1925|edad}}
+|texto logo        =
+|título ejecutivo  = Gobernadora
+|gobernador        = [[Victoria Rodríguez Ceja]]
+|reservas          = {{esd|257 904.7}} millones de [[dólares]]<ref>{{cita web|sitio web=Banco de México|título=Activos internacionales, crédito interno y base monetaria|url=https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=4&accion=consultarCuadro&idCuadro=CF106&locale=es|fechaacceso=30 de octubre de 2026}}</ref> (6 de noviembre  de 2026)
+|tipo de interés   = 6.25% (6 de noviembre de 2026)<ref>{{cita web|url=https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=18&accion=consultarCuadro&idCuadro=CF101&locale=es|título=Tasa de interés en el mercado de dinero|fechaacceso=6 de noviembre de 2026|sitioweb=Banco de México}}</ref>
+|sitio web         = {{URL|http://www.banxico.org.mx/}}
+}}

@@ -4,7 +4,8 @@ from pathlib import Path
 
 import pytest
 
-from informate.dataset import build_dataset, check_dataset, deputy_records, governor_records, senator_records
+from informate import autonomous, congress
+from informate.dataset import autonomous_records, build_dataset, check_dataset, deputy_records, governor_records, leadership_roles, senator_records
 from informate.sil import parse_roster
 from informate.wikipedia import parse_governors
 
@@ -498,3 +499,58 @@ from informate.dataset import legislature_info  # noqa: E402
 def test_legislature_info_names_the_sixty_sixth_with_its_dates():
     info = legislature_info()
     assert info == {"number": 66, "roman": "LXVI", "start": "2024-09-01", "end": "2027-08-31", "source_url": "http://sil.gobernacion.gob.mx/Numeralia/Legisladores/resultadosNumeraliaLegisladores.php?SID=&Legislatura=66&Camara=2&Estatus=A"}
+
+
+ANNEX_REVISION = {"id": 176247279, "timestamp": "2026-11-11T05:11:41Z"}
+
+
+@pytest.fixture(scope="module")
+def leadership(senators):
+    people = [dict(s) for s in senators]  # fresh copies: roles are attached in place
+    parsed = congress.parse_leadership((FIXTURES / "wiki_lxvi_legislatura_rev176247279.wikitext").read_text(encoding="utf-8"))
+    summary, warnings = leadership_roles(parsed, ANNEX_REVISION, RETRIEVED, people)
+    return people, summary, warnings
+
+
+def test_the_senate_board_and_coordinators_are_attached_to_the_roster_records(leadership):
+    people, summary, warnings = leadership
+    martinez = next(p for p in people if p["name"] == "Higinio Martínez Miranda")
+    assert martinez["roles"][0]["kind"] == "board" and martinez["roles"][0]["role"] == "Presidente"
+    assert martinez["roles"][0]["start"] == "2026-09-01" and martinez["roles"][0]["end"] == "2027-08-31"
+    assert martinez["roles"][0]["citation"]["url"].endswith("oldid=176247279")
+    mier = next(p for p in people if p["name"] == "Moisés Ignacio Mier Velazco")
+    assert [r["kind"] for r in mier["roles"]] == ["coordinator", "jucopo"]
+    assert mier["roles"][1]["seats"] == 66 and mier["roles"][1]["total"] == 128
+    assert summary["senator"]["jucopo_president"]["name"] == "Ignacio Mier Velazco"
+    assert all(entry["matched"] for entry in summary["senator"]["board"] + summary["senator"]["coordinators"])
+
+
+def test_names_missing_from_the_roster_are_reported_not_invented(leadership):
+    people, summary, warnings = leadership
+    # No deputies were given, so every name of the Chamber's bodies is reported as not found.
+    assert all(not entry["matched"] for entry in summary["deputy"]["board"])
+    assert any(w.startswith("Cámara de Diputados: Raúl Bolaños Cacho Cué (Presidente)") for w in warnings)
+    assert not any(w.startswith("Senado:") for w in warnings)
+
+
+def heads():
+    pages = {"ine": ("wiki_ine_rev176072137_inicio.wikitext", "wiki_blanca_cruz_rev176101919_inicio.wikitext"), "banxico": ("wiki_banxico_rev176248146_inicio.wikitext", "wiki_victoria_rodriguez_rev176059627_inicio.wikitext"), "cndh": ("wiki_cndh_rev176178020_inicio.wikitext", "wiki_rosario_piedra_rev175186881_inicio.wikitext"), "inegi": ("wiki_inegi_rev175890478_inicio.wikitext", "wiki_graciela_marquez_rev176107791_inicio.wikitext"), "fgr": ("wiki_fgr_rev175169509_inicio.wikitext", "wiki_ernestina_godoy_rev176059444_inicio.wikitext")}
+    items = []
+    for spec in autonomous.BODIES:
+        body_text = (FIXTURES / pages[spec["key"]][0]).read_text(encoding="utf-8")
+        head = autonomous.parse_head(body_text, spec)
+        person_text = (FIXTURES / pages[spec["key"]][1]).read_text(encoding="utf-8")
+        items.append({"spec": spec, "head": head, "tenure": autonomous.parse_tenure(person_text, spec), "body_revision": {"id": 1, "timestamp": "2026-11-01T00:00:00Z"}, "person_revision": {"id": 2, "timestamp": "2026-11-02T00:00:00Z"}})
+    return items
+
+
+def test_autonomous_heads_become_records_with_their_computed_term_and_both_articles_cited():
+    records, bodies = autonomous_records(heads(), RETRIEVED)
+    assert [r["name"] for r in records] == ["Graciela Márquez Colín", "Victoria Rodríguez Ceja", "Blanca Cruz García", "Ernestina Godoy Ramos", "Rosario Piedra Ibarra"]
+    banxico = records[1]
+    assert banxico["office"] == "autonomous_head" and banxico["title"] == "Gobernadora del Banco de México"
+    assert banxico["term_start"] == "2022-01-01" and banxico["term_end"] == "2027-12-31" and banxico["term_end_basis"] == "rule"
+    assert banxico["citation"]["url"].endswith("oldid=1") and banxico["citation"]["person_url"].endswith("oldid=2")
+    ine = records[2]
+    assert ine["provisional"] and ine["term_end"] is None and ine["term_end_note"].startswith("Designación provisional")
+    assert bodies[2]["short"] == "INE" and bodies[2]["head"] == "Blanca Cruz García" and "artículo 41" in bodies[2]["term"]

@@ -35,7 +35,7 @@
       return;
     }
     const stateName = (code) => EVERYDAY_NAME[code] || (map.states.find((s) => s.cve_ent === code) || {}).name || code;
-    const { sil, wikipedia, wikipedia_scjn: court, wikipedia_tepjf: electoral, wikipedia_tdj: discipline, wikipedia_president: presidency, wikipedia_cabinet: cabinet, wikipedia_mayors: mayorPages } = data.sources;
+    const { sil, wikipedia, wikipedia_scjn: court, wikipedia_tepjf: electoral, wikipedia_tdj: discipline, wikipedia_president: presidency, wikipedia_cabinet: cabinet, wikipedia_mayors: mayorPages, wikipedia_congress: annex, wikipedia_autonomous: autonomousPages } = data.sources;
     const rules = data.rules;
     const ine = map.districts;
     const regions = data.circunscripciones;
@@ -111,11 +111,28 @@
               el("p", {}, "Los sitios de estos órganos no responden a consultas automáticas desde fuera de México; se usan los artículos de Wikipedia, citados en la versión exacta que se leyó.")
             )
           : null,
+        annex
+          ? block(
+              "Mesa Directiva y coordinaciones de grupo en cada cámara",
+              "Fuente secundaria",
+              el("p", {}, link(annex.url, annex.name), `, versión del ${day(annex.published_at)}; consultada el ${day(annex.retrieved_at)}.`),
+              el("p", {}, "Los sitios del Senado y de la Cámara rechazan las consultas automáticas, así que quién preside la Mesa Directiva y quién coordina cada grupo parlamentario se leen del anexo de Wikipedia sobre la legislatura, citado en su versión exacta. Quién preside la Junta de Coordinación Política no se copia de ahí: lo fija la Ley Orgánica del Congreso a partir de los escaños de cada grupo (regla más abajo).")
+            )
+          : null,
+        autonomousPages
+          ? block(
+              "Órganos constitucionales autónomos",
+              "Fuente secundaria",
+              el("p", {}, `${autonomousPages.name}; consultados el ${day(autonomousPages.retrieved_at)}.`),
+              el("ul", {}, autonomousPages.pages.map((page) => el("li", {}, link(page.url, page.body), `, versión del ${day(page.published_at)}; `, link(page.person_url, "artículo de la persona titular"), `, versión del ${day(page.person_published_at)}.`))),
+              el("p", {}, "El artículo de cada órgano dice quién lo encabeza; el de la persona, desde cuándo. La duración de cada cargo sale de la Constitución y de las leyes, no de Wikipedia (reglas más abajo).")
+            )
+          : null,
         regions ? block("Circunscripciones de la Cámara de Diputados", "Fuente secundaria", el("p", {}, "Las 200 diputaciones de lista se eligen en cinco circunscripciones. La composición vigente se tomó de ", link(regions.source.url, regions.source.name), `, versión del ${day(regions.source.published_at)}; enlace revisado el ${day(regions.source.checked_at)}.`), el("ul", {}, regions.list.map((r) => el("li", {}, `${r.name} (cabecera ${r.seat}): ${r.states.map(stateName).join(", ")}.`)))) : null,
         block(
           "Fechas de inicio y de término de los cargos",
           "Fuentes citadas y reglas constitucionales",
-          el("p", {}, "La fecha de inicio viene de la fuente de cada persona. Las fuentes del Congreso, de la Presidencia y de los órganos judiciales no dan el final del periodo, que se calcula con estas reglas:"),
+          el("p", {}, "La fecha de inicio viene de la fuente de cada persona. Las fuentes del Congreso, de la Presidencia, de los órganos judiciales y de los órganos autónomos no dan el final del periodo, que se calcula con estas reglas:"),
           Object.values(rules).map((rule) => [el("p", {}, rule.text), el("p", { class: "cite" }, link(rule.url, rule.source_name), `, texto con última reforma del ${day(rule.published_at)}; enlace revisado el ${day(rule.checked_at)}.`)])
         ),
         data.warnings.length ? block("Avisos", "Diferencias entre lo que listan las fuentes y lo que marca la ley, y lo que falta por leer", el("ul", {}, data.warnings.map((w) => el("li", {}, w)))) : null,

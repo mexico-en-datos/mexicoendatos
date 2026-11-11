@@ -1,0 +1,34 @@
+{{Ficha de organismo oficial
+| nombre = Instituto Nacional Electoral
+| acrónimo = INE
+| logo = Logo ine 2026.svg
+| tamaño de logo = 250px
+| pie de logo = Logotipo
+| imagen = Sede central del Instituto Nacional Electoral.jpg
+| tamaño de imagen = 
+| pie de imagen = Sede central del INE en Ciudad de México
+| tipo = [[Órgano constitucional autónomo]]
+| creado = {{Fecha|3|4|2014|edad}}
+| predecesora = [[Instituto Federal Electoral]]
+| ámbito = {{México}}
+| país = {{México}}
+| sede = Viaducto Tlalpan 100, Col. Arenal Tepepan, [[Tlalpan]], [[Ciudad de México]]
+| presupuesto = {{esd|32 767 037 027 $}} (treinta y dos mil setecientos sesenta y siete millones, treinta y siete mil veintisiete pesos {{esd|00/100 m. n.}})<ref>{{cita publicación|url=https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2024.pdf&fecha=25/11/2023|título=Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2024|autor=Cámara de diputados|publicación=Diario Oficial de la Federación|fecha=25 de noviembre de 2023}}</ref>
+| titular_tipo = Consejera Presidenta
+| titular_nom = [[Blanca Cruz García]]
+| titular2_tipo = Consejeros
+| titular2_nom = {{Lista desplegable
+|título        = Ver consejeros
+|[[Rita Bell López Vences]]
+|[[Jorge Montaño Ventura]]
+|[[Arturo Castillo Loza]]
+|[[Beatriz Claudia Zavala Pérez]]
+|[[Dania Paola Ravel Cuevas]]
+|[[Jaime Rivera Velázquez]]
+|[[Norma Irene de la Cruz Magaña]]
+|[[Carla Astrid Humphrey Jordán]]
+|[[José Martín Fernando Faz Mora]]
+|[[Uuc-kib Espadas Ancona]]
+}}
+| sitio_web = [https://www.ine.mx]
+}}
