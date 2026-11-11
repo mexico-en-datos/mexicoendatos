@@ -634,3 +634,25 @@ body[data-tema] .map.level-municipality .hits--state .hit { pointer-events: none
 .about h2 { font-stretch: var(--place); font-weight: 800; font-size: 1.25rem; margin: 0 0 6px; }
 .about .facts { grid-template-columns: minmax(9em, auto) 1fr; font-size: 0.9375rem; }
 .about .facts dd { font-weight: 400; }
+
+/* ---------- Phones: the map is the page; the data slides up when a place is chosen ---------- */
+.ficha__close { display: none; }
+@media (max-width: 700px) {
+  body { overflow-x: hidden; }
+  .masthead { padding: 8px var(--gutter) 6px; gap: 6px 12px; align-items: center; }
+  .masthead h1 { font-size: 1.375rem; }
+  .masthead__title p { display: none; }
+  .masthead__status { display: none; }
+  .tabs { margin-top: 6px; flex-wrap: nowrap; overflow-x: auto; max-width: 100vw; -webkit-overflow-scrolling: touch; }
+  .tabs a { padding: 5px 10px; font-size: 0.8125rem; white-space: nowrap; }
+  main { padding: 0; }
+  .sheet { border-left: 0; border-right: 0; padding: 0; }
+  .sheet__bar { padding: 6px 8px; gap: 6px 10px; }
+  .map { aspect-ratio: auto; height: calc(100vh - 128px); max-height: none; }
+  .map__credit { display: none; }
+  .sources, .about { padding-left: var(--gutter); padding-right: var(--gutter); }
+  /* The data: hidden until a place is chosen, then a sheet over the lower part of the map. */
+  .ficha { display: none; }
+  body.sheet-open .ficha { display: block; position: fixed; top: auto; left: 0; right: 0; bottom: 0; max-height: 62vh; overflow: auto; z-index: 20; box-shadow: 0 -8px 24px rgba(22, 32, 42, 0.18); padding-bottom: calc(20px + env(safe-area-inset-bottom, 0px)); }
+  body.sheet-open .ficha__close { display: block; margin: 0 0 8px; text-align: right; }
+}

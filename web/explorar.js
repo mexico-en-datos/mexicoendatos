@@ -195,7 +195,6 @@
     cityMarks.append("circle").attr("class", "city__dot").attr("r", 3);
     cityMarks.append("text").attr("class", "city__label").attr("x", 6).attr("y", 3.5).text((d) => d.name);
   }
-  const BIG_CITY = 500000; // at the country level only cities this big are named; inside a state, all of them
   /** Cities as dots with names: the big ones at the country level, all of a state's inside it; capitals keep their star. */
   function placeCities() {
     if (!cityMarks) return;
@@ -213,14 +212,30 @@
       if (c.state_code === "09" || isCapital(c)) metroHasCapital.add(metroKey(c));
       if (c.municipality_code && (!largestOfMetro.has(metroKey(c)) || largestOfMetro.get(metroKey(c)).population < c.population)) largestOfMetro.set(metroKey(c), c);
     }
-    const shown = (d) => (isCapital(d) ? false : code ? d.state_code === code : d.population >= BIG_CITY && largestOfMetro.get(metroKey(d)) === d && !metroHasCapital.has(metroKey(d)));
+    const shown = (d) => !isCapital(d) && Boolean(code) && d.state_code === code;
     cityMarks
       .style("display", (d) => (shown(d) ? null : "none"))
       .attr("transform", (d) => {
         const muni = S.muniByCode.get(d.municipality_code);
         return `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`;
       });
+    declutterLabels();
     if (capitalStars) capitalStars.attr("transform", (d) => `translate(${d.muni.centre[0]}, ${d.muni.centre[1]}) scale(${1 / transform.k})`).style("display", S.level === "country" ? null : "none");
+  }
+
+  /** Names that would sit on top of each other are dropped, biggest city first; the capital's name always stays. */
+  function declutterLabels() {
+    const kept = [];
+    const overlaps = (a, b) => a.left < b.right + 2 && b.left < a.right + 2 && a.top < b.bottom + 1 && b.top < a.bottom + 1;
+    if (capitalMark && capitalMark.style("display") !== "none") kept.push(capitalMark.select("text").node().getBoundingClientRect());
+    const visible = cityMarks.filter(function () { return this.style.display !== "none"; }).nodes().sort((a, b) => b.__data__.population - a.__data__.population);
+    for (const node of visible) {
+      const text = node.querySelector("text");
+      text.style.display = null;
+      const box = text.getBoundingClientRect();
+      if (kept.some((k) => overlaps(box, k))) text.style.display = "none";
+      else kept.push(box);
+    }
   }
 
   /** The capital of the chosen state: where it is, and the marker on the map (inside the state only). */
@@ -233,7 +248,7 @@
       capitalMark.style("display", "none");
       return;
     }
-    capitalMark.style("display", null).attr("transform", `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`);
+    capitalMark.style("display", null).attr("transform", `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`).raise();
     capitalMark.select("text").text(capital.capital);
     capitalMark.select("circle").attr("display", "none");
     if (capitalMark.select("path").empty()) capitalMark.insert("path", "text").attr("class", "star__shape").attr("d", STAR);
@@ -440,13 +455,17 @@
   // ---------- Levels ----------
 
   const HINTS = {
-    country: "Las estrellas son las capitales; los puntos con nombre, las ciudades de más de 500 mil habitantes. El cuadrado de cada entidad es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
+    country: "Las estrellas son las capitales. El cuadrado de cada entidad es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
     state: "Las líneas finas son los municipios; las punteadas, los distritos electorales federales. Pulsa un municipio para ver su ayuntamiento y la diputación de su distrito, u otra entidad para cambiar.",
     district: "El distrito elegido va punteado más grueso. Pulsa un municipio para ver su ayuntamiento, u otra entidad para cambiar.",
     municipality: "Pulsa otro municipio, u otra entidad; arriba puedes volver a un nivel anterior.",
   };
 
+  const phone = window.matchMedia("(max-width: 700px)");
+  const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
+
   function go(level, { state = null, district = null, muni = null }) {
+    openSheet(level !== "country");
     S.level = level;
     S.state = state;
     S.district = level === "state" || level === "country" ? null : district;
@@ -471,6 +490,7 @@
   /** Open one person's data where the level's data was; the level stays where it is. */
   function showPerson(person) {
     S.person = person;
+    openSheet(true);
     renderFicha();
     $("#ficha").scrollIntoView({ block: "nearest", behavior: motionOK ? "smooth" : "auto" });
   }
@@ -672,10 +692,12 @@
   }
   const levelName = () => (S.level === "municipality" ? S.muni.name : S.level === "district" ? `Distrito ${S.district.number}` : S.level === "state" ? stateName(S.state.code) : "México");
 
+  const closeControl = () => el("p", { class: "ficha__close" }, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar y ver el mapa"));
+
   function renderFicha() {
     const box = $("#ficha");
     if (S.person) {
-      box.replaceChildren(...personCard(S.person, S.ctx).flat(Infinity), back(`Volver a ${levelName()}`, () => { S.person = null; renderFicha(); }));
+      box.replaceChildren(closeControl(), ...personCard(S.person, S.ctx).flat(Infinity), back(`Volver a ${levelName()}`, () => { S.person = null; renderFicha(); }));
       return;
     }
     let content;
@@ -781,7 +803,7 @@
         back(`Volver a ${stateName(S.state.code)}`, () => go("state", { state: S.state })),
       ];
     }
-    box.replaceChildren(...content.flat(Infinity).filter(Boolean));
+    box.replaceChildren(closeControl(), ...content.flat(Infinity).filter(Boolean));
   }
 
   /** The sources section: every source with its date, in one place. */
