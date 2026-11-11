@@ -1,4 +1,4 @@
-/* México en datos: one map you go into level by level.
+/* Infórmate: one map you go into level by level.
    Country (with the Presidency) -> state (government, Senate seats, economy) -> federal
    district (its deputy) -> municipality (its president). Names are shown at each level;
    a person's data appears when their name is pressed. */

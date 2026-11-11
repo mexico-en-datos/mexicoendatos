@@ -1,4 +1,4 @@
-/* México en datos, Fuentes: every source behind the site, with the date each was read. */
+/* Infórmate, Fuentes: every source behind the site, with the date each was read. */
 (() => {
   "use strict";
 

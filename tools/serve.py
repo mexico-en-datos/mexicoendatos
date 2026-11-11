@@ -73,7 +73,7 @@ def main() -> None:
         sys.exit(1)
 
     server = ThreadingHTTPServer((args.host, args.port), partial(Handler, directory=str(WEB)))
-    print(f"México en datos en http://{args.host}:{args.port}  (Ctrl+C para detener)")
+    print(f"Infórmate en http://{args.host}:{args.port}  (Ctrl+C para detener)")
     try:
         server.serve_forever()
     except KeyboardInterrupt:

@@ -1,4 +1,4 @@
-# México en datos
+# Infórmate
 
 A map of Mexico, down to its 2,478 municipalities, with public figures for
 every place and who holds every office. Each figure and each name carries its
@@ -11,7 +11,7 @@ Pages (`web/`):
 - **Mapas económicos** / **Mapas de seguridad** (`mapas-economicos.html`, `mapas-seguridad.html`): one map per figure, five-step scale, every state ranked.
 - **Poderes de la Nación** (`poderes.html`): the three powers; every seat and name opens that person's data.
 
-The site is meant to live at mexicoendatos.net; `DEPLOY.md` explains how to
+The site ("Infórmate") is meant to live at mexicoendatos.net, or another domain of the owner's choosing; `DEPLOY.md` explains how to
 publish it without it pointing back at its author. The page is in Spanish; the
 code and this file are in English.
 

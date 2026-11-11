@@ -1,4 +1,4 @@
-/* México en datos, Mapas económicos and Mapas de seguridad: one map per figure, coloured by
+/* Infórmate, Mapas económicos and Mapas de seguridad: one map per figure, coloured by
    value, by state or by municipality as the source allows, with every state ranked. The page's
    theme comes from <body data-tema="economia|seguridad">. */
 (() => {

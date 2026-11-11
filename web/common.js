@@ -1,4 +1,4 @@
-/* México en datos: what the three pages share. Party colours and labels, small DOM and
+/* Infórmate: what the three pages share. Party colours and labels, small DOM and
    formatting helpers, one person's entry (a line, or the full set of rows), the hemicycle
    drawing, and the hover box. Exposed as window.MXD; each page keeps its own state. */
 window.MXD = (() => {

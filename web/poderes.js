@@ -1,4 +1,4 @@
-/* México en datos, Poderes: the Senate, the Chamber of Deputies and the Supreme Court as
+/* Infórmate, Poderes: the Senate, the Chamber of Deputies and the Supreme Court as
    hemicycles with their counts, and the Presidency with its cabinet. Clicking a seat or a
    name shows that person's data. */
 (() => {
