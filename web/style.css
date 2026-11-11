@@ -693,7 +693,10 @@ body.locked { height: 100%; overflow: hidden; display: flex; flex-direction: col
 body.locked .masthead { flex: none; }
 body.locked main { flex: 1; min-height: 0; display: flex; flex-direction: column; padding-bottom: 10px; }
 body.locked .atlas { flex: 1; min-height: 0; grid-template-rows: minmax(0, 1fr); }
-body.locked .sheet { min-height: 0; display: flex; flex-direction: column; }
+/* .atlas aligns its two columns to the top, so the sheet has to take the row's height
+   itself (as the data column does); otherwise it grows to the map's natural 3:2 height and
+   the bottom of the map falls below the window. */
+body.locked .sheet { height: 100%; min-height: 0; display: flex; flex-direction: column; }
 body.locked .sheet__bar { flex: none; }
 body.locked .map-area { flex: 1; min-height: 0; }
 body.locked .map { height: 100%; min-height: 0; }
