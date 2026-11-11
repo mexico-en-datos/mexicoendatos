@@ -195,13 +195,26 @@
     cityMarks.append("circle").attr("class", "city__dot").attr("r", 3);
     cityMarks.append("text").attr("class", "city__label").attr("x", 6).attr("y", 3.5).text((d) => d.name);
   }
-  /** Inside a state: its cities, biggest first, keeping constant size while zooming; hidden elsewhere. */
+  const BIG_CITY = 500000; // at the country level only cities this big are named; inside a state, all of them
+  /** Cities as dots with names: the big ones at the country level, all of a state's inside it; capitals keep their star. */
   function placeCities() {
     if (!cityMarks) return;
     const code = S.state && S.level !== "country" ? S.state.code : null;
-    const capital = code ? capitalOf(code) : null;
+    const isCapital = (d) => {
+      const capital = capitalOf(d.state_code);
+      return Boolean(capital && capital.municipality_code === d.municipality_code);
+    };
+    // At the country level one name per metropolitan area: its largest city, unless that is a capital (which has the star).
+    const all = S.cities ? S.cities.cities.filter((c) => c.municipality_code) : [];
+    const largestOfMetro = new Map();
+    for (const c of all) {
+      const key = c.metro || c.name;
+      if (!largestOfMetro.has(key) || largestOfMetro.get(key).population < c.population) largestOfMetro.set(key, c);
+    }
+    const leadsItsMetro = (d) => largestOfMetro.get(d.metro || d.name) === d;
+    const shown = (d) => (isCapital(d) ? false : code ? d.state_code === code : d.population >= BIG_CITY && leadsItsMetro(d) && !isCapital(largestOfMetro.get(d.metro || d.name)));
     cityMarks
-      .style("display", (d) => (code && d.state_code === code && !(capital && capital.municipality_code === d.municipality_code) ? null : "none"))
+      .style("display", (d) => (shown(d) ? null : "none"))
       .attr("transform", (d) => {
         const muni = S.muniByCode.get(d.municipality_code);
         return `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`;
@@ -426,7 +439,7 @@
   // ---------- Levels ----------
 
   const HINTS = {
-    country: "La estrella de cada entidad es su capital. El cuadrado es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
+    country: "Las estrellas son las capitales; los puntos con nombre, las ciudades de más de 500 mil habitantes. El cuadrado de cada entidad es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
     state: "Las líneas finas son los municipios; las punteadas, los distritos electorales federales. Pulsa un municipio para ver su ayuntamiento y la diputación de su distrito, u otra entidad para cambiar.",
     district: "El distrito elegido va punteado más grueso. Pulsa un municipio para ver su ayuntamiento, u otra entidad para cambiar.",
     municipality: "Pulsa otro municipio, u otra entidad; arriba puedes volver a un nivel anterior.",

@@ -6,6 +6,7 @@
       "state_code": "09",
       "population": 9165819,
       "rank": 1,
+      "metro": "Ciudad de México",
       "municipality_code": null,
       "municipality": null
     },
@@ -14,6 +15,7 @@
       "state_code": "02",
       "population": 1914035,
       "rank": 2,
+      "metro": "Tijuana",
       "municipality_code": "02004",
       "municipality": "Tijuana"
     },
@@ -22,6 +24,7 @@
       "state_code": "11",
       "population": 1656702,
       "rank": 3,
+      "metro": "León",
       "municipality_code": "11020",
       "municipality": "León"
     },
@@ -30,6 +33,7 @@
       "state_code": "15",
       "population": 1650330,
       "rank": 4,
+      "metro": "Ciudad de México",
       "municipality_code": "15033",
       "municipality": "Ecatepec de Morelos"
     },
@@ -38,6 +42,7 @@
       "state_code": "08",
       "population": 1585983,
       "rank": 5,
+      "metro": "Juárez",
       "municipality_code": "08037",
       "municipality": "Juárez"
     },
@@ -46,6 +51,7 @@
       "state_code": "21",
       "population": 1519878,
       "rank": 6,
+      "metro": "Puebla-Tlaxcala",
       "municipality_code": "21114",
       "municipality": "Puebla"
     },
@@ -54,6 +60,7 @@
       "state_code": "14",
       "population": 1317146,
       "rank": 7,
+      "metro": "Guadalajara",
       "municipality_code": "14120",
       "municipality": "Zapopan"
     },
@@ -62,6 +69,7 @@
       "state_code": "14",
       "population": 1244738,
       "rank": 8,
+      "metro": "Guadalajara",
       "municipality_code": "14039",
       "municipality": "Guadalajara"
     },
@@ -70,6 +78,7 @@
       "state_code": "19",
       "population": 1135776,
       "rank": 9,
+      "metro": "Monterrey",
       "municipality_code": "19039",
       "municipality": "Monterrey"
     },
@@ -78,6 +87,7 @@
       "state_code": "23",
       "population": 998714,
       "rank": 10,
+      "metro": "Cancún",
       "municipality_code": "23005",
       "municipality": "Benito Juárez"
     },
@@ -86,6 +96,7 @@
       "state_code": "15",
       "population": 995405,
       "rank": 11,
+      "metro": "Ciudad de México",
       "municipality_code": "15058",
       "municipality": "Nezahualcóyotl"
     },
@@ -94,6 +105,7 @@
       "state_code": "31",
       "population": 967937,
       "rank": 12,
+      "metro": "Mérida",
       "municipality_code": "31050",
       "municipality": "Mérida"
     },
@@ -102,6 +114,7 @@
       "state_code": "05",
       "population": 959061,
       "rank": 13,
+      "metro": "Saltillo",
       "municipality_code": "05030",
       "municipality": "Saltillo"
     },
@@ -110,6 +123,7 @@
       "state_code": "08",
       "population": 951599,
       "rank": 14,
+      "metro": "Chihuahua",
       "municipality_code": "08019",
       "municipality": "Chihuahua"
     },
@@ -118,6 +132,7 @@
       "state_code": "01",
       "population": 926164,
       "rank": 15,
+      "metro": "Aguascalientes",
       "municipality_code": "01001",
       "municipality": "Aguascalientes"
     },
@@ -126,6 +141,7 @@
       "state_code": "02",
       "population": 893378,
       "rank": 16,
+      "metro": "Mexicali",
       "municipality_code": "02002",
       "municipality": "Mexicali"
     },
@@ -134,6 +150,7 @@
       "state_code": "26",
       "population": 875581,
       "rank": 17,
+      "metro": "Hermosillo",
       "municipality_code": "26030",
       "municipality": "Hermosillo"
     },
@@ -142,6 +159,7 @@
       "state_code": "16",
       "population": 795244,
       "rank": 18,
+      "metro": "Morelia",
       "municipality_code": "16053",
       "municipality": "Morelia"
     },
@@ -150,6 +168,7 @@
       "state_code": "25",
       "population": 780903,
       "rank": 19,
+      "metro": "Culiacán",
       "municipality_code": "25006",
       "municipality": "Culiacán"
     },
@@ -158,6 +177,7 @@
       "state_code": "22",
       "population": 775103,
       "rank": 20,
+      "metro": "Querétaro",
       "municipality_code": "22014",
       "municipality": "Querétaro"
     },
@@ -166,6 +186,7 @@
       "state_code": "05",
       "population": 771797,
       "rank": 21,
+      "metro": "La Laguna",
       "municipality_code": "05035",
       "municipality": "Torreón"
     },
@@ -174,6 +195,7 @@
       "state_code": "15",
       "population": 760229,
       "rank": 22,
+      "metro": "Ciudad de México",
       "municipality_code": "15057",
       "municipality": "Naucalpan de Juárez"
     },
@@ -182,6 +204,7 @@
       "state_code": "15",
       "population": 730151,
       "rank": 23,
+      "metro": "Ciudad de México",
       "municipality_code": "15031",
       "municipality": "Chimalhuacán"
     },
@@ -190,6 +213,7 @@
       "state_code": "24",
       "population": 718108,
       "rank": 24,
+      "metro": "San Luis Potosí",
       "municipality_code": "24028",
       "municipality": "San Luis Potosí"
     },
@@ -198,6 +222,7 @@
       "state_code": "28",
       "population": 715182,
       "rank": 25,
+      "metro": "Reynosa",
       "municipality_code": "28032",
       "municipality": "Reynosa"
     },
@@ -206,6 +231,7 @@
       "state_code": "14",
       "population": 694651,
       "rank": 26,
+      "metro": "Guadalajara",
       "municipality_code": "14098",
       "municipality": "San Pedro Tlaquepaque"
     },
@@ -214,6 +240,7 @@
       "state_code": "10",
       "population": 681487,
       "rank": 27,
+      "metro": "Durango",
       "municipality_code": "10005",
       "municipality": "Durango"
     },
@@ -222,6 +249,7 @@
       "state_code": "15",
       "population": 646537,
       "rank": 28,
+      "metro": "Ciudad de México",
       "municipality_code": "15104",
       "municipality": "Tlalnepantla de Baz"
     },
@@ -230,6 +258,7 @@
       "state_code": "12",
       "population": 640604,
       "rank": 29,
+      "metro": "Acapulco",
       "municipality_code": "12001",
       "municipality": "Acapulco de Juárez"
     },
@@ -238,6 +267,7 @@
       "state_code": "19",
       "population": 623788,
       "rank": 30,
+      "metro": "Monterrey",
       "municipality_code": "19026",
       "municipality": "Guadalupe"
     },
@@ -246,6 +276,7 @@
       "state_code": "07",
       "population": 585264,
       "rank": 31,
+      "metro": "Tuxtla Gutiérrez",
       "municipality_code": "07101",
       "municipality": "Tuxtla Gutiérrez"
     },
@@ -254,6 +285,7 @@
       "state_code": "19",
       "population": 569922,
       "rank": 32,
+      "metro": "Monterrey",
       "municipality_code": "19006",
       "municipality": "Apodaca"
     },
@@ -262,6 +294,7 @@
       "state_code": "28",
       "population": 555267,
       "rank": 33,
+      "metro": "Matamoros",
       "municipality_code": "28022",
       "municipality": "Matamoros"
     },
@@ -270,6 +303,7 @@
       "state_code": "15",
       "population": 548372,
       "rank": 34,
+      "metro": "Ciudad de México",
       "municipality_code": "15121",
       "municipality": "Cuautitlán Izcalli"
     },
@@ -278,6 +312,7 @@
       "state_code": "15",
       "population": 527895,
       "rank": 35,
+      "metro": "Ciudad de México",
       "municipality_code": "15013",
       "municipality": "Atizapán de Zaragoza"
     },
@@ -286,6 +321,7 @@
       "state_code": "25",
       "population": 486880,
       "rank": 36,
+      "metro": "Mazatlán",
       "municipality_code": "25012",
       "municipality": "Mazatlán"
     },
@@ -294,6 +330,7 @@
       "state_code": "11",
       "population": 478652,
       "rank": 37,
+      "metro": "Irapuato",
       "municipality_code": "11017",
       "municipality": "Irapuato"
     },
@@ -302,6 +339,7 @@
       "state_code": "19",
       "population": 473796,
       "rank": 38,
+      "metro": "Monterrey",
       "municipality_code": "19021",
       "municipality": "General Escobedo"
     },
@@ -310,6 +348,7 @@
       "state_code": "14",
       "population": 450699,
       "rank": 39,
+      "metro": "Guadalajara",
       "municipality_code": "14101",
       "municipality": "Tonalá"
     },
@@ -318,6 +357,7 @@
       "state_code": "28",
       "population": 440199,
       "rank": 40,
+      "metro": "Nuevo Laredo",
       "municipality_code": "28027",
       "municipality": "Nuevo Laredo"
     },
@@ -326,6 +366,7 @@
       "state_code": "30",
       "population": 438388,
       "rank": 41,
+      "metro": "Xalapa",
       "municipality_code": "30087",
       "municipality": "Xalapa"
     },
@@ -334,6 +375,7 @@
       "state_code": "19",
       "population": 416299,
       "rank": 42,
+      "metro": "Monterrey",
       "municipality_code": "19031",
       "municipality": "Juárez"
     },
@@ -342,6 +384,7 @@
       "state_code": "15",
       "population": 394192,
       "rank": 43,
+      "metro": "Ciudad de México",
       "municipality_code": "15081",
       "municipality": "Tecámac"
     },
@@ -350,6 +393,7 @@
       "state_code": "30",
       "population": 386560,
       "rank": 44,
+      "metro": "Veracruz",
       "municipality_code": "30193",
       "municipality": "Veracruz"
     },
@@ -358,6 +402,7 @@
       "state_code": "19",
       "population": 382034,
       "rank": 45,
+      "metro": "Monterrey",
       "municipality_code": "19046",
       "municipality": "San Nicolás de los Garza"
     },
@@ -366,6 +411,7 @@
       "state_code": "17",
       "population": 378099,
       "rank": 46,
+      "metro": "Cuernavaca",
       "municipality_code": "17007",
       "municipality": "Cuernavaca"
     },
@@ -374,6 +420,7 @@
       "state_code": "15",
       "population": 370592,
       "rank": 47,
+      "metro": "Ciudad de México",
       "municipality_code": "15039",
       "municipality": "Ixtapaluca"
     },
@@ -382,6 +429,7 @@
       "state_code": "18",
       "population": 368798,
       "rank": 48,
+      "metro": "Tepic",
       "municipality_code": "18017",
       "municipality": "Tepic"
     },
@@ -390,6 +438,7 @@
       "state_code": "23",
       "population": 367770,
       "rank": 49,
+      "metro": "Playa del Carmen",
       "municipality_code": "23008",
       "municipality": "Playa del Carmen"
     },
@@ -398,6 +447,7 @@
       "state_code": "11",
       "population": 355273,
       "rank": 50,
+      "metro": "Celaya",
       "municipality_code": "11007",
       "municipality": "Celaya"
     },
@@ -406,6 +456,7 @@
       "state_code": "15",
       "population": 353874,
       "rank": 51,
+      "metro": "Ciudad de México",
       "municipality_code": "15122",
       "municipality": "Valle de Chalco Solidaridad"
     },
@@ -414,6 +465,7 @@
       "state_code": "27",
       "population": 347695,
       "rank": 52,
+      "metro": "Villahermosa",
       "municipality_code": "27004",
       "municipality": "Centro"
     },
@@ -422,6 +474,7 @@
       "state_code": "02",
       "population": 346479,
       "rank": 53,
+      "metro": "Ensenada",
       "municipality_code": "02001",
       "municipality": "Ensenada"
     },
@@ -430,6 +483,7 @@
       "state_code": "26",
       "population": 339136,
       "rank": 54,
+      "metro": "Ciudad Obregón",
       "municipality_code": "26018",
       "municipality": "Cajeme"
     },
@@ -438,6 +492,7 @@
       "state_code": "28",
       "population": 337155,
       "rank": 55,
+      "metro": "Ciudad Victoria",
       "municipality_code": "28041",
       "municipality": "Victoria"
     },
@@ -446,6 +501,7 @@
       "state_code": "10",
       "population": 329483,
       "rank": 56,
+      "metro": "La Laguna",
       "municipality_code": "10007",
       "municipality": "Gómez Palacio"
     },
@@ -454,6 +510,7 @@
       "state_code": "15",
       "population": 320942,
       "rank": 57,
+      "metro": "Ciudad de México",
       "municipality_code": "15060",
       "municipality": "Nicolás Romero"
     },
@@ -462,6 +519,7 @@
       "state_code": "19",
       "population": 320493,
       "rank": 58,
+      "metro": "Monterrey",
       "municipality_code": "19018",
       "municipality": "García"
     },
@@ -470,6 +528,7 @@
       "state_code": "24",
       "population": 320106,
       "rank": 59,
+      "metro": "San Luis Potosí",
       "municipality_code": "24035",
       "municipality": "Soledad de Graciano Sánchez"
     },
@@ -478,6 +537,7 @@
       "state_code": "16",
       "population": 315251,
       "rank": 60,
+      "metro": "Uruapan",
       "municipality_code": "16102",
       "municipality": "Uruapan"
     },
@@ -486,6 +546,7 @@
       "state_code": "25",
       "population": 312041,
       "rank": 61,
+      "metro": "Los Mochis",
       "municipality_code": "25001",
       "municipality": "Ahome"
     },
@@ -494,6 +555,7 @@
       "state_code": "15",
       "population": 311864,
       "rank": 62,
+      "metro": "Ciudad de México",
       "municipality_code": "15020",
       "municipality": "Coacalco de Berriozábal"
     },
@@ -502,6 +564,7 @@
       "state_code": "19",
       "population": 305444,
       "rank": 63,
+      "metro": "Monterrey",
       "municipality_code": "19048",
       "municipality": "Santa Catarina"
     },
@@ -510,6 +573,7 @@
       "state_code": "21",
       "population": 301107,
       "rank": 64,
+      "metro": "Tehuacán",
       "municipality_code": "21156",
       "municipality": "Tehuacán"
     },
@@ -518,6 +582,7 @@
       "state_code": "13",
       "population": 295546,
       "rank": 65,
+      "metro": "Pachuca",
       "municipality_code": "13048",
       "municipality": "Pachuca de Soto"
     },
@@ -526,6 +591,7 @@
       "state_code": "26",
       "population": 287790,
       "rank": 66,
+      "metro": "Nogales",
       "municipality_code": "26043",
       "municipality": "Nogales"
     },
@@ -534,6 +600,7 @@
       "state_code": "28",
       "population": 286801,
       "rank": 67,
+      "metro": "Tampico",
       "municipality_code": "28038",
       "municipality": "Tampico"
     },
@@ -542,6 +609,7 @@
       "state_code": "03",
       "population": 277324,
       "rank": 68,
+      "metro": "La Paz",
       "municipality_code": "03003",
       "municipality": "La Paz"
     },
@@ -550,6 +618,7 @@
       "state_code": "03",
       "population": 269302,
       "rank": 69,
+      "metro": "Los Cabos",
       "municipality_code": "03008",
       "municipality": "Los Cabos"
     },
@@ -558,6 +627,7 @@
       "state_code": "20",
       "population": 250430,
       "rank": 70,
+      "metro": "Oaxaca",
       "municipality_code": "20067",
       "municipality": "Oaxaca de Juárez"
     },
@@ -566,6 +636,7 @@
       "state_code": "07",
       "population": 248670,
       "rank": 71,
+      "metro": "Tapachula",
       "municipality_code": "07089",
       "municipality": "Tapachula"
     },
@@ -574,6 +645,7 @@
       "state_code": "04",
       "population": 245335,
       "rank": 72,
+      "metro": "Campeche",
       "municipality_code": "04002",
       "municipality": "Campeche"
     },
@@ -582,6 +654,7 @@
       "state_code": "05",
       "population": 245282,
       "rank": 73,
+      "metro": "Monclova-Frontera",
       "municipality_code": "05018",
       "municipality": "Monclova"
     },
@@ -590,6 +663,7 @@
       "state_code": "14",
       "population": 232469,
       "rank": 74,
+      "metro": "Puerto Vallarta",
       "municipality_code": "14067",
       "municipality": "Puerto Vallarta"
     },
@@ -598,6 +672,7 @@
       "state_code": "12",
       "population": 232036,
       "rank": 75,
+      "metro": "Chilpancingo",
       "municipality_code": "12029",
       "municipality": "Chilpancingo de los Bravo"
     },
@@ -606,6 +681,7 @@
       "state_code": "15",
       "population": 212628,
       "rank": 76,
+      "metro": "Ciudad de México",
       "municipality_code": "15109",
       "municipality": "Tultitlán"
     },
@@ -614,6 +690,7 @@
       "state_code": "15",
       "population": 206569,
       "rank": 77,
+      "metro": "Valle de Toluca",
       "municipality_code": "15106",
       "municipality": "Toluca"
     },
@@ -622,6 +699,7 @@
       "state_code": "28",
       "population": 197097,
       "rank": 78,
+      "metro": "Tampico",
       "municipality_code": "28009",
       "municipality": "Ciudad Madero"
     },
@@ -630,6 +708,7 @@
       "state_code": "30",
       "population": 196626,
       "rank": 79,
+      "metro": "Coatzacoalcos",
       "municipality_code": "30039",
       "municipality": "Coatzacoalcos"
     },
@@ -638,6 +717,7 @@
       "state_code": "04",
       "population": 194482,
       "rank": 80,
+      "metro": "—",
       "municipality_code": "04003",
       "municipality": "Carmen"
     },
@@ -646,6 +726,7 @@
       "state_code": "22",
       "population": 191793,
       "rank": 81,
+      "metro": "—",
       "municipality_code": "22016",
       "municipality": "San Juan del Río"
     },
@@ -654,6 +735,7 @@
       "state_code": "15",
       "population": 189585,
       "rank": 82,
+      "metro": "Ciudad de México",
       "municipality_code": "15029",
       "municipality": "Chicoloapan"
     },
@@ -662,6 +744,7 @@
       "state_code": "32",
       "population": 188911,
       "rank": 83,
+      "metro": "Zacatecas",
       "municipality_code": "32017",
       "municipality": "Guadalupe"
     },
@@ -670,6 +753,7 @@
       "state_code": "07",
       "population": 186807,
       "rank": 84,
+      "metro": "—",
       "municipality_code": "07078",
       "municipality": "San Cristóbal de las Casas"
     },
@@ -678,6 +762,7 @@
       "state_code": "14",
       "population": 186098,
       "rank": 85,
+      "metro": "Guadalajara",
       "municipality_code": "14097",
       "municipality": "Tlajomulco de Zúñiga"
     },
@@ -686,6 +771,7 @@
       "state_code": "05",
       "population": 182564,
       "rank": 86,
+      "metro": "Piedras Negras",
       "municipality_code": "05025",
       "municipality": "Piedras Negras"
     },
@@ -694,6 +780,7 @@
       "state_code": "03",
       "population": 180292,
       "rank": 87,
+      "metro": "Los Cabos",
       "municipality_code": "03008",
       "municipality": "Los Cabos"
     },
@@ -702,6 +789,7 @@
       "state_code": "26",
       "population": 179107,
       "rank": 88,
+      "metro": "—",
       "municipality_code": "26055",
       "municipality": "San Luis Río Colorado"
     },
@@ -710,6 +798,7 @@
       "state_code": "31",
       "population": 175995,
       "rank": 89,
+      "metro": "Mérida",
       "municipality_code": "31041",
       "municipality": "Kanasín"
     },
@@ -718,6 +807,7 @@
       "state_code": "06",
       "population": 173684,
       "rank": 90,
+      "metro": "—",
       "municipality_code": "06007",
       "municipality": "Manzanillo"
     },
@@ -726,6 +816,7 @@
       "state_code": "05",
       "population": 172600,
       "rank": 91,
+      "metro": "—",
       "municipality_code": "05002",
       "municipality": "Acuña"
     },
@@ -734,6 +825,7 @@
       "state_code": "15",
       "population": 168080,
       "rank": 92,
+      "metro": "Ciudad de México",
       "municipality_code": "15025",
       "municipality": "Chalco"
     },
@@ -742,6 +834,7 @@
       "state_code": "28",
       "population": 167715,
       "rank": 93,
+      "metro": "Tampico",
       "municipality_code": "28003",
       "municipality": "Altamira"
     },
@@ -750,6 +843,7 @@
       "state_code": "11",
       "population": 167609,
       "rank": 94,
+      "metro": "—",
       "municipality_code": "11027",
       "municipality": "Salamanca"
     },
@@ -758,6 +852,7 @@
       "state_code": "17",
       "population": 164079,
       "rank": 95,
+      "metro": "Cuernavaca",
       "municipality_code": "17011",
       "municipality": "Jiutepec"
     },
@@ -766,6 +861,7 @@
       "state_code": "15",
       "population": 163629,
       "rank": 96,
+      "metro": "Ciudad de México",
       "municipality_code": "15024",
       "municipality": "Cuautitlán"
     },
@@ -774,6 +870,7 @@
       "state_code": "15",
       "population": 162602,
       "rank": 97,
+      "metro": "Ciudad de México",
       "municipality_code": "15037",
       "municipality": "Huixquilucan"
     },
@@ -782,6 +879,7 @@
       "state_code": "23",
       "population": 161894,
       "rank": 98,
+      "metro": "Chetumal",
       "municipality_code": "23004",
       "municipality": "Othón P. Blanco"
     },
@@ -790,6 +888,7 @@
       "state_code": "16",
       "population": 157167,
       "rank": 99,
+      "metro": "Zamora",
       "municipality_code": "16108",
       "municipality": "Zamora"
     },
@@ -798,6 +897,7 @@
       "state_code": "06",
       "population": 153675,
       "rank": 100,
+      "metro": "Colima-Villa de Álvarez",
       "municipality_code": "06002",
       "municipality": "Colima"
     },
@@ -806,6 +906,7 @@
       "state_code": "06",
       "population": 153463,
       "rank": 101,
+      "metro": "Colima-Villa de Álvarez",
       "municipality_code": "06010",
       "municipality": "Villa de Álvarez"
     },
@@ -814,6 +915,7 @@
       "state_code": "17",
       "population": 147305,
       "rank": 102,
+      "metro": "Cuautla",
       "municipality_code": "17006",
       "municipality": "Cuautla"
     },
@@ -822,6 +924,7 @@
       "state_code": "32",
       "population": 147054,
       "rank": 103,
+      "metro": "Zacatecas",
       "municipality_code": "32056",
       "municipality": "Zacatecas"
     },
@@ -830,6 +933,7 @@
       "state_code": "32",
       "population": 145320,
       "rank": 104,
+      "metro": "—",
       "municipality_code": "32010",
       "municipality": "Fresnillo"
     },
@@ -838,6 +942,7 @@
       "state_code": "15",
       "population": 144259,
       "rank": 105,
+      "metro": "Ciudad de México",
       "municipality_code": "15109",
       "municipality": "Tultitlán"
     },
@@ -846,6 +951,7 @@
       "state_code": "30",
       "population": 143540,
       "rank": 106,
+      "metro": "Poza Rica",
       "municipality_code": "30131",
       "municipality": "Poza Rica de Hidalgo"
     },
@@ -854,6 +960,7 @@
       "state_code": "24",
       "population": 143070,
       "rank": 107,
+      "metro": "San Luis Potosí",
       "municipality_code": "24059",
       "municipality": "Villa de Pozos"
     },
@@ -862,6 +969,7 @@
       "state_code": "08",
       "population": 139501,
       "rank": 108,
+      "metro": "—",
       "municipality_code": "08017",
       "municipality": "Cuauhtémoc"
     },
@@ -870,6 +978,7 @@
       "state_code": "30",
       "population": 137105,
       "rank": 109,
+      "metro": "Córdoba",
       "municipality_code": "30044",
       "municipality": "Córdoba"
     },
@@ -878,6 +987,7 @@
       "state_code": "30",
       "population": 135478,
       "rank": 110,
+      "metro": "Veracruz",
       "municipality_code": "30028",
       "municipality": "Boca del Río"
     },
@@ -886,6 +996,7 @@
       "state_code": "08",
       "population": 134598,
       "rank": 111,
+      "metro": "Delicias",
       "municipality_code": "08021",
       "municipality": "Delicias"
     },
@@ -894,6 +1005,7 @@
       "state_code": "12",
       "population": 133570,
       "rank": 112,
+      "metro": "—",
       "municipality_code": "12035",
       "municipality": "Iguala de la Independencia"
     },
@@ -902,6 +1014,7 @@
       "state_code": "19",
       "population": 132933,
       "rank": 113,
+      "metro": "Monterrey",
       "municipality_code": "19019",
       "municipality": "San Pedro Garza García"
     },
@@ -910,6 +1023,7 @@
       "state_code": "05",
       "population": 131562,
       "rank": 114,
+      "metro": "Saltillo",
       "municipality_code": "05027",
       "municipality": "Ramos Arizpe"
     },
@@ -918,6 +1032,7 @@
       "state_code": "24",
       "population": 127289,
       "rank": 115,
+      "metro": "—",
       "municipality_code": "24013",
       "municipality": "Ciudad Valles"
     },
@@ -926,6 +1041,7 @@
       "state_code": "22",
       "population": 126163,
       "rank": 116,
+      "metro": "Querétaro",
       "municipality_code": "22006",
       "municipality": "Corregidora"
     },
@@ -934,6 +1050,7 @@
       "state_code": "26",
       "population": 125793,
       "rank": 117,
+      "metro": "—",
       "municipality_code": "26042",
       "municipality": "Navojoa"
     },
@@ -942,6 +1059,7 @@
       "state_code": "21",
       "population": 123945,
       "rank": 118,
+      "metro": "Puebla-Tlaxcala",
       "municipality_code": "21119",
       "municipality": "San Andrés Cholula"
     },
@@ -950,6 +1068,7 @@
       "state_code": "02",
       "population": 123234,
       "rank": 119,
+      "metro": "Tijuana",
       "municipality_code": "02005",
       "municipality": "Playas de Rosarito"
     },
@@ -958,6 +1077,7 @@
       "state_code": "28",
       "population": 120006,
       "rank": 120,
+      "metro": "Reynosa",
       "municipality_code": "28033",
       "municipality": "Río Bravo"
     },
@@ -966,6 +1086,7 @@
       "state_code": "15",
       "population": 119334,
       "rank": 121,
+      "metro": "Ciudad de México",
       "municipality_code": "15002",
       "municipality": "Acolman"
     },
@@ -974,6 +1095,7 @@
       "state_code": "14",
       "population": 118876,
       "rank": 122,
+      "metro": "—",
       "municipality_code": "14023",
       "municipality": "Zapotlán el Grande"
     },
@@ -982,6 +1104,7 @@
       "state_code": "07",
       "population": 117347,
       "rank": 123,
+      "metro": "—",
       "municipality_code": "07019",
       "municipality": "Comitán de Domínguez"
     },
@@ -990,6 +1113,7 @@
       "state_code": "26",
       "population": 116238,
       "rank": 124,
+      "metro": "Guaymas",
       "municipality_code": "26029",
       "municipality": "Guaymas"
     },
@@ -998,6 +1122,7 @@
       "state_code": "08",
       "population": 115993,
       "rank": 125,
+      "metro": "Hidalgo del Parral",
       "municipality_code": "08032",
       "municipality": "Hidalgo del Parral"
     },
@@ -1006,6 +1131,7 @@
       "state_code": "17",
       "population": 114772,
       "rank": 126,
+      "metro": "Cuernavaca",
       "municipality_code": "17018",
       "municipality": "Temixco"
     },
@@ -1014,6 +1140,7 @@
       "state_code": "14",
       "population": 114477,
       "rank": 127,
+      "metro": "—",
       "municipality_code": "14053",
       "municipality": "Lagos de Moreno"
     },
@@ -1022,6 +1149,7 @@
       "state_code": "30",
       "population": 113509,
       "rank": 128,
+      "metro": "Orizaba",
       "municipality_code": "30118",
       "municipality": "Orizaba"
     },
@@ -1030,6 +1158,7 @@
       "state_code": "13",
       "population": 110803,
       "rank": 129,
+      "metro": "Tulacingo",
       "municipality_code": "13077",
       "municipality": "Tulancingo de Bravo"
     },
@@ -1038,6 +1167,7 @@
       "state_code": "21",
       "population": 108239,
       "rank": 130,
+      "metro": "Puebla-Tlaxcala",
       "municipality_code": "21140",
       "municipality": "San Pedro Cholula"
     },
@@ -1046,6 +1176,7 @@
       "state_code": "15",
       "population": 103685,
       "rank": 131,
+      "metro": "Ciudad de México",
       "municipality_code": "15076",
       "municipality": "San Mateo Atenco"
     }
@@ -1055,6 +1186,6 @@
     "source_name": "Wikipedia en español, «Anexo:Ciudades más pobladas de México»",
     "url": "https://es.wikipedia.org/w/index.php?title=Anexo:Ciudades_m%C3%A1s_pobladas_de_M%C3%A9xico&oldid=176170825",
     "published_at": "2026-11-06T01:03:51Z",
-    "retrieved_at": "2026-11-08T16:29:13Z"
+    "retrieved_at": "2026-11-11T12:42:22Z"
   }
 }

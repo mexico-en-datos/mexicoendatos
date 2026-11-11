@@ -16,6 +16,7 @@ def test_the_table_gives_every_city_with_its_state_and_population():
     assert by_name["Cancún"] == {"name": "Cancún", "state_code": "23", "population": 998714, "rank": 11} or by_name["Cancún"]["state_code"] == "23"
     assert by_name["León de los Aldama"]["state_code"] == "11" and by_name["León de los Aldama"]["population"] == 1656702
     assert by_name["Ciudad de México"]["state_code"] == "09" and cities[0]["name"] == "Ciudad de México"
+    assert by_name["Ecatepec de Morelos"]["metro"] == "Ciudad de México" and by_name["Tijuana"]["metro"] == "Tijuana"  # metropolitan area, for grouping on the map
 
 
 def test_cities_are_placed_in_their_municipalities():

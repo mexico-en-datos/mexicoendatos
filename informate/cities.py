@@ -67,8 +67,9 @@ def parse_cities(wikitext: str) -> list[dict]:
         name = _plain(raw[2])  # columns: rank, code, city, population, state, metropolitan area, region
         population = next((int(m.group(1)) for c in raw[3:5] for m in [re.search(r"formatnum:(\d+)", c)] if m), None)
         state = next((s for s in (_state_of(c) for c in raw[3:6]) if s), None)
+        metro = _plain(raw[5]) if len(raw) > 5 else ""
         if name and population and state:
-            cities.append({"name": name, "state_code": state, "population": population, "rank": len(cities) + 1})
+            cities.append({"name": name, "state_code": state, "population": population, "rank": len(cities) + 1, "metro": metro or None})
     if len(cities) < 50:
         raise ValueError(f"Expected the table of cities over 100,000 people; found {len(cities)} rows")
     return cities
