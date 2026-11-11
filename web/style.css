@@ -686,3 +686,46 @@ main { padding-top: 12px; }
   .map { height: calc(100vh - 128px); }
 }
 .map__hint { max-width: 56%; }
+
+/* ---------- Locked pages: the top bar and the map fill the window; only the data column scrolls ---------- */
+html:has(body.locked) { height: 100%; overflow: hidden; }
+body.locked { height: 100%; overflow: hidden; display: flex; flex-direction: column; }
+body.locked .masthead { flex: none; }
+body.locked main { flex: 1; min-height: 0; display: flex; flex-direction: column; padding-bottom: 10px; }
+body.locked .atlas { flex: 1; min-height: 0; grid-template-rows: minmax(0, 1fr); }
+body.locked .sheet { min-height: 0; display: flex; flex-direction: column; }
+body.locked .sheet__bar { flex: none; }
+body.locked .map-area { flex: 1; min-height: 0; }
+body.locked .map { height: 100%; min-height: 0; }
+body.locked .ficha { position: static; height: 100%; max-height: none; overflow: auto; }
+body.locked .roster { margin-top: 20px; padding-top: 12px; border-top: 1px solid var(--ink); }
+body.locked .roster > summary { font-stretch: var(--place); font-weight: 700; font-size: 1rem; cursor: pointer; }
+body.locked .roster .filters { grid-template-columns: 1fr; margin-top: 10px; }
+body.locked .roster table { min-width: 0; font-size: 0.875rem; }
+body.locked .roster th, body.locked .roster td { padding: 6px 6px; }
+body.locked .roster td.dates, body.locked .roster td.cited { display: none; }
+body.locked .roster th:nth-child(5), body.locked .roster th:nth-child(6), body.locked .roster th:nth-child(7) { display: none; }
+@media (max-width: 700px) {
+  body.locked main { padding-bottom: 0; }
+  body.locked .map { height: 100%; }
+}
+
+/* Buttons keep to one line and the row wraps instead. */
+.views { flex-wrap: wrap; gap: 4px 0; }
+.views button { white-space: nowrap; }
+/* Hint and credit share the foot of the map without touching. */
+.map__hint { max-width: 52%; }
+.map__credit { max-width: 44%; }
+@media (max-width: 700px) {
+  body.locked .ficha { display: none; height: auto; }
+  body.locked.sheet-open .ficha { display: block; position: fixed; top: auto; left: 0; right: 0; bottom: 0; height: auto; max-height: 62vh; overflow: auto; }
+}
+
+/* The hint and the credit sit under the map, never over it. */
+.sheet__foot { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding: 5px 8px 4px; font-stretch: var(--source); font-size: 0.75rem; line-height: 1.3; color: var(--ink-2); }
+.sheet__foot .map__hint, .sheet__foot .map__credit { position: static; max-width: none; margin: 0; padding: 0; background: none; border: 0; box-shadow: none; font-size: inherit; color: inherit; }
+.sheet__foot .map__hint { flex: 1 1 auto; }
+.sheet__foot .map__credit { flex: 0 1 auto; text-align: right; white-space: nowrap; }
+body.locked .sheet__foot { flex: none; }
+@media (max-width: 900px) { .sheet__foot .map__hint { display: block; } .sheet__foot .map__credit { white-space: normal; } }
+@media (max-width: 700px) { .sheet__foot { display: none; } }

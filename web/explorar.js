@@ -455,7 +455,7 @@
   // ---------- Levels ----------
 
   const HINTS = {
-    country: "Las estrellas son las capitales. El cuadrado de cada entidad es el partido de quien la gobierna y los tres círculos, los de sus senadurías. Debajo, tres barras: desocupación, homicidios por cada 100 mil habitantes y precio de la gasolina regular; la altura es el lugar de la entidad entre las 32 (la más alta, el valor mayor). Pulsa una entidad para entrar.",
+    country: "Estrella: la capital. Cuadrado: partido de quien gobierna; círculos: los de sus tres senadurías. Barras: desocupación, homicidios por 100 mil habitantes y precio de la gasolina, por altura según el lugar entre las 32. Pulsa una entidad para entrar.",
     state: "Las líneas finas son los municipios; las punteadas, los distritos electorales federales. Pulsa un municipio para ver su ayuntamiento y la diputación de su distrito, u otra entidad para cambiar.",
     district: "El distrito elegido va punteado más grueso. Pulsa un municipio para ver su ayuntamiento, u otra entidad para cambiar.",
     municipality: "Pulsa otro municipio, u otra entidad; arriba puedes volver a un nivel anterior.",
@@ -842,7 +842,7 @@
     buildMap();
     S.ctx = { stateName, ...regions(S.data, stateName) };
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
-    $("#map-credit").replaceChildren(`${S.mapSource.attribution}, consultado el ${day(S.mapSource.retrieved_at)}. Distritos: INE, descargados el ${day(S.mapSource.districts.retrieved_at)}.`);
+    $("#map-credit").replaceChildren(`${S.mapSource.attribution} (${day(S.mapSource.retrieved_at)}); distritos: INE (${day(S.mapSource.districts.retrieved_at)}).`);
     // Deep links: #entidad=14, #entidad=14&distrito=5, #entidad=14&municipio=14039
     const wanted = new URLSearchParams(location.hash.slice(1));
     const state = S.states.find((s) => s.code === wanted.get("entidad"));

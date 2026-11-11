@@ -9,7 +9,7 @@
   <meta name="referrer" content="no-referrer">
   <link rel="stylesheet" href="style.css">
 </head>
-<body data-tema="seguridad">
+<body class="locked" data-tema="seguridad">
   <header class="masthead">
     <h1><a href="index.html">México en datos</a></h1>
     <nav class="tabs" aria-label="Secciones">
@@ -42,10 +42,12 @@
           <div class="map" id="map">
             <canvas aria-hidden="true"></canvas>
             <svg role="img" aria-label="Mapa de México coloreado por la cifra elegida. La lista de la derecha da el valor de cada entidad."></svg>
-            <p class="map__credit" id="map-credit"></p>
           </div>
           <figure class="inset legend-box" id="legend"></figure>
           <div class="tooltip" id="tooltip" hidden></div>
+        </div>
+        <div class="sheet__foot">
+          <p class="map__credit" id="map-credit"></p>
         </div>
       </div>
 
