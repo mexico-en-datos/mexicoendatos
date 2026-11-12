@@ -23,6 +23,7 @@ _CONSTITUTION = {
 BODIES = [
     {
         "key": "inegi",
+        "logo": {"file": "img/inegi.png", "title": "File:INEGI.png", "author": "Instituto Nacional de Estadística y Geografía", "license": "Dominio público", "license_url": None, "retrieved_at": "2026-11-12"},
         "post_pattern": r"instituto nacional de estadistica",
         "page": "Instituto Nacional de Estadística y Geografía",
         "name": "Instituto Nacional de Estadística y Geografía",
@@ -50,6 +51,7 @@ BODIES = [
     },
     {
         "key": "banxico",
+        "logo": {"file": "img/banxico.png", "title": "File:Logobm.svg", "author": "Banco de México", "license": "Dominio público", "license_url": None, "retrieved_at": "2026-11-12"},
         "post_pattern": r"banco de mexico",
         "page": "Banco de México",
         "name": "Banco de México",
@@ -74,6 +76,7 @@ BODIES = [
     },
     {
         "key": "ine",
+        "logo": {"file": "img/ine.png", "title": "File:Logo ine 2026.svg", "author": "Instituto Nacional Electoral", "license": "Dominio público", "license_url": None, "retrieved_at": "2026-11-12"},
         "post_pattern": r"instituto nacional electoral",
         "page": "Instituto Nacional Electoral",
         "name": "Instituto Nacional Electoral",
@@ -103,6 +106,7 @@ BODIES = [
     },
     {
         "key": "fgr",
+        "logo": {"file": "img/fgr.png", "title": "File:Logo de la FGR México.png", "author": "Gabomiranda (Wikimedia Commons)", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "retrieved_at": "2026-11-12"},
         "post_pattern": r"fiscal(?:ia)? general de la republica",
         "page": "Fiscalía General de la República (México)",
         "name": "Fiscalía General de la República",
@@ -119,6 +123,7 @@ BODIES = [
     },
     {
         "key": "cndh",
+        "logo": {"file": "img/cndh.png", "title": "File:Logo Horizontal Color.png", "author": "Logo_CNDH (Wikimedia Commons)", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "retrieved_at": "2026-11-12"},
         "post_pattern": r"comision nacional de los derechos humanos",
         "page": "Comisión Nacional de los Derechos Humanos (México)",
         "name": "Comisión Nacional de los Derechos Humanos",
@@ -141,6 +146,13 @@ BODIES = [
     },
 ]
 BODY = {spec["key"]: spec for spec in BODIES}
+COMMONS_FILE = "https://commons.wikimedia.org/wiki/{title}"
+
+
+def logo_source(spec: dict) -> dict:
+    """The logo's file on the site plus its page on Wikimedia Commons, author and licence."""
+    logo = spec["logo"]
+    return logo | {"url": COMMONS_FILE.format(title=logo["title"].replace(" ", "_"))}
 
 _LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
 _FILE = re.compile(r"\[\[(?:Archivo|File|Imagen|Image):[^\]]*\]\]", re.I)

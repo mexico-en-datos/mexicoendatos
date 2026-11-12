@@ -461,6 +461,38 @@
     municipality: "Pulsa otro municipio, u otra entidad; arriba puedes volver a un nivel anterior.",
   };
 
+  /** The key drawn on the map: what the marks, stars, dots and lines mean at this level. */
+  const svgEl = (tag, attrs = {}) => {
+    const node = document.createElementNS("http://www.w3.org/2000/svg", tag);
+    for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
+    return node;
+  };
+  const symbol = (...parts) => {
+    const svg = svgEl("svg", { viewBox: "0 0 34 20", "aria-hidden": "true" });
+    for (const part of parts) svg.append(part);
+    return svg;
+  };
+  const SYMBOL = {
+    governor: () => symbol(svgEl("rect", { x: 12, y: 5, width: 10, height: 10, class: "key-square" })),
+    senators: () => symbol(...[7, 17, 27].map((cx) => svgEl("circle", { cx, cy: 10, r: 4, class: "key-circle" }))),
+    bars: () => symbol(...[[9, 6], [15, 10], [21, 14]].map(([x, h]) => svgEl("rect", { x, y: 17 - h, width: 4, height: h, class: "key-bar" }))),
+    star: () => symbol(svgEl("path", { d: STAR, transform: "translate(17 10) scale(1.1)", class: "key-star" })),
+    city: () => symbol(svgEl("circle", { cx: 17, cy: 10, r: 3, class: "key-city" })),
+    stateLine: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--state" })),
+    muniLine: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--muni" })),
+    districtLine: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--district" })),
+    chosenDistrict: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--chosen" })),
+  };
+  const LEGEND = {
+    country: [["governor", "Partido de quien gobierna la entidad"], ["senators", "Partidos de sus tres senadurías"], ["bars", "Desocupación, homicidios y gasolina: la barra sube con el lugar entre las 32 (más alta, peor)"], ["star", "Capital de la entidad"], ["stateLine", "Límite entre entidades"]],
+    state: [["star", "Capital de la entidad"], ["city", "Ciudad de más de 100 mil habitantes"], ["muniLine", "Límite municipal"], ["districtLine", "Distrito electoral federal"], ["stateLine", "Límite entre entidades"]],
+    district: [["chosenDistrict", "El distrito elegido"], ["districtLine", "Otros distritos electorales federales"], ["muniLine", "Límite municipal"], ["star", "Capital de la entidad"], ["city", "Ciudad de más de 100 mil habitantes"]],
+    municipality: [["star", "Capital de la entidad"], ["city", "Ciudad de más de 100 mil habitantes"], ["muniLine", "Límite municipal"], ["districtLine", "Distrito electoral federal"]],
+  };
+  function renderLegend(level) {
+    $("#legend").replaceChildren(...LEGEND[level].map(([kind, text]) => el("div", { class: "map-legend__row" }, SYMBOL[kind](), el("span", {}, text))));
+  }
+
   const phone = window.matchMedia("(max-width: 700px)");
   const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
 
@@ -483,6 +515,7 @@
     placeCities();
     draw();
     $("#hint").textContent = HINTS[level];
+    renderLegend(level);
     renderCrumbs();
     renderFicha();
   }

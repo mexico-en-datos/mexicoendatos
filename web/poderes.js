@@ -9,8 +9,8 @@
   const S = { data: null, mapSource: null, person: null, ctx: null };
 
   const BODIES = {
-    senator: { title: (n) => `Senado: ${n} escaños`, majorities: true, note: (list) => `${list} de lista nacional, sin entidad.` },
-    deputy: { title: (n) => `Cámara de Diputados: ${n} escaños`, majorities: true, note: (list) => `${list} de listas regionales, por circunscripción (sombreadas).` },
+    senator: { title: (n) => `Senado: ${n} escaños`, majorities: true, note: (list) => `Zona sombreada «lista nacional»: los ${list} escaños de representación proporcional, elegidos por lista en todo el país; no representan a una entidad. Los otros 96 son tres por entidad.` },
+    deputy: { title: (n) => `Cámara de Diputados: ${n} escaños`, majorities: true, note: (list) => `Zonas sombreadas 1.ª a 5.ª: los ${list} escaños de representación proporcional, agrupados por la circunscripción (región del país) cuya lista los eligió. Los otros 300 son uno por distrito.` },
     justice: { title: (n) => `Suprema Corte de Justicia de la Nación: ${n} ministras y ministros`, counts: false, note: () => "Elegidos por voto popular en 2025." },
     magistrate_tepjf: { title: (n) => `Tribunal Electoral, Sala Superior: 7 magistraturas${n < 7 ? `, ${7 - n} vacante${7 - n > 1 ? "s" : ""}` : ""}`, counts: false, seats: 7, vacant: "Escaño vacante desde el 31 de octubre de 2025, según la fuente", note: () => "Cinco en funciones desde 2016 y dos elegidas por voto en 2025." },
     magistrate_tdj: { title: (n) => `Tribunal de Disciplina Judicial: ${n} magistraturas`, counts: false, note: () => "Elegidas por voto popular en 2025." },
@@ -100,21 +100,19 @@
   /** One autonomous body: its head (the way to the person), the post, its dates, what the body does and its legal basis. */
   function autonomousBlock(body) {
     const person = peopleOf("autonomous_head").find((p) => p.body_key === body.key) || null;
+    const open = person ? () => showPerson(person) : null;
+    const logo = el("img", { src: body.logo.file, alt: `Logotipo: ${body.name}`, loading: "lazy" });
     return el(
       "div",
       { class: "autonomous__body" },
-      el("h3", {}, body.name === body.short ? body.name : `${body.name} (${body.short})`),
+      open
+        ? el("button", { type: "button", class: "autonomous__logo", onclick: open, "aria-label": `${body.short}: ver a ${person.name}, ${body.head_title}` }, logo)
+        : el("div", { class: "autonomous__logo" }, logo),
+      el("h3", {}, el("span", { class: "autonomous__short" }, body.short), el("span", { class: "autonomous__name" }, body.name)),
       facts(
-        fact("Titular", person ? el("button", { type: "button", class: "persona__link", onclick: () => showPerson(person) }, person.name) : body.head),
-        fact("Cargo", body.head_title),
-        person && person.provisional ? fact("Designación", "Provisional, según la fuente") : null,
-        fact("Desde", person && person.term_start ? day(person.term_start) : "Sin dato en la fuente"),
-        person ? fact("Fin del periodo", person.term_end ? `${day(person.term_end)} (regla legal)` : person.term_end_note) : null,
+        fact("Titular", person ? el("button", { type: "button", class: "persona__link", onclick: open }, person.name) : body.head),
         fact("Qué hace", body.mandate),
-        fact("Fundamento", body.basis),
-        fact("Nombramiento", body.appointment),
-        fact("Duración del cargo", body.term),
-        person ? fact("Fuente", sourceValue(person.citation)) : null
+        fact("Fundamento", body.basis)
       )
     );
   }
@@ -136,7 +134,7 @@
             "section",
             { class: "power" },
             el("h2", { class: "power__title" }, gloss("Órganos constitucionales autónomos")),
-            el("p", { class: "ficha__intro" }, gloss("Instituciones que la Constitución crea fuera de los tres poderes, con presupuesto y titulares propios. Hoy son cinco; aquí está quién encabeza cada una, hasta cuándo y con qué fundamento.")),
+            el("p", { class: "ficha__intro" }, gloss("Instituciones que la Constitución crea fuera de los tres poderes, con presupuesto y titulares propios. Hoy son cinco. Pulsa el logotipo o el nombre de quien la encabeza para ver su cargo, desde cuándo y hasta cuándo.")),
             el("div", { class: "autonomous" }, S.data.autonomous.map(autonomousBlock))
           )
         : null

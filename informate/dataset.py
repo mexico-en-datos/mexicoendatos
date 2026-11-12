@@ -483,6 +483,8 @@ def autonomous_records(heads: list[dict], retrieved_at: str) -> tuple[list[dict]
                 "term_end_basis": basis,
                 "term_end_note": note,
                 "provisional": tenure["provisional"],
+                "appointment": spec["appointment"],
+                "term_rule": spec["term"]["text"],
                 "body_key": spec["key"],
                 "body": spec["name"],
                 "body_short": spec["short"],
@@ -500,6 +502,7 @@ def autonomous_records(heads: list[dict], retrieved_at: str) -> tuple[list[dict]
                 "term": spec["term"]["text"],
                 "head": head["name"],
                 "head_title": title,
+                "logo": autonomous_source.logo_source(spec),
             }
         )
     return records, bodies

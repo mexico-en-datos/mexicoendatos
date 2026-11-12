@@ -471,8 +471,8 @@
 
   const CHAMBER = {
     governor: { title: (n) => `Gubernaturas: ${n}`, seats: false, majorities: false },
-    senator: { title: (n) => `Senado${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (n) => `${n} de lista nacional, sin entidad.` },
-    deputy: { title: (n) => `Cámara de Diputados${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (n) => `${n} de listas regionales, por circunscripción (sombreadas).` },
+    senator: { title: (n) => `Senado${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (list) => `Zona sombreada «lista nacional»: los ${list} escaños de representación proporcional, elegidos por lista en todo el país; no representan a una entidad. Los otros 96 son tres por entidad.` },
+    deputy: { title: (n) => `Cámara de Diputados${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (list) => `Zonas sombreadas 1.ª a 5.ª: los ${list} escaños de representación proporcional, agrupados por la circunscripción (región del país) cuya lista los eligió. Los otros 300 son uno por distrito.` },
     mayor: { title: (n) => `Municipios: ${integer.format(n)}`, seats: false, majorities: false },
     justice: { title: (n) => `Suprema Corte: ${n} ministras y ministros`, seats: true, majorities: false },
   };

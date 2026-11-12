@@ -199,6 +199,8 @@ window.MXD = (() => {
       fact("Suplente", person.substitute),
       fact("Inicio del cargo", person.term_start ? day(person.term_start) : "Sin dato en la fuente"),
       fact("Fin del periodo", person.term_end ? `${day(person.term_end)}${ruled}` : person.term_end_note ? person.term_end_note : legislator || person.office === "president" ? null : "Sin dato en la fuente"),
+      fact("Nombramiento", person.appointment),
+      fact("Duración del cargo", person.term_rule),
       fact("Estudios", person.education),
       contact ? [fact("Correo oficial", contact.email ? el("a", { href: `mailto:${contact.email}` }, contact.email) : "Sin dato"), fact("Teléfono", contact.phone), fact("Oficina", contact.office)] : fact("Contacto oficial", contactNote),
       fact("Fuente", sourceValue(person.citation)),
@@ -288,7 +290,7 @@ window.MXD = (() => {
     if ((office === "senator" || office === "deputy") && listSeats.length && listSeats.length < placed.length) {
       const groups = office === "deputy"
         ? d3.groups(listSeats, (d) => d.person.region_number || 0).map(([number, group], i) => ({ seats: group, label: number ? `${number}.ª` : "sin leer", alternate: i % 2 === 1 }))
-        : [{ seats: listSeats, label: "sin entidad" }];
+        : [{ seats: listSeats, label: "lista nacional" }];
       shadeWedges(centre, groups, step, inset);
     }
     centre

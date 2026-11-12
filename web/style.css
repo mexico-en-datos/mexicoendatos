@@ -756,7 +756,32 @@ abbr.term { text-decoration: underline dotted; text-decoration-color: var(--ink-
 .chamber__heading { margin: 14px 0 4px; font-stretch: var(--place); font-weight: 700; font-size: 0.875rem; }
 .plain { list-style: none; margin: 0; padding: 0; }
 .plain li { padding: 2px 0; }
-.autonomous { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; align-items: start; }
-.autonomous__body { border: 1px solid var(--ink); background: var(--sheet); padding: 12px 14px 14px; }
-.autonomous__body h3 { margin: 0 0 6px; font-stretch: var(--place); font-weight: 700; font-size: 1rem; line-height: 1.25; }
+.autonomous { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 16px; align-items: start; }
+.autonomous__body { display: flex; flex-direction: column; align-items: center; text-align: center; }
+.autonomous__logo { display: grid; place-items: center; width: min(100%, 170px); aspect-ratio: 1; margin: 0 auto; padding: 0; border: 1.5px solid var(--ink); border-radius: 50%; background: #ffffff; box-shadow: 0 2px 0 var(--ink); font: inherit; color: inherit; }
+button.autonomous__logo { cursor: pointer; transition: transform 120ms ease; }
+button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform: translateY(-2px); box-shadow: 0 4px 0 var(--ink); outline: none; }
+.autonomous__logo img { display: block; width: 74%; height: 62%; object-fit: contain; }
+.autonomous__body h3 { margin: 12px 0 4px; font-stretch: var(--place); line-height: 1.2; }
+.autonomous__short { display: block; font-weight: 800; font-size: 1.25rem; }
+.autonomous__name { display: block; font-weight: 500; font-size: 0.8125rem; color: var(--ink-2); }
+.autonomous__body .facts { width: 100%; text-align: left; font-size: 0.875rem; }
+@media (max-width: 1100px) { .autonomous { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 700px) { .autonomous { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; } .autonomous__logo { width: min(100%, 130px); } }
 .facts .muted { color: var(--ink-2); font-size: 0.875rem; }
+
+/* ---------- The key drawn on the Explorar map ---------- */
+.map-legend { position: absolute; left: 10px; bottom: 10px; z-index: 3; max-width: 250px; padding: 6px 10px 7px; border: 1px solid var(--ink); background: rgba(255, 255, 255, 0.94); font-stretch: var(--source); font-size: 0.75rem; line-height: 1.25; color: var(--ink); pointer-events: none; }
+.map-legend:empty { display: none; }
+.map-legend__row { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 0 8px; align-items: center; padding: 2px 0; }
+.map-legend svg { display: block; width: 34px; height: 20px; overflow: visible; }
+.key-square { fill: #8a6d7b; stroke: var(--ink); stroke-width: 0.7; }
+.key-circle { fill: #6d8a7b; stroke: var(--ink); stroke-width: 0.7; }
+.key-bar { fill: var(--ink-2); }
+.key-star { fill: var(--ink); stroke: #ffffff; stroke-width: 1.2; }
+.key-city { fill: var(--ink); }
+.key-line { fill: none; stroke: var(--ink); stroke-width: 1.6; }
+.key-line--muni { stroke-width: 0.8; stroke: var(--ink-2); }
+.key-line--district { stroke-width: 1.2; stroke-dasharray: 3 2; }
+.key-line--chosen { stroke-width: 2.2; stroke-dasharray: 4 2; }
+@media (max-width: 700px) { .map-legend { display: none; } }

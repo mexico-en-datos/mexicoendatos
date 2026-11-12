@@ -134,7 +134,10 @@
               "Fuente secundaria",
               el("p", {}, `${autonomousPages.name}; consultados el ${day(autonomousPages.retrieved_at)}.`),
               el("ul", {}, autonomousPages.pages.map((page) => el("li", {}, link(page.url, page.body), `, versión del ${day(page.published_at)}; `, link(page.person_url, "artículo de la persona titular"), `, versión del ${day(page.person_published_at)}.`))),
-              el("p", {}, "El artículo de cada órgano dice quién lo encabeza; el de la persona, desde cuándo. La duración de cada cargo sale de la Constitución y de las leyes, no de Wikipedia (reglas más abajo).")
+              el("p", {}, "El artículo de cada órgano dice quién lo encabeza; el de la persona, desde cuándo. La duración de cada cargo sale de la Constitución y de las leyes, no de Wikipedia (reglas más abajo)."),
+              data.autonomous && data.autonomous.length
+                ? el("p", {}, "Logotipos, tomados de Wikimedia Commons: ", data.autonomous.map((b, i) => [i ? "; " : "", link(b.logo.url, b.short), ` (${b.logo.author}, ${b.logo.license_url ? "" : ""}`, b.logo.license_url ? link(b.logo.license_url, b.logo.license) : b.logo.license, `; descargado el ${day(b.logo.retrieved_at)})`]), ".")
+                : null
             )
           : null,
         regions ? block("Circunscripciones de la Cámara de Diputados", "Fuente secundaria", el("p", {}, "Las 200 diputaciones de lista se eligen en cinco circunscripciones. La composición vigente se tomó de ", link(regions.source.url, regions.source.name), `, versión del ${day(regions.source.published_at)}; enlace revisado el ${day(regions.source.checked_at)}.`), el("ul", {}, regions.list.map((r) => el("li", {}, `${r.name} (cabecera ${r.seat}): ${r.states.map(stateName).join(", ")}.`)))) : null,

@@ -743,7 +743,16 @@
    "appointment": "Lo designa la Presidencia de la República con aprobación del Senado.",
    "term": "Seis años, contados desde el 1 de enero del cuarto año del sexenio presidencial (Ley del Sistema Nacional de Información Estadística y Geográfica, artículo 68).",
    "head": "Graciela Márquez Colín",
-   "head_title": "Presidenta del Instituto Nacional de Estadística y Geografía"
+   "head_title": "Presidenta del Instituto Nacional de Estadística y Geografía",
+   "logo": {
+    "file": "img/inegi.png",
+    "title": "File:INEGI.png",
+    "author": "Instituto Nacional de Estadística y Geografía",
+    "license": "Dominio público",
+    "license_url": null,
+    "retrieved_at": "2026-11-12",
+    "url": "https://commons.wikimedia.org/wiki/File:INEGI.png"
+   }
   },
   {
    "key": "banxico",
@@ -754,7 +763,16 @@
    "appointment": "A quien lo gobierna lo designa la Presidencia de la República con aprobación del Senado.",
    "term": "Seis años, contados desde el 1 de enero del cuarto año del sexenio presidencial (Ley del Banco de México, artículo 40).",
    "head": "Victoria Rodríguez Ceja",
-   "head_title": "Gobernadora del Banco de México"
+   "head_title": "Gobernadora del Banco de México",
+   "logo": {
+    "file": "img/banxico.png",
+    "title": "File:Logobm.svg",
+    "author": "Banco de México",
+    "license": "Dominio público",
+    "license_url": null,
+    "retrieved_at": "2026-11-12",
+    "url": "https://commons.wikimedia.org/wiki/File:Logobm.svg"
+   }
   },
   {
    "key": "ine",
@@ -765,7 +783,16 @@
    "appointment": "A quien preside su Consejo General lo elige la Cámara de Diputados por dos tercios de los presentes.",
    "term": "Nueve años, sin reelección. Si la falta ocurre en los primeros seis años, la Cámara de Diputados elige a quien concluya el periodo; si ocurre en los últimos tres, a alguien para un periodo nuevo (artículo 41, base V, apartado A, de la Constitución).",
    "head": "Blanca Cruz García",
-   "head_title": "Presidenta del Instituto Nacional Electoral"
+   "head_title": "Presidenta del Instituto Nacional Electoral",
+   "logo": {
+    "file": "img/ine.png",
+    "title": "File:Logo ine 2026.svg",
+    "author": "Instituto Nacional Electoral",
+    "license": "Dominio público",
+    "license_url": null,
+    "retrieved_at": "2026-11-12",
+    "url": "https://commons.wikimedia.org/wiki/File:Logo_ine_2026.svg"
+   }
   },
   {
    "key": "fgr",
@@ -776,7 +803,16 @@
    "appointment": "El Senado forma una lista de diez, la Presidencia escoge una terna y el Senado elige por dos tercios.",
    "term": "Nueve años (artículo 102, apartado A, de la Constitución).",
    "head": "Ernestina Godoy Ramos",
-   "head_title": "Fiscal General de la República"
+   "head_title": "Fiscal General de la República",
+   "logo": {
+    "file": "img/fgr.png",
+    "title": "File:Logo de la FGR México.png",
+    "author": "Gabomiranda (Wikimedia Commons)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "retrieved_at": "2026-11-12",
+    "url": "https://commons.wikimedia.org/wiki/File:Logo_de_la_FGR_México.png"
+   }
   },
   {
    "key": "cndh",
@@ -787,7 +823,16 @@
    "appointment": "A quien la preside lo elige el Senado por dos tercios de los presentes, tras consulta pública.",
    "term": "Cinco años, con una sola reelección posible (artículo 102, apartado B, de la Constitución).",
    "head": "Rosario Piedra Ibarra",
-   "head_title": "Presidenta de la Comisión Nacional de los Derechos Humanos"
+   "head_title": "Presidenta de la Comisión Nacional de los Derechos Humanos",
+   "logo": {
+    "file": "img/cndh.png",
+    "title": "File:Logo Horizontal Color.png",
+    "author": "Logo_CNDH (Wikimedia Commons)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "retrieved_at": "2026-11-12",
+    "url": "https://commons.wikimedia.org/wiki/File:Logo_Horizontal_Color.png"
+   }
   }
  ],
  "warnings": [
@@ -71236,7 +71281,9 @@
     "retrieved_at": "2026-11-11T16:26:00Z",
     "person_url": "https://es.wikipedia.org/w/index.php?title=Graciela_M%C3%A1rquez_Col%C3%ADn&oldid=176107791",
     "person_published_at": "2026-11-02T04:35:04Z"
-   }
+   },
+   "appointment": "Lo designa la Presidencia de la República con aprobación del Senado.",
+   "term_rule": "Seis años, contados desde el 1 de enero del cuarto año del sexenio presidencial (Ley del Sistema Nacional de Información Estadística y Geográfica, artículo 68)."
   },
   {
    "office": "autonomous_head",
@@ -71265,7 +71312,9 @@
     "retrieved_at": "2026-11-11T16:26:00Z",
     "person_url": "https://es.wikipedia.org/w/index.php?title=Victoria_Rodr%C3%ADguez_Ceja&oldid=176059627",
     "person_published_at": "2026-10-29T19:30:08Z"
-   }
+   },
+   "appointment": "A quien lo gobierna lo designa la Presidencia de la República con aprobación del Senado.",
+   "term_rule": "Seis años, contados desde el 1 de enero del cuarto año del sexenio presidencial (Ley del Banco de México, artículo 40)."
   },
   {
    "office": "autonomous_head",
@@ -71294,7 +71343,9 @@
     "retrieved_at": "2026-11-11T16:26:00Z",
     "person_url": "https://es.wikipedia.org/w/index.php?title=Blanca_Cruz_Garc%C3%ADa&oldid=176101919",
     "person_published_at": "2026-11-01T20:39:31Z"
-   }
+   },
+   "appointment": "A quien preside su Consejo General lo elige la Cámara de Diputados por dos tercios de los presentes.",
+   "term_rule": "Nueve años, sin reelección. Si la falta ocurre en los primeros seis años, la Cámara de Diputados elige a quien concluya el periodo; si ocurre en los últimos tres, a alguien para un periodo nuevo (artículo 41, base V, apartado A, de la Constitución)."
   },
   {
    "office": "autonomous_head",
@@ -71323,7 +71374,9 @@
     "retrieved_at": "2026-11-11T16:26:00Z",
     "person_url": "https://es.wikipedia.org/w/index.php?title=Ernestina_Godoy_Ramos&oldid=176059444",
     "person_published_at": "2026-10-29T19:24:43Z"
-   }
+   },
+   "appointment": "El Senado forma una lista de diez, la Presidencia escoge una terna y el Senado elige por dos tercios.",
+   "term_rule": "Nueve años (artículo 102, apartado A, de la Constitución)."
   },
   {
    "office": "autonomous_head",
@@ -71352,7 +71405,9 @@
     "retrieved_at": "2026-11-11T16:26:00Z",
     "person_url": "https://es.wikipedia.org/w/index.php?title=Rosario_Piedra_Ibarra&oldid=175186881",
     "person_published_at": "2026-09-04T04:40:31Z"
-   }
+   },
+   "appointment": "A quien la preside lo elige el Senado por dos tercios de los presentes, tras consulta pública.",
+   "term_rule": "Cinco años, con una sola reelección posible (artículo 102, apartado B, de la Constitución)."
   }
  ]
 }

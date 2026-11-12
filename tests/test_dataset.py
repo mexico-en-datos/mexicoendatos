@@ -554,3 +554,5 @@ def test_autonomous_heads_become_records_with_their_computed_term_and_both_artic
     ine = records[2]
     assert ine["provisional"] and ine["term_end"] is None and ine["term_end_note"].startswith("Designación provisional")
     assert bodies[2]["short"] == "INE" and bodies[2]["head"] == "Blanca Cruz García" and "artículo 41" in bodies[2]["term"]
+    assert bodies[2]["logo"]["file"] == "img/ine.png" and bodies[2]["logo"]["url"] == "https://commons.wikimedia.org/wiki/File:Logo_ine_2026.svg"
+    assert ine["appointment"].startswith("A quien preside") and "artículo 41" in ine["term_rule"]
