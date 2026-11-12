@@ -36,6 +36,10 @@
             <input type="search" id="search-box" placeholder="Buscar entidad, municipio o ciudad" autocomplete="off" aria-label="Buscar un lugar" aria-controls="search-results" aria-expanded="false">
             <ul class="search__results" id="search-results" role="listbox" hidden></ul>
           </div>
+          <div class="layers" role="group" aria-label="Capas del mapa">
+            <label class="layer"><input type="checkbox" id="layer-pueblos"> Pueblos Mágicos</label>
+            <label class="layer"><input type="checkbox" id="layer-unesco"> Patrimonio Mundial</label>
+          </div>
           <div class="zoom" role="group" aria-label="Acercamiento del mapa">
             <button type="button" id="zoom-out" aria-label="Alejar">−</button>
             <button type="button" id="zoom-in" aria-label="Acercar">+</button>

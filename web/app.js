@@ -471,8 +471,8 @@
 
   const CHAMBER = {
     governor: { title: (n) => `Gubernaturas: ${n}`, seats: false, majorities: false },
-    senator: { title: (n) => `Senado${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (list) => `Zona sombreada «lista nacional»: los ${list} escaños de representación proporcional, elegidos por lista en todo el país; no representan a una entidad. Los otros 96 son tres por entidad.` },
-    deputy: { title: (n) => `Cámara de Diputados${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (list) => `Zonas sombreadas 1.ª a 5.ª: los ${list} escaños de representación proporcional, agrupados por la circunscripción (región del país) cuya lista los eligió. Los otros 300 son uno por distrito.` },
+    senator: { title: (n) => `Senado${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (list) => [`La zona sombreada es la `, el("strong", {}, "lista nacional"), `: ${list} escaños que no se votan por persona, sino que se reparten entre los partidos según su porcentaje de votos en todo el país, con listas que cada partido registra; por eso no representan a una entidad. Los otros 96 sí se eligen por entidad: dos para el partido que gana y uno para el que queda segundo (primera minoría).`] },
+    deputy: { title: (n) => `Cámara de Diputados${S.data.legislature ? `, ${S.data.legislature.roman} Legislatura` : ""}: ${n} escaños`, seats: true, majorities: true, list: (list) => [`Las zonas sombreadas son las `, el("strong", {}, "circunscripciones"), ` 1.ª a 5.ª: ${list} escaños que no se votan por persona, sino que se reparten entre los partidos según sus votos en cada una de esas cinco regiones, con listas que cada partido registra. Los otros 300 se eligen por distrito: gana quien tiene más votos en el suyo.`] },
     mayor: { title: (n) => `Municipios: ${integer.format(n)}`, seats: false, majorities: false },
     justice: { title: (n) => `Suprema Corte: ${n} ministras y ministros`, seats: true, majorities: false },
   };

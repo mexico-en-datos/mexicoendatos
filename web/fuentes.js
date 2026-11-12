@@ -16,9 +16,9 @@
       }
       return response.json();
     };
-    let data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex;
+    let data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex, heritage;
     try {
-      [data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex] = await Promise.all([
+      [data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex, heritage] = await Promise.all([
         getJSON("data/politicians.json"),
         getJSON("data/map_source.json"),
         getJSON("data/gdp.json", true),
@@ -28,6 +28,7 @@
         getJSON("data/capitals.json", true),
         getJSON("data/cities.json", true),
         getJSON("data/distritos_municipios.json", true),
+        getJSON("data/patrimonio.json", true),
       ]);
     } catch (error) {
       const notice = $("#load-error");
@@ -66,6 +67,15 @@
               "Cálculo propio sobre dos fuentes oficiales",
               el("p", {}, districtIndex.method),
               el("p", { class: "cite" }, `Distritos: ${districtIndex.sources.districts.name}, archivo del ${day(districtIndex.sources.districts.published_at)}, descargado el ${day(districtIndex.sources.districts.retrieved_at)}. Municipios: ${districtIndex.sources.municipalities.name}. Calculado el ${day(districtIndex.generated_at)}.`)
+            )
+          : null,
+        heritage
+          ? block(
+              "Pueblos Mágicos y Patrimonio Mundial",
+              "Fuente secundaria y fuente oficial",
+              el("p", {}, "Pueblos Mágicos: ", link(heritage.pueblos.citation.url, heritage.pueblos.citation.source_name), read(heritage.pueblos.citation), ` ${heritage.pueblos.count} localidades, con la fecha en que cada una entró al programa y sus coordenadas, tomadas de los mapas del anexo. El programa es de la `, link(heritage.pueblos.citation.programme_url, "Secretaría de Turismo"), ", que no publica la lista en una forma que pueda leerse automáticamente."),
+              el("p", {}, "Patrimonio Mundial: ", link(heritage.unesco.citation.url, heritage.unesco.citation.source_name), `; consultada el ${day(heritage.unesco.citation.retrieved_at)}. ${heritage.unesco.count} sitios, con su categoría, año de inscripción y cada uno de los puntos que la UNESCO les asigna.`),
+              heritage.warnings.length ? el("ul", {}, heritage.warnings.map((w) => el("li", {}, w))) : null
             )
           : null,
         capitals ? block("Capitales de las entidades", "Fuente secundaria", el("p", {}, link(capitals.citation.url, capitals.citation.source_name), read(capitals.citation)), el("p", {}, "Cada capital se ubica en su municipio según el catálogo del INEGI; las capitales cuyo municipio tiene otro nombre (Villahermosa en Centro, Chetumal en Othón P. Blanco…) están emparejadas una por una.")) : null,

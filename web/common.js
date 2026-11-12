@@ -115,6 +115,9 @@ window.MXD = (() => {
     "Mayoría absoluta": "Más de la mitad de los escaños de la cámara en manos de un solo grupo.",
     "Órganos constitucionales autónomos": "Instituciones que la Constitución crea fuera de los tres poderes, con presupuesto y titulares propios, para que ningún poder sea juez y parte en lo que hacen: elecciones, moneda, estadística, derechos humanos y persecución de los delitos.",
     "Órgano constitucional autónomo": "Institución creada por la Constitución fuera de los tres poderes, con titular que estos no pueden remover libremente.",
+    "Pueblos Mágicos": "Programa de la Secretaría de Turismo (desde 2001) que reconoce localidades por su historia, cultura o paisaje; 177 en la lista más reciente.",
+    "Pueblo Mágico": "Localidad reconocida por la Secretaría de Turismo por su historia, cultura o paisaje, dentro del programa del mismo nombre.",
+    "Patrimonio Mundial": "Sitios que la UNESCO inscribe por su valor universal excepcional, cultural o natural; México tiene 36.",
   };
   const GLOSSARY_KEYS = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length);
 

@@ -1,0 +1,1682 @@
+{{AP|Pueblos mágicos}}
+'''Pueblos mágicos''' es un programa desarrollado por la [[Secretaría de Turismo (México)|Secretaría de turismo]] de [[México]] en conjunto con diversas instancias gubernamentales, que reconoce a las localidades del país en que destaca su resguardo a su riqueza cultural.<ref>{{Cita web|url = http://archivo.eluniversal.com.mx/articulos/64825.html|título = Cómo identificar un pueblo mágico|autor = Jessica Servín|enlaceautor = |fecha = 4 de julio de 2011|idioma = |editorial = El universal|fechaacceso = 4 de julio de 2011|sitioweb = }}</ref>
+
+== Mapa ==
+{|style = "border:1px solid grey;background:#F8F8FF;" cellpadding="4" cellspacing="0" align="center"
+|{{Mapa de localización+
+| México
+| border         = grey
+| float          = center
+| ancho          = 1100
+| lugares        = 
+{{Mapa de localización~|México|label=|Calvillo|mark= |marksize= |position=|lat=21.846944|long= -102.718611}}
+{{Mapa de localización~|México|label=|Pabellón de Hidalgo|mark= |marksize= |position=|lat=22.17638|long=-102.33972}}
+{{Mapa de localización~|México|label=|Real de Asientos|mark= |marksize= |position=|lat=22.239722|long=-102.088889}}
+{{Mapa de localización~|México|label=|San José de Gracia|mark= |marksize= |position=|lat=22.149369|long=-102.4148324}}
+{{Mapa de localización~|México|label=|Tecate|mark= |marksize= |position=bottom|lat=32.566667|long=-116.633056}}
+{{Mapa de localización~|México|label=|Loreto|mark= |marksize= |position=|lat=26.012778|long=-111.343333}}
+{{Mapa de localización~|México|label=|Santa Rosalía|mark= |marksize= |position=|lat=27.33694|long=-112.2683}}
+{{Mapa de localización~|México|label=|Todos Santos|mark= |marksize= |position=|lat=23.4558918|long=-110.2353474}}
+{{Mapa de localización~|México|label=|Palizada|mark= |marksize= |position=|lat=18.255556|long=-92.091667}}
+{{Mapa de localización~|México|label=|Isla Aguada|mark= |marksize= |position=|lat=18.784722|long=-91.491667}}
+{{Mapa de localización~|México|label=|Candelaria|mark= |marksize= |position=|lat=18.183451|long=-91.046294}}
+{{Mapa de localización~|México|label=|Chiapa de Corzo|mark= |marksize= |position=left|lat=16.708333|long=-93.016944}}
+{{Mapa de localización~|México|label=|Copainalá|mark= |marksize= |position=|lat=17.093611|long=-93.210556}}
+{{Mapa de localización~|México|label=|Comitán de Domínguez|mark= |marksize= |position=|lat=16.251111|long=-92.134167}}
+{{Mapa de localización~|México|label=|Ocozocoautla de Espinosa|mark= |marksize= |position=top|lat=16.7625|long=-93.375}}
+{{Mapa de localización~|México|label=|Palenque|mark= |marksize= |position=|lat=17.5100611|long=-91.9792619}}
+{{Mapa de localización~|México|label=|San Cristóbal de Las Casas|mark= |marksize= |position=|lat=16.736667|long=-92.638333}}
+{{Mapa de localización~|México|label=|Batopilas|mark= |marksize= |position=|lat=27.026667|long=-107.739444}}
+{{Mapa de localización~|México|label=|Casas Grandes|mark= |marksize= |position=|lat=30.3767117|long=-107.9518817}}
+{{Mapa de localización~|México|label=|Creel|mark= |marksize= |position=|lat=27.753056|long=-107.635}}
+{{Mapa de localización~|México|label=|Guachochi|mark= |marksize= |position=|lat=26.819444|long=-107.07}}
+{{Mapa de localización~|México|label=|Hidalgo del Parral|mark= |marksize= |position=|lat=26.9325|long=-105.663056}}
+{{Mapa de localización~|México|label=|Arteaga|mark= |marksize= |position=right|lat=25.445278|long=-100.846667}}
+{{Mapa de localización~|México|label=|Candela|mark= |marksize= |position=right|lat=26.8409127|long= -100.6684711}}
+{{Mapa de localización~|México|label=|Cuatrociénegas|mark= |marksize= |position=|lat=26.985833|long=-102.066667}}
+{{Mapa de localización~|México|label=|General Cepeda|mark= |marksize= |position=bottom|lat=25.376389|long=-101.475}}
+{{Mapa de localización~|México|label=|Guerrero|mark= |marksize= |position=|lat=28.307774|long=-100.381375}}
+{{Mapa de localización~|México|label=|Parras|mark= |marksize= |position=|lat=25.436944|long=-102.183611}}
+{{Mapa de localización~|México|label=|Múzquiz|mark= |marksize= |position=|lat=27.880983|long=-101.512689}}
+{{Mapa de localización~|México|label=|Viesca|mark= |marksize= |position=|lat=25.3425|long=-102.806667}}
+{{Mapa de localización~|México|label=|Comala|mark= |marksize= |position=|lat=19.320833|long=-103.760278}}
+{{Mapa de localización~|México|label=|Mapimí|mark= |marksize= |position=|lat=25.833056|long=-103.847778}}
+{{Mapa de localización~|México|label=|Nombre de Dios|mark= |marksize= |position=|lat=23.849208|long=-104.244884}}
+{{Mapa de localización~|México|label=|Comonfort|mark= |marksize= |position=|lat=20.723813|long=-100.759146}}
+{{Mapa de localización~|México|label=|Dolores Hidalgo|mark= |marksize= |position=left|lat=21.158333|long=-100.933333}}
+{{Mapa de localización~|México|label=|Jalpa de Cánovas|mark= |marksize= |position=|lat=20.8794307|long=-101.9828841}}
+{{Mapa de localización~|México|label=|Mineral de Pozos|mark= |marksize= |position=right|lat=21.221944|long=-100.495556}}
+{{Mapa de localización~|México|label=|Salvatierra|mark= |marksize= |position=|lat=20.215|long=-100.878056}}
+{{Mapa de localización~|México|label=|Yuriria|mark= |marksize= |position=left|lat=20.212222|long=-101.1275}}
+{{Mapa de localización~|México|label=|Ixcateopan|mark= |marksize= |position=bottom|lat=18.5|long=-99.793333}}
+{{Mapa de localización~|México|label=|Taxco de Alarcón|mark= |marksize= |position=|lat=18.556389|long=-99.605}}
+{{Mapa de localización~|México|label=|Zihuatanejo|mark= |marksize= |position=|lat=17.64344|long=-101.55212}}
+{{Mapa de localización~|México|label=|Acaxochitlán|mark= |marksize= |position=right|lat=20.158333|long=-98.202222}}
+{{Mapa de localización~|México|label=|Huasca|mark= |marksize= |position=right|lat=20.203611|long=-98.593056}}
+{{Mapa de localización~|México|label=|Huichapan|mark= |marksize= |position=|lat=20.375278|long=-99.650556}}
+{{Mapa de localización~|México|label=|Metztitlán|mark= |marksize= |position=top|lat=20.584444|long=-98.763056}}
+{{Mapa de localización~|México|label=|Mineral del Chico|mark= |marksize= |position=left|lat=20.203056|long=-98.747778}}
+{{Mapa de localización~|México|label=|Mineral del Monte|mark= |marksize= |position=|lat=20.139167|long=-98.671667}}
+{{Mapa de localización~|México|label=|Tecozautla|mark= |marksize= |position=|lat=20.5329587|long=-99.6333008}}
+{{Mapa de localización~|México|label=|Zimapán|mark= |marksize= |position=|lat=20.738205|long=-99.382781}}
+{{Mapa de localización~|México|label=|Zempoala|mark= |marksize= |position=|lat=19.915556|long=-98.67}}
+{{Mapa de localización~|México|label=|Ajijic|mark= |marksize= |position=right|lat=20.299444|long=-103.258056}}
+{{Mapa de localización~|México|label=|Cocula|mark= |marksize= |position=|lat=20.36517|long=-103.82215}}
+{{Mapa de localización~|México|label=|Lagos de Moreno|mark= |marksize= |position=|lat=21.35|long=-101.916667}}
+{{Mapa de localización~|México|label=|Mascota|mark= |marksize= |position=left|lat=20.5239793|long=-104.7888057}}
+{{Mapa de localización~|México|label=|Mazamitla|mark= |marksize= |position=|lat=19.915556|long=-103.019444}}
+{{Mapa de localización~|México|label=|Sayula|mark= |marksize= |position=right|lat=19.883611|long=-103.601111}}
+{{Mapa de localización~|México|label=|San Sebastián|mark= |marksize= |position=|lat=20.65|long=-104.583}}
+{{Mapa de localización~|México|label=|Talpa de Allende|mark= |marksize= |position=|lat=20.3804383|long=-104.8228625}}
+{{Mapa de localización~|México|label=|Tapalpa|mark= |marksize= |position=|lat=19.944521|long=-103.758548}}
+{{Mapa de localización~|México|label=|Tequila|mark= |marksize= |position=|lat=20.882778|long=-103.836667}}
+{{Mapa de localización~|México|label=|Temacapulín|mark= |marksize= |position=left|lat=21.188333|long=-102.706667}}
+{{Mapa de localización~|México|label=|Tlaquepaque|mark= |marksize= |position=|lat=20.639872|long=-103.310681}}
+{{Mapa de localización~|México|label=|Aculco|mark=|marksize= |position=|lat=20.1357416|long=-99.8284041}}
+{{Mapa de localización~|México|label=|El Oro|mark= |marksize= |position=|lat=19.800833|long=-100.131389}}
+{{Mapa de localización~|México|label=|Ixtapan|mark= |marksize= |position=|lat=18.8438127|long=-99.6759874}}
+{{Mapa de localización~|México|label=|Jilotepec|mark= |marksize= |position=left|lat=19.95194|long=-99.53278}}
+{{Mapa de localización~|México|label=|Malinalco|mark= |marksize= |position=|lat=18.95|long=-99.5}}
+{{Mapa de localización~|México|label=|Metepec |mark= |marksize= |position=|lat=19.25|long=-99.6}}
+{{Mapa de localización~|México|label=|Otumba|mark= |marksize= |position=bottom|lat=19.696944|long=-98.754722}}
+{{Mapa de localización~|México|label=|Teotihuacán|mark= |marksize= |position=right|lat=19.6925|long=-98.8438}}
+{{Mapa de localización~|México|label=|Tepotzotlán|mark= |marksize= |position=|lat=19.716111|long=-99.223611}}
+{{Mapa de localización~|México|label=|Tonatico|mark= |marksize= |position=left|lat=18.805|long=-99.669167}}
+{{Mapa de localización~|México|label=|Valle de Bravo|mark= |marksize= |position=|lat=19.1925|long=-100.130556}}
+{{Mapa de localización~|México|label=|Villa del Carbón|mark= |marksize= |position=left|lat=19.7278935|long=-99.4635401}}
+{{Mapa de localización~|México|label=|Cotija|mark= |marksize= |position=left|lat=19.81|long=-102.704722}}
+{{Mapa de localización~|México|label=|Cuitzeo|mark= |marksize= |position=|lat=19.9686|long=-101.139}}
+{{Mapa de localización~|México|label=|Jiquilpan|mark= |marksize= |position=|lat=19.994167|long=-102.717222}}
+{{Mapa de localización~|México|label=|Angangueo|mark= |marksize= |position=right|lat=19.617778|long=-100.285556}}
+{{Mapa de localización~|México|label=|Pátzcuaro|mark= |marksize= |position=|lat=19.516389|long=-101.609722}}
+{{Mapa de localización~|México|label=|Santa Clara|mark= |marksize= |position=|lat=19.405278|long=-101.638333}}
+{{Mapa de localización~|México|label=|Tacámbaro|mark= |marksize= |position=|lat=19.235556|long=-101.456944}}
+{{Mapa de localización~|México|label=|Tlalpujahua|mark= |marksize= |position=|lat=19.805|long=-100.174444}}
+{{Mapa de localización~|México|label=|Tzintzuntzan|mark= |marksize= |position=|lat=19.628333|long=-101.578889}}
+{{Mapa de localización~|México|label=|Paracho|mark= |marksize= |position=left|lat=19.647297|long=-102.048468}}
+{{Mapa de localización~|México|label=|Tepoztlán|mark= |marksize= |position=|lat=18.985278|long=-99.099722}}
+{{Mapa de localización~|México|label=|Tlaltizapán|mark= |marksize= |position=|lat=18.6881655|long=-99.1422276}}
+{{Mapa de localización~|México|label=|Tlayacapan|mark= |marksize= |position=|lat=18.955556|long=-98.981111}}
+{{Mapa de localización~|México|label=|Xochitepec|mark= |marksize= |position=|lat=18.7950677|long=-99.3087766}}
+{{Mapa de localización~|México|label=|Ahuacatlán|mark= |marksize= |position=left|lat=21.054444|long=-104.484444}}
+{{Mapa de localización~|México|label=|Amatlán|mark= |marksize= |position=|lat=20.8113431|long=-104.4392181}}
+{{Mapa de localización~|México|label=|Compostela|mark= |marksize= |position=|lat=21.236888|long=-104.900636}}
+{{Mapa de localización~|México|label=|Ixtlán|mark= |marksize= |position=|lat=21.036914|long=-104.4442824}}
+{{Mapa de localización~|México|label=|Mexcaltitán|mark= |marksize= |position=|lat=21.905833|long=-105.475278}}
+{{Mapa de localización~|México|label=|Jala|mark= |marksize= |position=|lat=21.103274|long=-104.434305}}
+{{Mapa de localización~|México|label=|Puerto Balleto|mark= |marksize= |position=|lat=21.633889|long=-106.539167}}
+{{Mapa de localización~|México|label=|San Blas|mark= |marksize= |position=|lat=21.539722|long=-105.285556}}
+{{Mapa de localización~|México|label=|Sayulita|mark= |marksize= |position=|lat=20.8693673|long=-105.4408676}}
+{{Mapa de localización~|México|label=|Bustamante|mark= |marksize= |position=|lat=26.534405|long=-100.502786}}
+{{Mapa de localización~|México|label=|Linares|mark= |marksize= |position=|lat=24.859762|long=-99.5675485}}
+{{Mapa de localización~|México|label=|Santiago|mark= |marksize= |position=|lat=25.433333|long=-100.133333}}
+{{Mapa de localización~|México|label=|General Zaragoza|mark= |marksize= |position=|lat=23.8802692|long=-99.7402543685723}}
+{{Mapa de localización~|México|label=|General Teran|mark= |marksize= |position=|lat=25.2538|long=-99.6781}}
+{{Mapa de localización~|México|label=|Capulálpam|mark= |marksize= |position=|lat=17.3|long=-96.45}}
+{{Mapa de localización~|México|label=|Huautla|mark= |marksize= |position=|lat=18.1297806|long=-96.8550499}}
+{{Mapa de localización~|México|label=|Mazunte|mark= |marksize= |position=|lat=15.665571|long=-96.5557883}}
+{{Mapa de localización~|México|label=|Mitla|mark= |marksize= |position=|lat=16.9210829|long=-96.3661293}}
+{{Mapa de localización~|México|label=|Teposcolula|mark= |marksize= |position=|lat=17.5113998|long=-97.4940898}}
+{{Mapa de localización~|México|label=|Juquila|mark= |marksize= |position=|lat=16.236389|long=-97.291944}}
+{{Mapa de localización~|México|label=|Atlixco|mark= |marksize= |position=left|lat=18.9125|long=-98.427778}}
+{{Mapa de localización~|México|label=|Chignahuapan|mark= |marksize= |position=left|lat=19.833333|long=-98.033333}}
+{{Mapa de localización~|México|label=|Cholula|mark= |marksize= |position=|lat=19.06|long=-98.31}}
+{{Mapa de localización~|México|label=|Cuetzalan|mark= |marksize= |position=|lat=20.018611|long=-97.521111}}
+{{Mapa de localización~|México|label=|Huauchinango|mark= |marksize= |position=|lat=20.1751549|long=-98.0528736}}
+{{Mapa de localización~|México|label=|Huejotzingo|mark= |marksize= |position=|lat=19.15945|long=-98.40734}}
+{{Mapa de localización~|México|label=|Pahuatlán|mark= |marksize= |position=left|lat=20.283333|long=-98.15}}
+{{Mapa de localización~|México|label=|Tetela|mark= |marksize= |position=bottom|lat=19.8164878|long=-97.806474}}
+{{Mapa de localización~|México|label=|Teziutlán|mark= |marksize= |position=bottom|lat=19.853689|long=-97.358231}}
+{{Mapa de localización~|México|label=|Tlatlauquitepec|mark= |marksize= |position=|lat=19.851389|long=-97.496111}}
+{{Mapa de localización~|México|label=|Xicotepec|mark= |marksize= |position=|lat=20.3|long=-97.966667}}
+{{Mapa de localización~|México|label=|Zacatlán|mark= |marksize= |position=|lat=19.931944|long=-97.96}}
+{{Mapa de localización~|México|label=|Amealco|mark= |marksize= |position=|lat=20.186701|long=-100.144359}}
+{{Mapa de localización~|México|label=|Bernal|mark= |marksize= |position=left|lat=20.738889|long=-99.94}}
+{{Mapa de localización~|México|label=|Cadereyta|mark= |marksize= |position=left|lat=20.691|long=-99.819}}
+{{Mapa de localización~|México|label=|Jalpan|mark= |marksize= |position=|lat=21.216944|long=-99.474444}}
+{{Mapa de localización~|México|label=|Pinal|mark= |marksize= |position=left|lat=21.1354079|long=-99.6306724}}
+{{Mapa de localización~|México|label=|San Joaquín|mark= |marksize= |position=|lat=20.9156201|long=-99.56617}}
+{{Mapa de localización~|México|label=|Tequisquiapan|mark= |marksize= |position=|lat=20.520556|long=-99.895833}}
+{{Mapa de localización~|México|label=|Bacalar|mark= |marksize= |position=|lat=18.676944|long=-88.395278}}
+{{Mapa de localización~|México|label=|Isla Mujeres|mark= |marksize= |position=|lat=21.233333|long=-86.733333}}
+{{Mapa de localización~|México|label=|Cozumel|mark= |marksize= |position=|lat=20.487706|long=-86.927724}}
+{{Mapa de localización~|México|label=|Tulum|mark= |marksize= |position=|lat=20.212981|long=-87.4654253}}
+{{Mapa de localización~|México|label=|Aquismón|mark= |marksize= |position=|lat=21.621186|long=-99.019680}}
+{{Mapa de localización~|México|label=|Ciudad del Maíz|mark= |marksize= |position=|lat=22.401944|long=-99.604722}}
+{{Mapa de localización~|México|label=|Real de Catorce|mark= |marksize= |position=|lat=23.688889|long=-100.887778}}
+{{Mapa de localización~|México|label=|Santa María del Río|mark= |marksize= |position=|lat=21.800453|long=-100.736273}}
+{{Mapa de localización~|México|label=|Tierranueva|mark= |marksize= |position=|lat=21.6694574|long=-100.6130357}}
+{{Mapa de localización~|México|label=|Xilitla|mark= |marksize= |position=|lat=21.384|long=-98.99}}
+{{Mapa de localización~|México|label=|Cosalá|mark= |marksize= |position=|lat=24.414167|long=-106.688611}}
+{{Mapa de localización~|México|label=|El Fuerte|mark= |marksize= |position=|lat=26.4|long=-108.617}}
+{{Mapa de localización~|México|label=|El Rosario|mark= |marksize= |position=|lat=22.991944|long=-105.861389}}
+{{Mapa de localización~|México|label=|Mocorito|mark= |marksize= |position=|lat=25.4815371|long=-107.9244944}}
+{{Mapa de localización~|México|label=|San Ignacio|mark= |marksize= |position=|lat=23.941389|long=-106.424167}}
+{{Mapa de localización~|México|label=|Álamos|mark= |marksize= |position=|lat=27.0275|long=-108.94}}
+{{Mapa de localización~|México|label=|Ures|mark= |marksize= |position=|lat=29.4280|long=-110.38944}}
+{{Mapa de localización~|México|label=|Magdalena de Kino|mark= |marksize= |position=|lat=30.624722|long=-110.968611}}
+{{Mapa de localización~|México|label=|San Carlos|mark= |marksize= |position=|lat=27.9686|long=-111.0322}}
+{{Mapa de localización~|México|label=|Frontera|mark= |marksize= |position=|lat=18.530111|long=-92.652187}}
+{{Mapa de localización~|México|label=|Santiago de Teapa|mark= |marksize= |position=left|lat=17.548284|long=-92.952994}}
+{{Mapa de localización~|México|label=|Tapijulapa|mark= |marksize= |position=|lat=17.459722|long=-92.779167}}
+{{Mapa de localización~|México|label=|Mier|mark= |marksize= |position=|lat=26.437339|long=-99.149297}}
+{{Mapa de localización~|México|label=|Tula|mark= |marksize= |position=|lat=23.0006739|long=-99.7082509}}
+{{Mapa de localización~|México|label=|Huamantla|mark= |marksize= |position=|lat=19.312778|long=-97.921667}}
+{{Mapa de localización~|México|label=|Ixtenco|mark= |marksize= |position=|lat=19.2509222|long=-97.9336299}}
+{{Mapa de localización~|México|label=|Tlaxco|mark= |marksize= |position=|lat=19.6146399|long=-98.1193869}}
+{{Mapa de localización~|México|label=|Coatepec|mark= |marksize= |position=|lat=19|long=-96}}
+{{Mapa de localización~|México|label=|Coscomatepec|mark= |marksize= |position=left|lat=19.0730237|long=-97.0474296}}
+{{Mapa de localización~|México|label=|Córdoba|mark= |marksize= |position=|lat=18.894167|long=-96.934722}}
+{{Mapa de localización~|México|label=|Naolinco|mark= |marksize= |position=|lat=19.655833|long=-96.873611}}
+{{Mapa de localización~|México|label=|Orizaba|mark= |marksize= |position=|lat=18.849377|long=-97.1059995}}
+{{Mapa de localización~|México|label=|Papantla|mark= |marksize= |position=|lat=20.448889|long=-97.324444}}
+{{Mapa de localización~|México|label=|Xico|mark= |marksize= |position=|lat=19.417|long=-97}}
+{{Mapa de localización~|México|label=|Zozocolco|mark= |marksize= |position=|lat=20.1423554|long=-97.5852077}}
+{{Mapa de localización~|México|label=|Espita|mark= |marksize= |position=|lat=21.0127|long=-88.3047}}
+{{Mapa de localización~|México|label=|Izamal|mark= |marksize= |position=|lat=20.931389|long=-89.017778}}
+{{Mapa de localización~|México|label=|Maní|mark= |marksize= |position=|lat=20.386389|long=-89.390278}}
+{{Mapa de localización~|México|label=|Motul|mark= |marksize= |position=|lat=21.095|long=-89.2830}}
+{{Mapa de localización~|México|label=|Sisal|mark= |marksize= |position=|lat=21.165278|long=-90.030556}}
+{{Mapa de localización~|México|label=|Tekax|mark= |marksize= |position=|lat=20.2019|long=-89.2880}}
+{{Mapa de localización~|México|label=|Valladolid|mark= |marksize= |position=|lat=20.689444|long=-88.201667}}
+{{Mapa de localización~|México|label=|Guadalupe|mark= |marksize= |position=|lat=22.747716|long=-102.517058}}
+{{Mapa de localización~|México|label=|Jerez|mark= |marksize= |position=|lat=22.65|long=-103}}
+{{Mapa de localización~|México|label=|Nochistlán|mark= |marksize= |position=|lat=21.3606|long=-102.846}}
+{{Mapa de localización~|México|label=|Pinos|mark= |marksize= |position=|lat=22.2983|long=-101.574}}
+{{Mapa de localización~|México|label=|Sombrerete|mark= |marksize= |position=|lat=23.633333|long=-103.633333}}
+{{Mapa de localización~|México|label=|Teúl|mark= |marksize= |position=|lat=21.461944|long=-103.460556}}
+{{Mapa de localización~|México|label=|Villanueva|mark= |marksize= |position=|lat=22.353611|long=-102.883056}}
+}}
+Localización de los 177 pueblos mágicos de México.
+|}
+
+== Pueblos considerados en el programa ==
+
+=== Aguascalientes ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Calvillo, Aguascalientes (21082187332).jpg|sinmarco|150px]]
+| '''[[Calvillo]]'''
+| {{orden|2012-11-01|1 de noviembre de 2012}}<ref>{{cita web |url=https://www.gob.mx/sectur/articulos/calvillo-aguascalientes |título=Calvillo, Aguascalientes |fechaacceso=9 de julio de 2023 |editorial=Gobierno de México }}</ref>
+|-
+| [[Archivo:Pabellón de Hidalgo, Rincón de Romos, Aguascalientes, México 7.jpg|border|150px]]
+| '''[[Pabellón de Hidalgo]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3">{{Cita web|url=https://www.eluniversal.com.mx/tendencias/vacaciones-mexico-tiene-45-nuevos-pueblos-magicos-para-explorar/|título=¿Vacaciones? México tiene 45 nuevos Pueblos Mágicos para explorar|fechaacceso=2023-06-27|sitioweb=El Universal|fecha=2023-06-26}}</ref>
+|-
+| [[Archivo:Asientos, Aguascalientes (20771653409).jpg|border|150px]]
+| '''[[Real de Asientos]]'''
+| {{orden|2006-10-30|30 de octubre de 2006}}<ref>{{cita web |url=http://www.asientos.gob.mx/paginas/historia.html |título=Asientos. Historia |fechaacceso=9 de julio de 2023 |editorial=Ayuntamiento de Asientos }}</ref>
+|-
+| [[Archivo:Santuario del Cristo Roto en San José de Gracia, Aguascalientes 14.JPG|border|150px]]
+| '''[[San José de Gracia (municipio)|San José de Gracia]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+ | Aguascalientes
+ | border         = grey
+ | float          = center
+ | ancho          = 400
+ | lugares        =
+ {{Mapa de localización~|Aguascalientes|lat=21.846944|long=-102.718611|label='''Calvillo'''}}
+ {{Mapa de localización~|Aguascalientes|lat=22.176380|long=-102.339720|label='''Pabellón de Hidalgo'''}}
+ {{Mapa de localización~|Aguascalientes|lat=22.239722|long=-102.088889|label='''Real de Asientos'''}}
+ {{Mapa de localización~|Aguascalientes|lat=22.149369|long=-102.414832|label='''San José de Gracia'''|position=left}}
+ }}
+|}
+
+=== Baja California ===
+{| style="margin:auto;"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:TecatePuebloMágico.jpg|border|150px]]
+| '''[[Tecate]]'''
+| 2012<ref>{{cita web |url=https://www.gob.mx/sectur/articulos/tecate-baja-california-206668 |título=Tecate, Baja California |fechaacceso=9 de julio de 2023 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+| Baja California
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Baja California|lat=32.566667|long=-116.633056|label='''Tecate'''}}
+}}
+|}
+
+=== Baja California Sur ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Facade of Mision de Loreto - Loreto - Baja California Sur - Mexico - 01 (23599242320).jpg|border|150px]]
+| '''[[Loreto (Baja California Sur)|Loreto]]'''
+| {{orden|2012-06-13|13 de junio de 2012}}<ref>{{cita web |url=https://www.publimetro.com.mx/mx/turismo/2012/06/14/loreto-baja-california-nuevo-pueblo-magico-mexico.html |título=Loreto, Baja California, es el nuevo pueblo mágico de México |fecha=13 de junio de 2012 |fechaacceso=9 de julio de 2023 |editorial=Publímetro}}</ref>
+|-
+| [[Archivo:Iglesia Santa Barbara de Santa Rosalia (3609333411).jpg|border|150px]]
+| '''[[Santa Rosalia (Baja California Sur)|Santa Rosalía]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Plaza Todos Santos BCS - panoramio.jpg|border|150px]]
+| '''[[Todos Santos (Baja California Sur)|Todos Santos]]'''
+| 2006<ref name="pueblomag" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Baja California Sur
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Baja California Sur|lat=26.0127780|long=-111.3433330|label='''Loreto'''}}
+{{Mapa de localización~|Baja California Sur|lat=27.3369400|long=-112.2683000|label='''Santa Rosalia'''}}
+{{Mapa de localización~|Baja California Sur|lat=23.4558918|long=-110.2353474|label='''Todos Santos'''}}
+}}
+|}
+
+=== Campeche ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:MALECON DE CANDELARIA CAMPECHE - panoramio.jpg|border|150px]]
+| '''[[Candelaria (Campeche)|Candelaria]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Malecón Isla Aguada - panoramio.jpg|border|150px]]
+| '''[[Isla Aguada]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:Iglesia Palizada Campeche - panoramio.jpg|border|150px]]
+| '''[[Palizada (México)|Palizada]]'''
+| {{orden|2010-10-04|4 de octubre de 2010}}<ref>{{Enlace roto|1={{cita web|url=http://www.tab.rumbonuevo.com.mx/index.php?option=com_content&view=article&id=43909:eligen-a-palizada-pueblo-magico&catid=73:campeche&Itemid=603|título=Eligen a Palizada “Pueblo Mágico”|fechaacceso=4 de octubre de 2010|editorial=''Rumbo Nuevo''}} |2=http://www.tab.rumbonuevo.com.mx/index.php?option=com_content&view=article&id=43909:eligen-a-palizada-pueblo-magico&catid=73:campeche&Itemid=603 |bot=InternetArchiveBot }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+| Campeche
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Campeche|lat=18.1909171|long=-91.0788477|label='''Candelaria'''}}
+{{Mapa de localización~|Campeche|lat=18.7847220|long=-91.4916670|label='''Isla Aguada'''}}
+{{Mapa de localización~|Campeche|lat=18.2555560|long=-92.0916670|label='''Palizada'''}}
+}}
+|}
+
+=== Chiapas ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Fuente colonial en Chiapa de Corzo.jpg|border|150px]]
+| '''[[Chiapa de Corzo]]'''
+| {{orden|2012-10-09|9 de octubre de 2012}}<ref>{{cita web |url=https://www.sendamaya.com/pueblo-magico-chiapa-de-corzo/ |título=Conoce los Pueblos Mágicos: Chiapa de Corzo |fechaacceso=9 de julio de 2023 |editorial=Senda Maya }}</ref>
+|-
+| [[Archivo:IGLESIA DE SANTO DOMINGO.JPG|border|150px]]
+|  '''[[Comitán de Domínguez]]'''
+| {{orden|2012-10-09|9 de octubre de 2012}}<ref>{{cita web |url=https://www.sendamaya.com/comitan-de-dominguez-pueblo-magico/ |título=Conoce los Pueblos Mágicos: Comitán de Domínguez |fechaacceso=9 de julio de 2023 |editorial=Senda Maya }}</ref>
+|-
+| [[Archivo:Copainala.jpg|border|150px]]
+| '''[[Copainalá]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Ermita de San Bernabé.jpg|border|150px]]
+| '''[[Ocozocoautla de Espinosa]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:FacadeParishPalenque.JPG|border|150px]]
+| '''[[Palenque (Chiapas)|Palenque]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}
+|-
+| [[Archivo:Catedral de San Cristóbal de las Casas 1.jpg|border|150px]]
+| '''[[San Cristóbal de las Casas]]'''
+| 2003<ref name="pueblomag" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Chiapas
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Chiapas|label='''Chiapa de Corzo'''|mark= |marksize= |position=bottom|lat=16.708333|long=-93.016944}}
+{{Mapa de localización~|Chiapas|label='''Copainalá'''|mark= |marksize= |position=|lat=17.093611|long=-93.210556}}
+{{Mapa de localización~|Chiapas|label='''Comitán'''|mark= |marksize= |position=|lat=16.251111|long=-92.134167}}
+{{Mapa de localización~|Chiapas|label='''Ocozocoautla'''|mark= |marksize= |position=top|lat=16.7625|long=-93.375}}
+{{Mapa de localización~|Chiapas|label='''Palenque'''|mark= |marksize= |position=|lat=17.5100611|long=-91.9792619}}
+{{Mapa de localización~|Chiapas|label='''San Cristóbal de Las Casas'''|mark= |marksize= |position=|lat=16.736667|long=-92.638333}}
+}}
+|}
+
+=== Chihuahua ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Batopilas downtown area.jpg|border|150px]]
+| '''[[Batopilas|Batopilas de Manuel Gómez Morín]]'''
+| {{orden|2012-10-19|19 de octubre de 2012}}<ref>{{cita web |url=https://www.sinembargo.mx/19-10-2012/404245 |título=Calderón Hinojosa declara Pueblo Mágico a Batopilas |fecha=19 de octubre de 2012 |fechaacceso=9 de julio de 2023 |editorial=Sin Embargo }}</ref>
+|-
+| [[Archivo:Paquime0002.jpg|border|150px]]
+| '''[[Casas Grandes (México)|Casas Grandes]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Creel-Station.jpg|border|150px]]
+| '''[[Creel]]'''
+| 2007<ref name="pueblomag" />
+|-
+| [[Archivo:Casetita en la Sinforosa - panoramio.jpg|border|150px]]
+| '''[[Guachochi]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Parroquia San José en Hidalgo del Parral.jpg|border|150px]]
+| '''[[Hidalgo del Parral]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Chihuahua
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Chihuahua|lat=27.026667|long=-107.7394440|label='''Batopilas'''}}
+{{Mapa de localización~|Chihuahua|lat=30.376711|long=-107.9518817|label='''Casas Grandes'''}}
+{{Mapa de localización~|Chihuahua|lat=27.753056|long=-107.6350000|label='''Creel'''}}
+{{Mapa de localización~|Chihuahua|lat=26.819444|long=-107.0700000|label='''Guachochi'''}}
+{{Mapa de localización~|Chihuahua|lat=26.932500|long=-105.6630560|label='''Hidalgo del Parral'''}}
+}}
+|}
+
+=== Coahuila ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Frente del Templo San Isidro Labrador de las Palomas.JPG|border|150px]]
+| '''[[Arteaga (Coahuila)|Arteaga]]'''
+| 2012
+|-
+| [[Archivo:Iglesia en Candela, Coahuila.jpg|border|150px]]
+| ''' [[Candela (Coahuila)|Candela]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Parroquia de San José - Cuatro Ciénegas, Coahuila 2.jpg|border|150px]]
+| '''[[Cuatrociénegas de Carranza]]'''
+| 2012
+|-
+| [[Archivo:Templo SanFDA.jpg|border|150px]]
+| ''' [[General Cepeda]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Misión de San Bernardo, Guerrero, Coahuila (22323729824).jpg|border|150px]]
+| ''' [[Guerrero (Coahuila)|Guerrero]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Parroquia de Santa Rosa de Lima.jpg|border|150px]]
+| [[Ciudad Melchor Múzquiz|'''Melchor Múzquiz''']]
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|-
+| [[Archivo:ParrasPuebloMagico.jpg|border|150px]]
+| '''[[Parras de la Fuente]]'''
+| 2004<ref name="pueblomag" />
+|-
+| [[Archivo:Santa_Ana_de_los_Hornos,_Viesca_Coah.JPG |border|150px]]
+| ''' [[Viesca]]'''
+| 2012
+|}
+| valign=top|
+{{Mapa de localización+
+| Coahuila
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Coahuila|lat=25.445278|long=-100.846667|label='''Arteaga'''|position=right}}
+{{Mapa de localización~|Coahuila|lat=26.840912|long=-100.668471|label='''Candela'''|position=right}}
+{{Mapa de localización~|Coahuila|lat=26.985833|long=-102.066667|label='''Cuatrociénegas'''}}
+{{Mapa de localización~|Coahuila|lat=28.307774|long=-100.381375|label='''Guerrero'''}}
+{{Mapa de localización~|Coahuila|lat=25.376389|long=-101.475000|label='''General Cepeda'''|position=bottom}}
+{{Mapa de localización~|Coahuila|lat=27.880983|long=-101.512689|label='''Múzquiz'''}}
+{{Mapa de localización~|Coahuila|lat=25.436944|long=-102.183611|label='''Parras'''}}
+{{Mapa de localización~|Coahuila|lat=25.342500|long=-102.806667|label='''Viesca'''}}
+}}
+|}
+
+=== Colima ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Comala.JPG|border|150px]]
+| '''[[Comala]]'''
+| 2002<ref name="pueblomag" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Colima
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Colima|lat=19.320833|long=-103.76027|label='''Comala'''}}
+}}
+|}
+
+=== Durango ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Mapimicentro.JPG|border|150px]]
+| '''[[Mapimí]]'''
+| {{orden|2012-11-27|27 de noviembre de 2012}}<ref>{{cita web |url=https://www.elsiglodetorreon.com.mx/noticia/2012/mapimi-primer-pueblo-magico.html |título=Mapimí, primer Pueblo Mágico |fecha=28 de noviembre de 2012 |fechaacceso=9 de julio de 2023 |editorial=[[El Siglo de Torreón]] }}</ref>
+|-
+| [[Archivo:Parroquia de San Pedro Apóstol, Nombre de Dios, Durango, México 02.jpg|border|150px]]
+| '''[[Nombre de Dios (Durango)|Nombre de Dios]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Durango
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Durango|label='''Mapimí'''|mark= |marksize= |position=|lat=25.833056|long=-103.847778}}
+{{Mapa de localización~|Durango|label='''Nombre de Dios'''|mark= |marksize= |position=|lat=23.849208|long=-104.244884}}
+}}
+|}
+
+=== Estado de México ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Iglesia del centro de Aculco.jpg|border|150px]]
+| '''[[Aculco de Espinoza]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0">{{Cita web|url = http://www.eluniversal.com.mx/articulo/cartera/economia/2015/09/25/sectur-incorpora-28-nuevos-pueblos-magicos|título = Sectur incorpora 28 nuevos Pueblos Mágicos|obra= El Universal |fecha = 25 de septiembre de 2015 |fechaacceso = 27 de septiembre de 2015|autor=Redacción}}</ref>
+|-
+| [[Archivo:ElOroTeatroJuárez.jpg|border|150px]]
+| '''[[El Oro de Hidalgo]]'''
+| 2011
+|-
+| [[Archivo:PlazaChurchIxtapan.JPG|border|150px]]
+| '''[[Ixtapan de la Sal]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Jilotepec, Estado de México (34313918300).jpg|border|150px]]
+| '''[[Jilotepec de Molina Enríquez]]'''
+| {{orden|2024-09-27|27 de septiembre de 2024}}<ref name="magic"/>
+|-
+| [[Archivo:MalinalcoPuebloMagico.jpg|border|150px]]
+| '''[[Malinalco]]'''
+| {{orden|2010-10-25|25 de octubre de 2010}}<ref>{{cita web|url=http://www.eluniversal.com.mx/articulos/61214.html|título=Malinalco, nuevo Pueblo Mágico del país|fecha=25 de octubre de 2010|fechaacceso=28 de octubre de 2010|editorial=''[[El Universal (México)|El Universal]]''}}</ref>
+|-
+| [[Archivo:FacadeChpCalvarioMetepec.JPG|border|150px]]
+| '''[[Metepec (estado de México)|Metepec]]'''
+| {{orden|2012-09-14|14 de septiembre de 2012}}<ref>{{cita web |url=https://edomex.gob.mx/metepec_magico |título=Metepec, pueblo mágico |fecha=8 de junio de 2018 |fechaacceso=9 de julio de 2023 |editorial=Gobierno del Estado de México }}</ref>
+|-
+| [[Archivo:SideOxtotipac.JPG|border|150px]]
+| '''[[Otumba de Gómez Farías]]'''
+| {{orden|2024-09-27|27 de septiembre de 2024}}<ref name="magic">{{cita web|url=https://www.planamayor.com.mx/edomex-cuenta-con-dos-pueblos-magicos-mas-jilotepec-y-otumba-suman-14-en-la-entidad/|título=Edomex cuenta con dos Pueblos Mágicos más: Jilotepec y Otumba; suman 14 en la entidad|obra=Plana Mayor|fecha=27 de septiembre de 2024|fechaacceso=3 de octubre de 2024|urlarchivo=https://web.archive.org/web/20241001031359/https://www.planamayor.com.mx/edomex-cuenta-con-dos-pueblos-magicos-mas-jilotepec-y-otumba-suman-14-en-la-entidad/|fechaarchivo=1 de octubre de 2024|deadurl=no}}</ref>
+|-
+| [[Archivo:15-07-20-Teotihuacan-by-RalfR-N3S 9407.jpg|border|150px]]
+| '''Teotihuacán'''<br>{{small|[[Teotihuacán de Arista|San Juan Teotihuacán]] y <br>[[San Martín de las Pirámides]]}}
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Tepoztotlan.JPG|border|150px]]
+| '''[[Tepotzotlán]]'''
+| {{orden|2002-08-18|18 de agosto de 2002}}<ref>{{cita web |url=https://www.unionedomex.mx/2017/09/05/los-15-anos-de-tepotzotlan-como-pueblo-magico/ |título=Los 15 años de Tepotzotlán como Pueblo Mágico |fecha=5 de septiembre de 2017 |fechaacceso=9 de julio de 2023 |editorial=Unión Edomex }}</ref>
+|-
+| [[Archivo:Tonatico - panoramio.jpg|border|150px]]
+| '''[[Tonatico]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:PanVBravoSpires2.JPG|border|150px]]
+| '''[[Valle de Bravo]]'''
+| {{orden|2005-03-02|2 de marzo de 2005}}<ref>{{cita web |url=https://adnoticias.mx/valle-de-bravo-cumple-16-anos-como-pueblo-magico/ |título=Valle de Bravo cumple 16 años como Pueblo Mágico |fecha=1 de marzo de 2021 |fechaacceso=9 de julio de 2023 |autor=AD Noticias }}</ref>
+|-
+| [[Archivo:Villa del Carbon005.JPG|border|150px]]
+| '''[[Villa del Carbón (municipio)|Villa del Carbón]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Estado de México
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Estado de México|lat=20.1357416|long=-99.8284041|label='''Aculco'''}}
+{{Mapa de localización~|Estado de México|lat=19.8008330|long=-100.131389|label='''El Oro'''}}
+{{Mapa de localización~|Estado de México|lat=18.8438127|long=-99.6759874|label='''Ixtapan'''}}
+{{Mapa de localización~|Estado de México|lat=19.9519400|long=-99.5327800|label='''Jilotepec'''|position=left}}
+{{Mapa de localización~|Estado de México|lat=18.9500000|long=-99.5000000|label='''Malinalco'''}}
+{{Mapa de localización~|Estado de México|lat=19.2500000|long=-99.6000000|label='''Metepec '''}}
+{{Mapa de localización~|Estado de México|lat=19.6969440|long=-98.7547220|label='''Otumba'''|position=bottom}}
+{{Mapa de localización~|Estado de México|lat=19.6925000|long=-98.8438000|label='''Teotihuacán'''|position=top}}
+{{Mapa de localización~|Estado de México|lat=19.7161110|long=-99.2236110|label='''Tepotzotlán'''|position=bottom}}
+{{Mapa de localización~|Estado de México|lat=18.8050000|long=-99.6691670|label='''Tonatico'''|position=left}}
+{{Mapa de localización~|Estado de México|lat=19.1925000|long=-100.130556|label='''Valle de Bravo'''}}
+{{Mapa de localización~|Estado de México|lat=19.7278935|long=-99.4635401|label='''Villa del Carbón'''|position=left}}
+}}
+|}
+
+=== Guanajuato ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Plaza Principal Comonfort.JPG|border|150px]]
+| '''[[Comonfort (Guanajuato)|Comonfort]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|-
+| [[Archivo:DoloresHidalgo028.jpg|border|150px]]
+| '''[[Dolores Hidalgo]]'''
+| {{orden|2002-08-18|18 de agosto de 2002}}<ref name="pueblomag">{{cita web|url=http://www.sectur.gob.mx/wb2/sectur/sect_Pueblos_Magicos|título=Programa Pueblos Mágicos|editorial=[[Secretaría de Turismo (México)]]|fechaacceso=14 de junio de 2007|urlarchivo=https://web.archive.org/web/20140824065917/http://www.sectur.gob.mx/wb2/sectur/sect_Pueblos_Magicos|fechaarchivo=24 de agosto de 2014}}</ref><ref>{{cita web |url=https://www.milenio.com/sociedad/decadas-dolores-hidalgo-nombrado-pueblo-magico |título=Dos décadas de que Dolores Hidalgo fue nombrado pueblo mágico |fecha=18 de agosto de 2022 |fechaacceso=9 de julio de 2023 |editorial=[[Milenio (periódico)|Milenio]] }}</ref>
+|-
+| [[Archivo:Templo del Señor de la Misericordia - Jalpa de Cánovas, Guanajuato.jpg|border|150px]]
+| ''' [[Jalpa de Cánovas]]'''
+| 2012
+|-
+| [[Archivo:Mineral de Pozos Neblina b.jpg|border|150px]]
+| '''[[Mineral de Pozos]]'''
+| 2012
+|-
+| [[Archivo:Parroquia de Nuestra Santísima Madre de la Luz. Santuario Diocesano en Salvatierra, Gto..jpg|border|150px]]
+| '''[[Salvatierra (Guanajuato)|Salvatierra]]'''
+| 2012
+|-
+| [[Archivo:Yuriria.JPG|border|150px]]
+| '''[[Yuriria]]'''
+| 2012
+|}
+| valign=top|
+{{Mapa de localización+
+| Guanajuato
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Guanajuato|lat=20.723813|long=-100.759146|label='''Comonfort'''}}
+{{Mapa de localización~|Guanajuato|lat=21.158333|long=-100.933333|label='''Dolores Hidalgo'''|position=left}}
+{{Mapa de localización~|Guanajuato|lat=20.879430|long=-101.982884|label='''Jalpa de Cánovas'''}}
+{{Mapa de localización~|Guanajuato|lat=21.221944|long=-100.495556|label='''Mineral de Pozos'''}}
+{{Mapa de localización~|Guanajuato|lat=20.215000|long=-100.878056|label='''Salvatierra'''}}
+{{Mapa de localización~|Guanajuato|lat=20.212222|long=-101.127500|label='''Yuriria'''|position=left}}
+}}
+|}
+
+=== Guerrero ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:FacdeAtriumCuauIxca.JPG|border|150px]]
+| '''[[Ixcateopan de Cuauhtémoc]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Taxco Santa Prisca.jpg|border|150px]]
+| '''[[Taxco de Alarcón]]'''
+| 2002<ref name="pueblomag" />
+|-
+| [[Archivo:Playa La Ropa, Zihuatanejo. - panoramio.jpg|border|150px]]
+| '''[[Zihuatanejo]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Guerrero
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Guerrero|lat=18.500000|long=-99.793333|label='''Ixcateopan'''|position=left}}
+{{Mapa de localización~|Guerrero|lat=18.556389|long=-99.605000|label='''Taxco de Alarcón'''}}
+{{Mapa de localización~|Guerrero|lat=17.643440|long=-101.55212|label='''Zihuatanejo'''}}
+}}
+|}
+
+=== Hidalgo ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Centro histórico de Acaxochitlán 1.jpg|border|150px]]
+| '''[[Acaxochitlán]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Iglesia de San Juan Bautista, Huasca de Ocampo, Hidalgo, México, 2013-10-10, DD 03.JPG|border|150px]]
+| '''[[Huasca de Ocampo]]'''
+| {{orden|2001-10-05|5 de octubre de 2001}}<ref>{{cita web |url=https://www.revistacentral.com.mx/check-in/huasca-de-ocampo-primer-pueblo-magico-de-mexico |título=Huasca de Ocampo: ¿Qué fue del primer Pueblo Mágico de México? |fecha= 11 de septiembre de 2022 |fechaacceso=9 de julio de 2023 |editorial=Revista Central |autor=Marilú Morales }}</ref>
+|-
+| [[Archivo:Palacio Municipal de Huichapan, Huichapan, Hidalgo, México. a.jpg|border|150px]]
+| '''[[Huichapan]]'''
+| 2012
+|-
+| [[Archivo:Convento de los Reyes Magos.jpg|border|150px]]
+| '''[[Metztitlán]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Pueblo de Mineral del Chico. 0017.jpg|border|150px]]
+| '''[[Mineral del Chico]]'''
+| {{orden|2011-08-09|9 de agosto de 2011}}<ref>{{cita web |url=http://docencia.uaeh.edu.mx/estudios-pertinencia/docs/hidalgo-municipios/Mineral-Del-Chico-Pueblo-Magico.pdf |título=Mineral del Chico |fechaacceso=9 de julio de 2023 |editorial=[[Universidad Autónoma del Estado de Hidalgo]] }}</ref>
+|-
+| [[Archivo:Parroquia de Nuestra Señora de la Asunción, Real del Monte, Hidalgo, México, 2013-10-10, DD 07.JPG|border|150px]]
+| '''[[Mineral del Monte|Real del Monte]]'''
+| {{orden|2004-08-28|28 de agosto de 2004}}<ref>{{cita web |url=https://www.gob.mx/sectur/articulos/real-de-monte-hidalgo |título=Real del Monte, Hidalgo |fecha=6 de julio de 2019 |fechaacceso=9 de julio de 2023 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|-
+| [[Archivo:Tecozautla Hidalgo. 02.jpg|border|150px]]
+| '''[[Tecozautla]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Templo y antiguo convento de Todos los Santos.JPG|border|150px]]
+| '''[[Zempoala (Hidalgo)|Zempoala]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:Plaza principal ZImapán.jpg|border|150px]]
+| '''[[Zimapán]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Hidalgo
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Hidalgo|lat=20.158333|long=-98.202222|label='''Acaxochitlán'''|position=bottom}}
+{{Mapa de localización~|Hidalgo|lat=20.203611|long=-98.593056|label='''Huasca'''|position=top}}
+{{Mapa de localización~|Hidalgo|lat=20.375278|long=-99.650556|label='''Huichapan'''}}
+{{Mapa de localización~|Hidalgo|lat=20.584444|long=-98.763056|label='''Metztitlán'''|position=top}}
+{{Mapa de localización~|Hidalgo|lat=20.203056|long=-98.747778|label='''Mineral del Chico'''|position=left}}
+{{Mapa de localización~|Hidalgo|lat=20.139167|long=-98.671667|label='''Mineral del Monte'''|position=bottom}}
+{{Mapa de localización~|Hidalgo|lat=20.532958|long=-99.633300|label='''Tecozautla'''}}
+{{Mapa de localización~|Hidalgo|lat=19.915556|long=-98.670000|label='''Zempoala'''|position=bottom}}
+{{Mapa de localización~|Hidalgo|lat=20.738205|long=-99.382781|label='''Zimapán'''}}
+}}
+|}
+
+=== Jalisco ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Ajijic Malecon Sunset.jpg|border|150px]]
+| '''[[Ajijic]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2">{{Cita web|url = https://www.eluniversal.com.mx/destinos/sectur-nombro-11-nuevos-pueblos-magicos-descubre-cuales-son?amp|título=Secretaría de Turismo nombró 11 nuevos Pueblos Mágicos|obra= El universal |fecha = 1 de diciembre de 2020 |fechaacceso = 2 de diciembre de 2020|autor=Redacción}}</ref>
+|-
+| [[Archivo:Parroquia05.JPG|border|150px]]
+| '''[[Cocula (Jalisco)|Cocula]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Vista de la Parroquia Nuestra Señora de la Asunción, Lagos de Moreno, Jalisco 10.jpg|border|150px]]
+| '''[[Lagos de Moreno]]'''
+| {{orden|2012-11-15|15 de noviembre de 2012}}<ref>{{cita web |url=https://www.gob.mx/sectur/articulos/lagos-de-moreno-jalisco |título=Lagos de Moreno, Jalisco |fecha=3 de agosto de 2019 |fechaacceso=9 de julio de 2023 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|-
+| [[Archivo:2631931.jpg|border|150px]]
+| '''[[Mascota (Jalisco)|Mascota]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:TemploMazamicla.jpg|border|150px]]
+| '''[[Mazamitla]]'''
+| {{orden|2005-08-15|15 de agosto de 2005}}<ref>{{cita web |url=https://www.mazamitla.mx/pueblo-magico |título=Mazamitla, pueblo mágico |fechaacceso=9 de julio de 2023 |editorial=Ayuntamiento de Mazamitla }}</ref>
+|-
+| [[Archivo:San Sebastian del Oeste.jpg|border|150px]]
+| '''[[San Sebastián del Oeste]]'''
+| {{orden|2011-12-08|8 de diciembre de 2011}}<ref>{{cita web |url=https://archivo.eluniversal.com.mx/articulos/67794.html |título=Declaran a San Sebastián del Oeste pueblo mágico |fecha=8 de diciembre de 2011 |fechaacceso=9 de julio de 2023 |editorial=[[El Universal (México)|El Universal]] }}</ref>
+|-
+| [[Archivo:Catedral de Sayula Jalisco México 05.jpg|border|150px]]
+| '''[[Sayula (Jalisco)|Sayula]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Basílica de Nuestra Señora del Rosario de Talpa Jal 08.JPG|border|150px]]
+| '''[[Talpa de Allende]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Templo de la Inmaculada Concepción Tapalpa 1.JPG|border|150px]]
+| '''[[Tapalpa]]'''
+| {{orden|2002-05-06|6 de mayo de 2002}}<ref>{{cita web |url=https://www.informador.mx/entretenimiento/Tapalpa-vivira-su-fiesta-cultural--20220505-0003.html |título=En su aniversario 20, Tapalpa se consolida como Pueblo Mágico |fecha=4 de mayo de 2022 |fechaacceso=9 de julio de 2023 |editorial=[[El Informador (México)|El Informador]] }}</ref>
+|-
+| [[Archivo:Temacapulín 03.jpg|border|150px]]
+| '''[[Temacapulín]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Parroquia de Santiago Apóstol2.jpg|border|150px]]
+| '''[[Tequila (Jalisco)|Tequila]]'''
+| 2003<ref name="pueblomag" />
+|-
+| [[Archivo:MuniPalaceTlaque.JPG|border|150px]]
+| '''[[Tlaquepaque|San Pedro Tlaquepaque]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Jalisco
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Jalisco|lat=20.299444|long=-103.2580560|label='''Ajijic'''|position=right}}
+{{Mapa de localización~|Jalisco|lat=20.365170|long=-103.8221500|label='''Cocula'''|position=bottom}}
+{{Mapa de localización~|Jalisco|lat=21.350000|long=-101.9166670|label='''Lagos de Moreno'''}}
+{{Mapa de localización~|Jalisco|lat=20.523979|long=-104.7888057|label='''Mascota'''|position=left}}
+{{Mapa de localización~|Jalisco|lat=19.915556|long=-103.0194440|label='''Mazamitla'''}}
+{{Mapa de localización~|Jalisco|lat=19.883611|long=-103.6011110|label='''Sayula'''|position=bottom}}
+{{Mapa de localización~|Jalisco|lat=20.650000|long=-104.5830000|label='''San Sebastián'''}}
+{{Mapa de localización~|Jalisco|lat=20.380438|long=-104.8228625|label='''Talpa'''|position=bottom}}
+{{Mapa de localización~|Jalisco|lat=19.940000|long=-103.7600000|label='''Tapalpa'''|position=left}}
+{{Mapa de localización~|Jalisco|lat=21.188333|long=-102.7066670|label='''Temacapulín'''|position=left}}
+{{Mapa de localización~|Jalisco|lat=20.882778|long=-103.8366670|label='''Tequila'''}}
+{{Mapa de localización~|Jalisco|lat=20.639872|long=-103.3106810|label='''Tlaquepaque'''}}
+}}
+|}
+
+=== Michoacán ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:SanSimonAngang.JPG|border|150px]]
+| '''[[Mineral de Angangueo]]'''
+| {{orden|2012-03-20|20 de marzo de 2012}}<ref>{{cita web |url=https://www.publimetro.com.mx/mx/viajes/2012/03/21/nombran-angangueo-pueblo-magico.html |título=Nombran a Angangueo Pueblo Mágico |fecha=21 de marzo de 2012 |fechaacceso=9 de julio de 2023 |editorial=Publímetro }}</ref>
+|-
+| [[Archivo:Cotija mich2.jpg|border|150px]]
+| '''[[Cotija de la Paz]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Convento de Santa María Magdalena Vista.JPG|border|150px]]
+| '''[[Cuitzeo del Porvenir]]'''
+| {{orden|2006-11-01|1 de noviembre de 2006}}<ref>{{cita web |url=https://www.atiempo.mx/estado/conmemora-cuitzeo-el-468-aniversario-de-su-fundacion/ |título= Conmemora Cuitzeo el 468 aniversario de su fundación |fecha=1 de noviembre de 2018 |fechaacceso=9 de julio de 2023 |editorial=A tiempo }}</ref>
+|-
+| [[Archivo:Pila de la Aguadora.jpg|border|150px]]
+| '''[[Jiquilpan de Juárez]]'''
+| {{orden|2012-11-27|27 de noviembre de 2012}}<ref>{{cita web |url=https://www.sectur.gob.mx/pueblos-magicos/jiquilpan-michoacan/ |título=Jiquilpan, Michoacán |fecha=28 de abril de 2014 |fechaacceso=9 de julio de 2003 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|-
+| [[Archivo:ParachoMainstreet.jpg|border|150px]]
+| '''[[Paracho de Verduzco]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:El sagrario.jpg|border|150px]]
+| '''[[Pátzcuaro]]'''
+| {{orden|2002-06-06|6 de junio de 2002}}<ref>{{cita web |url=https://patzcuaro.info/patzcuaro-cumple-20-anos-como-pueblo-magico/ |título=Pátzcuaro cumple 20 años como Pueblo Mágico |fecha=6 de junio de 2022 |fechaacceso=9 de julio de 2023 |editorial=Pátzcuaro Info }}</ref>
+|-
+| [[Archivo:StaClaraCobrePuebloMagico.jpg|border|150px]]
+| '''[[Santa Clara del Cobre]]'''
+| {{orden|2010-08-30|30 de agosto de 2010}}<ref>{{cita web|url=http://www.mexicodesconocido.com.mx/santa-clara-del-cobre-es-nombrada-nuevo-pueblo-magico.html|título=Santa Clara del Cobre es nombrada nuevo “Pueblo Mágico”|fechaacceso=4 de octubre de 2010|editorial=''Guía México Desconocido''|urlarchivo=https://web.archive.org/web/20100830140344/http://www.mexicodesconocido.com.mx/santa-clara-del-cobre-es-nombrada-nuevo-pueblo-magico.html|fechaarchivo=30 de agosto de 2010}}</ref>
+|-
+| [[Archivo:Tacámbaro de Codallos.JPG|border|150px]]
+| '''[[Tacámbaro de Codallos]]'''
+| {{orden|2012-11-21|21 de noviembre de 2012}}<ref>{{cita web |url=https://rotativodigital.com.mx/tacambaro-de-fiesta-porque-ya-es-pueblo-magico/ |título=Tacámbaro, de fiesta, porque ya es Pueblo Mágico |fechaacceso=9 de julio de 2023 |editorial=Rotativo Digital }}</ref>
+|-
+| [[Archivo:FacadePedroPabloTlalpu.JPG|border|150px]]
+| '''[[Tlalpujahua|Tlalpujahua de Rayón]]'''
+| {{orden|2005-06-27|27 de junio de 2005}}<ref name="pueblomag" />
+|-
+| [[Archivo:Templo de san fco de asis1.jpg|border|150px]]
+| '''[[Tzintzuntzan]]'''
+| {{orden|2012-11-17|17 de noviembre de 2012}}<ref>{{cita web |url=https://noticiasenmichoacancommx.wordpress.com/2012/11/27/tzintzuntzan-pueblo-magico/ |título=Tzintzuntzan, Pueblo Mágico |fecha=17 de noviembre de 2012 |fechaacceso=9 de julio de 2023 |editorial=Noticias en Michoacán }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+| Michoacán
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Michoacán|lat=19.617778|long=-100.285556|label='''Angangueo'''|position=bottom}}
+{{Mapa de localización~|Michoacán|lat=19.810000|long=-102.704722|label='''Cotija'''|position=left}}
+{{Mapa de localización~|Michoacán|lat=19.968600|long=-101.139000|label='''Cuitzeo'''}}
+{{Mapa de localización~|Michoacán|lat=19.994167|long=-102.717222|label='''Jiquilpan'''}}
+{{Mapa de localización~|Michoacán|lat=19.647297|long=-102.048468|label='''Paracho'''|position=left}}
+{{Mapa de localización~|Michoacán|lat=19.516389|long=-101.609722|label='''Pátzcuaro'''}}
+{{Mapa de localización~|Michoacán|lat=19.405278|long=-101.638333|label='''Santa Clara'''}}
+{{Mapa de localización~|Michoacán|lat=19.235556|long=-101.456944|label='''Tacámbaro'''}}
+{{Mapa de localización~|Michoacán|lat=19.805000|long=-100.174444|label='''Tlalpujahua'''}}
+{{Mapa de localización~|Michoacán|lat=19.628333|long=-101.578889|label='''Tzintzuntzan'''}}
+}}
+|}
+
+=== Morelos ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Templo y Antiguo Convento de la Natividad, Tepoztlán, Morelos 02.jpg|border|150px]]
+| '''[[Tepoztlán]]'''
+| 2001{{refn|group=lower-alpha|Tepoztlán fue declarado pueblo mágico en 2001,<ref>{{cita web |url=https://www.milenio.com/estados/turismo-comenzo-programa-pueblos-magicos-2001 |título=Turismo comenzó programa de 'Pueblos Mágicos' en 2001 |fecha=10 de octubre de 2015 |fechaacceso= 9 de julio de 2023 |autor=Cecilia Rojas }}</ref> perdió el título en octubre de 2009<ref name="Retiro de Pueblos">{{cita web|título=Retiran 3 Pueblos Mágicos|url=http://www.viajaydescubre.com/articulo/retiran-3-pueblos-magicos/|urlarchivo=https://web.archive.org/web/20111008222202/|fechaarchivo=4 de octubre de 2010|fechaacceso=4 de octubre de 2010|fecha=20 de agosto de 2009|obra=Viaja y Descubre}}</ref> y lo recuperó en abril de 2010.<ref name="Pueblos 2010">{{cita web|título=Tepoztlán vuelve a la lista, Santa Clara del Cobre y Tapijulapa están de estreno|url=http://www.informador.com.mx/suplementos/2010/217046/6/los-nuevos-y-repuestos-pueblos-magicos.htm|fechaacceso=11 de julio de 2010|fecha=4 de octubre de 2010|obra=''El Informador''}}</ref>}}
+|-
+| [[Archivo:Cuartel del Ejército Libertador del Sur, Tlaltizapan.JPG|border|150px]]
+| '''[[Tlaltizapán|Tlaltizapán de Zapata]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Tlayacapan i01.jpg|border|150px]]
+| '''[[Tlayacapan]]'''
+| {{orden|2011-08|agosto de 2011}}<ref>{{cita web |url=https://www.worldpackers.com/es/articles/pueblos-magicos-morelos |título=Pueblos mágicos de Morelos: adéntrate en la cultura mexicana |fecha=23 de agosto de 2022 |fechaacceso=9 de julio de 2023 |editorial=Worldpackers }}</ref>
+|-
+| [[Archivo:Xochitepec - San Juan Evangelista 0239.jpg|border|150px]]
+| '''[[Municipio de Xochitepec|Xochitepec]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Morelos
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Morelos|lat=18.9852780|long=-99.0997220|label='''Tepoztlán'''}}
+{{Mapa de localización~|Morelos|lat=18.6881655|long=-99.1422276|label='''Tlaltizapán'''}}
+{{Mapa de localización~|Morelos|lat=18.9555560|long=-98.9811110|label='''Tlayacapan'''}}
+{{Mapa de localización~|Morelos|lat=18.7950677|long=-99.3087766|label='''Xochitepec'''}}
+}}
+|}
+
+=== Nayarit ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Ahuacatlan de Noche.jpg|border|150px]]
+| '''[[Ahuacatlán (Nayarit)|Ahuacatlán]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:PLAZA PRINCIPAL DE AMATLÁN DE CAÑAS.jpg|border|150px]]
+| '''[[Amatlán de Cañas]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Mazatan nay.jpg|border|150px]]
+| '''[[Compostela (Nayarit)|Compostela]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|-
+| [[Archivo:Parroquia de Santo Santiago Apostol.jpg|border|150px]]
+| '''[[Ixtlán del Río]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Jala Nayarit.jpg|border|150px]]
+| '''[[Jala|Ciudad Jala]]'''
+| 2012
+|-
+| [[Archivo:Mexcaltitan - panoramio.jpg|border|150px]]
+| '''[[Mexcaltitán|Mexcaltitán de Uribe]]'''
+| 2001{{refn|group=lower-alpha|Mexcaltitán fue declarado pueblo mágico en 2001,<ref name=":2" /> perdió el título en octubre de 2009<ref name="Retiro de Pueblos" /> y lo recuperó el 1 de diciembre de 2020.<ref>{{cita web|autor1=Redacción|título=Mexcaltitán vuelve a ser Pueblo Mágico|url=https://www.viajerosenruta.com/mexcaltitan-pueblo-magico/|obra=Viajeros en ruta|fecha=13 de octubre de 2020|fechaacceso=2 de diciembre de 2020}}</ref>}}
+|-
+| [[Archivo:Islas Marias MODIS.jpg|border|150px]]
+| '''[[Puerto Balleto]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:San Blas (Mexico).JPG|border|150px]]
+| '''[[San Blas (Nayarit)|San Blas]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Sayulita-nanzalview.jpg|border|150px]]
+| '''[[Sayulita]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Nayarit
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Nayarit|lat=21.0544440|long=-104.4844440|label='''Ahuacatlán'''|position=left}}
+{{Mapa de localización~|Nayarit|lat=20.8113431|long=-104.4392181|label='''Amatlán'''}}
+{{Mapa de localización~|Nayarit|lat=21.2368880|long=-104.9006360|label='''Compostela'''}}
+{{Mapa de localización~|Nayarit|lat=21.0369140|long=-104.4442824|label='''Ixtlán'''}}
+{{Mapa de localización~|Nayarit|lat=21.1032740|long=-104.4343050|label='''Jala'''}}
+{{Mapa de localización~|Nayarit|lat=21.9058330|long=-105.4752780|label='''Mexcaltitán'''}}
+{{Mapa de localización~|Nayarit|lat=21.6338890|long=-105.9500000|label='''Puerto Balleto'''|mark=Red Arrow Left.svg}}
+{{Mapa de localización~|Nayarit|lat=21.5397220|long=-105.2855560|label='''San Blas'''}}
+{{Mapa de localización~|Nayarit|lat=20.8693673|long=-105.4408676|label='''Sayulita'''}}
+}}
+|}
+
+=== Nuevo León ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Cabeza de León desde la plaza de Bustamante - panoramio.jpg|border|150px]]
+| '''[[Bustamante (Nuevo León)|Bustamante]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|-
+| [[Archivo:Teran.jpg|border|150px]]
+| '''[[General Terán]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:El Salto - panoramio (4).jpg|border|150px]]
+| '''[[General Zaragoza]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Linares - panoramio.jpg|border|150px]]
+| '''[[Linares (Nuevo León)|Linares]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Parroquia de Santiago Apostol NL .jpg|border|150px]]
+| '''[[Santiago (Nuevo León)|Santiago]]'''
+| 2006<ref name="pueblomag" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Nuevo León
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Nuevo León|lat=26.534405|long=-100.502786|label='''Bustamante'''}}
+{{Mapa de localización~|Nuevo León|lat=24.859762|long=-99.5675485|label='''Linares'''}}
+{{Mapa de localización~|Nuevo León|lat=25.433333|long=-100.133333|label='''Santiago'''}}
+{{Mapa de localización~|Nuevo León|lat=23.880269|long=-99.7402543|label='''General Zaragoza'''}}
+{{Mapa de localización~|Nuevo León|lat=25.253800|long=-99.6781000|label='''General Teran'''}}
+}}
+|}
+
+=== Oaxaca ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Capulalpam26.JPG|border|150px]]
+| '''[[Capulálpam de Méndez]]'''
+| 2007<ref name="pueblomag" />
+|-
+| [[Archivo:Huautla de Jimenez.jpg|border|150px]]
+| '''[[Huautla de Jiménez]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Santuario de Juquila, Oaxaca.JPG|border|150px]]
+| '''[[Santa Catarina Juquila]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:Mazuntesummermorning.JPG|border|150px]]
+| '''[[Mazunte]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:El Grupo de la Iglesia o del Norte.jpg|border|150px]]
+| '''[[San Pablo Villa de Mitla]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Convento San pedro y san Pablo Teposcolula.JPG|border|150px]]
+| [[Municipio de San Pedro y San Pablo Teposcolula|'''San Pedro y San Pablo Teposcolula''']]
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Oaxaca
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Oaxaca|label='''Capulálpam'''|mark= |marksize= |position=|lat=17.3|long=-96.45}}
+{{Mapa de localización~|Oaxaca|label='''Huautla'''|mark= |marksize= |position=|lat=18.1297806|long=-96.8550499}}
+{{Mapa de localización~|Oaxaca|label='''Juquila'''|mark= |marksize= |position=|lat=16.236389|long=-97.291944}}
+{{Mapa de localización~|Oaxaca|label='''Mazunte'''|mark= |marksize= |position=|lat=15.665571|long=-96.5557883}}
+{{Mapa de localización~|Oaxaca|label='''Mitla'''|mark= |marksize= |position=|lat=16.9210829|long=-96.3661293}}
+{{Mapa de localización~|Oaxaca|label='''Teposcolula'''|mark= |marksize= |position=|lat=17.5113998|long=-97.4940898}}
+}}
+|}
+
+=== Puebla ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Atlixco4.JPG|border|150px]]
+| '''[[Atlixco|Atlixco de las Flores]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:02 Parroquia de Santiago Apóstol, Chignahuapan, Puebla, México.jpg|border|150px]]
+| '''[[Chignahuapan]]'''
+| {{orden|2012-10-30|30 de octubre de 2012}}<ref>{{cita web |url=https://www.turismoenpuebla.com/portal/art45_Pueblo_Magico_de_Chignahuapan.html |título=Pueblo Mágico de Chignahuapan |fechaacceso=9 de julio de 2023 |editorial=Turismo Puebla }}</ref>
+|-
+| [[Archivo:Monument ID.JPG|border|150px]]
+| '''Cholula'''<br>{{small|[[San Andrés Cholula]] y <br>[[Cholula de Rivadavia|San Pedro Cholula]]}}
+| {{orden|2012-10-30|30 de octubre de 2012}}<ref>{{cita web |url=https://sintesis.com.mx/puebla/2018/10/26/san-andres-cholula-pueblo-magico/ |título=Festejará San Andrés Cholula nombramiento como Pueblo Mágico |fecha=26 de octubre de 2018 |fechaacceso=9 de julio de 2023 |editorial=Síntesis }}</ref>
+|-
+| [[Archivo:Genplaza.JPG|border|150px]]
+| '''[[Ciudad de Cuetzalan|Cuetzalan del Progreso]]'''
+| {{orden|2002-03-11|11 de marzo de 2002}}<ref>{{cita web |url=https://www.milenio.com/estados/cuetzalan-festeja-aniversario-20-pueblo-magico-puebla |título=¡De fiesta! Cuetzalan cumple 20 años como Pueblo Mágico |fecha=11 de marzo de 2022 |fechaacceso=9 de julio de 2023 |autor=Verónica López }}</ref>
+|-
+| [[Archivo:MunicipalPalaceHuauchinangoPuebla.JPG|border|150px]]
+| '''[[Huauchinango]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:FacadeSMAHuejotzingo.JPG|border|150px]]
+| '''[[Huejotzingo|Huejotzingo de Nieva]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:PanoramicPahuatlan01.JPG|border|150px]]
+| '''[[Pahuatlán|Pahuatlán del Valle]]'''
+| {{orden|2012-03-23|23 de marzo de 2012}}<ref>{{cita web |url=https://www.eluniversalpuebla.com.mx/que-hacer/11-cosas-que-hacer-en-el-pueblo-magico-pahuatlan |título=11 cosas que hacer en el pueblo mágico Pahuatlán  |fecha=23 de marzo de 2023 |fechaacceso=9 de julio de 2023 |editorial=[[El Universal (México)|El Universal]] }}</ref>
+|-
+| [[Archivo:Iglesia de Tetela de Ocampo (5944618485).jpg|border|150px]]
+| '''[[Tetela de Ocampo]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:Parque de Teziutlan, Puebla.jpg|border|150px]]
+| '''[[Teziutlán]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Tlatlauqui5.JPG|border|150px]]
+| '''[[Municipio de Tlatlauquitepec|Tlatlauquitepec]]'''
+| {{orden|2012-11-28|28 de noviembre de 2012}}<ref>{{cita web |url=https://www.eluniversalpuebla.com.mx/que-hacer/tlatlauquitepec-cumplio-10-anos-de-ser-pueblo-magico |título=Tlatlauquitepec cumplió 10 años de ser Pueblo Mágico |fecha=29 de noviembre de 2022 |fechaacceso=9 de julio de 2023 |editorial=[[El Universal (México)|El Universal]] }}</ref>
+|-
+| [[Archivo:Palacio Municipal Xicotepec.JPG|border|150px]]
+| '''[[Xicotepec|Xicotepec de Juárez]]'''
+| {{orden|2012-12-02|2 de diciembre de 2012}}<ref>{{cita web |url=https://www.periodicocentral.mx/2021/municipio/item/21618-xicotepec-juarez-nueve-anos-pueblo-magico-puebla |título=Xicotepec de Juárez celebra nueve años de ser Pueblo Mágico en Puebla |fecha=2 de diciembre de 2021 |fechaacceso=9 de julio de 2023 |editorial=Periódico Central }}</ref>
+|-
+| [[Archivo:2SanPedroZacaltlan.JPG|border|150px]]
+| '''[[Zacatlán|Zacatlán de las Manzanas]]'''
+| {{orden|2011-04-27|27 de abril de 2011}}<ref>{{cita web |url=https://www.gob.mx/siap/es/articulos/zacatlan-puebla-el-mejor-pueblo-magico-de-mexico?idiom=es |título=Zacatlán, Puebla: Pueblo Mágico de México |fecha=24 de abril de 2018 |fechaacceso=9 de julio de 2023 |editorial=Gobierno de México }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+| Puebla
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Puebla|lat=18.9125000|long=-98.427778|label='''Atlixco'''|position=left}}
+{{Mapa de localización~|Puebla|lat=19.8333330|long=-98.033333|label='''Chignahuapan'''|position=left}}
+{{Mapa de localización~|Puebla|lat=19.0600000|long=-98.310000|label='''Cholula'''}}
+{{Mapa de localización~|Puebla|lat=20.0186110|long=-97.521111|label='''Cuetzalan'''}}
+{{Mapa de localización~|Puebla|lat=20.1751549|long=-98.052873|label='''Huauchinango'''}}
+{{Mapa de localización~|Puebla|lat=19.1594500|long=-98.407340|label='''Huejotzingo'''}}
+{{Mapa de localización~|Puebla|lat=20.2833330|long=-98.150000|label='''Pahuatlán'''|position=left}}
+{{Mapa de localización~|Puebla|lat=19.8164878|long=-97.806474|label='''Tetela'''|position=top}}
+{{Mapa de localización~|Puebla|lat=19.8536890|long=-97.358231|label='''Teziutlán'''|position=right}}
+{{Mapa de localización~|Puebla|lat=19.8513890|long=-97.496111|label='''Tlatlauquitepec'''|position=bottom}}
+{{Mapa de localización~|Puebla|lat=20.3000000|long=-97.966667|label='''Xicotepec'''}}
+{{Mapa de localización~|Puebla|lat=19.9319440|long=-97.960000|label='''Zacatlán'''|position=left}}
+}}
+|}
+
+=== Querétaro ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:AmealcoParish003.JPG|border|150px]]
+| '''[[Amealco de Bonfil]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|-
+| [[Archivo:Calle Miguel Hidalgo, Peña de Bernal, Querétaro (24172169019).jpg|border|150px]]
+| '''[[Bernal (Querétaro)|San Sebastian Bernal]]'''
+| 2005<ref name="pueblomag" />
+|-
+| [[Archivo:Cadereyta.JPG|border|150px]]
+| '''[[Cadereyta (Querétaro)|Cadereyta de Montes]]'''
+| 2011
+|-
+| [[Archivo:FacadeMissionJalpan3.JPG|border|150px]]
+| '''[[Jalpan de Serra]]'''
+| {{orden|2010-10-19|19 de octubre de 2010}}<ref>{{cita web|url=http://www.aztecanoticias.com.mx/notas/estados/25350/otorgan-titulo-de-pueblo-magico-a-jalpan-de-serra|título=Otorgan título de Pueblo Mágico a Jalpan de Serra|fechaacceso=19 de octubre de 2010|editorial=''Notimex''|urlarchivo=https://web.archive.org/web/20150923181502/http://www.aztecanoticias.com.mx/notas/estados/25350/otorgan-titulo-de-pueblo-magico-a-jalpan-de-serra|fechaarchivo=23 de septiembre de 2015}}</ref>
+|-
+| [[Archivo:Parroquia del Centro de Pinal de Amoles.jpg|border|150px]]
+| '''[[Pinal de Amoles]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Vista de San Joaquin. Al centro Templo Señor San Jose.JPG|border|150px]]
+| '''[[Municipio de San Joaquín (Querétaro)|San Joaquín]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:TemploSantaMaríaTequis2.jpg|border|150px]]
+| '''[[Tequisquiapan]]'''
+| {{orden|2012-10-16|16 de octubre de 2012}}<ref>{{cita web |url=https://www.eluniversalqueretaro.mx/metropoli/17-10-2012/nombran-pueblo-magico-tequisquiapan |título=Nombran Pueblo Mágico a Tequisquiapan |fecha=17 de octubre de 2012 |fechaacceso=9 de julio de 2023 |editorial=[[El Universal (México)|El Universal]] }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+| Querétaro
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Querétaro|label='''Amealco'''|mark= |marksize= |position=|lat=20.186701|long=-100.144359}}
+{{Mapa de localización~|Querétaro|label='''Bernal'''|mark= |marksize= |position=left|lat=20.738889|long=-99.94}}
+{{Mapa de localización~|Querétaro|label='''Cadereyta'''|mark= |marksize= |position=left|lat=20.691|long=-99.819}}
+{{Mapa de localización~|Querétaro|label='''Jalpan'''|mark= |marksize= |position=|lat=21.216944|long=-99.474444}}
+{{Mapa de localización~|Querétaro|label='''Pinal'''|mark= |marksize= |position=left|lat=21.1354079|long=-99.6306724}}
+{{Mapa de localización~|Querétaro|label='''San Joaquín'''|mark= |marksize= |position=|lat=20.9156201|long=-99.56617}}
+{{Mapa de localización~|Querétaro|label='''Tequisquiapan'''|mark= |marksize= |position=|lat=20.520556|long=-99.895833}}
+}}
+|}
+
+=== Quintana Roo ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Bacalar Lagoon.jpg|border|150px]]
+| '''[[Bacalar]]'''
+| 2006<ref name="pueblomag" />
+|-
+| [[Archivo:Plaza del Sol in Cozumel - tower - panoramio.jpg|border|150px]]
+| '''[[San Miguel de Cozumel]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Beach of Isla Mujeres Mexico (42695545595).jpg|border|150px]]
+| '''[[Isla Mujeres]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Tulum-27527-4.jpg|border|150px]]
+| '''[[Tulum (Quintana Roo)|Tulum]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Quintana Roo
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Quintana Roo|lat=18.676944|long=-88.395278|label='''Bacalar'''}}
+{{Mapa de localización~|Quintana Roo|lat=20.487706|long=-86.927724|label='''San Miguel de Cozumel'''}}
+{{Mapa de localización~|Quintana Roo|lat=21.233333|long=-86.733333|label='''Isla Mujeres'''}}
+{{Mapa de localización~|Quintana Roo|lat=20.212981|long=-87.465425|label='''Tulum'''}}
+}}
+|}
+
+=== San Luis Potosí ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Templo de San Miguel Arcángel - Aquismón, SLP.jpg|border|150px]]
+| '''[[Aquismón]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1">{{cita web|título=Tenemos en México 10 nuevos Pueblos Mágicos|url=https://www.eluniversal.com.mx/destinos/tenemos-10-nuevos-pueblos-magicos|obra=[[El Universal (México)|El Universal]]|fecha=11 de octubre de 2018|fechaacceso=12 de octubre de 2018}}</ref>
+|-
+| [[Archivo:Iglesia del Pueblo, cd del Maiz.jpg|border|150px]]
+| '''[[Ciudad del Maíz]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Panorámica de Real de Catorce.jpg|border|150px]]
+| '''[[Real de Catorce (San Luis Potosí)|Real de Catorce]]'''
+| 2001<ref>{{cita web |url=https://www.gob.mx/sectur/es/articulos/real-de-catorce-san-luis-potosi |título=Real de Catorce, San Luis Potosí |fecha=18 de julio de 2019 |fechaacceso=9 de julio de 2023 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|-
+| [[Archivo:SantaMariadelRio038.jpg|border|150px]]
+| '''[[Santa María del Río (México)|Santa María del Río]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:Cabañas Antigua Santa Julia.jpg|border|150px]]
+| '''[[Tierranueva]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Magia pura en Xilitla.jpg|border|150px]]
+| '''[[Municipio de Xilitla|Xilitla]]'''
+| {{orden|2011-12-12|12 de diciembre de 2011}}<ref>{{cita web |url=https://huastecapotosina.org/xilitla/ |título=Xilitla |fechaacceso=9 de julio de 2023 |editorial=Huasteca Potosina }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+| San Luis Potosí
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|San Luis Potosí|label='''Aquismón'''|mark= |marksize= |position=|lat=21.621186|long=-99.019680}}
+{{Mapa de localización~|San Luis Potosí|label='''Ciudad del Maíz'''|mark= |marksize= |position=|lat=22.401944|long=-99.604722}}
+{{Mapa de localización~|San Luis Potosí|label='''Real de Catorce'''|mark= |marksize= |position=|lat=23.688889|long=-100.887778}}
+{{Mapa de localización~|San Luis Potosí|label='''Santa María del Río'''|mark= |marksize= |position=left|lat=21.800453|long=-100.736273}}
+{{Mapa de localización~|San Luis Potosí|label='''Tierranueva'''|mark= |marksize= |position=|lat=21.6694574|long=-100.6130357}}
+{{Mapa de localización~|San Luis Potosí|label='''Xilitla'''|mark= |marksize= |position=|lat=21.384|long=-98.99}}
+}}
+|}
+
+=== Sinaloa ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Cosala.jpg|border|150px]]
+| '''[[Cosalá]]'''
+| 2005<ref name="pueblomag" />
+|-
+| [[Archivo:El Fuerte, Sinaloa, church and plaza, seen from the fort.JPG|border|150px]]
+| '''[[El Fuerte (Sinaloa)|El Fuerte]]'''
+| {{orden|2009-07-16|16 de julio de 2009}}<ref>{{cita web |url=https://www.mexicodestinos.com/blog/el-fuerte-un-pueblo-magico-mas/ |título=El Fuerte, un Pueblo Mágico a tomar en cuenta |fecha=18 de julio de 2009 |fechaacceso=9 de julio de 2023 |editorial=México Destinos }}</ref>
+|-
+| [[Archivo:Parroquia de Nuestra Señora del Rosario (26434581504).jpg|border|150px]]
+| '''[[El Rosario (Sinaloa)|El Rosario]]'''
+| 2012
+|-
+| [[Archivo:Purisima Concepción.jpg|border|150px]]
+| '''[[Mocorito]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:View of San Ignacio from hill - panoramio.jpg|border|150px]]
+| '''[[San Ignacio (Sinaloa)|San Ignacio]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Sinaloa
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Sinaloa|lat=24.414167|long=-106.688611|label='''Cosalá'''}}
+{{Mapa de localización~|Sinaloa|lat=26.400000|long=-108.617000|label='''El Fuerte'''}}
+{{Mapa de localización~|Sinaloa|lat=22.991944|long=-105.861389|label='''El Rosario'''}}
+{{Mapa de localización~|Sinaloa|lat=25.481537|long=-107.924494|label='''Mocorito'''}}
+{{Mapa de localización~|Sinaloa|lat=23.941389|long=-106.424167|label='''San Ignacio'''}}
+}}
+|}
+
+=== Sonora ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Templo de Nuestra Senora de la Purisima Concepcion06.JPG|border|150px]]
+| '''[[Álamos (Sonora)|Álamos]]'''
+| 2005<ref name="pueblomag" />
+|-
+| [[Archivo:Plaza Monumental Magdalena de Kino 2.JPG|border|150px]]
+| '''[[Magdalena de Kino]]'''
+| {{orden|2012-03-22|22 de marzo de 2012}}<ref>{{cita web |url=https://www.milenio.com/cultura/magdalena-de-kino-turismo-religioso-y-gastronomico |título=Magdalena de Kino: turismo religioso y gastronómico |fecha=24 de noviembre de 2017 |fechaacceso=9 de julio de 2023 |editorial=[[Milenio (periódico)|Milenio]] |autor=Jorge Lara Paredes }}</ref>
+|-
+| [[Archivo:San Carlos, Guaymas, Hermosillo Sonora.jpg|border|150px]]
+| '''[[San Carlos (Sonora)|San Carlos]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:El Templo de San Miguel.jpg|border|150px]]
+| '''[[Ures]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+| Sonora
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Sonora|lat=27.027500|long=-108.940000|label='''Álamos'''}}
+{{Mapa de localización~|Sonora|lat=29.428000|long=-110.389440|label='''Ures'''}}
+{{Mapa de localización~|Sonora|lat=30.624722|long=-110.968611|label='''Magdalena de Kino'''}}
+{{Mapa de localización~|Sonora|lat=27.968600|long=-111.032200|label='''San Carlos'''}}
+}}
+|}
+
+=== Tabasco ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Parroquia Frontera Nuestra Señora de Guadalupe 03.jpg|border|150px]]
+| '''[[Frontera (Tabasco)|Frontera]]'''
+| {{orden|2023-06-23|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Tapijulapa 05.JPG|border|150px]]
+| '''[[Tapijulapa]]'''
+| {{orden|2010-06-09|9 de junio de 2010}}<ref>{{cita web |url=https://www.gob.mx/sectur/articulos/tapijulapa-tabasco |título=Tapijulapa, Tabasco  |fecha=20 de julio de 2019 |fechaacceso=9 de julio de 2023 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|-
+| [[Archivo:Parroquia de Santiago Apóstol Teapa Tabasco.jpg|border|150px]]
+| '''[[Santiago de Teapa]]'''
+| {{orden|2023-06-23|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+|Tabasco
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Tabasco|lat=18.530111|long=-92.652187|label='''Frontera'''}}
+{{Mapa de localización~|Tabasco|lat=17.459722|long=-92.779167|label='''Tapijulapa'''}}
+{{Mapa de localización~|Tabasco|lat=17.548284|long=-92.952994|label='''Santiago de Teapa'''|position=left}}
+}}
+|}
+
+=== Tamaulipas ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:El Parian, 88390 Cd Mier, Tamps., Mexico - panoramio.jpg|border|150px]]
+| '''[[Ciudad Mier]]'''
+| {{orden|2007-12-05|5 de diciembre de 2007}}<ref>{{cita web |url=https://www.mexicodesconocido.com.mx/mier-el-pueblo-magico-de-los-heroes.html |título=Mier: el Pueblo Mágico de los héroes |fechaacceso=9 de julio de 2023 |editorial=México desconocido |autor=Paula Jiménez }}</ref>
+|-
+| [[Archivo:Templo de San Antonio de Padua, Tula.jpg|border|150px]]
+| '''[[Tula (Tamaulipas)|Ciudad Tula]]'''
+| {{orden|2011-10-20|20 de octubre de 2011}}<ref>{{cita web |url=https://archivo.eluniversal.com.mx/articulos/66806.html |título=Nombran pueblo mágico a Tula, Tamaulipas |fecha=20 de octubre de 2011 |fechaacceso=9 de julio de 2023 |editorial=[[El Universal (México)|El Universal]] }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+|Tamaulipas
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Tamaulipas|lat=26.4373390|long=-99.1492970|label='''Mier'''}}
+{{Mapa de localización~|Tamaulipas|lat=23.0006739|long=-99.7082509|label='''Tula'''}}
+}}
+|}
+
+=== Tlaxcala ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:SLObispoHuamantla02.JPG|border|150px]]
+| '''[[Huamantla]]'''
+| {{orden|2007-08-14|14 de agosto de 2007}}<ref name="pueblomag" />
+|-
+| [[Archivo:PlazaSJBautistaIxtenco03.JPG|border|150px]]
+| '''[[Ixtenco]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Tlaxco, Tlaxcala.jpg|border|150px]]
+| '''[[Tlaxco]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+|Tlaxcala
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Tlaxcala|lat=19.3127780|long=-97.9216670|label='''Huamantla'''}}
+{{Mapa de localización~|Tlaxcala|lat=19.2509222|long=-97.9336299|label='''Ixtenco'''}}
+{{Mapa de localización~|Tlaxcala|lat=19.6146399|long=-98.1193869|label='''Tlaxco'''}}
+}}
+|}
+
+=== Veracruz ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Coatepec-Ayuntamiento.jpg|border|150px]]
+| '''[[Coatepec (Veracruz)|Coatepec]]'''
+| {{orden|2006-08-17|17 de agosto de 2006}}<ref>{{cita web |url=https://www.coatepecmagico.com/historia/ |título=Coatepec. Historia |fechaacceso=9 de julio de 2023 |editorial=Coatepec Mágico }}</ref>
+|-
+| [[Archivo:CordobaVeracruzCathedral03.JPG|border|150px]]
+| '''[[Córdoba (México)|Córdoba]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Parroquia de San Juan Bautista Coscomatepec de Bravo.jpg|150px]]
+| '''[[Coscomatepec|Coscomatepec de Bravo]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:Naolinco1.jpg|border|150px]]
+| '''[[Naolinco de Victoria]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Palacio de hierro de orizaba.JPG|border|150px]]
+| '''[[Orizaba]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|-
+| [[Archivo:ChurchPapantla1.JPG|border|150px]]
+| '''[[Papantla de Olarte]]'''
+| 2006{{refn|group=lower-alpha|Papantla fue declarado pueblo mágico en 2006, perdió el título en agosto de 2009<ref name="Retiro de Pueblos" /> y lo recuperó el 31 de junio de 2012.<ref name="pueblomag" />}}
+|-
+| [[Archivo:XicoPuebloMagico.jpg|border|150px]]
+| '''[[Xico (Veracruz)|Xico]]'''
+| 2011
+|-
+| [[Archivo:Roman Catholic church in Zozocolco.jpg|border|150px]]
+| '''[[Zozocolco de Hidalgo]]'''
+| {{orden|2015-09-25|25 de septiembre de 2015}}<ref name=":0" />
+|}
+| valign=top|
+{{Mapa de localización+
+|Veracruz
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Veracruz|lat=19.4549|long=-96.9569|label='''Coatepec'''}}
+{{Mapa de localización~|Veracruz|lat=19.0730237|long=-97.0474296|label='''Coscomatepec'''|position=left}}
+{{Mapa de localización~|Veracruz|lat=18.8941670|long=-96.9347220|label='''Córdoba'''}}
+{{Mapa de localización~|Veracruz|lat=19.6558330|long=-96.8736110|label='''Naolinco'''}}
+{{Mapa de localización~|Veracruz|lat=18.8493770|long=-97.1059995|label='''Orizaba'''|position=left}}
+{{Mapa de localización~|Veracruz|lat=20.4488890|long=-97.3244440|label='''Papantla'''}}
+{{Mapa de localización~|Veracruz|lat=19.4170000|long=-97.0000000|label='''Xico'''|position=left}}
+{{Mapa de localización~|Veracruz|lat=20.1423554|long=-97.5852077|label='''Zozocolco'''}}
+}}
+|}
+
+=== Yucatán ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:Espita 17.07.19.jpg|border|150px]]
+| '''[[Espita]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Convento de Izamal, June 28, 2012 n01.jpg|border|150px]]
+| '''[[Izamal]]'''
+| {{orden|2002-02-16|16 de febrero de 2002}}<ref>{{cita web |url=https://www.yucatan.com.mx/central-9/2020/10/23/izamal-18-de-anos-de-un-pueblo-magico-216743.html |título=Izamal: 18 de años de un Pueblo Mágico |fecha=23 de octubre de 2020 |fechaacceso=9 de julio de 2023 |editorial=[[Diario de Yucatán]] |autor=Carlos Cámara Gutiérrez }}</ref>
+|-
+| [[Archivo:San Miguel Arcangel Mani.JPG|border|150px]]
+| '''[[Maní (Yucatán)|Maní]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:BautistaChurchMotul002.JPG|border|150px]]
+| '''[[Motul de Carrillo Puerto]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Vista desde el parque del Faro de Sisal; Hunucmá, Yucatán.jpg|border|150px]]
+| '''[[Sisal (Yucatán)|Sisal]]'''
+| {{orden|2020-12-01|1 de diciembre de 2020}}<ref name=":2" />
+|-
+| [[Archivo:Parroquia de San Juan Bautista en Tekax-2.jpg|border|150px]]
+| '''[[Tekax de Álvaro Obregón|Tekax]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|-
+| [[Archivo:Valladolid iglesia 2.jpg|border|150px]]
+| '''[[Valladolid (Yucatán)|Valladolid]]'''
+| {{orden|2012-08-30|30 de agosto de 2012}}<ref>{{cita web |url=https://www.jornada.com.mx/2012/08/31/economia/030n3eco |título=Nombran pueblo mágico a Valladolid, Yucatán |fecha=31 de agosto de 2012 |fechaacceso=9 de julio de 2023 |editorial=[[La Jornada (México)|La Jornada]] }}</ref>
+|}
+| valign=top|
+{{Mapa de localización+
+|Yucatán
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Yucatán|lat=21.012700|long=-88.304700|label='''Espita'''}}
+{{Mapa de localización~|Yucatán|lat=20.931389|long=-89.017778|label='''Izamal'''}}
+{{Mapa de localización~|Yucatán|lat=20.386389|long=-89.390278|label='''Maní'''}}
+{{Mapa de localización~|Yucatán|lat=21.095000|long=-89.283000|label='''Motul'''}}
+{{Mapa de localización~|Yucatán|lat=21.165278|long=-90.030556|label='''Sisal'''}}
+{{Mapa de localización~|Yucatán|lat=20.201900|long=-89.288000|label='''Tekax'''}}
+{{Mapa de localización~|Yucatán|lat=20.689444|long=-88.201667|label='''Valladolid'''}}
+}}
+|}
+
+=== Zacatecas ===
+{| style="margin:auto"
+| valign=top|
+{| class="wikitable sortable" style="margin:auto; text-align:center; "
+|-
+! width=150px class=unsortable|Imagen
+! width=150px|Localidad
+! width=200px|Fecha de inscripción 
+|-
+| [[Archivo:GUADALUPE, ZACATECAS (19).JPG|border|150px]]
+| '''[[Guadalupe (Zacatecas)|Guadalupe]]'''
+| {{orden|2018-10-11|11 de octubre de 2018}}<ref name=":1" />
+|-
+| [[Archivo:DelaTorreJerez.JPG|border|150px]]
+| '''[[Jerez de García Salinas]]'''
+| {{orden|2007-07-13|13 de julio de 2007}}<ref>{{cita web |url=https://expansion.mx/economia/2007/7/29/jerez-primer-pueblo-magico-de-zacatecas |título=Jerez, primer Pueblo Mágico de Zacatecas |fecha=29 de julio de 2007 |fechaacceso=9 de julio de 2023 |editorial=[[CNN Expansión]] }}</ref>
+|-
+| [[Archivo:Nochistlan, Zacatecas.JPG|border|150px]]
+| '''[[Nochistlán de Mejía]]'''
+| {{orden|2012-11-26|26 de noviembre de 2012}}<ref>{{cita web |url=https://www.sectur.gob.mx/pueblos-magicos/nochistlan-zacatecas/ |título=Nochistlán, Zacatecas |fecha=28 de abril de 2014 |fechaacceso=9 de julio de 2023 |editorial=[[Secretaría de Turismo (México)|Secretaría de Turismo]] }}</ref>
+|-
+| [[Archivo:Pueblo de Pinos.jpg|border|150px]]
+| '''[[Pinos (Zacatecas)|Pinos]]'''
+| {{orden|2012-10-31|31 de octubre de 2012}}<ref>{{cita web |url=https://www.debate.com.mx/viajes/Esta-de-fiesta-Conoce-Pinos-Zacatecas-a-una-decada-de-ser-nombrado-Pueblo-Magico-20221101-0095.html |título=Pinos, Zacatecas. A diez años de ser pueblo mágico |fecha=1 de noviembre de 2022 |fechaacceso=9 de julio de 2023 |editorial=El Debate |autor=Karina Flores }}</ref>
+|-
+| [[Archivo:SombrereteFranciscodeAsis.jpg|border|150px]]
+| '''[[Sombrerete]]'''
+| {{orden|2012-02-17|17 de febrero de 2012}}<ref>{{cita web |url=https://labrecha.me/turismo/sombrerete-pueblo-magico/281204/ |título=Sombrerete, uno de los Pueblos Mágicos más Fotogénicos |fecha=8 de mayo de 2023 |fechaacceso=9 de julio de 2023 |editorial=La Brecha }}</ref>
+|-
+| [[Archivo:PlazadeArmasTeul.JPG|border|150px]]
+| '''[[Teúl de González Ortega]]'''
+| {{orden|2011-04-29|29 de abril de 2011}}<ref>{{cita web |url=https://www.eleconomista.com.mx/empresas/Teul-nuevo-Pueblo-Magico-en-Zacatecas-20110430-0002.html |título=Teúl, nuevo Pueblo Mágico en Zacatecas |fecha=30 de abril de 2011 |fechaacceso=9 de julio de 2023 |editorial=[[El Economista (México)|El Economista]] }}</ref>
+|-
+| [[Archivo:Templo villanueva.jpg|border|150px]]
+| '''[[Villanueva (Zacatecas)|Villanueva]]'''
+| {{orden|2023-06-26|26 de junio de 2023}}<ref name=":3" />
+|}
+| valign=top|
+{{Mapa de localización+
+|Zacatecas
+| border         = grey
+| float          = center
+| ancho          = 400
+| lugares        =
+{{Mapa de localización~|Zacatecas|lat=22.747716|long=-102.517058|label='''Guadalupe'''}}
+{{Mapa de localización~|Zacatecas|lat=22.650000|long=-103.000000|label='''Jerez'''}}
+{{Mapa de localización~|Zacatecas|lat=21.360600|long=-102.846000|label='''Nochistlán'''}}
+{{Mapa de localización~|Zacatecas|lat=22.298300|long=-101.574000|label='''Pinos'''}}
+{{Mapa de localización~|Zacatecas|lat=23.633333|long=-103.633333|label='''Sombrerete'''}}
+{{Mapa de localización~|Zacatecas|lat=21.461944|long=-103.460556|label='''Teúl'''}}
+{{Mapa de localización~|Zacatecas|lat=22.353611|long=-102.883056|label='''Villanueva'''}}
+}}
+|}
+
+== Notas ==
+{{listaref|group=lower-alpha}}
+
+== Referencias ==
+{{Listaref|2}}
+
+== Enlaces externos ==
+* {{commonscat|Pueblos Mágicos}}
+* {{wikiviajes|Pueblos Mágicos México|Pueblos mágicos}}
+* [http://www.gob.mx/sectur/acciones-y-programas/programa-pueblos-magicos Programa Pueblos Mágicos] Página oficial del programa, en el portal de la SECTUR
+
+{{Control de autoridades}}
+[[Categoría:Pueblos Mágicos de México| ]]
+[[Categoría:Turismo en México]]

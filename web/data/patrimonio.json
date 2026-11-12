@@ -1,0 +1,2555 @@
+{
+  "generated_at": "2026-11-12T12:42:09Z",
+  "pueblos": {
+    "citation": {
+      "source": "wikipedia_pueblos",
+      "source_name": "Wikipedia en español, «Anexo:Pueblos mágicos»",
+      "url": "https://es.wikipedia.org/w/index.php?title=Anexo:Pueblos_m%C3%A1gicos&oldid=176046290",
+      "published_at": "2026-10-28T22:33:58Z",
+      "retrieved_at": "2026-11-12T12:42:09Z",
+      "programme_url": "https://www.gob.mx/sectur/articulos/pueblos-magicos-206528",
+      "programme_name": "Secretaría de Turismo, programa Pueblos Mágicos"
+    },
+    "count": 177,
+    "items": [
+      {
+        "name": "Calvillo",
+        "state_code": "01",
+        "state": "Aguascalientes",
+        "named_on": "2012-11-01",
+        "lat": 21.846944,
+        "lon": -102.718611
+      },
+      {
+        "name": "Pabellón de Hidalgo",
+        "state_code": "01",
+        "state": "Aguascalientes",
+        "named_on": "2023-06-26",
+        "lat": 22.17638,
+        "lon": -102.33972
+      },
+      {
+        "name": "Real de Asientos",
+        "state_code": "01",
+        "state": "Aguascalientes",
+        "named_on": "2006-10-30",
+        "lat": 22.239722,
+        "lon": -102.088889
+      },
+      {
+        "name": "San José de Gracia",
+        "state_code": "01",
+        "state": "Aguascalientes",
+        "named_on": "2015-09-25",
+        "lat": 22.149369,
+        "lon": -102.414832
+      },
+      {
+        "name": "Tecate",
+        "state_code": "02",
+        "state": "Baja California",
+        "named_on": "2023-07-09",
+        "lat": 32.566667,
+        "lon": -116.633056
+      },
+      {
+        "name": "Loreto",
+        "state_code": "03",
+        "state": "Baja California Sur",
+        "named_on": "2012-06-13",
+        "lat": 26.012778,
+        "lon": -111.343333
+      },
+      {
+        "name": "Santa Rosalía",
+        "state_code": "03",
+        "state": "Baja California Sur",
+        "named_on": "2023-06-26",
+        "lat": 27.33694,
+        "lon": -112.2683
+      },
+      {
+        "name": "Todos Santos",
+        "state_code": "03",
+        "state": "Baja California Sur",
+        "named_on": "2006",
+        "lat": 23.4558918,
+        "lon": -110.2353474
+      },
+      {
+        "name": "Candelaria",
+        "state_code": "04",
+        "state": "Campeche",
+        "named_on": "2023-06-26",
+        "lat": 18.1909171,
+        "lon": -91.0788477
+      },
+      {
+        "name": "Isla Aguada",
+        "state_code": "04",
+        "state": "Campeche",
+        "named_on": "2020-12-01",
+        "lat": 18.784722,
+        "lon": -91.491667
+      },
+      {
+        "name": "Palizada",
+        "state_code": "04",
+        "state": "Campeche",
+        "named_on": "2010-10-04",
+        "lat": 18.255556,
+        "lon": -92.091667
+      },
+      {
+        "name": "Arteaga",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2012",
+        "lat": 25.445278,
+        "lon": -100.846667
+      },
+      {
+        "name": "Candela",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2015-09-25",
+        "lat": 26.840912,
+        "lon": -100.668471
+      },
+      {
+        "name": "Cuatrociénegas de Carranza",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2012",
+        "lat": 26.985833,
+        "lon": -102.066667
+      },
+      {
+        "name": "General Cepeda",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2023-06-26",
+        "lat": 25.376389,
+        "lon": -101.475
+      },
+      {
+        "name": "Guerrero",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2015-09-25",
+        "lat": 28.307774,
+        "lon": -100.381375
+      },
+      {
+        "name": "Melchor Múzquiz",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2018-10-11",
+        "lat": 27.880983,
+        "lon": -101.512689
+      },
+      {
+        "name": "Parras de la Fuente",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2004",
+        "lat": 25.436944,
+        "lon": -102.183611
+      },
+      {
+        "name": "Viesca",
+        "state_code": "05",
+        "state": "Coahuila",
+        "named_on": "2012",
+        "lat": 25.3425,
+        "lon": -102.806667
+      },
+      {
+        "name": "Comala",
+        "state_code": "06",
+        "state": "Colima",
+        "named_on": "2002",
+        "lat": 19.320833,
+        "lon": -103.76027
+      },
+      {
+        "name": "Chiapa de Corzo",
+        "state_code": "07",
+        "state": "Chiapas",
+        "named_on": "2012-10-09",
+        "lat": 16.708333,
+        "lon": -93.016944
+      },
+      {
+        "name": "Comitán de Domínguez",
+        "state_code": "07",
+        "state": "Chiapas",
+        "named_on": "2012-10-09",
+        "lat": 16.251111,
+        "lon": -92.134167
+      },
+      {
+        "name": "Copainalá",
+        "state_code": "07",
+        "state": "Chiapas",
+        "named_on": "2023-06-26",
+        "lat": 17.093611,
+        "lon": -93.210556
+      },
+      {
+        "name": "Ocozocoautla de Espinosa",
+        "state_code": "07",
+        "state": "Chiapas",
+        "named_on": "2023-06-26",
+        "lat": 16.7625,
+        "lon": -93.375
+      },
+      {
+        "name": "Palenque",
+        "state_code": "07",
+        "state": "Chiapas",
+        "named_on": "2015-09-25",
+        "lat": 17.5100611,
+        "lon": -91.9792619
+      },
+      {
+        "name": "San Cristóbal de las Casas",
+        "state_code": "07",
+        "state": "Chiapas",
+        "named_on": "2003",
+        "lat": 16.736667,
+        "lon": -92.638333
+      },
+      {
+        "name": "Batopilas de Manuel Gómez Morín",
+        "state_code": "08",
+        "state": "Chihuahua",
+        "named_on": "2012-10-19",
+        "lat": 27.026667,
+        "lon": -107.739444
+      },
+      {
+        "name": "Casas Grandes",
+        "state_code": "08",
+        "state": "Chihuahua",
+        "named_on": "2015-09-25",
+        "lat": 30.376711,
+        "lon": -107.9518817
+      },
+      {
+        "name": "Creel",
+        "state_code": "08",
+        "state": "Chihuahua",
+        "named_on": "2007",
+        "lat": 27.753056,
+        "lon": -107.635
+      },
+      {
+        "name": "Guachochi",
+        "state_code": "08",
+        "state": "Chihuahua",
+        "named_on": "2023-06-26",
+        "lat": 26.819444,
+        "lon": -107.07
+      },
+      {
+        "name": "Hidalgo del Parral",
+        "state_code": "08",
+        "state": "Chihuahua",
+        "named_on": "2023-06-26",
+        "lat": 26.9325,
+        "lon": -105.663056
+      },
+      {
+        "name": "Mapimí",
+        "state_code": "10",
+        "state": "Durango",
+        "named_on": "2012-11-27",
+        "lat": 25.833056,
+        "lon": -103.847778
+      },
+      {
+        "name": "Nombre de Dios",
+        "state_code": "10",
+        "state": "Durango",
+        "named_on": "2018-10-11",
+        "lat": 23.849208,
+        "lon": -104.244884
+      },
+      {
+        "name": "Comonfort",
+        "state_code": "11",
+        "state": "Guanajuato",
+        "named_on": "2018-10-11",
+        "lat": 20.723813,
+        "lon": -100.759146
+      },
+      {
+        "name": "Dolores Hidalgo",
+        "state_code": "11",
+        "state": "Guanajuato",
+        "named_on": "2002-08-18",
+        "lat": 21.158333,
+        "lon": -100.933333
+      },
+      {
+        "name": "Jalpa de Cánovas",
+        "state_code": "11",
+        "state": "Guanajuato",
+        "named_on": "2012",
+        "lat": 20.87943,
+        "lon": -101.982884
+      },
+      {
+        "name": "Mineral de Pozos",
+        "state_code": "11",
+        "state": "Guanajuato",
+        "named_on": "2012",
+        "lat": 21.221944,
+        "lon": -100.495556
+      },
+      {
+        "name": "Salvatierra",
+        "state_code": "11",
+        "state": "Guanajuato",
+        "named_on": "2012",
+        "lat": 20.215,
+        "lon": -100.878056
+      },
+      {
+        "name": "Yuriria",
+        "state_code": "11",
+        "state": "Guanajuato",
+        "named_on": "2012",
+        "lat": 20.212222,
+        "lon": -101.1275
+      },
+      {
+        "name": "Ixcateopan de Cuauhtémoc",
+        "state_code": "12",
+        "state": "Guerrero",
+        "named_on": "2023-06-26",
+        "lat": 18.5,
+        "lon": -99.793333
+      },
+      {
+        "name": "Taxco de Alarcón",
+        "state_code": "12",
+        "state": "Guerrero",
+        "named_on": "2002",
+        "lat": 18.556389,
+        "lon": -99.605
+      },
+      {
+        "name": "Zihuatanejo",
+        "state_code": "12",
+        "state": "Guerrero",
+        "named_on": "2023-06-26",
+        "lat": 17.64344,
+        "lon": -101.55212
+      },
+      {
+        "name": "Acaxochitlán",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2023-06-26",
+        "lat": 20.158333,
+        "lon": -98.202222
+      },
+      {
+        "name": "Huasca de Ocampo",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2001-10-05",
+        "lat": 20.203611,
+        "lon": -98.593056
+      },
+      {
+        "name": "Huichapan",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2012",
+        "lat": 20.375278,
+        "lon": -99.650556
+      },
+      {
+        "name": "Metztitlán",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2023-06-26",
+        "lat": 20.584444,
+        "lon": -98.763056
+      },
+      {
+        "name": "Mineral del Chico",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2011-08-09",
+        "lat": 20.203056,
+        "lon": -98.747778
+      },
+      {
+        "name": "Real del Monte",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2004-08-28",
+        "lat": 20.139167,
+        "lon": -98.671667
+      },
+      {
+        "name": "Tecozautla",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2015-09-25",
+        "lat": 20.532958,
+        "lon": -99.6333
+      },
+      {
+        "name": "Zempoala",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2020-12-01",
+        "lat": 19.915556,
+        "lon": -98.67
+      },
+      {
+        "name": "Zimapán",
+        "state_code": "13",
+        "state": "Hidalgo",
+        "named_on": "2018-10-11",
+        "lat": 20.738205,
+        "lon": -99.382781
+      },
+      {
+        "name": "Ajijic",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2020-12-01",
+        "lat": 20.299444,
+        "lon": -103.258056
+      },
+      {
+        "name": "Cocula",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2023-06-26",
+        "lat": 20.36517,
+        "lon": -103.82215
+      },
+      {
+        "name": "Lagos de Moreno",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2012-11-15",
+        "lat": 21.35,
+        "lon": -101.916667
+      },
+      {
+        "name": "Mascota",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2015-09-25",
+        "lat": 20.523979,
+        "lon": -104.7888057
+      },
+      {
+        "name": "Mazamitla",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2005-08-15",
+        "lat": 19.915556,
+        "lon": -103.019444
+      },
+      {
+        "name": "San Pedro Tlaquepaque",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2018-10-11",
+        "lat": 20.639872,
+        "lon": -103.310681
+      },
+      {
+        "name": "San Sebastián del Oeste",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2011-12-08",
+        "lat": 20.65,
+        "lon": -104.583
+      },
+      {
+        "name": "Sayula",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2023-06-26",
+        "lat": 19.883611,
+        "lon": -103.601111
+      },
+      {
+        "name": "Talpa de Allende",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2015-09-25",
+        "lat": 20.3804383,
+        "lon": -104.8228625
+      },
+      {
+        "name": "Tapalpa",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2002-05-06",
+        "lat": 19.94,
+        "lon": -103.76
+      },
+      {
+        "name": "Temacapulín",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2023-06-26",
+        "lat": 21.188333,
+        "lon": -102.706667
+      },
+      {
+        "name": "Tequila",
+        "state_code": "14",
+        "state": "Jalisco",
+        "named_on": "2003",
+        "lat": 20.882778,
+        "lon": -103.836667
+      },
+      {
+        "name": "Aculco de Espinoza",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2015-09-25",
+        "lat": 20.1357416,
+        "lon": -99.8284041
+      },
+      {
+        "name": "El Oro de Hidalgo",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2011",
+        "lat": 19.800833,
+        "lon": -100.131389
+      },
+      {
+        "name": "Ixtapan de la Sal",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2015-09-25",
+        "lat": 18.8438127,
+        "lon": -99.6759874
+      },
+      {
+        "name": "Jilotepec de Molina Enríquez",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2024-09-27",
+        "lat": 19.95194,
+        "lon": -99.53278
+      },
+      {
+        "name": "Malinalco",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2010-10-25",
+        "lat": 18.95,
+        "lon": -99.5
+      },
+      {
+        "name": "Metepec",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2012-09-14",
+        "lat": 19.25,
+        "lon": -99.6
+      },
+      {
+        "name": "Otumba de Gómez Farías",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2024-09-27",
+        "lat": 19.696944,
+        "lon": -98.754722
+      },
+      {
+        "name": "Teotihuacán",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2015-09-25",
+        "lat": 19.6925,
+        "lon": -98.8438
+      },
+      {
+        "name": "Tepotzotlán",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2002-08-18",
+        "lat": 19.716111,
+        "lon": -99.223611
+      },
+      {
+        "name": "Tonatico",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2020-12-01",
+        "lat": 18.805,
+        "lon": -99.669167
+      },
+      {
+        "name": "Valle de Bravo",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2005-03-02",
+        "lat": 19.1925,
+        "lon": -100.130556
+      },
+      {
+        "name": "Villa del Carbón",
+        "state_code": "15",
+        "state": "Estado de México",
+        "named_on": "2015-09-25",
+        "lat": 19.7278935,
+        "lon": -99.4635401
+      },
+      {
+        "name": "Cotija de la Paz",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2023-06-26",
+        "lat": 19.81,
+        "lon": -102.704722
+      },
+      {
+        "name": "Cuitzeo del Porvenir",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2006-11-01",
+        "lat": 19.9686,
+        "lon": -101.139
+      },
+      {
+        "name": "Jiquilpan de Juárez",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2012-11-27",
+        "lat": 19.994167,
+        "lon": -102.717222
+      },
+      {
+        "name": "Mineral de Angangueo",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2012-03-20",
+        "lat": 19.617778,
+        "lon": -100.285556
+      },
+      {
+        "name": "Paracho de Verduzco",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2020-12-01",
+        "lat": 19.647297,
+        "lon": -102.048468
+      },
+      {
+        "name": "Pátzcuaro",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2002-06-06",
+        "lat": 19.516389,
+        "lon": -101.609722
+      },
+      {
+        "name": "Santa Clara del Cobre",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2010-08-30",
+        "lat": 19.405278,
+        "lon": -101.638333
+      },
+      {
+        "name": "Tacámbaro de Codallos",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2012-11-21",
+        "lat": 19.235556,
+        "lon": -101.456944
+      },
+      {
+        "name": "Tlalpujahua de Rayón",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2005-06-27",
+        "lat": 19.805,
+        "lon": -100.174444
+      },
+      {
+        "name": "Tzintzuntzan",
+        "state_code": "16",
+        "state": "Michoacán",
+        "named_on": "2012-11-17",
+        "lat": 19.628333,
+        "lon": -101.578889
+      },
+      {
+        "name": "Tepoztlán",
+        "state_code": "17",
+        "state": "Morelos",
+        "named_on": "2015-10-10",
+        "lat": 18.985278,
+        "lon": -99.099722
+      },
+      {
+        "name": "Tlaltizapán de Zapata",
+        "state_code": "17",
+        "state": "Morelos",
+        "named_on": "2023-06-26",
+        "lat": 18.6881655,
+        "lon": -99.1422276
+      },
+      {
+        "name": "Tlayacapan",
+        "state_code": "17",
+        "state": "Morelos",
+        "named_on": "2022-08-23",
+        "lat": 18.955556,
+        "lon": -98.981111
+      },
+      {
+        "name": "Xochitepec",
+        "state_code": "17",
+        "state": "Morelos",
+        "named_on": "2023-06-26",
+        "lat": 18.7950677,
+        "lon": -99.3087766
+      },
+      {
+        "name": "Ahuacatlán",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2023-06-26",
+        "lat": 21.054444,
+        "lon": -104.484444
+      },
+      {
+        "name": "Amatlán de Cañas",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2023-06-26",
+        "lat": 20.8113431,
+        "lon": -104.4392181
+      },
+      {
+        "name": "Ciudad Jala",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2012",
+        "lat": 21.103274,
+        "lon": -104.434305
+      },
+      {
+        "name": "Compostela",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2018-10-11",
+        "lat": 21.236888,
+        "lon": -104.900636
+      },
+      {
+        "name": "Ixtlán del Río",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2023-06-26",
+        "lat": 21.036914,
+        "lon": -104.4442824
+      },
+      {
+        "name": "Mexcaltitán de Uribe",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2020-12-01",
+        "lat": 21.905833,
+        "lon": -105.475278
+      },
+      {
+        "name": "Puerto Balleto",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2023-06-26",
+        "lat": 21.633889,
+        "lon": -105.95
+      },
+      {
+        "name": "San Blas",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2023-06-26",
+        "lat": 21.539722,
+        "lon": -105.285556
+      },
+      {
+        "name": "Sayulita",
+        "state_code": "18",
+        "state": "Nayarit",
+        "named_on": "2015-09-25",
+        "lat": 20.8693673,
+        "lon": -105.4408676
+      },
+      {
+        "name": "Bustamante",
+        "state_code": "19",
+        "state": "Nuevo León",
+        "named_on": "2018-10-11",
+        "lat": 26.534405,
+        "lon": -100.502786
+      },
+      {
+        "name": "General Terán",
+        "state_code": "19",
+        "state": "Nuevo León",
+        "named_on": "2023-06-26",
+        "lat": 25.2538,
+        "lon": -99.6781
+      },
+      {
+        "name": "General Zaragoza",
+        "state_code": "19",
+        "state": "Nuevo León",
+        "named_on": "2023-06-26",
+        "lat": 23.880269,
+        "lon": -99.7402543
+      },
+      {
+        "name": "Linares",
+        "state_code": "19",
+        "state": "Nuevo León",
+        "named_on": "2015-09-25",
+        "lat": 24.859762,
+        "lon": -99.5675485
+      },
+      {
+        "name": "Santiago",
+        "state_code": "19",
+        "state": "Nuevo León",
+        "named_on": "2006",
+        "lat": 25.433333,
+        "lon": -100.133333
+      },
+      {
+        "name": "Capulálpam de Méndez",
+        "state_code": "20",
+        "state": "Oaxaca",
+        "named_on": "2007",
+        "lat": 17.3,
+        "lon": -96.45
+      },
+      {
+        "name": "Huautla de Jiménez",
+        "state_code": "20",
+        "state": "Oaxaca",
+        "named_on": "2015-09-25",
+        "lat": 18.1297806,
+        "lon": -96.8550499
+      },
+      {
+        "name": "Mazunte",
+        "state_code": "20",
+        "state": "Oaxaca",
+        "named_on": "2015-09-25",
+        "lat": 15.665571,
+        "lon": -96.5557883
+      },
+      {
+        "name": "San Pablo Villa de Mitla",
+        "state_code": "20",
+        "state": "Oaxaca",
+        "named_on": "2015-09-25",
+        "lat": 16.9210829,
+        "lon": -96.3661293
+      },
+      {
+        "name": "San Pedro y San Pablo Teposcolula",
+        "state_code": "20",
+        "state": "Oaxaca",
+        "named_on": "2015-09-25",
+        "lat": 17.5113998,
+        "lon": -97.4940898
+      },
+      {
+        "name": "Santa Catarina Juquila",
+        "state_code": "20",
+        "state": "Oaxaca",
+        "named_on": "2020-12-01",
+        "lat": 16.236389,
+        "lon": -97.291944
+      },
+      {
+        "name": "Atlixco de las Flores",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2015-09-25",
+        "lat": 18.9125,
+        "lon": -98.427778
+      },
+      {
+        "name": "Chignahuapan",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2012-10-30",
+        "lat": 19.833333,
+        "lon": -98.033333
+      },
+      {
+        "name": "Cholula",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2012-10-30",
+        "lat": 19.06,
+        "lon": -98.31
+      },
+      {
+        "name": "Cuetzalan del Progreso",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2002-03-11",
+        "lat": 20.018611,
+        "lon": -97.521111
+      },
+      {
+        "name": "Huauchinango",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2015-09-25",
+        "lat": 20.1751549,
+        "lon": -98.052873
+      },
+      {
+        "name": "Huejotzingo de Nieva",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2023-06-26",
+        "lat": 19.15945,
+        "lon": -98.40734
+      },
+      {
+        "name": "Pahuatlán del Valle",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2012-03-23",
+        "lat": 20.283333,
+        "lon": -98.15
+      },
+      {
+        "name": "Tetela de Ocampo",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2020-12-01",
+        "lat": 19.8164878,
+        "lon": -97.806474
+      },
+      {
+        "name": "Teziutlán",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2023-06-26",
+        "lat": 19.853689,
+        "lon": -97.358231
+      },
+      {
+        "name": "Tlatlauquitepec",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2012-11-28",
+        "lat": 19.851389,
+        "lon": -97.496111
+      },
+      {
+        "name": "Xicotepec de Juárez",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2012-12-02",
+        "lat": 20.3,
+        "lon": -97.966667
+      },
+      {
+        "name": "Zacatlán de las Manzanas",
+        "state_code": "21",
+        "state": "Puebla",
+        "named_on": "2011-04-27",
+        "lat": 19.931944,
+        "lon": -97.96
+      },
+      {
+        "name": "Amealco de Bonfil",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2018-10-11",
+        "lat": 20.186701,
+        "lon": -100.144359
+      },
+      {
+        "name": "Cadereyta de Montes",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2011",
+        "lat": 20.691,
+        "lon": -99.819
+      },
+      {
+        "name": "Jalpan de Serra",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2010-10-19",
+        "lat": 21.216944,
+        "lon": -99.474444
+      },
+      {
+        "name": "Pinal de Amoles",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2023-06-26",
+        "lat": 21.1354079,
+        "lon": -99.6306724
+      },
+      {
+        "name": "San Joaquín",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2015-09-25",
+        "lat": 20.9156201,
+        "lon": -99.56617
+      },
+      {
+        "name": "San Sebastian Bernal",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2005",
+        "lat": 20.738889,
+        "lon": -99.94
+      },
+      {
+        "name": "Tequisquiapan",
+        "state_code": "22",
+        "state": "Querétaro",
+        "named_on": "2012-10-16",
+        "lat": 20.520556,
+        "lon": -99.895833
+      },
+      {
+        "name": "Bacalar",
+        "state_code": "23",
+        "state": "Quintana Roo",
+        "named_on": "2006",
+        "lat": 18.676944,
+        "lon": -88.395278
+      },
+      {
+        "name": "Isla Mujeres",
+        "state_code": "23",
+        "state": "Quintana Roo",
+        "named_on": "2015-09-25",
+        "lat": 21.233333,
+        "lon": -86.733333
+      },
+      {
+        "name": "San Miguel de Cozumel",
+        "state_code": "23",
+        "state": "Quintana Roo",
+        "named_on": "2023-06-26",
+        "lat": 20.487706,
+        "lon": -86.927724
+      },
+      {
+        "name": "Tulum",
+        "state_code": "23",
+        "state": "Quintana Roo",
+        "named_on": "2015-09-25",
+        "lat": 20.212981,
+        "lon": -87.465425
+      },
+      {
+        "name": "Aquismón",
+        "state_code": "24",
+        "state": "San Luis Potosí",
+        "named_on": "2018-10-11",
+        "lat": 21.621186,
+        "lon": -99.01968
+      },
+      {
+        "name": "Ciudad del Maíz",
+        "state_code": "24",
+        "state": "San Luis Potosí",
+        "named_on": "2023-06-26",
+        "lat": 22.401944,
+        "lon": -99.604722
+      },
+      {
+        "name": "Real de Catorce",
+        "state_code": "24",
+        "state": "San Luis Potosí",
+        "named_on": "2019-07-18",
+        "lat": 23.688889,
+        "lon": -100.887778
+      },
+      {
+        "name": "Santa María del Río",
+        "state_code": "24",
+        "state": "San Luis Potosí",
+        "named_on": "2020-12-01",
+        "lat": 21.800453,
+        "lon": -100.736273
+      },
+      {
+        "name": "Tierranueva",
+        "state_code": "24",
+        "state": "San Luis Potosí",
+        "named_on": "2023-06-26",
+        "lat": 21.6694574,
+        "lon": -100.6130357
+      },
+      {
+        "name": "Xilitla",
+        "state_code": "24",
+        "state": "San Luis Potosí",
+        "named_on": "2011-12-12",
+        "lat": 21.384,
+        "lon": -98.99
+      },
+      {
+        "name": "Cosalá",
+        "state_code": "25",
+        "state": "Sinaloa",
+        "named_on": "2005",
+        "lat": 24.414167,
+        "lon": -106.688611
+      },
+      {
+        "name": "El Fuerte",
+        "state_code": "25",
+        "state": "Sinaloa",
+        "named_on": "2009-07-16",
+        "lat": 26.4,
+        "lon": -108.617
+      },
+      {
+        "name": "El Rosario",
+        "state_code": "25",
+        "state": "Sinaloa",
+        "named_on": "2012",
+        "lat": 22.991944,
+        "lon": -105.861389
+      },
+      {
+        "name": "Mocorito",
+        "state_code": "25",
+        "state": "Sinaloa",
+        "named_on": "2015-09-25",
+        "lat": 25.481537,
+        "lon": -107.924494
+      },
+      {
+        "name": "San Ignacio",
+        "state_code": "25",
+        "state": "Sinaloa",
+        "named_on": "2023-06-26",
+        "lat": 23.941389,
+        "lon": -106.424167
+      },
+      {
+        "name": "Álamos",
+        "state_code": "26",
+        "state": "Sonora",
+        "named_on": "2005",
+        "lat": 27.0275,
+        "lon": -108.94
+      },
+      {
+        "name": "Magdalena de Kino",
+        "state_code": "26",
+        "state": "Sonora",
+        "named_on": "2012-03-22",
+        "lat": 30.624722,
+        "lon": -110.968611
+      },
+      {
+        "name": "San Carlos",
+        "state_code": "26",
+        "state": "Sonora",
+        "named_on": "2023-06-26",
+        "lat": 27.9686,
+        "lon": -111.0322
+      },
+      {
+        "name": "Ures",
+        "state_code": "26",
+        "state": "Sonora",
+        "named_on": "2023-06-26",
+        "lat": 29.428,
+        "lon": -110.38944
+      },
+      {
+        "name": "Frontera",
+        "state_code": "27",
+        "state": "Tabasco",
+        "named_on": "2023-06-23",
+        "lat": 18.530111,
+        "lon": -92.652187
+      },
+      {
+        "name": "Santiago de Teapa",
+        "state_code": "27",
+        "state": "Tabasco",
+        "named_on": "2023-06-23",
+        "lat": 17.548284,
+        "lon": -92.952994
+      },
+      {
+        "name": "Tapijulapa",
+        "state_code": "27",
+        "state": "Tabasco",
+        "named_on": "2010-06-09",
+        "lat": 17.459722,
+        "lon": -92.779167
+      },
+      {
+        "name": "Ciudad Mier",
+        "state_code": "28",
+        "state": "Tamaulipas",
+        "named_on": "2007-12-05",
+        "lat": 26.437339,
+        "lon": -99.149297
+      },
+      {
+        "name": "Ciudad Tula",
+        "state_code": "28",
+        "state": "Tamaulipas",
+        "named_on": "2011-10-20",
+        "lat": 23.0006739,
+        "lon": -99.7082509
+      },
+      {
+        "name": "Huamantla",
+        "state_code": "29",
+        "state": "Tlaxcala",
+        "named_on": "2007-08-14",
+        "lat": 19.312778,
+        "lon": -97.921667
+      },
+      {
+        "name": "Ixtenco",
+        "state_code": "29",
+        "state": "Tlaxcala",
+        "named_on": "2023-06-26",
+        "lat": 19.2509222,
+        "lon": -97.9336299
+      },
+      {
+        "name": "Tlaxco",
+        "state_code": "29",
+        "state": "Tlaxcala",
+        "named_on": "2015-09-25",
+        "lat": 19.6146399,
+        "lon": -98.1193869
+      },
+      {
+        "name": "Coatepec",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2006-08-17",
+        "lat": 19.4549,
+        "lon": -96.9569
+      },
+      {
+        "name": "Córdoba",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2023-06-26",
+        "lat": 18.894167,
+        "lon": -96.934722
+      },
+      {
+        "name": "Coscomatepec de Bravo",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2015-09-25",
+        "lat": 19.0730237,
+        "lon": -97.0474296
+      },
+      {
+        "name": "Naolinco de Victoria",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2023-06-26",
+        "lat": 19.655833,
+        "lon": -96.873611
+      },
+      {
+        "name": "Orizaba",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2015-09-25",
+        "lat": 18.849377,
+        "lon": -97.1059995
+      },
+      {
+        "name": "Papantla de Olarte",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2012-06-31",
+        "lat": 20.448889,
+        "lon": -97.324444
+      },
+      {
+        "name": "Xico",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2011",
+        "lat": 19.417,
+        "lon": -97.0
+      },
+      {
+        "name": "Zozocolco de Hidalgo",
+        "state_code": "30",
+        "state": "Veracruz",
+        "named_on": "2015-09-25",
+        "lat": 20.1423554,
+        "lon": -97.5852077
+      },
+      {
+        "name": "Espita",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2023-06-26",
+        "lat": 21.0127,
+        "lon": -88.3047
+      },
+      {
+        "name": "Izamal",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2002-02-16",
+        "lat": 20.931389,
+        "lon": -89.017778
+      },
+      {
+        "name": "Maní",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2020-12-01",
+        "lat": 20.386389,
+        "lon": -89.390278
+      },
+      {
+        "name": "Motul de Carrillo Puerto",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2023-06-26",
+        "lat": 21.095,
+        "lon": -89.283
+      },
+      {
+        "name": "Sisal",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2020-12-01",
+        "lat": 21.165278,
+        "lon": -90.030556
+      },
+      {
+        "name": "Tekax",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2023-06-26",
+        "lat": 20.2019,
+        "lon": -89.288
+      },
+      {
+        "name": "Valladolid",
+        "state_code": "31",
+        "state": "Yucatán",
+        "named_on": "2012-08-30",
+        "lat": 20.689444,
+        "lon": -88.201667
+      },
+      {
+        "name": "Guadalupe",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2018-10-11",
+        "lat": 22.747716,
+        "lon": -102.517058
+      },
+      {
+        "name": "Jerez de García Salinas",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2007-07-13",
+        "lat": 22.65,
+        "lon": -103.0
+      },
+      {
+        "name": "Nochistlán de Mejía",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2012-11-26",
+        "lat": 21.3606,
+        "lon": -102.846
+      },
+      {
+        "name": "Pinos",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2012-10-31",
+        "lat": 22.2983,
+        "lon": -101.574
+      },
+      {
+        "name": "Sombrerete",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2012-02-17",
+        "lat": 23.633333,
+        "lon": -103.633333
+      },
+      {
+        "name": "Teúl de González Ortega",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2011-04-29",
+        "lat": 21.461944,
+        "lon": -103.460556
+      },
+      {
+        "name": "Villanueva",
+        "state_code": "32",
+        "state": "Zacatecas",
+        "named_on": "2023-06-26",
+        "lat": 22.353611,
+        "lon": -102.883056
+      }
+    ]
+  },
+  "unesco": {
+    "citation": {
+      "source": "unesco",
+      "source_name": "UNESCO, Centro del Patrimonio Mundial: Lista del Patrimonio Mundial",
+      "url": "https://whc.unesco.org/es/list/",
+      "xml_url": "https://whc.unesco.org/es/list/xml/",
+      "published_at": null,
+      "retrieved_at": "2026-11-12"
+    },
+    "count": 36,
+    "items": [
+      {
+        "id": 412,
+        "name": "Centro histórico de México y Xochimilco",
+        "category": "cultural",
+        "inscribed": 1987,
+        "criteria": "(ii)(iii)(iv)(v)",
+        "location": "District Federal. Delegations: Cuauhtemoc, Venustiano Carranza et Xochimilco",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/412",
+        "summary": "Construida por los españoles en el siglo XVI sobre las ruinas de Tenochtitlán, la antigua capital azteca, la ciudad de México es hoy una de las capitales más grandes y pobladas el mundo. Además de los vestigios de los cinco templos aztecas localizados hasta ahora, la ciudad posee la catedral más grande del continente y hermosos edificios públicos de los siglos XIX y XX como el Palacio de Bellas Artes. Situado a 28 kilómetros al sur del centro de México, el sitio de Xochimilco con sus redes de canales e islas artificiales constituye un ejemplo excepcional de los trabajos de los aztecas para construir un hábitat en un entorno hostil al hombre. Las estructuras urbanas y rurales creadas a partir del siglo XVI durante el periodo colonial se han conservado admirablemente.",
+        "points": [
+          [
+            19.220663,
+            -98.964393
+          ],
+          [
+            19.249828,
+            -99.098926
+          ],
+          [
+            19.273098,
+            -99.086169
+          ],
+          [
+            19.433481,
+            -99.13301
+          ]
+        ]
+      },
+      {
+        "id": 415,
+        "name": "Centro histórico de Oaxaca y zona arqueológica de Monte Albán",
+        "category": "cultural",
+        "inscribed": 1987,
+        "criteria": "(i)(ii)(iii)(iv)",
+        "location": "Etat de Oaxaca de Juarez, municipalites de Oaxaca, Xoxocotlan et Cuilapan",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/415",
+        "summary": "Este sitio fue habitado sucesivamente por los olmecas, zapotecas y mixtecas durante quince siglos. Los terraplenes, diques, canales, pirámides y montículos artificiales de Monte Albán fueron literalmente excavados en la montaña y son símbolos de una topografía sagrada. Situada en sus cercanías, la ciudad de Oaxaca con su trazado en damero constituye una excelente muestra del urbanismo colonial español. La solidez y volumen de sus edificios, verdaderas obras de arte de la arquitectura, atestiguan que su construcción se adaptó a las características sísmicas de la región.",
+        "points": [
+          [
+            17.046323,
+            -96.768133
+          ],
+          [
+            17.0619444444,
+            -96.7216666667
+          ]
+        ]
+      },
+      {
+        "id": 416,
+        "name": "Centro histórico de Puebla",
+        "category": "cultural",
+        "inscribed": 1987,
+        "criteria": "(ii)(iv)",
+        "location": "Etat de Puebla, municipalites de Puebla, San Pedro Cholula et San Andres Cholula",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/416",
+        "summary": "Situada a unos 100 kilómetros al este de México, al pie del volcán Popocatepetl, la ciudad de Puebla fue fundada ex nihilo en 1531. Ha conservado grandes edificios religiosos, como la catedral que data de los siglos XVI y XVII, palacios magníficos, como el del arzobispado, y un gran número de casas con paredes cubiertas de azulejos. El barrio barroco de la ciudad es único en su género, debido a la adaptación local de los nuevos conceptos estéticos surgidos de la fusión de los estilos arquitectónicos y artísticos de Europa y América.",
+        "points": [
+          [
+            19.045967,
+            -98.197769
+          ]
+        ]
+      },
+      {
+        "id": 414,
+        "name": "Ciudad prehispánica de Teotihuacán",
+        "category": "cultural",
+        "inscribed": 1987,
+        "criteria": "(i)(ii)(iii)(iv)(vi)",
+        "location": "Municipalities of Teotihuacan De Arista and San Martin De Las Piramides",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/414",
+        "summary": "Situada a unos 50 km de México, la ciudad sagrada de Teotihuacán –“lugar donde fueron creados los dioses”– fue edificada entre los siglos I y VII. Se singulariza por sus monumentos de vastas dimensiones, en particular las pirámides del Sol y la Luna y el templo de Quetzalcoatl, que están dispuestos con arreglo a un trazado geométrico y simbólico a la vez. Esta ciudad fue uno de los focos culturales y artísticos más importantes de Mesoamérica y su influencia sobrepasó ampliamente los confines de la región circundante.",
+        "points": [
+          [
+            19.69167,
+            -98.84167
+          ]
+        ]
+      },
+      {
+        "id": 411,
+        "name": "Ciudad prehispánica y parque nacional de Palenque",
+        "category": "cultural",
+        "inscribed": 1987,
+        "criteria": "(i)(ii)(iii)(iv)",
+        "location": "State of Chiapas, Municipality of Palenque",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/411",
+        "summary": "Ejemplo eminente de santuario maya de la época clásica, Palenque alcanzó su apogeo entre los siglos VI y VIII y ejerció una gran influencia en toda la cuenca del río Usumacinta. La elegancia y calidad técnica de sus construcciones, así como la delicadeza de los relieves esculpidos con temas mitológicos, ponen de manifiesto el genio creador de la civilización maya.",
+        "points": [
+          [
+            17.48333,
+            -92.05
+          ]
+        ]
+      },
+      {
+        "id": 410,
+        "name": "Sian Ka'an",
+        "category": "natural",
+        "inscribed": 1987,
+        "criteria": "(vii)(x)",
+        "location": "Quintana Roo, Cozumel et Felipe Carrillo Puerto",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/410",
+        "summary": "En la lengua de los mayas que poblaban antaño la región, Sian Ka'an significa “origen del cielo”. Situada en la costa oriental de la península de Yucatán, esta reserva de biosfera abarca bosques tropicales, manglares, marismas y una vasta zona marina atravesada por un arrecife de barrera. Alberga una flora de gran riqueza y su fauna comprende más de 300 especies de pájaros y un gran número de vertebrados terrestres característicos de la región, que coexisten en el medio diversificado resultante del complejo sistema hidrológico del sitio.",
+        "points": [
+          [
+            19.38333,
+            -87.79167
+          ]
+        ]
+      },
+      {
+        "id": 482,
+        "name": "Ciudad histórica de Guanajuato y minas adyacentes",
+        "category": "cultural",
+        "inscribed": 1988,
+        "criteria": "(i)(ii)(iv)(vi)",
+        "location": "Etat de: Guanajuato. Municipalite: Guanajuato",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/482",
+        "summary": "Fundada por los españoles a comienzos del siglo XV, esta ciudad se convirtió en el primer centro mundial de extracción de la plata en el siglo XVIII. Su pasado minero ha quedado plasmado en las “calles subterráneas” y el impresionante pozo minero de la “Boca del infierno”, que tiene una profundidad de 600 metros. La arquitectura y los elementos ornamentales de los edificios barrocos y neoclásicos de la ciudad, construidos a raíz de la prosperidad de las minas, ejercieron una influencia considerable en las construcciones de una gran parte del centro de México. Las iglesias de la Compañía de Jesús y la Valenciana figuran entre los más hermosos ejemplares de la arquitectura barroca de Centroamérica y Sudamérica. Guanajuato fue también protagonista de acontecimientos que cambiaron el rumbo de la historia de México.",
+        "points": [
+          [
+            21.01694,
+            -101.25556
+          ]
+        ]
+      },
+      {
+        "id": 483,
+        "name": "Ciudad prehispánica de Chichén-Itzá",
+        "category": "cultural",
+        "inscribed": 1988,
+        "criteria": "(i)(ii)(iii)",
+        "location": "Etat de Yucatan, Municipalité de Tinum",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/483",
+        "summary": "Esta ciudad sagrada fue uno de los centros más importantes de la civilización maya en la península del Yucatán. A lo largo de sus casi mil años de historia, diversos pueblos la fueron marcando con su impronta. Los mayas y toltecas dejaron inscrita su visión del mundo y el universo en sus monumentos de piedra y obras de arte. La fusión de las técnicas de construcción mayas con nuevos elementos procedentes del centro de México hacen de Chichén-Itzá uno de los ejemplos más importantes de la civilización maya-tolteca del Yucatán. Entre los edificios que han sobrevivido al paso del tiempo figuran el Templo de los Guerreros, el Castillo y el observatorio circular conocido por el nombre de El Caracol.",
+        "points": [
+          [
+            20.682739,
+            -88.568654
+          ]
+        ]
+      },
+      {
+        "id": 585,
+        "name": "Centro histórico de Morelia",
+        "category": "cultural",
+        "inscribed": 1991,
+        "criteria": "(ii)(iv)(vi)",
+        "location": "Michoacan. Mairie de Morelia",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/585",
+        "summary": "Construida en lo alto de una colina en el siglo XVI, Morelia ofrece un ejemplo excepcional de planificación urbanística en la que se fusionan los conceptos del Renacimiento español con la experiencia mesoamericana. Sus calles, perfectamente adaptadas a las laderas de la colina, conservan su trazado primigenio. La historia arquitectónica de la ciudad puede leerse en sus más de doscientos edificios históricos. Construidos con la piedra de color rosa característica de la región, estos monumentos ponen de manifiesto la magistral y ecléctica fusión del espíritu medieval con elementos renacentistas, barrocos y neoclásicos. Morelia fue cuna de varios personajes importantes de la independencia de México y desempeñó un importante papel en la historia del país.",
+        "points": [
+          [
+            19.700927,
+            -101.190376
+          ]
+        ]
+      },
+      {
+        "id": 631,
+        "name": "Ciudad prehispánica de El Tajín",
+        "category": "cultural",
+        "inscribed": 1992,
+        "criteria": "(iii)(iv)",
+        "location": "Etat de Veracruz, municipalité de Papantla",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/631",
+        "summary": "Situada en el Estado de Veracruz, la ciudad de El Tajín alcanzó su apogeo entre los inicios del siglo IX y los del XIII, llegando a ser la más importante del nordeste de Mesoamérica después de la caída del Imperio de Teotihuacán. Su influencia cultural se extendió por toda la región del golfo, penetrando también en la región maya y las altiplanicies del centro de México. Su arquitectura es única en toda Mesoamérica y se caracteriza por los relieves sumamente elaborados de las columnas y los frisos. En la Pirámide los Nichos –considerada una obra maestra de la antigua arquitectura mexicana y americana– se pone de manifiesto el significado astronómico y simbólico de los edificios. El Tajín es un vivo y notable ejemplo de la grandeza e importancia de las culturas prehispánicas de México.",
+        "points": [
+          [
+            20.446095,
+            -97.377642
+          ]
+        ]
+      },
+      {
+        "id": 676,
+        "name": "Centro histórico de Zacatecas",
+        "category": "cultural",
+        "inscribed": 1993,
+        "criteria": "(ii)(iv)",
+        "location": "Zacatecas State, Zacatecas Municipality",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/676",
+        "summary": "La ciudad de Zacatecas se fundó en 1546, poco después del descubrimiento de un rico filón de plata, y prosperó gracias a la explotación de este metal precioso, alcanzando su apogeo en los siglos XVI y XVII. Edificada en la escarpada ladera de un estrecho valle, el panorama que ofrece es de una belleza impresionante. Conserva numerosos edificios antiguos, tanto religiosos como civiles, dominados por la silueta de la catedral, construida entre 1730 y 1760. Este templo es una obra arquitectónica excepcional por la armonía de su trazado y la profusa ornamentación barroca de sus fachadas, en las que se combinan los motivos decorativos europeos con los indígenas.",
+        "points": [
+          [
+            22.775484,
+            -102.573531
+          ]
+        ]
+      },
+      {
+        "id": 714,
+        "name": "Pinturas rupestres de la Sierra de San Francisco",
+        "category": "cultural",
+        "inscribed": 1993,
+        "criteria": "(i)(iii)",
+        "location": "State: Lower California Sud Municipality",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/714",
+        "summary": "Situada en la reserva de El Vizcaíno (Baja California), la sierra de San Francisco fue entre el siglo I a.C. y el siglo XIV d.C. el lugar de asentamiento de un pueblo, hoy desaparecido, que nos ha legado uno de los conjuntos más notables de pinturas rupestres del mundo. Mantenidos en un admirable estado de conservación gracias a la sequedad del clima y el difícil acceso del sitio, estos conjuntos representan seres humanos y numerosas especies animales, así como la relación del hombre con su entorno. Exponentes de una cultura sumamente refinada, las pinturas constituyen por su composición, dimensiones, precisión de trazos, variedad de colores y, sobre todo, por su abundancia, un testimonio excepcional de una tradición artística única en su género.",
+        "points": [
+          [
+            27.626963,
+            -113.020427
+          ]
+        ]
+      },
+      {
+        "id": 554,
+        "name": "Santuario de ballenas de El Vizcaíno",
+        "category": "natural",
+        "inscribed": 1993,
+        "criteria": "(x)",
+        "location": "Basse Californie Sud, Municipality of Mulege",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/554",
+        "summary": "Situado en la parte central de la península de Baja California, este sitio alberga ecosistemas de valor excepcional. Las lagunas costeras de Ojo de Liebre y San Ignacio son lugares excelentes para la reproducción e invernada de ballenas grises, becerros marinos, leones marinos californianos, elefantes marinos septentrionales y ballenas azules. Esas lagunas albergan también cuatro especies de tortugas marinas en peligro de extinción.",
+        "points": [
+          [
+            26.97861,
+            -113.164903
+          ],
+          [
+            27.8333333333,
+            -114.166666667
+          ]
+        ]
+      },
+      {
+        "id": 702,
+        "name": "Primeros monasterios del siglo XVI en las laderas del Popocatepetl",
+        "category": "cultural",
+        "inscribed": 1994,
+        "criteria": "(ii)(iv)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/702",
+        "summary": "El conjunto franciscano del monasterio y la catedral de Nuestra Señora de la Asunción forma parte del primer programa de construcción iniciado en 1524 para la evangelización y colonización de los territorios del norte de México. El conjunto es uno de los cinco primeros monasterios establecidos por frailes franciscanos, dominicos y agustinos, y uno de los tres que aún se mantiene en pie. Los otros dos ya fueron inscritos en la Lista del Patrimonio Mundial. El conjunto de edificios de Tlaxcala es un ejemplo del modelo arquitectónico y de las soluciones espaciales desarrolladas en respuesta a un nuevo contexto cultural, que integró elementos locales para crear espacios como amplios atrios y capillas posas. El edificio presenta otras dos particularidades, una torre exenta y un artesonado de madera estilo mudéjar que no se encuentran en los otros monasterios ya inscritos en la Lista del Patrimonio Mundial como parte del sitio en serie. La extensión contribuye a una mejor comprensión del desarrollo de un nuevo modelo arquitectónico que influyó tanto en el desarrollo urbano como en los edificios monásticos hasta el siglo XVIII.",
+        "points": [
+          [
+            18.783931,
+            -98.76602
+          ],
+          [
+            18.877956,
+            -98.7743
+          ],
+          [
+            18.88275,
+            -98.865457
+          ],
+          [
+            18.884868,
+            -98.689691
+          ],
+          [
+            18.892698,
+            -98.729729
+          ],
+          [
+            18.89299,
+            -98.573055
+          ],
+          [
+            18.906286,
+            -98.969929
+          ],
+          [
+            18.920426,
+            -99.23684
+          ],
+          [
+            18.935677,
+            -98.898162
+          ],
+          [
+            18.956204,
+            -98.981373
+          ],
+          [
+            18.985996,
+            -99.09945
+          ],
+          [
+            18.98728,
+            -98.919402
+          ],
+          [
+            19.10838,
+            -98.458511
+          ],
+          [
+            19.158729,
+            -98.404786
+          ],
+          [
+            19.3139833333,
+            -98.2376583333
+          ]
+        ]
+      },
+      {
+        "id": 791,
+        "name": "Ciudad prehispánica de Uxmal",
+        "category": "cultural",
+        "inscribed": 1996,
+        "criteria": "(i)(ii)(iii)",
+        "location": "Etat de Yucatan, municipalites Muna et Santa Elena",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/791",
+        "summary": "Situada en el Yucatán, la ciudad maya de Uxmal fue fundada hacia el año 700 y llegó a contar con cerca de 25.000 habitantes. La disposición de sus edificios, construidos entre los años 700 y 1000, muestra los conocimientos de astronomía de los mayas. El edificio bautizado por los españoles con el nombre de Pirámide del Adivino domina el centro ceremonial, que está integrado por monumentos de impecable trazado ricamente ornamentados con motivos simbólicos y efigies esculpidas de Chaac, el dios de la lluvia. Los sitios ceremoniales de Uxmal, Kabáh, Labná y Sayil marcan el apogeo del arte y la cultura mayas.",
+        "points": [
+          [
+            20.172534,
+            -89.578674
+          ],
+          [
+            20.177647,
+            -89.652111
+          ],
+          [
+            20.248441,
+            -89.647017
+          ],
+          [
+            20.3616666667,
+            -89.7702777778
+          ]
+        ]
+      },
+      {
+        "id": 792,
+        "name": "Zona de monumentos históricos de Querétaro",
+        "category": "cultural",
+        "inscribed": 1996,
+        "criteria": "(ii)(iv)",
+        "location": "Etat Querétaro, municipalité de Querétaro",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/792",
+        "summary": "La vieja ciudad colonial de Querétaro ofrece la singularidad de haber conservado su núcleo indígena primigenio de calles serpenteantes, junto con los barrios trazados con arreglo a un plan geométrico por los conquistadores españoles. Otomis, tarascos, chichimecas y españoles cohabitaron pacíficamente en esta ciudad, reputada por sus innumerables edificios civiles y religiosos de estilo barroco, profusamente ornamentados, que datan de su edad de oro (siglos XVII y XVIII).",
+        "points": [
+          [
+            20.593292,
+            -100.392135
+          ]
+        ]
+      },
+      {
+        "id": 815,
+        "name": "Hospicio Cabañas de Guadalajara",
+        "category": "cultural",
+        "inscribed": 1997,
+        "criteria": "(i)(ii)(iii)(iv)",
+        "location": "Jalisco, Guadalajara",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/815",
+        "summary": "Este hospicio se creó a principios del siglo XIX para dispensar cuidados y ofrecer asilo a toda suerte de desamparados, ya fuesen huérfanos, ancianos, discapacitados o inválidos. El conjunto arquitectónico es único en su género porque, a diferencia de los centros análogos de su época, presenta una serie de elementos absolutamente originales, especialmente concebidos para satisfacer las necesidades de los asilados. Son especialmente notables la sencillez de su trazado y sus dimensiones, así como la armonía lograda entre los edificios y los espacios al aire libre. A comienzos del siglo XX, la capilla fue ornamentada con un conjunto de frescos soberbios debidos al pincel de José Clemente Orozco, uno de los grandes muralistas mexicanos de la época. Estas pinturas se consideran hoy en día una gran obra maestra del arte mejicano.",
+        "points": [
+          [
+            20.676888,
+            -103.337798
+          ]
+        ]
+      },
+      {
+        "id": 560,
+        "name": "Zona arqueológica de Paquimé (Casas Grandes)",
+        "category": "cultural",
+        "inscribed": 1998,
+        "criteria": "(iii)(iv)",
+        "location": "Municipality of Casas Grandes, State of Chihuahua",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/560",
+        "summary": "Paquimé (Casas Grandes) desempeñó un papel clave en las relaciones comerciales y culturales entre la cultura pueblo –que se extendía por el sudoeste del actual territorio de los Estados Unidos y el norte de México– y las civilizaciones más avanzadas de Mesoamérica. Alcanzó su apogeo en los siglos XIV y XV. Los numerosos vestigios de este sitio, excavado tan sólo en parte, atestiguan la vitalidad de una cultura perfectamente adaptada al medio ambiente y el entorno económico, que desapareció bruscamente en tiempos de la conquista de México por los españoles.",
+        "points": [
+          [
+            30.367128,
+            -107.948122
+          ]
+        ]
+      },
+      {
+        "id": 862,
+        "name": "Zona de monumentos históricos de Tlacotalpán",
+        "category": "cultural",
+        "inscribed": 1998,
+        "criteria": "(ii)(iv)",
+        "location": "State of Veracruz, Tlacotalpan Municipality",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/862",
+        "summary": "Situada en la costa del golfo de México, la ciudad portuaria fluvial de Tlacotalpán fue fundada por los españoles a mediados del siglo XVI. Ha conservado admirablemente su tejido urbano de la época colonial con calles anchas, casas con columnatas de una gran diversidad de estilos y colores, y numerosos árboles de edad venerable que ornamentan los espacios públicos y los jardines privados.",
+        "points": [
+          [
+            18.613459,
+            -95.658676
+          ]
+        ]
+      },
+      {
+        "id": 895,
+        "name": "Ciudad histórica fortificada de Campeche",
+        "category": "cultural",
+        "inscribed": 1999,
+        "criteria": "(ii)(iv)",
+        "location": "State of Campeche",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/895",
+        "summary": "Campeche es una ciudad portuaria caribeña de tiempos de la colonización española. Su centro histórico ha conservado las murallas y el sistema de fortificaciones creado para protegerla contra los ataques navales.",
+        "points": [
+          [
+            19.84639,
+            -90.53722
+          ]
+        ]
+      },
+      {
+        "id": 939,
+        "name": "Zona de monumentos arqueológicos de Xochicalco",
+        "category": "cultural",
+        "inscribed": 1999,
+        "criteria": "(iii)(iv)",
+        "location": "Municipalities of Temixco and \n\nMiacatlan, Morelos State",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/939",
+        "summary": "Xochicalco es un ejemplo de centro político, religioso y comercial fortificado, característico del turbulento período comprendido entre los años 650 y 900, que siguió al desmoronamiento de los grandes Estados mesoamericanos como Teotihuacán, Monte Albán, Palenque y Tikal. El estado de conservación de sus monumentos es excepcional.",
+        "points": [
+          [
+            18.803972,
+            -99.29639
+          ]
+        ]
+      },
+      {
+        "id": 1061,
+        "name": "Antigua Ciudad Maya y bosques tropicales protegidos de Calakmul, Campeche",
+        "category": "mixto",
+        "inscribed": 2002,
+        "criteria": "(i)(ii)(iii)(iv)(ix)(x)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1061",
+        "summary": "Situado en el sector central y meridional de la Península de Yucatán, al sur de México, el sitio incluye los vestigios de la importante ciudad maya de Calakmul, situada en los más hondo de la selva tropical de las Tierras Bajas mexicanas. La ciudad desempeñó un papel de primer plano en la historia de la región durante más de doce siglos. Sus imponentes estructuras y su trazado global característico se hallan en un estado de conservación admirable y ofrecen una vívida imagen de lo que era la vida en una antigua capital maya. Calakmul alberga también un importante santuario de biodiversidad de Mesoamérica, que por su tamaño es el tercer mayor hotspot del mundo y conjuga todos los ecosistemas tropicales y subtropicales existentes desde el centro de México hasta el Canal de Panamá.",
+        "points": [
+          [
+            18.0530277778,
+            -89.7372833333
+          ]
+        ]
+      },
+      {
+        "id": 1079,
+        "name": "Misiones franciscanas de la Sierra Gorda de Querétaro",
+        "category": "cultural",
+        "inscribed": 2003,
+        "criteria": "(ii)(iii)",
+        "location": "State of Querétaro de Arteaga (Sierra Gorda region)",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1079",
+        "summary": "Las iglesias franciscanas de este sitio fueron edificadas a mediados del siglo XVIII, durante la última fase de la evangelización del interior de México y se convirtieron en un elemento de referencia para la prosecución de la evangelización en California, Arizona y Tejas. Sus fachadas ricamente ornamentadas ofrecen un interés particular porque son un ejemplo de la labor creadora conjunta de los indios y los misioneros. Los poblados rurales creados en las cercanías de la misiones han conservado su carácter autóctono.",
+        "points": [
+          [
+            21.163973,
+            -99.191757
+          ],
+          [
+            21.183978,
+            -99.320284
+          ],
+          [
+            21.21686,
+            -99.474086
+          ],
+          [
+            21.399035,
+            -99.329651
+          ],
+          [
+            21.4446944444,
+            -99.6369444444
+          ]
+        ]
+      },
+      {
+        "id": 1136,
+        "name": "Casa-Taller de Luis Barragán",
+        "category": "cultural",
+        "inscribed": 2004,
+        "criteria": "(i)(ii)",
+        "location": "Mexico City",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1136",
+        "summary": "Construida en 1948 en los arrabales de la Ciudad de México, la casa-taller del arquitecto Luis Barragán constituye un ejemplo excepcional de la obra creadora de este eminente artista durante el período posterior a la Segunda Guerra Mundial. El edificio, cuya superficie totaliza 1.161 metros cuadrados, es de hormigón armado y consta de una planta baja, dos superiores y un pequeño jardín privado. En la obra de Barragán convergen corrientes estéticas y elementos artísticos modernos y autóctonos tradicionales, dando por resultado una síntesis arquitectónica que ha ejercido una notable influencia en el diseño contemporáneo de paisajes, jardines y plazas.",
+        "points": [
+          [
+            19.4111978833,
+            -99.1923533395
+          ]
+        ]
+      },
+      {
+        "id": 1182,
+        "name": "Islas y áreas protegidas del Golfo de California",
+        "category": "natural",
+        "inscribed": 2005,
+        "criteria": "(vii)(ix)(x)",
+        "location": "States of Baja California, Baja California Sur, Sonora, Sinaloa, and Nayarit",
+        "danger": true,
+        "url": "https://whc.unesco.org/es/list/1182",
+        "summary": "Este sitio del noroeste de México abarca 244 islas, islotes y zonas litorales del golfo de California. El Mar de Cortés y sus islas son un laboratorio natural para el estudio de la especiación y el conocimiento de los procesos de evolución oceánicos y costeros, ya que casi todos ellos se dan en sus parajes. El sitio inscrito es de una excepcional belleza y ofrece a la vista paisajes espectaculares, en los que la cegadora luz del desierto y el color turquesa de las aguas hacen resaltar los acantilados escarpados de las islas y las playas de arena. Alberga además 695 especies botánicas y 891 ictiológicas, de las cuales 90 son endémicas. El número de especies vegetales es muy superior al registrado en los demás sitios insulares y marinos inscritos en la Lista del Patrimonio Mundial. Asimismo, este sitio alberga el 39% y el 33% del total mundial de las especies de mamíferos marinos y de cetáceos, respectivamente.",
+        "points": [
+          [
+            20.698071,
+            -105.58635
+          ],
+          [
+            21.5833333333,
+            -106.5333333333
+          ],
+          [
+            21.85,
+            -105.8833333333
+          ],
+          [
+            22.8666666667,
+            -109.866666667
+          ],
+          [
+            23.45,
+            -109.4166666667
+          ],
+          [
+            24.3122222222,
+            -110.3288888889
+          ],
+          [
+            25.8430555556,
+            -111.2166666667
+          ],
+          [
+            27.471937,
+            -113.604561
+          ],
+          [
+            28.375,
+            -112.3375
+          ],
+          [
+            28.640492,
+            -112.826007
+          ],
+          [
+            29.0,
+            -112.3333333333
+          ],
+          [
+            31.6166666667,
+            -114.6
+          ]
+        ]
+      },
+      {
+        "id": 1209,
+        "name": "Paisaje de agaves y antiguas instalaciones industriales de Tequila",
+        "category": "cultural",
+        "inscribed": 2006,
+        "criteria": "(ii)(iv)(v)(vi)",
+        "location": "Valles Region, Jalisco State",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1209",
+        "summary": "Situado entre las estribaciones del volc&aacute;n de Tequila y el profundo valle del R&iacute;o Grande, este sitio se extiende por una superficie de 34.658 hect&aacute;reas y forma parte de un vasto paisaje de cultivos de agave azul, una planta que se viene usando desde el siglo XVI para elaborar la tequila y, desde hace 2.000 a&ntilde;os por lo menos, para producir bebidas fermentadas y confeccionar ropa gracias a sus fibras textiles. Dentro de esta zona paisaj&iacute;stica est&aacute;n en actividad las destiler&iacute;as de tequila, que son un exponente del aumento del consumo internacional de esta bebida alcoh&oacute;lica a lo largo de los siglos XIX y XX. Hoy en d&iacute;a, se considera que el cultivo del agave es un elemento intr&iacute;nseco de la identidad nacional mexicana. El sitio comprende el paisaje configurado por los campos donde se cultiva el agave azul y los asentamientos urbanos de Tequila, Arenal y Amatitl&aacute;n, que poseen grandes destiler&iacute;as donde se fermenta la pi&ntilde;a de la planta para fabricar el alcohol. Tambi&eacute;n comprende zonas de vestigios arqueol&oacute;gicos de cultivos en terrazas, viviendas, templos, t&uacute;mulos ceremoniales y terrenos de juego de pelota que constituyen un testimonio de la cultura de Teuchitl&aacute;n, predominante en la regi&oacute;n de Tequila entre los a&ntilde;os 200 y 900 de nuestra era.",
+        "points": [
+          [
+            20.6833305556,
+            -103.816666667
+          ],
+          [
+            20.861364,
+            -103.755431
+          ]
+        ]
+      },
+      {
+        "id": 1250,
+        "name": "Campus central de la Ciudad Universitaria de la Universidad Nacional Autónoma de México",
+        "category": "cultural",
+        "inscribed": 2007,
+        "criteria": "(i)(ii)(iv)",
+        "location": "Mexico City",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1250",
+        "summary": "Edificado entre 1949 y 1952, el campus central de la Universidad Nacional Autónoma de México (UNAM) está integrado por un conjunto de edificios, instalaciones deportivas y espacios abiertos situado en la zona sur de la capital mexicana. El proyecto de su construcción fue ejecutado por más de 60 arquitectos, ingenieros y artistas. El resultado fue la creación de un conjunto monumental ejemplar del modernismo del siglo XX que integra el urbanismo, la arquitectura, la ingeniería, el paisajismo y las bellas artes, asociando todos estos elementos con referencias a las tradiciones locales, y en particular al pasado prehispánico de México. El conjunto encarna valores sociales y culturales de trascendencia universal y ha llegado a ser uno de los símbolos más importantes de la modernidad en América Latina.",
+        "points": [
+          [
+            19.3322222222,
+            -99.1880555555
+          ]
+        ]
+      },
+      {
+        "id": 1290,
+        "name": "Reserva de biosfera de la mariposa monarca",
+        "category": "natural",
+        "inscribed": 2008,
+        "criteria": "(vii)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1290",
+        "summary": "De una extensión de 56.259 hectáreas, esta reserva de biosfera se sitúa en medio de montañas con mucha vegetación a unos 100 km al noroeste de Ciudad de México. Las montañas de esta reserva de biosfera albergan una variedad de microclimas y numerosas especies endémicas de flora y fauna. Cada otoño, millones o quizá un billón de mariposas monarcas procedentes de extensas áreas de América del Norte anidan en pequeñas zonas del bosque de esta reserva, tiñendo sus árboles de color naranja. Literalmente, el peso de tantas mariposas llega incluso a plegar las ramas. En la primavera boreal estas mariposas comienzan una migración de ocho meses hacia toda la parte oriental del Canadá. Durante un período de cuatro generaciones consecutivas nacen y mueren. Aún se ignora cómo logran encontrar su camino hasta el lugar de hibernación.",
+        "points": [
+          [
+            19.3691666667,
+            -100.2602777778
+          ],
+          [
+            19.606,
+            -100.25
+          ],
+          [
+            19.9813888889,
+            -100.1308333333
+          ]
+        ]
+      },
+      {
+        "id": 1274,
+        "name": "Villa Protectora de San Miguel el Grande y Santuario de Jesús Nazareno de Atotonilco",
+        "category": "cultural",
+        "inscribed": 2008,
+        "criteria": "(ii)(iv)",
+        "location": "Guanajuato Region",
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1274",
+        "summary": "Fundada en el siglo XVI para proteger el camino real del interior del país, la ciudad de San Miguel de Allende alcanzó su apogeo en el siglo XVIII, época en la que se construyeron numerosos edificios religiosos y civiles de estilo barroco mexicano. Algunos de ellos son obras maestras del estilo de transición entre el barroco y el neoclásico. Por su parte, el santuario de Jesús Nazareno de Atotonilco, construido por los jesuitas a unos 14 km de San Miguel, data también del siglo XVIII y es uno de los ejemplos más hermosos de la arquitectura y el arte barrocos de la Nueva España. Comprende una gran iglesia y una serie de capillas pequeñas ornamentadas con óleos de Juan Rodríguez Juárez y murales de Miguel Antonio Martínez de Pocasangre. Debido a su situación, San Miguel de Allende fue un verdadero crisol de influencias mutuas entre la cultura española, la criolla y la indígena, y constituye un ejemplo excepcional del intercambio cultural entre Europa y América Latina. Su arquitectura y ornamentación interior patentizan la influencia de la doctrina de San Ignacio de Loyola.",
+        "points": [
+          [
+            20.9144444444,
+            -100.7463888889
+          ],
+          [
+            21.004858,
+            -100.794119
+          ]
+        ]
+      },
+      {
+        "id": 1351,
+        "name": "Camino Real de Tierra Adentro",
+        "category": "cultural",
+        "inscribed": 2010,
+        "criteria": "(ii)(iv)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1351",
+        "summary": "El Camino Real de Tierra Adentro, también conocido por el nombre de “Camino de la Plata”, comprende cinco sitios ya inscritos en la Lista del Patrimonio Mundial y otros 55 sitios más situados a lo largo de 1.400 de los 2.600 km de esta larga ruta que parte del norte de México y llega hasta Texas y Nuevo México, en los Estados Unidos. Utilizado entre los siglos XVI y XIX, este camino servía para transportar la plata extraída de las minas de Zacatecas, Guanajuato y San Luis Potosí, así como el mercurio importado de Europa. Aunque su origen y utilización están vinculados a la minería, el Camino Real de Tierra Adentro propició también el establecimiento de vínculos sociales, culturales y religiosos entre la cultura hispánica y las culturas amerindias.",
+        "points": [
+          [
+            19.433318,
+            -99.132943
+          ],
+          [
+            19.7133305556,
+            -99.2211083334
+          ],
+          [
+            19.9046615623,
+            -99.3417336819
+          ],
+          [
+            19.9658305556,
+            -99.3780555556
+          ],
+          [
+            19.9866638889,
+            -99.4444388889
+          ],
+          [
+            20.099427,
+            -99.8266
+          ],
+          [
+            20.269904,
+            -99.886535
+          ],
+          [
+            20.3897166666,
+            -99.9969388889
+          ],
+          [
+            20.591923,
+            -100.390188
+          ],
+          [
+            20.758004,
+            -100.34231
+          ],
+          [
+            20.8199254262,
+            -100.467660794
+          ],
+          [
+            20.842305,
+            -100.795853
+          ],
+          [
+            20.913945,
+            -100.743765
+          ],
+          [
+            20.9158305556,
+            -100.748605556
+          ],
+          [
+            20.940965,
+            -100.793697
+          ],
+          [
+            21.0169416667,
+            -101.255555556
+          ],
+          [
+            21.327648,
+            -101.096251
+          ],
+          [
+            21.357995,
+            -101.928237
+          ],
+          [
+            21.531542,
+            -102.237136
+          ],
+          [
+            21.7108305556,
+            -102.282219445
+          ],
+          [
+            21.7166666667,
+            -102.4475
+          ],
+          [
+            21.7427378922,
+            -101.827552375
+          ],
+          [
+            21.8052777778,
+            -101.758605556
+          ],
+          [
+            21.866717,
+            -101.593719
+          ],
+          [
+            21.8805555556,
+            -102.296663889
+          ],
+          [
+            22.15126,
+            -100.974547
+          ],
+          [
+            22.153501,
+            -101.707181
+          ],
+          [
+            22.1747194445,
+            -102.341388889
+          ],
+          [
+            22.298713,
+            -101.575137
+          ],
+          [
+            22.443251,
+            -101.909962
+          ],
+          [
+            22.512316,
+            -101.913857
+          ],
+          [
+            22.6080555556,
+            -102.379166667
+          ],
+          [
+            22.661174,
+            -102.384297
+          ],
+          [
+            22.7461055555,
+            -102.518330556
+          ],
+          [
+            22.774873,
+            -102.573339
+          ],
+          [
+            23.2288888889,
+            -102.840552778
+          ],
+          [
+            23.477306,
+            -103.884167
+          ],
+          [
+            23.6316666667,
+            -103.639716667
+          ],
+          [
+            23.654415,
+            -103.772642
+          ],
+          [
+            23.842585,
+            -104.189615
+          ],
+          [
+            23.8494388889,
+            -104.244713889
+          ],
+          [
+            23.863026,
+            -103.84748
+          ],
+          [
+            24.0247194445,
+            -104.670277778
+          ],
+          [
+            24.0436055555,
+            -104.549163889
+          ],
+          [
+            24.523679,
+            -104.299379
+          ],
+          [
+            24.7411055555,
+            -105.007494444
+          ],
+          [
+            24.87,
+            -103.698052778
+          ],
+          [
+            25.037407,
+            -104.480209
+          ],
+          [
+            25.0763888889,
+            -104.499438889
+          ],
+          [
+            25.09601,
+            -103.772909
+          ],
+          [
+            25.2261086376,
+            -104.114318648
+          ],
+          [
+            25.3780555556,
+            -104.144163889
+          ],
+          [
+            25.5658305556,
+            -104.292775
+          ],
+          [
+            25.792775,
+            -103.790827778
+          ],
+          [
+            25.8336055555,
+            -103.848052778
+          ],
+          [
+            25.8447166666,
+            -104.741663889
+          ],
+          [
+            25.9133305556,
+            -105.223055556
+          ],
+          [
+            26.3827777778,
+            -105.368888889
+          ],
+          [
+            26.44,
+            -105.509441667
+          ],
+          [
+            26.9394388889,
+            -105.393888889
+          ]
+        ]
+      },
+      {
+        "id": 1352,
+        "name": "Cuevas prehistóricas de Yagul y Mitla en los Valles Centrales de Oaxaca",
+        "category": "cultural",
+        "inscribed": 2010,
+        "criteria": "(iii)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1352",
+        "summary": "Situado en el Valle de Tlacolula, en el Estado de Oaxaca, este sitio comprende dos conjuntos de vestigios arqueológicos prehispánicos y una serie de cuevas prehistóricas y refugios rocosos. En algunos de estos refugios se han encontrado restos arqueológicos y vestigios de arte rupestre que son testimonios de la vida de los primeros agricultores sedentarizados. En la cueva de Guilá Naquitz se han hallado semillas de cucurbitáceas de 10.000 años de antigüedad, que constituyen los restos más tempranos de plantas domesticadas descubiertos hasta la fecha en el continente americano, así como fragmentos de espigas de maíz que son uno de los más antiguos testimonios de la domesticación de esta planta. El paisaje cultural de las cuevas de Yagul y Mitla pone de manifiesto el vínculo entre el hombre y la naturaleza que dio lugar a la domesticación de las plantas en la América Septentrional y abrió paso al desarrollo de las civilizaciones mesoamericanas.",
+        "points": [
+          [
+            16.9508333333,
+            -96.4211111111
+          ]
+        ]
+      },
+      {
+        "id": 1410,
+        "name": "Reserva de biosfera El Pinacate y Gran Desierto de Altar",
+        "category": "natural",
+        "inscribed": 2013,
+        "criteria": "(vii)(viii)(x)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1410",
+        "summary": "",
+        "points": [
+          [
+            32.0,
+            -113.9166666667
+          ]
+        ]
+      },
+      {
+        "id": 1463,
+        "name": "Sistema hidráulico del acueducto del Padre Tembleque",
+        "category": "cultural",
+        "inscribed": 2015,
+        "criteria": "(i)(ii)(iv)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1463",
+        "summary": "Construido en el siglo XVI, este acueducto se halla en la meseta central mexicana entre los estados de México e Hidalgo. El complejo hidráulico está constituido principalmente por una zona de captación de aguas y fuentes, una red de canales, un conjunto de depósitos y una serie de puentes-acueductos. Uno de estos puentes posee la mayor arcada de un solo nivel construida en todos los tiempos para una obra de esta clase. Emprendida por iniciativa del fraile franciscano Tembleque, la realización de este complejo hidráulico fue obra de las comunidades locales. Los métodos utilizados para su construcción atestiguan la doble influencia de los conocimientos europeos en materia de sistemas hidráulicos –especialmente los romanos– y de las técnicas tradicionales mesoamericanas de utilización de cimbras de adobe.",
+        "points": [
+          [
+            19.8352777778,
+            -98.6625666667
+          ]
+        ]
+      },
+      {
+        "id": 1510,
+        "name": "Archipiélago de Revillagigedo",
+        "category": "natural",
+        "inscribed": 2016,
+        "criteria": "(vii)(ix)(x)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1510",
+        "summary": "Situado en el Pacífico Oriental, este archipiélago está formado por las islas de San Benedicto, Socorro y Clarión, el islote de Roca Partida y sus aguas adyacentes. Las cuatro islas –que son de hecho las cumbres emergidas de otros tantos volcanes integrantes de una cadena montañosa submarina– constituyen un hábitat de vital importancia para diversas especies endémicas de flora y fauna, en particular aves marinas. Las aguas circundantes albergan una concentración notable de especies pelágicas de gran tamaño: mantas gigantes, delfines, tiburones y cetáceos.",
+        "points": [
+          [
+            18.3563888889,
+            -114.723333333
+          ],
+          [
+            18.7880555556,
+            -110.975277778
+          ],
+          [
+            18.9975,
+            -112.065833333
+          ],
+          [
+            19.3033333333,
+            -110.816111111
+          ]
+        ]
+      },
+      {
+        "id": 1534,
+        "name": "Valle de Tehuacán-Cuicatlán - Hábitat originario de Mesoamérica",
+        "category": "mixto",
+        "inscribed": 2018,
+        "criteria": "(iv)(x)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1534",
+        "summary": "El valle de Tehuacán-Cuicatlán, en la región mesoamericana, es la zona árida o semiárida con mayor diversidad biológica de toda América del Norte. Sitio serial compuesto de tres elementos –Zapotitlán-Cuicatlán, San Juan Raya y Purrón– el valle es uno de los principales centros de diversificación de los cactus, una familia botánica en serio peligro en todo el mundo. El sitio alberga en particular los bosques de cactáceas columnares más densos del planeta, que modelan un paisaje único conformado también por la presencia de magueyes, yucas y encinas. Los vestigios arqueológicos revelan además un proceso de evolución técnica que refleja la domesticación precoz de los vegetales. El valle presenta también un sistema excepcional de gestión del agua, constituido por canales, pozos, acueductos y presas que son los más antiguos del continente y permitieron la sedentarización de comunidades que vivieron de la agricultura.",
+        "points": [
+          [
+            17.9899611111,
+            -97.1871527778
+          ],
+          [
+            18.2003916667,
+            -97.1188472222
+          ],
+          [
+            18.3014694444,
+            -97.588325
+          ]
+        ]
+      },
+      {
+        "id": 1704,
+        "name": "Ruta Wixárika por los sitios sagrados hasta Wiricuta (Tatehuarí Huajuyé)",
+        "category": "cultural",
+        "inscribed": 2025,
+        "criteria": "(iii)(vi)",
+        "location": null,
+        "danger": false,
+        "url": "https://whc.unesco.org/es/list/1704",
+        "summary": "La Ruta Wixárika es una serie de 20 enclaves que abarcan más de 500 km a través de cinco estados en el centro-norte de México. Este entramado de senderos conecta paisajes sagrados fundamentales para las prácticas espirituales y culturales de los pueblos indígenas wixárika. La ruta parte de la Sierra Huichol y conduce a Wirikuta en el desierto de Chihuahua, con sitios sagrados adicionales en Nayarit y Durango. Atraviesa diversas regiones ecológicas e incluye rituales vinculados a deidades ancestrales, la agricultura y el bienestar de la comunidad. Conocido como «Tatehuarí Huajuyé» o el Camino de Nuestro Abuelo Fuego, encarna un profundo significado espiritual y ambiental.",
+        "points": [
+          [
+            21.5375388889,
+            -105.299975
+          ],
+          [
+            22.2515583333,
+            -104.100952778
+          ],
+          [
+            22.4062444444,
+            -103.593805555
+          ],
+          [
+            22.5978638889,
+            -103.280152778
+          ],
+          [
+            22.6465277777,
+            -102.966547222
+          ],
+          [
+            22.7063388889,
+            -102.780752778
+          ],
+          [
+            22.7539388889,
+            -102.582788889
+          ],
+          [
+            22.7768805556,
+            -102.560197222
+          ],
+          [
+            22.7975861111,
+            -101.894241667
+          ],
+          [
+            22.8350777777,
+            -101.887969444
+          ],
+          [
+            22.8495027777,
+            -101.623366667
+          ],
+          [
+            22.898375,
+            -101.684641667
+          ],
+          [
+            22.9774472223,
+            -101.52305
+          ],
+          [
+            23.0795861111,
+            -101.454377778
+          ],
+          [
+            23.1307277778,
+            -101.373663889
+          ],
+          [
+            23.2061944444,
+            -104.943805556
+          ],
+          [
+            23.3187638889,
+            -101.188080555
+          ],
+          [
+            23.5066638889,
+            -100.877922222
+          ],
+          [
+            23.5404694444,
+            -101.107038889
+          ],
+          [
+            23.6631277778,
+            -100.906005556
+          ]
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}

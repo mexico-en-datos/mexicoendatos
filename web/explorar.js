@@ -18,7 +18,7 @@
   ];
 
   // Where the reader is: a level, what was chosen to get there, and the person whose data is open.
-  const S = { data: null, gdp: null, crime: null, fuel: null, economy: null, capitals: null, cities: null, topo: null, districtTopo: null, mapSource: null, states: [], districts: [], munis: [], level: "country", state: null, district: null, muni: null, person: null, ctx: null };
+  const S = { data: null, gdp: null, crime: null, fuel: null, economy: null, capitals: null, cities: null, topo: null, districtTopo: null, mapSource: null, states: [], districts: [], munis: [], level: "country", state: null, district: null, muni: null, person: null, ctx: null, heritage: null, layers: { pueblos: false, unesco: false }, points: [] };
   const $ = (selector) => document.querySelector(selector);
   const stateName = (code) => EVERYDAY_NAME[code] || (S.states.find((s) => s.code === code) || {}).name || code;
 
@@ -51,7 +51,7 @@
   const cssColor = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
   const hexCache = new Map();
   const hexOf = (variable) => (hexCache.has(variable) ? hexCache : hexCache.set(variable, cssColor(variable))).get(variable);
-  let zoomLayer, hoverShape, chosenOutline, marks, capitalMark, capitalStars, cityMarks, zoom, graticule, stateLines, districtLines, muniLines, tip;
+  let zoomLayer, hoverShape, chosenOutline, marks, capitalMark, capitalStars, cityMarks, heritageMarks, zoom, graticule, stateLines, districtLines, muniLines, tip;
   const STAR = "M0,-6.5 L1.9,-2 L6.5,-2 L2.8,0.9 L4,5.5 L0,2.6 L-4,5.5 L-2.8,0.9 L-6.5,-2 L-1.9,-2 Z";
   let transform = d3.zoomIdentity;
 
@@ -149,6 +149,7 @@
         marks.attr("transform", (d) => `translate(${d.mark[0]}, ${d.mark[1]}) scale(${1 / transform.k})`);
         placeCapital();
         placeCities();
+        placeHeritage();
         draw();
       });
     svg.call(zoom).on("dblclick.zoom", null);
@@ -482,6 +483,8 @@
     muniLine: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--muni" })),
     districtLine: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--district" })),
     chosenDistrict: () => symbol(svgEl("path", { d: "M2 14 C 10 4, 22 16, 32 6", class: "key-line key-line--chosen" })),
+    pueblo: () => symbol(svgEl("path", { d: "M17,4 L23,10 L17,16 L11,10 Z", class: "heritage__pueblo" })),
+    unesco: () => symbol(svgEl("circle", { cx: 17, cy: 10, r: 4.5, class: "heritage__unesco heritage__unesco--cultural" })),
   };
   const LEGEND = {
     country: [["governor", "Partido de quien gobierna la entidad"], ["senators", "Partidos de sus tres senadurías"], ["bars", "Desocupación, homicidios y gasolina: la barra sube con el lugar entre las 32 (más alta, peor)"], ["star", "Capital de la entidad"], ["stateLine", "Límite entre entidades"]],
@@ -490,7 +493,96 @@
     municipality: [["star", "Capital de la entidad"], ["city", "Ciudad de más de 100 mil habitantes"], ["muniLine", "Límite municipal"], ["districtLine", "Distrito electoral federal"]],
   };
   function renderLegend(level) {
-    $("#legend").replaceChildren(...LEGEND[level].map(([kind, text]) => el("div", { class: "map-legend__row" }, SYMBOL[kind](), el("span", {}, text))));
+    const rows = [...LEGEND[level]];
+    if (S.layers.pueblos) rows.push(["pueblo", "Pueblo Mágico, programa de la Secretaría de Turismo"]);
+    if (S.layers.unesco) rows.push(["unesco", "Patrimonio Mundial de la UNESCO: azul cultural, verde natural, ocre mixto"]);
+    $("#legend").replaceChildren(...rows.map(([kind, text]) => el("div", { class: "map-legend__row" }, SYMBOL[kind](), el("span", {}, text))));
+  }
+
+  /** Pueblos Mágicos and World Heritage points: projected once and placed in their state and municipality. */
+  function buildHeritage() {
+    if (!S.heritage || !zoomLayer) return;
+    const place = (lat, lon) => {
+      const xy = projection([lon, lat]);
+      if (!xy) return { xy: null, state: null, muni: null };
+      pen.save();
+      pen.setTransform(1, 0, 0, 1, 0, 0);
+      const state = S.states.find((s) => pen.isPointInPath(s.shape, xy[0], xy[1])) || null;
+      const muni = state ? S.munis.find((m) => m.state_code === state.code && pen.isPointInPath(m.shape, xy[0], xy[1])) || null : null;
+      pen.restore();
+      return { xy, state, muni };
+    };
+    S.points = [];
+    for (const p of S.heritage.pueblos.items) if (p.lat != null) S.points.push({ kind: "pueblos", name: p.name, when: p.named_on, state_code: p.state_code, ...place(p.lat, p.lon) });
+    for (const site of S.heritage.unesco.items) for (const [lat, lon] of site.points) S.points.push({ kind: "unesco", name: site.name, category: site.category, inscribed: site.inscribed, url: site.url, danger: site.danger, ...place(lat, lon) });
+    S.points = S.points.filter((p) => p.xy);
+    heritageMarks = zoomLayer.append("g").attr("class", "heritage");
+    heritageMarks
+      .selectAll("g")
+      .data(S.points)
+      .join("g")
+      .attr("class", (d) => `heritage__mark heritage__mark--${d.kind}`)
+      .style("display", "none")
+      .each(function (d) {
+        const g = d3.select(this);
+        if (d.kind === "pueblos") g.append("path").attr("d", "M0,-5.5 L5.5,0 L0,5.5 L-5.5,0 Z").attr("class", "heritage__pueblo");
+        else g.append("circle").attr("r", 4.5).attr("class", `heritage__unesco heritage__unesco--${d.category}`);
+      })
+      .on("pointermove", (event, d) => tip.show(event, `h${d.kind}${d.name}${d.xy[0]}`, () => heritageTip(d)))
+      .on("pointerleave", () => tip.hide())
+      .on("click", (event, d) => {
+        event.stopPropagation();
+        if (d.muni) go("municipality", { state: d.state, district: null, muni: d.muni });
+        else if (d.state) go("state", { state: d.state });
+      });
+    for (const key of ["pueblos", "unesco"]) {
+      const box = $(`#layer-${key}`);
+      if (!box) continue;
+      box.addEventListener("change", () => {
+        S.layers[key] = box.checked;
+        placeHeritage();
+        renderLegend(S.level);
+      });
+    }
+    placeHeritage();
+  }
+
+  function placeHeritage() {
+    if (!heritageMarks) return;
+    heritageMarks
+      .selectAll(".heritage__mark")
+      .style("display", (d) => (S.layers[d.kind] ? null : "none"))
+      .attr("transform", (d) => `translate(${d.xy[0]}, ${d.xy[1]}) scale(${1 / transform.k})`);
+  }
+
+  function heritageTip(d) {
+    const where = `${d.state ? stateName(d.state.code) : d.state_code ? stateName(d.state_code) : ""}${d.muni ? ` · ${d.muni.name}` : ""}`;
+    const what = d.kind === "pueblos" ? `Pueblo Mágico desde ${day(d.when)}` : `Patrimonio Mundial (${d.category}), inscrito en ${d.inscribed}${d.danger ? "; en la lista del patrimonio en peligro" : ""}`;
+    return [el("p", {}, d.name), el("p", { class: "tooltip__place" }, where), el("p", { class: "tooltip__sub" }, what), el("p", { class: "tooltip__sub" }, d.muni ? "Pulsa para ver el municipio" : "")];
+  }
+
+  /** Pueblos Mágicos and World Heritage sites of a place, as rows: names first, each a way to its municipality. */
+  function heritageRows(stateCode, muniCode) {
+    if (!S.heritage) return [fact("Pueblos Mágicos y Patrimonio Mundial", "Sin dato: falta el archivo de patrimonio")];
+    const here = S.points.filter((p) => (muniCode ? p.muni && p.muni.code === muniCode : stateCode ? p.state && p.state.code === stateCode : true));
+    const pueblos = here.filter((p) => p.kind === "pueblos");
+    const sites = [...new Map(here.filter((p) => p.kind === "unesco").map((p) => [p.name, p])).values()];
+    const toMuni = (p) => (p.muni && p.muni.code !== muniCode ? el("button", { type: "button", class: "persona__link", onclick: () => go("municipality", { state: p.state, district: null, muni: p.muni }) }, p.name) : p.name);
+    const list = (items, render) => el("ul", { class: "plain" }, items.map((p) => el("li", {}, render(p))));
+    const cite = S.heritage.pueblos.citation;
+    const unesco = S.heritage.unesco.citation;
+    const national = !stateCode && !muniCode;
+    return [
+      fact(
+        national ? `Pueblos Mágicos (${S.heritage.pueblos.count})` : "Pueblos Mágicos",
+        national ? "Localidades reconocidas por la Secretaría de Turismo; actívalos arriba para verlos en el mapa" : pueblos.length ? list(pueblos, (p) => [toMuni(p), el("span", { class: "muted" }, ` · desde ${day(p.when)}`)]) : "Ninguno"
+      ),
+      fact(
+        national ? `Patrimonio Mundial (${S.heritage.unesco.count} sitios)` : "Patrimonio Mundial",
+        national ? "Sitios inscritos por la UNESCO; actívalos arriba para verlos en el mapa" : sites.length ? list(sites, (p) => [toMuni(p), el("span", { class: "muted" }, ` · ${p.category}, ${p.inscribed}`), " ", link(p.url, "UNESCO")]) : "Ninguno"
+      ),
+      fact("Fuente del patrimonio", el("span", {}, link(cite.url, "Wikipedia, anexo de Pueblos Mágicos"), `, versión del ${day(cite.published_at)}, consultada el ${day(cite.retrieved_at)}; `, link(unesco.url, "UNESCO, Lista del Patrimonio Mundial"), `, consultada el ${day(unesco.retrieved_at)}`)),
+    ];
   }
 
   const phone = window.matchMedia("(max-width: 700px)");
@@ -513,6 +605,7 @@
     zoomToBox(focus ? focus.box : null);
     placeCapital();
     placeCities();
+    placeHeritage();
     draw();
     $("#hint").textContent = HINTS[level];
     renderLegend(level);
@@ -756,6 +849,8 @@
         el("h2", { class: "ficha__place" }, "México"),
         el("h3", {}, "Población"),
         facts(fact("Capital", "Ciudad de México"), populationRows(S.mapSource), fact("Entidades", String(S.states.length)), fact("Municipios", integer.format(S.mapSource.municipality_count)), populationSource()),
+        el("h3", {}, "Patrimonio"),
+        facts(heritageRows(null, null)),
         el("h3", {}, "Economía"),
         facts(economyRows(null)),
         el("h3", {}, "Seguridad"),
@@ -790,6 +885,8 @@
           fact("Distritos federales", String(districts.length)),
           populationSource()
         ),
+        el("h3", {}, "Patrimonio"),
+        facts(heritageRows(S.state.code, null)),
         el("h3", {}, "Economía"),
         facts(economyRows(S.state.code)),
         el("h3", {}, "Seguridad"),
@@ -838,6 +935,8 @@
           S.district ? fact("Distrito federal", String(S.district.number)) : null,
           populationSource()
         ),
+        el("h3", {}, "Patrimonio"),
+        facts(heritageRows(S.state.code, S.muni.code)),
         el("h3", {}, "Economía"),
         facts(wageRows(S.state.code, S.muni.code), fact("PIB, empleo y pobreza", "Se publican por entidad, no por municipio")),
         el("h3", {}, "Seguridad"),
@@ -937,6 +1036,8 @@
     tip = MXD.tooltip($("#tooltip"), $(".map-area"));
     buildMap();
     S.districtIndex = await fetch("data/distritos_municipios.json").then((response) => (response.ok ? response.json() : null)).catch(() => null);
+    S.heritage = await fetch("data/patrimonio.json").then((response) => (response.ok ? response.json() : null)).catch(() => null);
+    buildHeritage();
     S.ctx = { stateName, legislature: S.data.legislature || null, ...regions(S.data, stateName) };
     $("#data-date").textContent = `Cargos consultados el ${moment.format(new Date(S.data.generated_at))}.`;
     $("#map-credit").replaceChildren(`${S.mapSource.attribution} (${day(S.mapSource.retrieved_at)}); distritos: INE (${day(S.mapSource.districts.retrieved_at)}).`);
