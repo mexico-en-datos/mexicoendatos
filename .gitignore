@@ -4,3 +4,4 @@ __pycache__/
 *.tmp
 .cache/*
 !.cache/sil_fichas.json
+NOTAS-privadas.md
