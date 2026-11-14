@@ -1,6 +1,6 @@
-/* Infórmate: which theme to draw, decided before the page paints. Light on wide screens and dark
-   on phones, unless the person chose one here (kept in this browser) or the address says
-   ?tema=claro or ?tema=oscuro. */
+/* Infórmate: which theme to draw, decided before the page paints. Light everywhere; dark only on
+   wide screens and only when chosen, by the link at the end of the bar (kept in this browser) or
+   by an address with ?tema=oscuro. Phones stay light for now. */
 (() => {
   let choice = null;
   try {
@@ -17,6 +17,6 @@
   } catch (error) {
     choice = null;
   }
-  const dark = choice ? choice === "oscuro" : matchMedia("(max-width: 700px)").matches;
+  const dark = choice === "oscuro" && !matchMedia("(max-width: 700px)").matches;
   document.documentElement.dataset.theme = dark ? "dark" : "light";
 })();
