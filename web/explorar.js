@@ -229,10 +229,10 @@
       .style("display", (d) => (shown(d) ? null : "none"))
       .attr("transform", (d) => {
         const muni = S.muniByCode.get(d.municipality_code);
-        return `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`;
+        return `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${fixedScale()})`;
       });
     declutterLabels();
-    if (capitalStars) capitalStars.attr("transform", (d) => `translate(${d.muni.centre[0]}, ${d.muni.centre[1]}) scale(${1 / transform.k})`).style("display", S.level === "country" ? null : "none");
+    if (capitalStars) capitalStars.attr("transform", (d) => `translate(${d.muni.centre[0]}, ${d.muni.centre[1]}) scale(${fixedScale()})`).style("display", S.level === "country" ? null : "none");
   }
 
   /** Names that would sit on top of each other are dropped, biggest city first; the capital's name always stays. */
@@ -260,7 +260,7 @@
       capitalMark.style("display", "none");
       return;
     }
-    capitalMark.style("display", null).attr("transform", `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${1 / transform.k})`).raise();
+    capitalMark.style("display", null).attr("transform", `translate(${muni.centre[0]}, ${muni.centre[1]}) scale(${fixedScale()})`).raise();
     capitalMark.select("text").text(capital.capital);
     capitalMark.select("circle").attr("display", "none");
     if (capitalMark.select("path").empty()) capitalMark.insert("path", "text").attr("class", "star__shape").attr("d", STAR);
@@ -288,12 +288,12 @@
     if (!marks) return;
     marks.attr("transform", (d) => {
       const [x, y] = markAt(d);
-      return `translate(${x}, ${y}) scale(${1 / transform.k})`;
+      return `translate(${x}, ${y}) scale(${fixedScale()})`;
     });
     marks
       .select(".mark__leader")
-      .attr("x1", (d) => (d.centre[0] - markAt(d)[0]) * transform.k)
-      .attr("y1", (d) => (d.centre[1] - markAt(d)[1]) * transform.k);
+      .attr("x1", (d) => (d.centre[0] - markAt(d)[0]) / fixedScale())
+      .attr("y1", (d) => (d.centre[1] - markAt(d)[1]) / fixedScale());
   }
 
   /** On every state, a square for its governor and three circles for its senators, in party colours,
@@ -376,7 +376,19 @@
 
   function zoomToBox(box) {
     let target = d3.zoomIdentity;
-    if (box) {
+    if (box && phone.matches) {
+      // A phone's map is taller than the frame. The place fits the upper part, under the chips and
+      // above the inset that opens at the lower right, so the two never cover each other.
+      const [[x0, y0], [x1, y1]] = box;
+      const fit = Math.min(underlay.clientWidth / W, underlay.clientHeight / H);
+      const seenW = underlay.clientWidth / fit;
+      const seenH = underlay.clientHeight / fit;
+      const insetH = (0.4 * window.innerHeight + 18) / fit; // the inset: 40 % of the screen, plus its margin
+      const free = { x0: (W - seenW) / 2 + 6 / fit, y0: (H - seenH) / 2 + 92 / fit, x1: (W + seenW) / 2 - 6 / fit, y1: (H + seenH) / 2 - insetH };
+      const k = Math.max(1, Math.min(60, 0.94 * Math.min((free.x1 - free.x0) / (x1 - x0), (free.y1 - free.y0) / (y1 - y0))));
+      // A little left of centre, since the inset hangs at the right.
+      target = d3.zoomIdentity.translate(free.x0 + 0.46 * (free.x1 - free.x0), (free.y0 + free.y1) / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
+    } else if (box) {
       const [[x0, y0], [x1, y1]] = box;
       const k = Math.max(1, Math.min(60, 0.7 / Math.max((x1 - x0) / W, (y1 - y0) / H)));
       target = d3.zoomIdentity.translate(W / 2, H / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
@@ -600,7 +612,7 @@
         .attr("class", "abroad__label")
         .text((d) => d.name);
     }
-    abroadLabels.attr("transform", (d) => `translate(${d.centre[0]}, ${d.centre[1]}) scale(${1 / transform.k})`).style("display", S.level === "country" || transform.k < 2.5 ? null : "none");
+    abroadLabels.attr("transform", (d) => `translate(${d.centre[0]}, ${d.centre[1]}) scale(${fixedScale()})`).style("display", S.level === "country" || transform.k < 2.5 ? null : "none");
   }
 
   function placeHeritage() {
@@ -608,7 +620,7 @@
     heritageMarks
       .selectAll(".heritage__mark")
       .style("display", (d) => (S.layers[d.kind] ? null : "none"))
-      .attr("transform", (d) => `translate(${d.xy[0]}, ${d.xy[1]}) scale(${1 / transform.k})`);
+      .attr("transform", (d) => `translate(${d.xy[0]}, ${d.xy[1]}) scale(${fixedScale()})`);
   }
 
   function heritageTip(d) {
@@ -642,6 +654,8 @@
   }
 
   const phone = window.matchMedia("(max-width: 700px)");
+  /** Marks, stars, city names and points keep a fixed size on screen; on a phone that size is larger. */
+  const fixedScale = () => (phone.matches ? 1.5 : 1) / transform.k;
   const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
 
   function go(level, { state = null, district = null, muni = null }) {

@@ -877,3 +877,19 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
   body.locked.show-key .map-legend { --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); display: block; left: 8px; bottom: 8px; max-width: 48vw; border-color: rgba(255, 255, 255, 0.25); background: rgba(16, 24, 32, 0.92); color: #f4f6f8; }
   body.locked.show-key .key-star { stroke: #16202a; }
 }
+
+/* ---------- Phone, second pass: no breadcrumb, the search at the foot when nothing is open, a smaller inset ---------- */
+@media (max-width: 700px) {
+  body.locked .crumbs { display: none; }
+  body.locked .search { position: fixed; left: 8px; right: 8px; top: auto; bottom: 10px; z-index: 6; flex: none; }
+  body.locked.sheet-open .search { display: none; }
+  body.locked .search__results { top: auto; bottom: calc(100% + 4px); max-height: 50vh; }
+  body.locked.sheet-open .ficha { width: min(60vw, 290px); max-height: 40vh; padding: 6px 10px 10px; font-size: 0.6875rem; line-height: 1.35; }
+  body.locked.sheet-open .ficha .ficha__place { font-size: 1rem; }
+  body.locked.sheet-open .ficha h3 { font-size: 0.75rem; margin-top: 10px; }
+  body.locked.sheet-open .ficha .facts { gap: 1px 10px; margin-top: 6px; }
+  body.locked.sheet-open .ficha .facts dt { font-size: 0.6875rem; }
+  body.locked.sheet-open .ficha .ficha__close { font-size: 0.6875rem; }
+  body.locked.sheet-open .ficha .person-line__name { font-size: 0.8125rem; }
+  body.locked.sheet-open .ficha .person-line__role { font-size: 0.6875rem; }
+}
