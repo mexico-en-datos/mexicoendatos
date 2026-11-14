@@ -4,102 +4,102 @@
     "regular": 23.69,
     "premium": 28.59,
     "diesel": 26.97,
-    "stations": 13828
+    "stations": 13823
   },
   "states": {
     "01": {
-      "regular": 23.92,
-      "premium": 29.1,
+      "regular": 23.9,
+      "premium": 29.12,
       "diesel": 26.94,
       "stations": 212
     },
     "02": {
-      "regular": 22.86,
-      "premium": 28.18,
+      "regular": 22.85,
+      "premium": 28.17,
       "diesel": 25.87,
       "stations": 597
     },
     "03": {
-      "regular": 24.44,
-      "premium": 29.54,
+      "regular": 24.43,
+      "premium": 29.53,
       "diesel": 27.61,
       "stations": 180
     },
     "04": {
-      "regular": 24.03,
-      "premium": 28.64,
-      "diesel": 27.05,
+      "regular": 24.04,
+      "premium": 28.63,
+      "diesel": 27.04,
       "stations": 129
     },
     "05": {
-      "regular": 23.77,
-      "premium": 28.81,
-      "diesel": 27.04,
+      "regular": 23.78,
+      "premium": 28.79,
+      "diesel": 27.02,
       "stations": 485
     },
     "06": {
-      "regular": 23.85,
-      "premium": 28.88,
-      "diesel": 27.03,
+      "regular": 23.83,
+      "premium": 28.84,
+      "diesel": 27.02,
       "stations": 131
     },
     "07": {
       "regular": 23.76,
-      "premium": 28.3,
-      "diesel": 26.74,
+      "premium": 28.29,
+      "diesel": 26.75,
       "stations": 353
     },
     "08": {
-      "regular": 22.42,
+      "regular": 22.46,
       "premium": 27.05,
       "diesel": 26.78,
       "stations": 602
     },
     "09": {
-      "regular": 23.82,
-      "premium": 28.7,
+      "regular": 23.81,
+      "premium": 28.68,
       "diesel": 26.96,
       "stations": 391
     },
     "10": {
-      "regular": 24.09,
-      "premium": 29.33,
+      "regular": 24.05,
+      "premium": 29.32,
       "diesel": 27.19,
-      "stations": 231
+      "stations": 229
     },
     "11": {
       "regular": 23.85,
-      "premium": 29.17,
-      "diesel": 27.0,
-      "stations": 730
+      "premium": 29.16,
+      "diesel": 27.01,
+      "stations": 729
     },
     "12": {
-      "regular": 23.88,
-      "premium": 28.93,
-      "diesel": 27.09,
+      "regular": 23.86,
+      "premium": 28.94,
+      "diesel": 27.08,
       "stations": 254
     },
     "13": {
-      "regular": 23.7,
-      "premium": 28.15,
-      "diesel": 26.98,
+      "regular": 23.71,
+      "premium": 28.14,
+      "diesel": 26.99,
       "stations": 315
     },
     "14": {
-      "regular": 24.01,
+      "regular": 24.0,
       "premium": 29.44,
-      "diesel": 27.08,
-      "stations": 985
+      "diesel": 27.06,
+      "stations": 984
     },
     "15": {
-      "regular": 23.73,
-      "premium": 28.44,
+      "regular": 23.71,
+      "premium": 28.46,
       "diesel": 26.97,
-      "stations": 1250
+      "stations": 1247
     },
     "16": {
-      "regular": 23.98,
-      "premium": 29.02,
+      "regular": 23.97,
+      "premium": 29.03,
       "diesel": 26.98,
       "stations": 554
     },
@@ -110,9 +110,9 @@
       "stations": 192
     },
     "18": {
-      "regular": 23.98,
-      "premium": 29.44,
-      "diesel": 27.2,
+      "regular": 24.0,
+      "premium": 29.42,
+      "diesel": 27.22,
       "stations": 165
     },
     "19": {
@@ -124,61 +124,61 @@
     "20": {
       "regular": 24.06,
       "premium": 29.23,
-      "diesel": 27.45,
-      "stations": 296
+      "diesel": 27.44,
+      "stations": 297
     },
     "21": {
       "regular": 23.74,
       "premium": 28.08,
-      "diesel": 26.98,
+      "diesel": 26.97,
       "stations": 616
     },
     "22": {
-      "regular": 23.76,
-      "premium": 28.64,
-      "diesel": 26.88,
-      "stations": 369
+      "regular": 23.74,
+      "premium": 28.62,
+      "diesel": 26.9,
+      "stations": 368
     },
     "23": {
-      "regular": 25.12,
-      "premium": 29.05,
-      "diesel": 28.11,
+      "regular": 25.13,
+      "premium": 29.08,
+      "diesel": 28.1,
       "stations": 255
     },
     "24": {
-      "regular": 23.92,
-      "premium": 28.5,
-      "diesel": 27.05,
+      "regular": 23.93,
+      "premium": 28.52,
+      "diesel": 27.06,
       "stations": 306
     },
     "25": {
-      "regular": 23.96,
-      "premium": 29.3,
+      "regular": 23.95,
+      "premium": 29.28,
       "diesel": 27.0,
       "stations": 561
     },
     "26": {
-      "regular": 23.27,
-      "premium": 28.63,
-      "diesel": 26.92,
+      "regular": 23.2,
+      "premium": 28.61,
+      "diesel": 26.91,
       "stations": 553
     },
     "27": {
       "regular": 23.81,
-      "premium": 28.37,
-      "diesel": 26.99,
+      "premium": 28.36,
+      "diesel": 26.98,
       "stations": 246
     },
     "28": {
       "regular": 21.94,
-      "premium": 26.14,
-      "diesel": 26.42,
-      "stations": 607
+      "premium": 26.19,
+      "diesel": 26.39,
+      "stations": 609
     },
     "29": {
       "regular": 23.57,
-      "premium": 27.89,
-      "diesel": 26.76,
+      "premium": 27.86,
+      "diesel": 26.74,
       "stations": 145
     },
     "30": {
@@ -188,28 +188,28 @@
       "stations": 816
     },
     "31": {
-      "regular": 24.17,
+      "regular": 24.16,
       "premium": 28.15,
       "diesel": 27.11,
       "stations": 344
     },
     "32": {
-      "regular": 24.0,
-      "premium": 28.92,
-      "diesel": 27.07,
+      "regular": 23.99,
+      "premium": 28.87,
+      "diesel": 27.08,
       "stations": 226
     }
   },
   "municipalities": {
     "01001": {
-      "regular": 23.9,
-      "premium": 29.08,
-      "diesel": 26.88,
+      "regular": 23.88,
+      "premium": 29.11,
+      "diesel": 26.89,
       "stations": 135
     },
     "01002": {
-      "regular": 23.89,
-      "premium": 28.52,
+      "regular": 23.88,
+      "premium": 28.7,
       "diesel": 26.99,
       "stations": 6
     },
@@ -227,7 +227,7 @@
     },
     "01005": {
       "regular": 23.94,
-      "premium": 29.26,
+      "premium": 29.24,
       "diesel": 27.01,
       "stations": 30
     },
@@ -240,7 +240,7 @@
     "01007": {
       "regular": 23.99,
       "premium": 28.99,
-      "diesel": 27.04,
+      "diesel": 27.05,
       "stations": 8
     },
     "01008": {
@@ -251,7 +251,7 @@
     },
     "01009": {
       "regular": 23.99,
-      "premium": 29.24,
+      "premium": 28.99,
       "diesel": 26.99,
       "stations": 2
     },
@@ -263,38 +263,38 @@
     },
     "01011": {
       "regular": 23.95,
-      "premium": 29.2,
+      "premium": 29.23,
       "diesel": 26.97,
       "stations": 9
     },
     "02001": {
-      "regular": 22.91,
-      "premium": 28.23,
-      "diesel": 25.96,
+      "regular": 22.89,
+      "premium": 28.24,
+      "diesel": 25.98,
       "stations": 72
     },
     "02002": {
-      "regular": 22.36,
-      "premium": 27.37,
+      "regular": 22.33,
+      "premium": 27.32,
       "diesel": 25.71,
       "stations": 212
     },
     "02003": {
-      "regular": 22.97,
-      "premium": 28.58,
-      "diesel": 25.91,
+      "regular": 23.01,
+      "premium": 28.63,
+      "diesel": 25.85,
       "stations": 24
     },
     "02004": {
-      "regular": 23.11,
-      "premium": 28.66,
-      "diesel": 25.87,
+      "regular": 23.13,
+      "premium": 28.72,
+      "diesel": 25.86,
       "stations": 242
     },
     "02005": {
       "regular": 22.92,
-      "premium": 28.73,
-      "diesel": 25.66,
+      "premium": 28.65,
+      "diesel": 25.69,
       "stations": 22
     },
     "02006": {
@@ -304,13 +304,13 @@
       "stations": 17
     },
     "02007": {
-      "regular": 24.13,
+      "regular": 24.15,
       "premium": 28.69,
-      "diesel": 26.79,
+      "diesel": 27.18,
       "stations": 8
     },
     "03001": {
-      "regular": 24.15,
+      "regular": 24.16,
       "premium": 28.85,
       "diesel": 27.63,
       "stations": 24
@@ -323,8 +323,8 @@
     },
     "03003": {
       "regular": 24.17,
-      "premium": 29.45,
-      "diesel": 27.13,
+      "premium": 29.43,
+      "diesel": 27.11,
       "stations": 66
     },
     "03008": {
@@ -340,20 +340,20 @@
       "stations": 5
     },
     "04001": {
-      "regular": 24.08,
+      "regular": 24.1,
       "premium": 28.66,
       "diesel": 27.42,
       "stations": 7
     },
     "04002": {
-      "regular": 24.07,
-      "premium": 28.74,
+      "regular": 24.08,
+      "premium": 28.75,
       "diesel": 27.0,
       "stations": 36
     },
     "04003": {
-      "regular": 24.03,
-      "premium": 28.62,
+      "regular": 24.04,
+      "premium": 28.6,
       "diesel": 27.03,
       "stations": 34
     },
@@ -366,7 +366,7 @@
     "04005": {
       "regular": 23.77,
       "premium": 28.59,
-      "diesel": 27.12,
+      "diesel": 27.0,
       "stations": 4
     },
     "04006": {
@@ -388,7 +388,7 @@
       "stations": 2
     },
     "04009": {
-      "regular": 24.05,
+      "regular": 24.06,
       "premium": 28.69,
       "diesel": 27.0,
       "stations": 13
@@ -401,7 +401,7 @@
     },
     "04011": {
       "regular": 23.94,
-      "premium": 28.54,
+      "premium": 28.52,
       "diesel": 27.0,
       "stations": 4
     },
@@ -418,9 +418,9 @@
       "stations": 1
     },
     "05002": {
-      "regular": 21.17,
-      "premium": 24.31,
-      "diesel": 26.69,
+      "regular": 21.16,
+      "premium": 24.3,
+      "diesel": 26.45,
       "stations": 17
     },
     "05003": {
@@ -442,8 +442,8 @@
       "stations": 1
     },
     "05006": {
-      "regular": 24.0,
-      "premium": 29.38,
+      "regular": 24.04,
+      "premium": 29.55,
       "diesel": 27.08,
       "stations": 7
     },
@@ -466,7 +466,7 @@
       "stations": 6
     },
     "05010": {
-      "regular": 24.09,
+      "regular": 24.1,
       "premium": 29.44,
       "diesel": 27.07,
       "stations": 14
@@ -490,14 +490,14 @@
       "stations": 2
     },
     "05017": {
-      "regular": 23.97,
+      "regular": 23.94,
       "premium": 28.36,
       "diesel": 27.12,
       "stations": 15
     },
     "05018": {
-      "regular": 24.13,
-      "premium": 29.41,
+      "regular": 24.12,
+      "premium": 29.35,
       "diesel": 27.19,
       "stations": 53
     },
@@ -509,7 +509,7 @@
     },
     "05020": {
       "regular": 23.99,
-      "premium": 29.14,
+      "premium": 29.2,
       "diesel": 27.0,
       "stations": 7
     },
@@ -520,9 +520,9 @@
       "stations": 1
     },
     "05022": {
-      "regular": 22.5,
-      "premium": 26.64,
-      "diesel": 26.69,
+      "regular": 23.17,
+      "premium": 26.4,
+      "diesel": 26.38,
       "stations": 7
     },
     "05023": {
@@ -532,14 +532,14 @@
       "stations": 2
     },
     "05024": {
-      "regular": 25.01,
+      "regular": 25.09,
       "premium": 29.68,
       "diesel": 27.51,
       "stations": 7
     },
     "05025": {
-      "regular": 20.14,
-      "premium": 24.43,
+      "regular": 20.04,
+      "premium": 24.38,
       "diesel": 26.24,
       "stations": 31
     },
@@ -550,8 +550,8 @@
       "stations": 2
     },
     "05027": {
-      "regular": 24.14,
-      "premium": 29.22,
+      "regular": 24.12,
+      "premium": 29.19,
       "diesel": 27.07,
       "stations": 33
     },
@@ -568,8 +568,8 @@
       "stations": 1
     },
     "05030": {
-      "regular": 24.15,
-      "premium": 29.35,
+      "regular": 24.14,
+      "premium": 29.36,
       "diesel": 27.09,
       "stations": 106
     },
@@ -598,7 +598,7 @@
       "stations": 1
     },
     "05035": {
-      "regular": 24.09,
+      "regular": 24.11,
       "premium": 29.45,
       "diesel": 27.02,
       "stations": 106
@@ -628,8 +628,8 @@
       "stations": 2
     },
     "06002": {
-      "regular": 23.77,
-      "premium": 29.06,
+      "regular": 23.75,
+      "premium": 28.99,
       "diesel": 26.98,
       "stations": 42
     },
@@ -646,9 +646,9 @@
       "stations": 3
     },
     "06005": {
-      "regular": 23.94,
+      "regular": 23.93,
       "premium": 28.96,
-      "diesel": 27.2,
+      "diesel": 27.0,
       "stations": 5
     },
     "06006": {
@@ -671,13 +671,13 @@
     },
     "06009": {
       "regular": 23.97,
-      "premium": 28.94,
+      "premium": 28.96,
       "diesel": 27.0,
       "stations": 21
     },
     "06010": {
-      "regular": 23.54,
-      "premium": 28.85,
+      "regular": 23.48,
+      "premium": 28.73,
       "diesel": 27.0,
       "stations": 21
     },
@@ -755,7 +755,7 @@
     },
     "07019": {
       "regular": 23.99,
-      "premium": 28.84,
+      "premium": 28.91,
       "diesel": 27.0,
       "stations": 14
     },
@@ -766,7 +766,7 @@
       "stations": 4
     },
     "07021": {
-      "regular": 23.89,
+      "regular": 23.99,
       "premium": 28.39,
       "diesel": 27.0,
       "stations": 1
@@ -780,7 +780,7 @@
     "07027": {
       "regular": 23.74,
       "premium": 28.11,
-      "diesel": 26.99,
+      "diesel": 26.94,
       "stations": 10
     },
     "07029": {
@@ -870,7 +870,7 @@
     "07051": {
       "regular": 23.99,
       "premium": 29.29,
-      "diesel": 26.99,
+      "diesel": 27.99,
       "stations": 4
     },
     "07052": {
@@ -906,7 +906,7 @@
     "07065": {
       "regular": 23.56,
       "premium": 27.88,
-      "diesel": 26.85,
+      "diesel": 26.9,
       "stations": 9
     },
     "07067": {
@@ -994,7 +994,7 @@
       "stations": 2
     },
     "07087": {
-      "regular": 23.21,
+      "regular": 23.27,
       "premium": 27.31,
       "diesel": 25.49,
       "stations": 5
@@ -1012,9 +1012,9 @@
       "stations": 1
     },
     "07092": {
-      "regular": 23.99,
-      "premium": 28.99,
-      "diesel": null,
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
       "stations": 1
     },
     "07094": {
@@ -1036,7 +1036,7 @@
       "stations": 5
     },
     "07101": {
-      "regular": 23.67,
+      "regular": 23.66,
       "premium": 28.11,
       "diesel": 27.0,
       "stations": 77
@@ -1044,7 +1044,7 @@
     "07102": {
       "regular": 23.37,
       "premium": 27.4,
-      "diesel": 25.23,
+      "diesel": 25.37,
       "stations": 4
     },
     "07104": {
@@ -1066,8 +1066,8 @@
       "stations": 5
     },
     "07108": {
-      "regular": 24.0,
-      "premium": 28.79,
+      "regular": 23.99,
+      "premium": 28.8,
       "diesel": 27.0,
       "stations": 9
     },
@@ -1102,7 +1102,7 @@
       "stations": 1
     },
     "08001": {
-      "regular": 23.88,
+      "regular": 23.87,
       "premium": 28.04,
       "diesel": 27.0,
       "stations": 9
@@ -1127,26 +1127,26 @@
     },
     "08005": {
       "regular": 22.58,
-      "premium": 27.79,
+      "premium": 27.13,
       "diesel": 26.35,
       "stations": 5
     },
     "08006": {
       "regular": 23.85,
       "premium": null,
-      "diesel": null,
+      "diesel": 26.99,
       "stations": 1
     },
     "08007": {
-      "regular": 24.83,
+      "regular": 24.99,
       "premium": 29.7,
-      "diesel": 27.65,
+      "diesel": 27.56,
       "stations": 3
     },
     "08009": {
       "regular": 24.42,
       "premium": 28.75,
-      "diesel": 27.76,
+      "diesel": 27.89,
       "stations": 7
     },
     "08010": {
@@ -1187,7 +1187,7 @@
     },
     "08017": {
       "regular": 23.91,
-      "premium": 28.03,
+      "premium": 28.15,
       "diesel": 26.99,
       "stations": 39
     },
@@ -1198,15 +1198,15 @@
       "stations": 1
     },
     "08019": {
-      "regular": 23.93,
-      "premium": 28.89,
+      "regular": 23.92,
+      "premium": 28.93,
       "diesel": 26.97,
       "stations": 137
     },
     "08021": {
-      "regular": 23.85,
+      "regular": 23.82,
       "premium": 28.1,
-      "diesel": 26.88,
+      "diesel": 26.89,
       "stations": 30
     },
     "08022": {
@@ -1246,9 +1246,9 @@
       "stations": 5
     },
     "08029": {
-      "regular": 26.09,
+      "regular": 26.07,
       "premium": 30.24,
-      "diesel": 29.21,
+      "diesel": 29.14,
       "stations": 6
     },
     "08030": {
@@ -1266,7 +1266,7 @@
     "08032": {
       "regular": 24.06,
       "premium": 28.9,
-      "diesel": 26.92,
+      "diesel": 26.93,
       "stations": 26
     },
     "08034": {
@@ -1278,7 +1278,7 @@
     "08035": {
       "regular": 22.85,
       "premium": null,
-      "diesel": 25.92,
+      "diesel": 25.99,
       "stations": 4
     },
     "08036": {
@@ -1289,7 +1289,7 @@
     },
     "08037": {
       "regular": 19.21,
-      "premium": 23.48,
+      "premium": 23.47,
       "diesel": 25.38,
       "stations": 185
     },
@@ -1330,9 +1330,9 @@
       "stations": 12
     },
     "08048": {
-      "regular": 23.82,
+      "regular": 23.88,
       "premium": 28.55,
-      "diesel": 26.96,
+      "diesel": 26.86,
       "stations": 10
     },
     "08049": {
@@ -1354,9 +1354,9 @@
       "stations": 2
     },
     "08052": {
-      "regular": 21.2,
-      "premium": 24.51,
-      "diesel": 26.02,
+      "regular": 21.34,
+      "premium": 24.52,
+      "diesel": 26.39,
       "stations": 12
     },
     "08053": {
@@ -1386,7 +1386,7 @@
     "08058": {
       "regular": 23.99,
       "premium": 28.13,
-      "diesel": null,
+      "diesel": 26.99,
       "stations": 1
     },
     "08060": {
@@ -1403,7 +1403,7 @@
     },
     "08062": {
       "regular": 24.15,
-      "premium": 28.73,
+      "premium": 28.76,
       "diesel": 27.16,
       "stations": 5
     },
@@ -1426,9 +1426,9 @@
       "stations": 2
     },
     "09002": {
-      "regular": 23.88,
-      "premium": 28.61,
-      "diesel": 26.98,
+      "regular": 23.87,
+      "premium": 28.57,
+      "diesel": 26.97,
       "stations": 21
     },
     "09003": {
@@ -1444,8 +1444,8 @@
       "stations": 7
     },
     "09005": {
-      "regular": 24.01,
-      "premium": 28.7,
+      "regular": 23.98,
+      "premium": 28.71,
       "diesel": 26.99,
       "stations": 38
     },
@@ -1456,7 +1456,7 @@
       "stations": 10
     },
     "09007": {
-      "regular": 23.86,
+      "regular": 23.85,
       "premium": 28.51,
       "diesel": 26.93,
       "stations": 57
@@ -1474,14 +1474,14 @@
       "stations": 2
     },
     "09010": {
-      "regular": 23.89,
-      "premium": 29.35,
+      "regular": 23.87,
+      "premium": 29.28,
       "diesel": 27.0,
       "stations": 37
     },
     "09011": {
       "regular": 23.9,
-      "premium": 28.54,
+      "premium": 28.56,
       "diesel": 26.99,
       "stations": 7
     },
@@ -1498,44 +1498,44 @@
       "stations": 9
     },
     "09014": {
-      "regular": 23.71,
-      "premium": 28.55,
+      "regular": 23.7,
+      "premium": 28.54,
       "diesel": 26.82,
       "stations": 43
     },
     "09015": {
-      "regular": 23.74,
-      "premium": 28.8,
+      "regular": 23.76,
+      "premium": 28.78,
       "diesel": 26.95,
       "stations": 44
     },
     "09016": {
       "regular": 23.86,
-      "premium": 28.84,
+      "premium": 28.82,
       "diesel": 26.99,
       "stations": 32
     },
     "09017": {
-      "regular": 23.67,
-      "premium": 28.59,
+      "regular": 23.62,
+      "premium": 28.51,
       "diesel": 26.99,
       "stations": 31
     },
     "10001": {
-      "regular": 23.99,
+      "regular": 23.49,
       "premium": 29.09,
       "diesel": 27.11,
       "stations": 3
     },
     "10004": {
-      "regular": 24.22,
-      "premium": 29.28,
+      "regular": 24.26,
+      "premium": 29.21,
       "diesel": 27.54,
       "stations": 7
     },
     "10005": {
-      "regular": 23.93,
-      "premium": 29.15,
+      "regular": 23.82,
+      "premium": 29.13,
       "diesel": 26.98,
       "stations": 75
     },
@@ -1548,14 +1548,14 @@
     "10007": {
       "regular": 24.11,
       "premium": 29.58,
-      "diesel": 27.01,
+      "diesel": 27.0,
       "stations": 53
     },
     "10008": {
       "regular": 24.4,
       "premium": 28.72,
       "diesel": 27.28,
-      "stations": 7
+      "stations": 6
     },
     "10010": {
       "regular": null,
@@ -1570,7 +1570,7 @@
       "stations": 1
     },
     "10012": {
-      "regular": 24.02,
+      "regular": 23.96,
       "premium": 29.4,
       "diesel": 26.96,
       "stations": 19
@@ -1578,8 +1578,8 @@
     "10013": {
       "regular": 24.19,
       "premium": 29.05,
-      "diesel": 27.04,
-      "stations": 7
+      "diesel": 27.05,
+      "stations": 6
     },
     "10014": {
       "regular": 24.0,
@@ -1595,7 +1595,7 @@
     },
     "10016": {
       "regular": 23.99,
-      "premium": 29.16,
+      "premium": 29.43,
       "diesel": 27.0,
       "stations": 3
     },
@@ -1607,20 +1607,20 @@
     },
     "10018": {
       "regular": 24.42,
-      "premium": 30.25,
+      "premium": 30.5,
       "diesel": 28.0,
       "stations": 4
     },
     "10020": {
       "regular": 23.99,
-      "premium": 28.84,
+      "premium": 28.98,
       "diesel": 27.0,
       "stations": 2
     },
     "10021": {
       "regular": 24.5,
       "premium": null,
-      "diesel": 27.2,
+      "diesel": 27.4,
       "stations": 2
     },
     "10022": {
@@ -1636,9 +1636,9 @@
       "stations": 5
     },
     "10024": {
-      "regular": 24.45,
-      "premium": 28.8,
-      "diesel": 27.95,
+      "regular": 24.35,
+      "premium": 28.52,
+      "diesel": 27.9,
       "stations": 2
     },
     "10027": {
@@ -1666,15 +1666,15 @@
       "stations": 2
     },
     "10032": {
-      "regular": 24.21,
+      "regular": 24.2,
       "premium": 29.06,
-      "diesel": 27.47,
+      "diesel": 27.45,
       "stations": 8
     },
     "10033": {
-      "regular": 24.8,
+      "regular": 24.9,
       "premium": null,
-      "diesel": null,
+      "diesel": 27.9,
       "stations": 1
     },
     "10034": {
@@ -1684,7 +1684,7 @@
       "stations": 2
     },
     "10035": {
-      "regular": 23.99,
+      "regular": 24.24,
       "premium": 29.33,
       "diesel": 27.9,
       "stations": 2
@@ -1714,14 +1714,14 @@
       "stations": 4
     },
     "11001": {
-      "regular": 23.95,
-      "premium": 29.03,
+      "regular": 23.94,
+      "premium": 29.04,
       "diesel": 26.99,
       "stations": 11
     },
     "11002": {
       "regular": 23.87,
-      "premium": 28.8,
+      "premium": 28.82,
       "diesel": 26.96,
       "stations": 16
     },
@@ -1733,18 +1733,18 @@
     },
     "11004": {
       "regular": 23.82,
-      "premium": 28.63,
-      "diesel": 26.8,
+      "premium": 28.6,
+      "diesel": 26.93,
       "stations": 11
     },
     "11005": {
-      "regular": 23.81,
-      "premium": 28.79,
+      "regular": 23.78,
+      "premium": 28.82,
       "diesel": 26.97,
       "stations": 17
     },
     "11007": {
-      "regular": 23.63,
+      "regular": 23.64,
       "premium": 28.77,
       "diesel": 26.98,
       "stations": 81
@@ -1762,8 +1762,8 @@
       "stations": 7
     },
     "11010": {
-      "regular": 23.71,
-      "premium": 28.31,
+      "regular": 23.99,
+      "premium": 28.84,
       "diesel": 26.86,
       "stations": 2
     },
@@ -1780,7 +1780,7 @@
       "stations": 4
     },
     "11013": {
-      "regular": 23.33,
+      "regular": 23.4,
       "premium": 27.63,
       "diesel": 26.93,
       "stations": 3
@@ -1792,8 +1792,8 @@
       "stations": 11
     },
     "11015": {
-      "regular": 23.94,
-      "premium": 29.79,
+      "regular": 23.91,
+      "premium": 29.75,
       "diesel": 27.1,
       "stations": 19
     },
@@ -1804,14 +1804,14 @@
       "stations": 3
     },
     "11017": {
-      "regular": 23.98,
-      "premium": 29.5,
+      "regular": 23.99,
+      "premium": 29.49,
       "diesel": 27.06,
-      "stations": 83
+      "stations": 82
     },
     "11018": {
       "regular": 23.98,
-      "premium": 28.75,
+      "premium": 29.01,
       "diesel": 27.17,
       "stations": 5
     },
@@ -1823,7 +1823,7 @@
     },
     "11020": {
       "regular": 23.82,
-      "premium": 29.42,
+      "premium": 29.37,
       "diesel": 26.97,
       "stations": 180
     },
@@ -1870,38 +1870,38 @@
       "stations": 45
     },
     "11028": {
-      "regular": 23.96,
-      "premium": 28.88,
-      "diesel": 26.98,
+      "regular": 23.85,
+      "premium": 28.91,
+      "diesel": 26.99,
       "stations": 7
     },
     "11029": {
-      "regular": 24.32,
-      "premium": 28.4,
+      "regular": 24.19,
+      "premium": 28.46,
       "diesel": 27.0,
       "stations": 4
     },
     "11030": {
       "regular": 23.92,
-      "premium": 29.11,
+      "premium": 29.03,
       "diesel": 27.05,
       "stations": 10
     },
     "11031": {
-      "regular": 23.91,
-      "premium": 29.7,
+      "regular": 23.9,
+      "premium": 29.72,
       "diesel": 27.0,
       "stations": 17
     },
     "11032": {
       "regular": 23.8,
       "premium": 28.71,
-      "diesel": 27.01,
+      "diesel": 27.0,
       "stations": 20
     },
     "11033": {
-      "regular": 23.66,
-      "premium": 28.49,
+      "regular": 23.7,
+      "premium": 28.46,
       "diesel": 26.97,
       "stations": 17
     },
@@ -1924,9 +1924,9 @@
       "stations": 1
     },
     "11037": {
-      "regular": 24.0,
+      "regular": 24.02,
       "premium": 29.73,
-      "diesel": 27.02,
+      "diesel": 27.03,
       "stations": 26
     },
     "11038": {
@@ -1937,26 +1937,26 @@
     },
     "11039": {
       "regular": 23.33,
-      "premium": 28.13,
+      "premium": 28.09,
       "diesel": 26.76,
       "stations": 6
     },
     "11041": {
       "regular": 23.71,
-      "premium": 28.64,
+      "premium": 28.59,
       "diesel": 26.99,
       "stations": 8
     },
     "11042": {
       "regular": 23.99,
-      "premium": 29.36,
+      "premium": 29.38,
       "diesel": 26.98,
       "stations": 12
     },
     "11043": {
-      "regular": 23.43,
-      "premium": null,
-      "diesel": null,
+      "regular": null,
+      "premium": 27.88,
+      "diesel": 27.0,
       "stations": 2
     },
     "11044": {
@@ -1972,20 +1972,20 @@
       "stations": 9
     },
     "12001": {
-      "regular": 23.61,
+      "regular": 23.6,
       "premium": 28.64,
       "diesel": 26.99,
       "stations": 74
     },
     "12002": {
       "regular": 23.99,
-      "premium": 29.0,
-      "diesel": 27.55,
+      "premium": 29.35,
+      "diesel": 27.6,
       "stations": 1
     },
     "12003": {
       "regular": 23.99,
-      "premium": 29.35,
+      "premium": 29.15,
       "diesel": 27.0,
       "stations": 1
     },
@@ -2015,8 +2015,8 @@
     },
     "12012": {
       "regular": 23.99,
-      "premium": 29.41,
-      "diesel": 27.09,
+      "premium": 29.45,
+      "diesel": 26.99,
       "stations": 4
     },
     "12013": {
@@ -2045,8 +2045,8 @@
     },
     "12018": {
       "regular": 23.99,
-      "premium": 29.65,
-      "diesel": 27.1,
+      "premium": 29.46,
+      "diesel": 26.99,
       "stations": 2
     },
     "12020": {
@@ -2063,7 +2063,7 @@
     },
     "12022": {
       "regular": 23.99,
-      "premium": 29.35,
+      "premium": 29.15,
       "diesel": 27.0,
       "stations": 1
     },
@@ -2093,8 +2093,8 @@
     },
     "12030": {
       "regular": 23.98,
-      "premium": 30.25,
-      "diesel": 26.99,
+      "premium": 29.98,
+      "diesel": 27.04,
       "stations": 4
     },
     "12032": {
@@ -2104,33 +2104,33 @@
       "stations": 1
     },
     "12033": {
-      "regular": null,
+      "regular": 23.99,
       "premium": null,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "12034": {
       "regular": 23.98,
-      "premium": 28.65,
+      "premium": 28.88,
       "diesel": 26.99,
       "stations": 2
     },
     "12035": {
       "regular": 23.96,
-      "premium": 29.31,
+      "premium": 29.32,
       "diesel": 27.0,
       "stations": 18
     },
     "12036": {
-      "regular": 29.99,
+      "regular": 23.99,
       "premium": 29.45,
       "diesel": 26.98,
       "stations": 1
     },
     "12038": {
       "regular": 23.88,
-      "premium": 28.58,
-      "diesel": 27.35,
+      "premium": 28.61,
+      "diesel": 27.29,
       "stations": 12
     },
     "12039": {
@@ -2153,8 +2153,8 @@
     },
     "12046": {
       "regular": 23.99,
-      "premium": 29.61,
-      "diesel": 27.08,
+      "premium": 29.58,
+      "diesel": 27.11,
       "stations": 9
     },
     "12048": {
@@ -2196,24 +2196,24 @@
     "12056": {
       "regular": 23.99,
       "premium": 29.55,
-      "diesel": 27.2,
+      "diesel": 26.99,
       "stations": 1
     },
     "12057": {
       "regular": 23.95,
-      "premium": 28.9,
+      "premium": 28.91,
       "diesel": 27.38,
       "stations": 9
     },
     "12058": {
-      "regular": null,
+      "regular": 23.99,
       "premium": 29.4,
       "diesel": 27.4,
       "stations": 4
     },
     "12059": {
       "regular": 23.95,
-      "premium": 29.25,
+      "premium": 29.28,
       "diesel": 27.0,
       "stations": 2
     },
@@ -2236,15 +2236,15 @@
       "stations": 1
     },
     "12065": {
-      "regular": 23.99,
+      "regular": null,
       "premium": 30.6,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "12066": {
       "regular": 23.98,
-      "premium": 29.0,
-      "diesel": 27.05,
+      "premium": 29.02,
+      "diesel": 27.07,
       "stations": 6
     },
     "12067": {
@@ -2274,7 +2274,7 @@
     "12071": {
       "regular": 23.99,
       "premium": null,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "12073": {
@@ -2298,7 +2298,7 @@
     "12080": {
       "regular": 23.99,
       "premium": null,
-      "diesel": 26.98,
+      "diesel": null,
       "stations": 1
     },
     "12082": {
@@ -2338,9 +2338,9 @@
       "stations": 2
     },
     "13005": {
-      "regular": null,
+      "regular": 24.0,
       "premium": null,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "13006": {
@@ -2406,7 +2406,7 @@
     "13016": {
       "regular": 23.97,
       "premium": 27.69,
-      "diesel": 26.98,
+      "diesel": 26.99,
       "stations": 3
     },
     "13017": {
@@ -2424,7 +2424,7 @@
     "13019": {
       "regular": 23.16,
       "premium": 27.88,
-      "diesel": 26.84,
+      "diesel": 26.49,
       "stations": 2
     },
     "13020": {
@@ -2459,18 +2459,18 @@
     },
     "13028": {
       "regular": 23.88,
-      "premium": 27.5,
-      "diesel": 26.86,
+      "premium": 27.51,
+      "diesel": 26.88,
       "stations": 9
     },
     "13029": {
-      "regular": 23.84,
+      "regular": 23.88,
       "premium": 28.29,
       "diesel": 26.99,
       "stations": 5
     },
     "13030": {
-      "regular": 23.63,
+      "regular": 23.66,
       "premium": 27.95,
       "diesel": 27.07,
       "stations": 9
@@ -2489,7 +2489,7 @@
     },
     "13034": {
       "regular": 23.99,
-      "premium": 28.99,
+      "premium": 28.49,
       "diesel": 27.0,
       "stations": 1
     },
@@ -2513,8 +2513,8 @@
     },
     "13039": {
       "regular": 22.99,
-      "premium": 27.49,
-      "diesel": null,
+      "premium": 27.45,
+      "diesel": 26.85,
       "stations": 1
     },
     "13041": {
@@ -2548,27 +2548,27 @@
       "stations": 2
     },
     "13048": {
-      "regular": 23.38,
-      "premium": 28.07,
-      "diesel": 26.99,
+      "regular": 23.34,
+      "premium": 28.04,
+      "diesel": 26.98,
       "stations": 39
     },
     "13050": {
       "regular": 23.32,
       "premium": 27.73,
-      "diesel": 26.38,
+      "diesel": 26.98,
       "stations": 5
     },
     "13051": {
-      "regular": 23.36,
-      "premium": 27.78,
+      "regular": 23.34,
+      "premium": 27.76,
       "diesel": 26.95,
       "stations": 29
     },
     "13052": {
-      "regular": 23.42,
-      "premium": 28.06,
-      "diesel": 26.96,
+      "regular": 23.41,
+      "premium": 27.98,
+      "diesel": 26.95,
       "stations": 7
     },
     "13054": {
@@ -2584,8 +2584,8 @@
       "stations": 1
     },
     "13056": {
-      "regular": 23.63,
-      "premium": 28.07,
+      "regular": 23.69,
+      "premium": 28.12,
       "diesel": 26.92,
       "stations": 6
     },
@@ -2596,7 +2596,7 @@
       "stations": 2
     },
     "13058": {
-      "regular": 23.62,
+      "regular": 23.89,
       "premium": 28.09,
       "diesel": 27.18,
       "stations": 3
@@ -2610,7 +2610,7 @@
     "13060": {
       "regular": 23.8,
       "premium": null,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "13061": {
@@ -2620,8 +2620,8 @@
       "stations": 6
     },
     "13063": {
-      "regular": 23.72,
-      "premium": 28.18,
+      "regular": 24.31,
+      "premium": 28.07,
       "diesel": 26.99,
       "stations": 9
     },
@@ -2651,7 +2651,7 @@
     },
     "13069": {
       "regular": 23.85,
-      "premium": 28.36,
+      "premium": 28.35,
       "diesel": 26.99,
       "stations": 16
     },
@@ -2692,14 +2692,14 @@
       "stations": 15
     },
     "13077": {
-      "regular": 23.78,
-      "premium": 28.06,
-      "diesel": 26.97,
+      "regular": 23.77,
+      "premium": 28.03,
+      "diesel": 26.96,
       "stations": 28
     },
     "13081": {
       "regular": 23.96,
-      "premium": 29.12,
+      "premium": 29.08,
       "diesel": 26.98,
       "stations": 2
     },
@@ -2710,9 +2710,9 @@
       "stations": 6
     },
     "13083": {
-      "regular": 23.59,
-      "premium": 28.02,
-      "diesel": 26.97,
+      "regular": 23.58,
+      "premium": 28.03,
+      "diesel": 26.95,
       "stations": 8
     },
     "13084": {
@@ -2723,14 +2723,14 @@
     },
     "14001": {
       "regular": 23.92,
-      "premium": 29.22,
-      "diesel": 26.93,
+      "premium": 29.15,
+      "diesel": 26.9,
       "stations": 6
     },
     "14002": {
-      "regular": 23.88,
-      "premium": 29.7,
-      "diesel": 27.14,
+      "regular": 23.93,
+      "premium": 29.59,
+      "diesel": 27.12,
       "stations": 9
     },
     "14005": {
@@ -2752,9 +2752,9 @@
       "stations": 1
     },
     "14008": {
-      "regular": 23.87,
-      "premium": 28.84,
-      "diesel": 27.19,
+      "regular": 23.83,
+      "premium": 28.87,
+      "diesel": 27.13,
       "stations": 17
     },
     "14009": {
@@ -2764,15 +2764,15 @@
       "stations": 3
     },
     "14010": {
-      "regular": null,
+      "regular": 24.0,
       "premium": 29.39,
-      "diesel": null,
+      "diesel": 27.0,
       "stations": 1
     },
     "14011": {
-      "regular": 24.49,
+      "regular": 24.0,
       "premium": null,
-      "diesel": 27.49,
+      "diesel": 27.0,
       "stations": 1
     },
     "14012": {
@@ -2782,15 +2782,15 @@
       "stations": 1
     },
     "14013": {
-      "regular": 24.1,
-      "premium": 29.4,
+      "regular": 24.08,
+      "premium": 29.43,
       "diesel": 27.1,
       "stations": 11
     },
     "14015": {
-      "regular": 24.11,
-      "premium": 29.83,
-      "diesel": 27.07,
+      "regular": 24.09,
+      "premium": 29.82,
+      "diesel": 27.05,
       "stations": 8
     },
     "14016": {
@@ -2812,9 +2812,9 @@
       "stations": 12
     },
     "14019": {
-      "regular": 24.0,
+      "regular": null,
       "premium": null,
-      "diesel": null,
+      "diesel": 27.5,
       "stations": 1
     },
     "14020": {
@@ -2824,9 +2824,9 @@
       "stations": 1
     },
     "14021": {
-      "regular": 24.53,
+      "regular": 24.12,
       "premium": 29.79,
-      "diesel": 27.37,
+      "diesel": 27.09,
       "stations": 4
     },
     "14022": {
@@ -2838,7 +2838,7 @@
     "14023": {
       "regular": 24.0,
       "premium": 29.9,
-      "diesel": 27.17,
+      "diesel": 27.09,
       "stations": 14
     },
     "14024": {
@@ -2848,13 +2848,13 @@
       "stations": 4
     },
     "14025": {
-      "regular": 23.95,
-      "premium": 28.95,
+      "regular": 23.98,
+      "premium": 28.98,
       "diesel": 27.44,
       "stations": 2
     },
     "14026": {
-      "regular": 24.3,
+      "regular": null,
       "premium": null,
       "diesel": 27.39,
       "stations": 1
@@ -2896,15 +2896,15 @@
       "stations": 2
     },
     "14037": {
-      "regular": 24.49,
+      "regular": 24.24,
       "premium": 29.94,
-      "diesel": 27.5,
+      "diesel": 27.25,
       "stations": 3
     },
     "14039": {
-      "regular": 23.95,
-      "premium": 29.4,
-      "diesel": 26.94,
+      "regular": 23.96,
+      "premium": 29.38,
+      "diesel": 26.95,
       "stations": 146
     },
     "14041": {
@@ -2921,37 +2921,37 @@
     },
     "14043": {
       "regular": 23.99,
-      "premium": 29.7,
-      "diesel": 26.99,
+      "premium": 29.82,
+      "diesel": 27.0,
       "stations": 4
     },
     "14044": {
       "regular": 23.98,
-      "premium": 29.06,
-      "diesel": 26.3,
+      "premium": 28.93,
+      "diesel": 26.41,
       "stations": 6
     },
     "14045": {
-      "regular": 24.14,
+      "regular": 23.99,
       "premium": 29.97,
-      "diesel": 27.41,
+      "diesel": 27.08,
       "stations": 6
     },
     "14046": {
-      "regular": 23.93,
-      "premium": 28.62,
+      "regular": 23.92,
+      "premium": 27.72,
       "diesel": 26.98,
       "stations": 7
     },
     "14047": {
       "regular": 23.87,
       "premium": 29.66,
-      "diesel": 27.01,
+      "diesel": 26.94,
       "stations": 5
     },
     "14048": {
-      "regular": 23.81,
-      "premium": 28.8,
+      "regular": 23.78,
+      "premium": 28.82,
       "diesel": 27.0,
       "stations": 6
     },
@@ -2969,7 +2969,7 @@
     },
     "14051": {
       "regular": 23.99,
-      "premium": 29.46,
+      "premium": 29.48,
       "diesel": 27.0,
       "stations": 2
     },
@@ -2994,7 +2994,7 @@
     "14055": {
       "regular": 23.99,
       "premium": 29.99,
-      "diesel": 27.16,
+      "diesel": 27.0,
       "stations": 3
     },
     "14057": {
@@ -3011,7 +3011,7 @@
     },
     "14059": {
       "regular": 23.99,
-      "premium": 29.84,
+      "premium": 29.8,
       "diesel": 27.25,
       "stations": 2
     },
@@ -3034,9 +3034,9 @@
       "stations": 1
     },
     "14063": {
-      "regular": 24.17,
+      "regular": 24.16,
       "premium": 29.66,
-      "diesel": 27.31,
+      "diesel": 27.26,
       "stations": 11
     },
     "14064": {
@@ -3054,19 +3054,19 @@
     "14066": {
       "regular": 23.95,
       "premium": 29.79,
-      "diesel": 27.55,
+      "diesel": 27.34,
       "stations": 8
     },
     "14067": {
-      "regular": 24.51,
-      "premium": 29.75,
-      "diesel": 27.51,
+      "regular": 24.53,
+      "premium": 29.73,
+      "diesel": 27.18,
       "stations": 40
     },
     "14068": {
-      "regular": null,
+      "regular": 24.0,
       "premium": 29.8,
-      "diesel": null,
+      "diesel": 27.0,
       "stations": 1
     },
     "14069": {
@@ -3076,14 +3076,14 @@
       "stations": 2
     },
     "14070": {
-      "regular": 23.9,
-      "premium": 29.57,
+      "regular": 23.91,
+      "premium": 29.61,
       "diesel": 27.0,
       "stations": 21
     },
     "14071": {
       "regular": 23.99,
-      "premium": 29.27,
+      "premium": 28.99,
       "diesel": 26.99,
       "stations": 1
     },
@@ -3120,7 +3120,7 @@
     "14078": {
       "regular": 23.99,
       "premium": 29.39,
-      "diesel": 27.0,
+      "diesel": 26.99,
       "stations": 6
     },
     "14079": {
@@ -3137,18 +3137,18 @@
     },
     "14081": {
       "regular": 24.0,
-      "premium": null,
+      "premium": 29.0,
       "diesel": 27.6,
       "stations": 1
     },
     "14082": {
       "regular": 23.99,
-      "premium": 29.46,
+      "premium": 29.65,
       "diesel": 27.0,
       "stations": 6
     },
     "14083": {
-      "regular": 24.18,
+      "regular": 23.9,
       "premium": 29.42,
       "diesel": 26.99,
       "stations": 11
@@ -3160,13 +3160,13 @@
       "stations": 2
     },
     "14085": {
-      "regular": 25.19,
-      "premium": 29.32,
+      "regular": 23.99,
+      "premium": 29.89,
       "diesel": 27.0,
       "stations": 5
     },
     "14086": {
-      "regular": 23.98,
+      "regular": 23.99,
       "premium": 29.65,
       "diesel": 27.0,
       "stations": 3
@@ -3185,14 +3185,14 @@
     },
     "14089": {
       "regular": null,
-      "premium": null,
-      "diesel": 27.0,
+      "premium": 29.29,
+      "diesel": null,
       "stations": 1
     },
     "14090": {
-      "regular": null,
+      "regular": 24.0,
       "premium": 29.99,
-      "diesel": null,
+      "diesel": 27.0,
       "stations": 2
     },
     "14091": {
@@ -3209,14 +3209,14 @@
     },
     "14093": {
       "regular": 23.89,
-      "premium": 29.16,
-      "diesel": 27.05,
+      "premium": 29.13,
+      "diesel": 27.09,
       "stations": 36
     },
     "14094": {
       "regular": 24.11,
       "premium": 29.69,
-      "diesel": 27.46,
+      "diesel": 27.34,
       "stations": 4
     },
     "14095": {
@@ -3232,16 +3232,16 @@
       "stations": 2
     },
     "14097": {
-      "regular": 23.95,
-      "premium": 29.37,
+      "regular": 24.0,
+      "premium": 29.43,
       "diesel": 27.0,
       "stations": 76
     },
     "14098": {
-      "regular": 23.86,
-      "premium": 29.42,
+      "regular": 23.88,
+      "premium": 29.43,
       "diesel": 27.02,
-      "stations": 65
+      "stations": 64
     },
     "14099": {
       "regular": 24.5,
@@ -3257,7 +3257,7 @@
     },
     "14101": {
       "regular": 23.95,
-      "premium": 29.36,
+      "premium": 29.34,
       "diesel": 26.96,
       "stations": 53
     },
@@ -3282,7 +3282,7 @@
     "14105": {
       "regular": 23.99,
       "premium": 29.94,
-      "diesel": 27.0,
+      "diesel": 26.99,
       "stations": 3
     },
     "14106": {
@@ -3300,7 +3300,7 @@
     "14108": {
       "regular": 23.99,
       "premium": 29.93,
-      "diesel": 27.2,
+      "diesel": 27.33,
       "stations": 5
     },
     "14109": {
@@ -3312,7 +3312,7 @@
     "14110": {
       "regular": 24.24,
       "premium": 29.96,
-      "diesel": 27.16,
+      "diesel": 27.24,
       "stations": 3
     },
     "14111": {
@@ -3322,9 +3322,9 @@
       "stations": 2
     },
     "14112": {
-      "regular": 24.4,
+      "regular": 24.42,
       "premium": 29.8,
-      "diesel": 27.52,
+      "diesel": 27.5,
       "stations": 2
     },
     "14113": {
@@ -3364,21 +3364,21 @@
       "stations": 3
     },
     "14119": {
-      "regular": null,
+      "regular": 24.0,
       "premium": 29.99,
-      "diesel": null,
+      "diesel": 27.0,
       "stations": 1
     },
     "14120": {
-      "regular": 23.93,
+      "regular": 23.94,
       "premium": 29.46,
-      "diesel": 27.01,
+      "diesel": 27.02,
       "stations": 124
     },
     "14121": {
-      "regular": 24.09,
+      "regular": 23.99,
       "premium": 29.92,
-      "diesel": 27.32,
+      "diesel": 27.14,
       "stations": 6
     },
     "14122": {
@@ -3390,11 +3390,11 @@
     "14123": {
       "regular": 23.99,
       "premium": 29.86,
-      "diesel": 27.39,
+      "diesel": 27.1,
       "stations": 3
     },
     "14124": {
-      "regular": 23.96,
+      "regular": 23.95,
       "premium": 29.44,
       "diesel": 27.01,
       "stations": 16
@@ -3419,7 +3419,7 @@
     },
     "15003": {
       "regular": 23.97,
-      "premium": 28.56,
+      "premium": 28.75,
       "diesel": 27.0,
       "stations": 5
     },
@@ -3431,7 +3431,7 @@
     },
     "15005": {
       "regular": 23.88,
-      "premium": 28.79,
+      "premium": 28.74,
       "diesel": 26.99,
       "stations": 17
     },
@@ -3443,13 +3443,13 @@
     },
     "15008": {
       "regular": 23.98,
-      "premium": 27.7,
+      "premium": 29.3,
       "diesel": 27.3,
       "stations": 2
     },
     "15009": {
       "regular": 24.05,
-      "premium": 28.44,
+      "premium": 28.53,
       "diesel": 27.21,
       "stations": 7
     },
@@ -3472,15 +3472,15 @@
       "stations": 4
     },
     "15013": {
-      "regular": 23.77,
-      "premium": 28.71,
+      "regular": 23.75,
+      "premium": 28.73,
       "diesel": 26.98,
       "stations": 32
     },
     "15014": {
-      "regular": 23.76,
-      "premium": 28.59,
-      "diesel": 26.79,
+      "regular": 23.6,
+      "premium": 28.48,
+      "diesel": 26.97,
       "stations": 21
     },
     "15015": {
@@ -3503,7 +3503,7 @@
     },
     "15018": {
       "regular": 23.89,
-      "premium": 28.48,
+      "premium": 28.61,
       "diesel": 26.99,
       "stations": 5
     },
@@ -3514,8 +3514,8 @@
       "stations": 3
     },
     "15020": {
-      "regular": 23.83,
-      "premium": 28.69,
+      "regular": 23.8,
+      "premium": 28.74,
       "diesel": 26.99,
       "stations": 16
     },
@@ -3526,9 +3526,9 @@
       "stations": 4
     },
     "15022": {
-      "regular": 23.54,
-      "premium": 27.99,
-      "diesel": 26.99,
+      "regular": 23.47,
+      "premium": 28.23,
+      "diesel": 26.95,
       "stations": 5
     },
     "15023": {
@@ -3538,16 +3538,16 @@
       "stations": 2
     },
     "15024": {
-      "regular": 23.46,
+      "regular": 23.48,
       "premium": 28.31,
       "diesel": 26.82,
       "stations": 23
     },
     "15025": {
-      "regular": 23.17,
-      "premium": 27.7,
-      "diesel": 26.76,
-      "stations": 48
+      "regular": 23.14,
+      "premium": 27.67,
+      "diesel": 26.75,
+      "stations": 47
     },
     "15026": {
       "regular": 23.64,
@@ -3563,19 +3563,19 @@
     },
     "15028": {
       "regular": 24.69,
-      "premium": 28.2,
-      "diesel": null,
+      "premium": 28.99,
+      "diesel": 26.99,
       "stations": 2
     },
     "15029": {
       "regular": 23.17,
-      "premium": 27.96,
+      "premium": 27.95,
       "diesel": 26.9,
       "stations": 16
     },
     "15031": {
-      "regular": 23.61,
-      "premium": 27.93,
+      "regular": 23.59,
+      "premium": 27.92,
       "diesel": 26.97,
       "stations": 21
     },
@@ -3586,7 +3586,7 @@
       "stations": 1
     },
     "15033": {
-      "regular": 23.76,
+      "regular": 23.74,
       "premium": 28.61,
       "diesel": 27.01,
       "stations": 101
@@ -3604,16 +3604,16 @@
       "stations": 3
     },
     "15037": {
-      "regular": 23.96,
-      "premium": 29.58,
+      "regular": 23.98,
+      "premium": 29.6,
       "diesel": 27.0,
       "stations": 21
     },
     "15039": {
-      "regular": 23.66,
-      "premium": 28.21,
+      "regular": 23.64,
+      "premium": 28.25,
       "diesel": 26.98,
-      "stations": 27
+      "stations": 26
     },
     "15040": {
       "regular": 23.89,
@@ -3647,19 +3647,19 @@
     },
     "15046": {
       "regular": 23.99,
-      "premium": 28.97,
+      "premium": 28.74,
       "diesel": 26.99,
       "stations": 1
     },
     "15047": {
-      "regular": 23.85,
-      "premium": 28.25,
+      "regular": 23.81,
+      "premium": 28.27,
       "diesel": 26.85,
       "stations": 5
     },
     "15048": {
-      "regular": 23.62,
-      "premium": 28.18,
+      "regular": 23.59,
+      "premium": 28.14,
       "diesel": 26.97,
       "stations": 10
     },
@@ -3694,14 +3694,14 @@
       "stations": 4
     },
     "15054": {
-      "regular": 23.59,
-      "premium": 28.39,
-      "diesel": 26.99,
+      "regular": 23.46,
+      "premium": 28.42,
+      "diesel": 26.96,
       "stations": 33
     },
     "15055": {
-      "regular": 23.42,
-      "premium": 27.78,
+      "regular": 23.32,
+      "premium": 27.72,
       "diesel": 26.83,
       "stations": 3
     },
@@ -3713,15 +3713,15 @@
     },
     "15057": {
       "regular": 23.89,
-      "premium": 28.45,
-      "diesel": 26.97,
+      "premium": 28.44,
+      "diesel": 26.96,
       "stations": 31
     },
     "15058": {
-      "regular": 23.45,
-      "premium": 28.02,
+      "regular": 23.47,
+      "premium": 28.06,
       "diesel": 26.97,
-      "stations": 45
+      "stations": 44
     },
     "15059": {
       "regular": 23.67,
@@ -3730,14 +3730,14 @@
       "stations": 8
     },
     "15060": {
-      "regular": 23.81,
-      "premium": 28.36,
+      "regular": 23.73,
+      "premium": 28.34,
       "diesel": 26.97,
       "stations": 19
     },
     "15062": {
       "regular": 23.96,
-      "premium": 29.08,
+      "premium": 29.03,
       "diesel": 26.96,
       "stations": 13
     },
@@ -3772,19 +3772,19 @@
       "stations": 3
     },
     "15070": {
-      "regular": 23.61,
-      "premium": 28.24,
-      "diesel": 26.95,
+      "regular": 23.52,
+      "premium": 28.25,
+      "diesel": 26.92,
       "stations": 18
     },
     "15071": {
       "regular": 23.99,
-      "premium": 28.54,
-      "diesel": 27.0,
+      "premium": 28.78,
+      "diesel": 26.99,
       "stations": 8
     },
     "15072": {
-      "regular": 23.91,
+      "regular": 23.99,
       "premium": 28.64,
       "diesel": 26.99,
       "stations": 2
@@ -3797,7 +3797,7 @@
     },
     "15074": {
       "regular": 23.96,
-      "premium": 28.11,
+      "premium": 28.09,
       "diesel": 26.99,
       "stations": 10
     },
@@ -3808,9 +3808,9 @@
       "stations": 2
     },
     "15076": {
-      "regular": 23.58,
-      "premium": 28.36,
-      "diesel": 27.04,
+      "regular": 23.52,
+      "premium": 28.35,
+      "diesel": 27.03,
       "stations": 23
     },
     "15078": {
@@ -3832,9 +3832,9 @@
       "stations": 1
     },
     "15081": {
-      "regular": 23.75,
-      "premium": 28.36,
-      "diesel": 26.98,
+      "regular": 23.68,
+      "premium": 28.34,
+      "diesel": 27.0,
       "stations": 58
     },
     "15082": {
@@ -3845,7 +3845,7 @@
     },
     "15083": {
       "regular": 23.29,
-      "premium": 27.75,
+      "premium": 27.59,
       "diesel": 26.85,
       "stations": 1
     },
@@ -3875,7 +3875,7 @@
     },
     "15088": {
       "regular": 24.11,
-      "premium": 29.13,
+      "premium": 28.99,
       "diesel": 26.99,
       "stations": 8
     },
@@ -3892,8 +3892,8 @@
       "stations": 5
     },
     "15092": {
-      "regular": 23.73,
-      "premium": 28.23,
+      "regular": 23.62,
+      "premium": 28.19,
       "diesel": 26.99,
       "stations": 6
     },
@@ -3910,7 +3910,7 @@
       "stations": 1
     },
     "15095": {
-      "regular": 23.95,
+      "regular": 23.97,
       "premium": 28.62,
       "diesel": 26.99,
       "stations": 12
@@ -3935,7 +3935,7 @@
     },
     "15099": {
       "regular": 23.85,
-      "premium": 28.38,
+      "premium": 28.47,
       "diesel": 26.98,
       "stations": 19
     },
@@ -3948,7 +3948,7 @@
     "15101": {
       "regular": 23.91,
       "premium": 28.02,
-      "diesel": 26.99,
+      "diesel": 27.0,
       "stations": 8
     },
     "15102": {
@@ -3964,20 +3964,20 @@
       "stations": 2
     },
     "15104": {
-      "regular": 23.9,
-      "premium": 28.97,
+      "regular": 23.91,
+      "premium": 28.99,
       "diesel": 27.01,
       "stations": 55
     },
     "15105": {
       "regular": 23.99,
-      "premium": 29.4,
+      "premium": 29.35,
       "diesel": 27.0,
       "stations": 2
     },
     "15106": {
-      "regular": 23.43,
-      "premium": 28.4,
+      "regular": 23.4,
+      "premium": 28.38,
       "diesel": 26.95,
       "stations": 107
     },
@@ -3988,20 +3988,20 @@
       "stations": 2
     },
     "15108": {
-      "regular": 24.04,
-      "premium": 29.0,
+      "regular": 24.03,
+      "premium": 28.98,
       "diesel": 27.0,
       "stations": 8
     },
     "15109": {
       "regular": 23.84,
-      "premium": 28.75,
+      "premium": 28.78,
       "diesel": 27.01,
       "stations": 36
     },
     "15110": {
-      "regular": 23.92,
-      "premium": 28.38,
+      "regular": 23.93,
+      "premium": 28.59,
       "diesel": 26.73,
       "stations": 7
     },
@@ -4025,13 +4025,13 @@
     },
     "15114": {
       "regular": 23.99,
-      "premium": 28.61,
+      "premium": 28.63,
       "diesel": 26.95,
       "stations": 5
     },
     "15115": {
-      "regular": 23.76,
-      "premium": 28.46,
+      "regular": 23.78,
+      "premium": 28.33,
       "diesel": 27.0,
       "stations": 5
     },
@@ -4060,20 +4060,20 @@
       "stations": 1
     },
     "15120": {
-      "regular": 23.49,
-      "premium": 28.32,
+      "regular": 23.51,
+      "premium": 28.39,
       "diesel": 27.0,
       "stations": 22
     },
     "15121": {
-      "regular": 23.8,
+      "regular": 23.76,
       "premium": 28.58,
       "diesel": 26.97,
       "stations": 40
     },
     "15122": {
-      "regular": 23.26,
-      "premium": 27.71,
+      "regular": 23.27,
+      "premium": 27.69,
       "diesel": 26.9,
       "stations": 20
     },
@@ -4091,7 +4091,7 @@
     },
     "15125": {
       "regular": 24.49,
-      "premium": 28.39,
+      "premium": 28.49,
       "diesel": 26.89,
       "stations": 1
     },
@@ -4102,8 +4102,8 @@
       "stations": 1
     },
     "16002": {
-      "regular": 24.6,
-      "premium": 29.3,
+      "regular": 24.5,
+      "premium": 28.99,
       "diesel": 26.99,
       "stations": 1
     },
@@ -4126,8 +4126,8 @@
       "stations": 1
     },
     "16006": {
-      "regular": 24.93,
-      "premium": 29.94,
+      "regular": 24.99,
+      "premium": 29.99,
       "diesel": 26.99,
       "stations": 20
     },
@@ -4192,13 +4192,13 @@
       "stations": 3
     },
     "16019": {
-      "regular": null,
+      "regular": 24.65,
       "premium": null,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "16020": {
-      "regular": 23.89,
+      "regular": 23.99,
       "premium": 28.96,
       "diesel": 26.99,
       "stations": 2
@@ -4229,7 +4229,7 @@
     },
     "16025": {
       "regular": 23.99,
-      "premium": 29.19,
+      "premium": 28.99,
       "diesel": 26.99,
       "stations": 2
     },
@@ -4240,8 +4240,8 @@
       "stations": 1
     },
     "16030": {
-      "regular": null,
-      "premium": null,
+      "regular": 23.99,
+      "premium": 29.15,
       "diesel": 26.99,
       "stations": 1
     },
@@ -4266,7 +4266,7 @@
     "16034": {
       "regular": 23.99,
       "premium": 28.7,
-      "diesel": 26.98,
+      "diesel": 26.97,
       "stations": 17
     },
     "16035": {
@@ -4307,7 +4307,7 @@
     },
     "16041": {
       "regular": 23.99,
-      "premium": 28.46,
+      "premium": 28.95,
       "diesel": 27.0,
       "stations": 3
     },
@@ -4325,7 +4325,7 @@
     },
     "16044": {
       "regular": 23.84,
-      "premium": 29.02,
+      "premium": 28.72,
       "diesel": 26.94,
       "stations": 2
     },
@@ -4367,13 +4367,13 @@
     },
     "16052": {
       "regular": 23.48,
-      "premium": 28.02,
+      "premium": 28.03,
       "diesel": 27.06,
       "stations": 24
     },
     "16053": {
-      "regular": 23.72,
-      "premium": 28.79,
+      "regular": 23.71,
+      "premium": 28.81,
       "diesel": 26.95,
       "stations": 92
     },
@@ -4408,8 +4408,8 @@
       "stations": 2
     },
     "16059": {
-      "regular": 23.85,
-      "premium": 28.83,
+      "regular": 23.83,
+      "premium": 28.77,
       "diesel": 26.96,
       "stations": 3
     },
@@ -4445,7 +4445,7 @@
     },
     "16066": {
       "regular": 23.93,
-      "premium": 28.89,
+      "premium": 28.86,
       "diesel": 27.06,
       "stations": 12
     },
@@ -4456,8 +4456,8 @@
       "stations": 1
     },
     "16068": {
-      "regular": 23.8,
-      "premium": 29.3,
+      "regular": 23.77,
+      "premium": 29.23,
       "diesel": 26.88,
       "stations": 8
     },
@@ -4469,7 +4469,7 @@
     },
     "16070": {
       "regular": 23.99,
-      "premium": 29.39,
+      "premium": 28.99,
       "diesel": 26.92,
       "stations": 2
     },
@@ -4498,15 +4498,15 @@
       "stations": 1
     },
     "16075": {
-      "regular": 23.99,
+      "regular": 24.01,
       "premium": 29.44,
       "diesel": 27.0,
       "stations": 6
     },
     "16076": {
-      "regular": 24.74,
-      "premium": 29.81,
-      "diesel": 26.98,
+      "regular": 24.68,
+      "premium": 29.83,
+      "diesel": 26.99,
       "stations": 9
     },
     "16077": {
@@ -4534,7 +4534,7 @@
       "stations": 1
     },
     "16082": {
-      "regular": 24.01,
+      "regular": 24.02,
       "premium": 29.42,
       "diesel": 27.0,
       "stations": 8
@@ -4588,8 +4588,8 @@
       "stations": 2
     },
     "16091": {
-      "regular": 24.25,
-      "premium": 29.14,
+      "regular": 24.3,
+      "premium": 29.3,
       "diesel": 26.99,
       "stations": 2
     },
@@ -4642,7 +4642,7 @@
       "stations": 2
     },
     "16100": {
-      "regular": 23.9,
+      "regular": 23.84,
       "premium": 28.37,
       "diesel": 26.94,
       "stations": 2
@@ -4654,15 +4654,15 @@
       "stations": 1
     },
     "16102": {
-      "regular": 23.57,
-      "premium": 28.52,
-      "diesel": 27.01,
+      "regular": 23.55,
+      "premium": 28.54,
+      "diesel": 27.0,
       "stations": 41
     },
     "16103": {
       "regular": 24.25,
-      "premium": 29.37,
-      "diesel": 27.22,
+      "premium": 29.33,
+      "diesel": 27.09,
       "stations": 4
     },
     "16104": {
@@ -4674,12 +4674,12 @@
     "16105": {
       "regular": 23.99,
       "premium": 29.63,
-      "diesel": 27.07,
+      "diesel": 26.99,
       "stations": 4
     },
     "16106": {
-      "regular": 24.1,
-      "premium": 29.6,
+      "regular": 24.07,
+      "premium": 29.56,
       "diesel": 27.27,
       "stations": 4
     },
@@ -4691,7 +4691,7 @@
     },
     "16108": {
       "regular": 23.89,
-      "premium": 29.47,
+      "premium": 29.45,
       "diesel": 26.98,
       "stations": 21
     },
@@ -4702,9 +4702,9 @@
       "stations": 9
     },
     "16111": {
-      "regular": 23.56,
+      "regular": 23.46,
       "premium": 28.52,
-      "diesel": 26.87,
+      "diesel": 26.88,
       "stations": 2
     },
     "16112": {
@@ -4727,7 +4727,7 @@
     },
     "17002": {
       "regular": 23.51,
-      "premium": 28.08,
+      "premium": 28.01,
       "diesel": 26.89,
       "stations": 5
     },
@@ -4751,14 +4751,14 @@
     },
     "17006": {
       "regular": 23.82,
-      "premium": 28.29,
-      "diesel": 27.08,
+      "premium": 28.3,
+      "diesel": 27.07,
       "stations": 19
     },
     "17007": {
       "regular": 23.69,
-      "premium": 28.34,
-      "diesel": 26.98,
+      "premium": 28.36,
+      "diesel": 26.97,
       "stations": 48
     },
     "17008": {
@@ -4769,26 +4769,26 @@
     },
     "17009": {
       "regular": 23.98,
-      "premium": 28.49,
+      "premium": 28.32,
       "diesel": 27.0,
       "stations": 3
     },
     "17010": {
-      "regular": 23.55,
-      "premium": 27.9,
-      "diesel": 26.98,
+      "regular": 23.48,
+      "premium": 27.83,
+      "diesel": 26.9,
       "stations": 6
     },
     "17011": {
       "regular": 23.79,
-      "premium": 28.49,
-      "diesel": 26.99,
+      "premium": 28.5,
+      "diesel": 26.98,
       "stations": 16
     },
     "17012": {
-      "regular": 23.96,
-      "premium": 29.11,
-      "diesel": 26.92,
+      "regular": 23.95,
+      "premium": 29.08,
+      "diesel": 26.91,
       "stations": 8
     },
     "17014": {
@@ -4799,14 +4799,14 @@
     },
     "17017": {
       "regular": 23.9,
-      "premium": 28.64,
+      "premium": 28.65,
       "diesel": 27.0,
       "stations": 7
     },
     "17018": {
       "regular": 23.86,
-      "premium": 28.9,
-      "diesel": 27.01,
+      "premium": 28.91,
+      "diesel": 27.02,
       "stations": 13
     },
     "17019": {
@@ -4840,8 +4840,8 @@
       "stations": 1
     },
     "17026": {
-      "regular": 23.6,
-      "premium": 27.7,
+      "regular": 23.61,
+      "premium": 27.79,
       "diesel": 26.99,
       "stations": 4
     },
@@ -4853,19 +4853,19 @@
     },
     "17028": {
       "regular": 23.69,
-      "premium": 28.49,
+      "premium": 28.46,
       "diesel": 26.97,
       "stations": 11
     },
     "17029": {
-      "regular": 23.61,
-      "premium": 28.12,
+      "regular": 23.64,
+      "premium": 28.09,
       "diesel": 26.77,
       "stations": 12
     },
     "17030": {
       "regular": 23.99,
-      "premium": 28.69,
+      "premium": 28.63,
       "diesel": 27.0,
       "stations": 5
     },
@@ -4896,24 +4896,24 @@
     "18002": {
       "regular": 24.09,
       "premium": 29.49,
-      "diesel": 27.49,
+      "diesel": 27.24,
       "stations": 2
     },
     "18003": {
       "regular": 25.49,
-      "premium": 30.26,
+      "premium": null,
       "diesel": 28.87,
       "stations": 2
     },
     "18004": {
       "regular": 23.99,
       "premium": 29.91,
-      "diesel": 27.11,
+      "diesel": 27.3,
       "stations": 12
     },
     "18006": {
-      "regular": 24.07,
-      "premium": 29.39,
+      "regular": 24.09,
+      "premium": 29.36,
       "diesel": 26.99,
       "stations": 5
     },
@@ -4924,15 +4924,15 @@
       "stations": 1
     },
     "18008": {
-      "regular": 23.93,
+      "regular": 23.95,
       "premium": 29.45,
-      "diesel": 27.17,
+      "diesel": 27.23,
       "stations": 10
     },
     "18010": {
       "regular": 24.53,
       "premium": 29.33,
-      "diesel": 27.59,
+      "diesel": 27.45,
       "stations": 4
     },
     "18011": {
@@ -4944,31 +4944,31 @@
     "18012": {
       "regular": 24.48,
       "premium": 29.33,
-      "diesel": 26.86,
+      "diesel": 26.89,
       "stations": 9
     },
     "18014": {
       "regular": 24.41,
       "premium": 29.67,
-      "diesel": 27.2,
+      "diesel": 27.15,
       "stations": 4
     },
     "18015": {
-      "regular": 24.5,
-      "premium": 29.46,
-      "diesel": 27.86,
+      "regular": 24.47,
+      "premium": 29.41,
+      "diesel": 27.75,
       "stations": 12
     },
     "18016": {
       "regular": 24.23,
       "premium": 29.09,
-      "diesel": 27.43,
+      "diesel": 27.34,
       "stations": 5
     },
     "18017": {
-      "regular": 23.72,
+      "regular": 23.73,
       "premium": 29.41,
-      "diesel": 26.92,
+      "diesel": 27.0,
       "stations": 56
     },
     "18018": {
@@ -4978,9 +4978,9 @@
       "stations": 3
     },
     "18020": {
-      "regular": 23.73,
+      "regular": 23.88,
       "premium": 29.44,
-      "diesel": 27.07,
+      "diesel": 27.18,
       "stations": 33
     },
     "19001": {
@@ -4990,9 +4990,9 @@
       "stations": 1
     },
     "19004": {
-      "regular": 23.9,
-      "premium": 29.66,
-      "diesel": 27.06,
+      "regular": 23.95,
+      "premium": 29.5,
+      "diesel": 27.02,
       "stations": 14
     },
     "19005": {
@@ -5002,8 +5002,8 @@
       "stations": 2
     },
     "19006": {
-      "regular": 24.13,
-      "premium": 29.69,
+      "regular": 24.14,
+      "premium": 29.75,
       "diesel": 27.14,
       "stations": 80
     },
@@ -5020,8 +5020,8 @@
       "stations": 1
     },
     "19009": {
-      "regular": 23.72,
-      "premium": 28.86,
+      "regular": 23.76,
+      "premium": 28.78,
       "diesel": 26.98,
       "stations": 22
     },
@@ -5038,9 +5038,9 @@
       "stations": 3
     },
     "19012": {
-      "regular": 23.72,
-      "premium": 29.25,
-      "diesel": 26.98,
+      "regular": 23.62,
+      "premium": 28.88,
+      "diesel": 26.99,
       "stations": 4
     },
     "19013": {
@@ -5051,7 +5051,7 @@
     },
     "19014": {
       "regular": 23.98,
-      "premium": 29.0,
+      "premium": 28.98,
       "diesel": 27.0,
       "stations": 6
     },
@@ -5062,26 +5062,26 @@
       "stations": 8
     },
     "19018": {
-      "regular": 24.29,
-      "premium": 29.81,
+      "regular": 24.26,
+      "premium": 29.82,
       "diesel": 27.05,
       "stations": 27
     },
     "19019": {
-      "regular": 24.46,
+      "regular": 24.43,
       "premium": 29.98,
       "diesel": 27.0,
       "stations": 10
     },
     "19020": {
       "regular": 23.99,
-      "premium": 28.59,
+      "premium": 28.74,
       "diesel": 27.0,
       "stations": 3
     },
     "19021": {
-      "regular": 24.23,
-      "premium": 29.69,
+      "regular": 24.21,
+      "premium": 29.71,
       "diesel": 27.15,
       "stations": 47
     },
@@ -5092,15 +5092,15 @@
       "stations": 2
     },
     "19025": {
-      "regular": 23.85,
-      "premium": 29.51,
+      "regular": 23.88,
+      "premium": 28.95,
       "diesel": 26.99,
       "stations": 12
     },
     "19026": {
       "regular": 24.15,
       "premium": 29.72,
-      "diesel": 26.98,
+      "diesel": 26.9,
       "stations": 80
     },
     "19027": {
@@ -5111,14 +5111,14 @@
     },
     "19029": {
       "regular": 23.99,
-      "premium": 28.89,
+      "premium": 29.89,
       "diesel": 27.0,
       "stations": 1
     },
     "19031": {
-      "regular": 23.99,
-      "premium": 29.12,
-      "diesel": 27.11,
+      "regular": 24.01,
+      "premium": 29.16,
+      "diesel": 27.1,
       "stations": 42
     },
     "19032": {
@@ -5153,14 +5153,14 @@
     },
     "19038": {
       "regular": 24.14,
-      "premium": 29.85,
+      "premium": 29.96,
       "diesel": 26.99,
       "stations": 10
     },
     "19039": {
       "regular": 24.18,
-      "premium": 29.66,
-      "diesel": 26.91,
+      "premium": 29.65,
+      "diesel": 26.95,
       "stations": 188
     },
     "19040": {
@@ -5183,19 +5183,19 @@
     },
     "19044": {
       "regular": 24.57,
-      "premium": 29.99,
+      "premium": 30.05,
       "diesel": 27.21,
       "stations": 11
     },
     "19045": {
-      "regular": 23.71,
+      "regular": 23.81,
       "premium": 29.32,
       "diesel": 27.0,
       "stations": 3
     },
     "19046": {
-      "regular": 24.21,
-      "premium": 29.8,
+      "regular": 24.2,
+      "premium": 29.81,
       "diesel": 27.08,
       "stations": 61
     },
@@ -5206,14 +5206,14 @@
       "stations": 2
     },
     "19048": {
-      "regular": 24.26,
-      "premium": 29.71,
-      "diesel": 27.03,
+      "regular": 24.25,
+      "premium": 29.7,
+      "diesel": 27.05,
       "stations": 37
     },
     "19049": {
       "regular": 24.04,
-      "premium": 29.33,
+      "premium": 29.23,
       "diesel": 26.81,
       "stations": 17
     },
@@ -5368,16 +5368,16 @@
       "stations": 2
     },
     "20066": {
-      "regular": null,
-      "premium": null,
+      "regular": 24.0,
+      "premium": 28.29,
       "diesel": 27.0,
       "stations": 1
     },
     "20067": {
       "regular": 23.99,
-      "premium": 29.46,
+      "premium": 29.44,
       "diesel": 27.03,
-      "stations": 22
+      "stations": 23
     },
     "20068": {
       "regular": 23.94,
@@ -5398,7 +5398,7 @@
       "stations": 6
     },
     "20079": {
-      "regular": 23.86,
+      "regular": 23.87,
       "premium": 28.28,
       "diesel": 26.99,
       "stations": 9
@@ -5507,7 +5507,7 @@
     },
     "20184": {
       "regular": 23.97,
-      "premium": 28.48,
+      "premium": 28.47,
       "diesel": 27.07,
       "stations": 18
     },
@@ -5560,14 +5560,14 @@
       "stations": 1
     },
     "20269": {
-      "regular": 24.67,
+      "regular": 24.79,
       "premium": 28.99,
       "diesel": 29.54,
       "stations": 2
     },
     "20277": {
-      "regular": null,
-      "premium": null,
+      "regular": 24.0,
+      "premium": 29.35,
       "diesel": 28.05,
       "stations": 2
     },
@@ -5675,8 +5675,8 @@
     },
     "20342": {
       "regular": 23.99,
-      "premium": 28.6,
-      "diesel": 27.64,
+      "premium": 28.7,
+      "diesel": 27.0,
       "stations": 2
     },
     "20348": {
@@ -5722,9 +5722,9 @@
       "stations": 8
     },
     "20397": {
-      "regular": 24.06,
-      "premium": 28.88,
-      "diesel": 27.42,
+      "regular": 24.2,
+      "premium": 28.83,
+      "diesel": 27.47,
       "stations": 6
     },
     "20398": {
@@ -5734,15 +5734,15 @@
       "stations": 1
     },
     "20399": {
-      "regular": 24.0,
-      "premium": 29.0,
-      "diesel": null,
+      "regular": null,
+      "premium": null,
+      "diesel": 27.0,
       "stations": 1
     },
     "20401": {
       "regular": 23.99,
-      "premium": 31.49,
-      "diesel": 27.95,
+      "premium": 31.57,
+      "diesel": 27.99,
       "stations": 5
     },
     "20405": {
@@ -5824,7 +5824,7 @@
       "stations": 7
     },
     "20486": {
-      "regular": 24.0,
+      "regular": 24.45,
       "premium": 29.0,
       "diesel": 27.6,
       "stations": 1
@@ -5890,7 +5890,7 @@
       "stations": 1
     },
     "20540": {
-      "regular": 24.0,
+      "regular": 24.35,
       "premium": 28.99,
       "diesel": 27.29,
       "stations": 1
@@ -5921,7 +5921,7 @@
     },
     "20551": {
       "regular": 23.99,
-      "premium": 28.77,
+      "premium": 28.7,
       "diesel": 27.0,
       "stations": 3
     },
@@ -5962,9 +5962,9 @@
       "stations": 3
     },
     "21003": {
-      "regular": 24.3,
+      "regular": 24.45,
       "premium": 28.99,
-      "diesel": 27.95,
+      "diesel": 27.0,
       "stations": 3
     },
     "21004": {
@@ -6004,8 +6004,8 @@
       "stations": 2
     },
     "21015": {
-      "regular": 23.68,
-      "premium": 28.06,
+      "regular": 23.67,
+      "premium": 28.05,
       "diesel": 26.96,
       "stations": 26
     },
@@ -6022,8 +6022,8 @@
       "stations": 2
     },
     "21019": {
-      "regular": 23.58,
-      "premium": 27.41,
+      "regular": 23.57,
+      "premium": 27.44,
       "diesel": 26.69,
       "stations": 19
     },
@@ -6040,7 +6040,7 @@
       "stations": 1
     },
     "21034": {
-      "regular": 23.99,
+      "regular": 24.03,
       "premium": 28.68,
       "diesel": 26.99,
       "stations": 8
@@ -6065,8 +6065,8 @@
     },
     "21041": {
       "regular": 23.83,
-      "premium": 28.0,
-      "diesel": 27.23,
+      "premium": 28.08,
+      "diesel": 27.08,
       "stations": 11
     },
     "21043": {
@@ -6088,8 +6088,8 @@
       "stations": 4
     },
     "21046": {
-      "regular": null,
-      "premium": null,
+      "regular": 23.99,
+      "premium": 28.15,
       "diesel": 27.0,
       "stations": 1
     },
@@ -6107,7 +6107,7 @@
     },
     "21053": {
       "regular": 23.84,
-      "premium": 28.43,
+      "premium": 28.59,
       "diesel": 26.95,
       "stations": 8
     },
@@ -6125,12 +6125,12 @@
     },
     "21062": {
       "regular": 22.99,
-      "premium": 27.99,
-      "diesel": 26.79,
+      "premium": 26.99,
+      "diesel": 26.69,
       "stations": 1
     },
     "21063": {
-      "regular": 23.9,
+      "regular": 24.21,
       "premium": 29.29,
       "diesel": 26.99,
       "stations": 4
@@ -6142,8 +6142,8 @@
       "stations": 2
     },
     "21065": {
-      "regular": 23.64,
-      "premium": 27.99,
+      "regular": 23.62,
+      "premium": 27.89,
       "diesel": 26.96,
       "stations": 3
     },
@@ -6214,9 +6214,9 @@
       "stations": 1
     },
     "21082": {
-      "regular": 23.99,
+      "regular": null,
       "premium": null,
-      "diesel": null,
+      "diesel": 27.0,
       "stations": 1
     },
     "21083": {
@@ -6226,26 +6226,26 @@
       "stations": 1
     },
     "21085": {
-      "regular": 23.78,
-      "premium": 28.11,
-      "diesel": 26.95,
+      "regular": 23.67,
+      "premium": 27.94,
+      "diesel": 26.89,
       "stations": 6
     },
     "21090": {
-      "regular": 23.7,
-      "premium": null,
+      "regular": null,
+      "premium": 27.95,
       "diesel": null,
       "stations": 1
     },
     "21094": {
-      "regular": 23.74,
-      "premium": 28.05,
+      "regular": 23.75,
+      "premium": 28.07,
       "diesel": 26.99,
       "stations": 6
     },
     "21096": {
-      "regular": 23.55,
-      "premium": 27.99,
+      "regular": 23.49,
+      "premium": 27.69,
       "diesel": 26.89,
       "stations": 1
     },
@@ -6268,14 +6268,14 @@
       "stations": 1
     },
     "21104": {
-      "regular": 23.57,
+      "regular": 23.7,
       "premium": 27.81,
       "diesel": 26.89,
       "stations": 3
     },
     "21106": {
       "regular": 23.99,
-      "premium": 28.27,
+      "premium": 28.21,
       "diesel": 26.99,
       "stations": 2
     },
@@ -6286,9 +6286,9 @@
       "stations": 3
     },
     "21110": {
-      "regular": 23.99,
+      "regular": 23.86,
       "premium": 28.49,
-      "diesel": 27.0,
+      "diesel": 26.66,
       "stations": 4
     },
     "21111": {
@@ -6298,14 +6298,14 @@
       "stations": 1
     },
     "21114": {
-      "regular": 23.61,
+      "regular": 23.6,
       "premium": 27.99,
       "diesel": 26.92,
       "stations": 188
     },
     "21115": {
       "regular": 23.81,
-      "premium": 28.34,
+      "premium": 28.28,
       "diesel": 26.98,
       "stations": 7
     },
@@ -6322,20 +6322,20 @@
       "stations": 1
     },
     "21118": {
-      "regular": 23.9,
+      "regular": 23.85,
       "premium": 28.3,
       "diesel": 26.99,
       "stations": 2
     },
     "21119": {
-      "regular": 23.72,
-      "premium": 28.25,
-      "diesel": 27.0,
+      "regular": 23.73,
+      "premium": 28.28,
+      "diesel": 26.91,
       "stations": 23
     },
     "21124": {
-      "regular": null,
-      "premium": 25.8,
+      "regular": 23.99,
+      "premium": null,
       "diesel": 26.99,
       "stations": 1
     },
@@ -6347,8 +6347,8 @@
     },
     "21128": {
       "regular": 23.49,
-      "premium": 28.49,
-      "diesel": 26.94,
+      "premium": 27.99,
+      "diesel": 26.89,
       "stations": 2
     },
     "21132": {
@@ -6370,14 +6370,14 @@
       "stations": 1
     },
     "21140": {
-      "regular": 24.05,
+      "regular": 23.96,
       "premium": 28.31,
       "diesel": 26.99,
       "stations": 21
     },
     "21142": {
-      "regular": 23.43,
-      "premium": 27.61,
+      "regular": 23.41,
+      "premium": 27.51,
       "diesel": 26.86,
       "stations": 4
     },
@@ -6400,7 +6400,7 @@
       "stations": 1
     },
     "21148": {
-      "regular": 23.89,
+      "regular": 23.99,
       "premium": 28.35,
       "diesel": 27.0,
       "stations": 1
@@ -6424,9 +6424,9 @@
       "stations": 2
     },
     "21154": {
-      "regular": 23.54,
+      "regular": 23.58,
       "premium": 28.33,
-      "diesel": 26.96,
+      "diesel": 26.95,
       "stations": 12
     },
     "21155": {
@@ -6436,9 +6436,9 @@
       "stations": 1
     },
     "21156": {
-      "regular": 23.8,
+      "regular": 23.82,
       "premium": 27.78,
-      "diesel": 26.95,
+      "diesel": 26.94,
       "stations": 23
     },
     "21157": {
@@ -6460,8 +6460,8 @@
       "stations": 2
     },
     "21164": {
-      "regular": 23.68,
-      "premium": 28.04,
+      "regular": 23.65,
+      "premium": 28.02,
       "diesel": 26.99,
       "stations": 14
     },
@@ -6496,8 +6496,8 @@
       "stations": 2
     },
     "21174": {
-      "regular": 23.87,
-      "premium": 28.36,
+      "regular": 23.9,
+      "premium": 28.24,
       "diesel": 27.12,
       "stations": 13
     },
@@ -6527,8 +6527,8 @@
     },
     "21186": {
       "regular": 23.95,
-      "premium": 28.02,
-      "diesel": 27.12,
+      "premium": 28.03,
+      "diesel": 27.11,
       "stations": 5
     },
     "21189": {
@@ -6617,9 +6617,9 @@
     },
     "22001": {
       "regular": 23.99,
-      "premium": 28.59,
-      "diesel": 27.0,
-      "stations": 4
+      "premium": 28.69,
+      "diesel": 27.13,
+      "stations": 3
     },
     "22002": {
       "regular": 23.99,
@@ -6628,8 +6628,8 @@
       "stations": 2
     },
     "22003": {
-      "regular": 24.97,
-      "premium": 28.11,
+      "regular": 23.97,
+      "premium": 27.9,
       "diesel": 27.0,
       "stations": 3
     },
@@ -6646,14 +6646,14 @@
       "stations": 9
     },
     "22006": {
-      "regular": 23.74,
-      "premium": 28.66,
+      "regular": 23.75,
+      "premium": 28.68,
       "diesel": 26.97,
       "stations": 42
     },
     "22007": {
       "regular": 23.7,
-      "premium": 27.78,
+      "premium": 27.84,
       "diesel": 26.94,
       "stations": 9
     },
@@ -6665,8 +6665,8 @@
     },
     "22009": {
       "regular": 23.97,
-      "premium": 28.62,
-      "diesel": 27.0,
+      "premium": 28.69,
+      "diesel": 27.14,
       "stations": 5
     },
     "22010": {
@@ -6676,26 +6676,26 @@
       "stations": 3
     },
     "22011": {
-      "regular": 23.75,
-      "premium": 28.63,
-      "diesel": 26.82,
+      "regular": 23.74,
+      "premium": 28.61,
+      "diesel": 26.81,
       "stations": 46
     },
     "22012": {
       "regular": 23.67,
-      "premium": 28.5,
+      "premium": 28.46,
       "diesel": 26.92,
       "stations": 9
     },
     "22013": {
-      "regular": 23.99,
+      "regular": 24.0,
       "premium": null,
-      "diesel": 23.99,
+      "diesel": 27.0,
       "stations": 1
     },
     "22014": {
-      "regular": 23.74,
-      "premium": 28.74,
+      "regular": 23.7,
+      "premium": 28.72,
       "diesel": 26.91,
       "stations": 176
     },
@@ -6706,8 +6706,8 @@
       "stations": 1
     },
     "22016": {
-      "regular": 23.77,
-      "premium": 28.56,
+      "regular": 23.76,
+      "premium": 28.55,
       "diesel": 26.84,
       "stations": 41
     },
@@ -6725,66 +6725,66 @@
     },
     "23001": {
       "regular": 26.2,
-      "premium": 29.8,
+      "premium": 29.72,
       "diesel": 29.5,
       "stations": 6
     },
     "23002": {
-      "regular": 24.77,
+      "regular": 24.79,
       "premium": 28.88,
-      "diesel": 27.78,
+      "diesel": 27.81,
       "stations": 8
     },
     "23003": {
       "regular": 26.14,
-      "premium": 28.44,
+      "premium": 29.38,
       "diesel": 29.14,
       "stations": 4
     },
     "23004": {
       "regular": 24.06,
-      "premium": 28.09,
-      "diesel": 27.13,
+      "premium": 28.01,
+      "diesel": 27.12,
       "stations": 34
     },
     "23005": {
-      "regular": 25.32,
-      "premium": 29.26,
-      "diesel": 28.25,
+      "regular": 25.33,
+      "premium": 29.32,
+      "diesel": 28.24,
       "stations": 108
     },
     "23006": {
-      "regular": 24.93,
+      "regular": 24.74,
       "premium": 29.04,
-      "diesel": 27.96,
+      "diesel": 27.77,
       "stations": 5
     },
     "23007": {
-      "regular": 25.56,
-      "premium": 29.17,
+      "regular": 25.6,
+      "premium": 29.19,
       "diesel": 28.81,
       "stations": 5
     },
     "23008": {
       "regular": 25.35,
-      "premium": 29.37,
+      "premium": 29.38,
       "diesel": 28.26,
       "stations": 46
     },
     "23009": {
       "regular": 25.16,
-      "premium": 28.86,
+      "premium": 28.82,
       "diesel": 28.11,
       "stations": 26
     },
     "23010": {
       "regular": 24.02,
-      "premium": 28.32,
+      "premium": 28.57,
       "diesel": 28.11,
       "stations": 6
     },
     "23011": {
-      "regular": 25.15,
+      "regular": 25.17,
       "premium": 29.33,
       "diesel": 28.24,
       "stations": 7
@@ -6822,12 +6822,12 @@
     "24007": {
       "regular": 23.99,
       "premium": 28.98,
-      "diesel": 26.99,
+      "diesel": 27.02,
       "stations": 3
     },
     "24008": {
       "regular": 23.99,
-      "premium": 28.69,
+      "premium": 28.42,
       "diesel": 27.37,
       "stations": 4
     },
@@ -6846,7 +6846,7 @@
     "24011": {
       "regular": 23.99,
       "premium": 28.48,
-      "diesel": 27.04,
+      "diesel": 27.11,
       "stations": 10
     },
     "24012": {
@@ -6888,12 +6888,12 @@
     "24020": {
       "regular": 23.94,
       "premium": 28.92,
-      "diesel": 27.0,
+      "diesel": 27.01,
       "stations": 21
     },
     "24021": {
       "regular": 23.97,
-      "premium": 29.18,
+      "premium": 29.08,
       "diesel": 27.1,
       "stations": 4
     },
@@ -6911,14 +6911,14 @@
     },
     "24024": {
       "regular": 23.98,
-      "premium": 28.34,
-      "diesel": 27.14,
+      "premium": 28.41,
+      "diesel": 27.11,
       "stations": 13
     },
     "24025": {
       "regular": 23.99,
       "premium": 29.49,
-      "diesel": 27.32,
+      "diesel": 27.16,
       "stations": 3
     },
     "24027": {
@@ -6928,8 +6928,8 @@
       "stations": 2
     },
     "24028": {
-      "regular": 23.89,
-      "premium": 28.35,
+      "regular": 23.87,
+      "premium": 28.37,
       "diesel": 27.09,
       "stations": 87
     },
@@ -6958,14 +6958,14 @@
       "stations": 1
     },
     "24035": {
-      "regular": 23.76,
-      "premium": 28.46,
-      "diesel": 27.08,
+      "regular": 23.78,
+      "premium": 28.41,
+      "diesel": 27.05,
       "stations": 26
     },
     "24036": {
-      "regular": 24.0,
-      "premium": 29.13,
+      "regular": 24.93,
+      "premium": 29.52,
       "diesel": 27.37,
       "stations": 4
     },
@@ -6977,8 +6977,8 @@
     },
     "24040": {
       "regular": 23.93,
-      "premium": 27.63,
-      "diesel": 27.0,
+      "premium": 27.98,
+      "diesel": 26.99,
       "stations": 6
     },
     "24042": {
@@ -7032,7 +7032,7 @@
     "24050": {
       "regular": 23.99,
       "premium": 27.91,
-      "diesel": 27.09,
+      "diesel": 27.06,
       "stations": 6
     },
     "24051": {
@@ -7042,8 +7042,8 @@
       "stations": 3
     },
     "24052": {
-      "regular": 23.99,
-      "premium": 27.97,
+      "regular": null,
+      "premium": null,
       "diesel": 27.0,
       "stations": 1
     },
@@ -7084,21 +7084,21 @@
       "stations": 2
     },
     "24059": {
-      "regular": 23.95,
-      "premium": 28.29,
+      "regular": 23.9,
+      "premium": 28.34,
       "diesel": 27.11,
       "stations": 12
     },
     "25001": {
-      "regular": 24.03,
+      "regular": 23.99,
       "premium": 29.42,
-      "diesel": 26.99,
+      "diesel": 27.0,
       "stations": 95
     },
     "25002": {
       "regular": 23.99,
-      "premium": 29.29,
-      "diesel": 27.1,
+      "premium": 29.24,
+      "diesel": 27.0,
       "stations": 12
     },
     "25003": {
@@ -7108,7 +7108,7 @@
       "stations": 4
     },
     "25004": {
-      "regular": 24.29,
+      "regular": 24.21,
       "premium": 29.77,
       "diesel": 27.0,
       "stations": 4
@@ -7120,8 +7120,8 @@
       "stations": 2
     },
     "25006": {
-      "regular": 23.81,
-      "premium": 29.27,
+      "regular": 23.83,
+      "premium": 29.26,
       "diesel": 26.94,
       "stations": 205
     },
@@ -7132,7 +7132,7 @@
       "stations": 2
     },
     "25008": {
-      "regular": 24.15,
+      "regular": 24.16,
       "premium": 29.92,
       "diesel": 27.0,
       "stations": 6
@@ -7144,25 +7144,25 @@
       "stations": 8
     },
     "25010": {
-      "regular": 24.02,
-      "premium": 29.09,
-      "diesel": 27.08,
+      "regular": 23.99,
+      "premium": 29.08,
+      "diesel": 27.1,
       "stations": 14
     },
     "25011": {
       "regular": 23.92,
-      "premium": 29.2,
+      "premium": 29.13,
       "diesel": 27.01,
       "stations": 57
     },
     "25012": {
-      "regular": 24.15,
+      "regular": 24.01,
       "premium": 29.47,
       "diesel": 26.99,
       "stations": 68
     },
     "25013": {
-      "regular": 24.28,
+      "regular": 24.25,
       "premium": 29.5,
       "diesel": 27.0,
       "stations": 9
@@ -7175,13 +7175,13 @@
     },
     "25015": {
       "regular": 23.93,
-      "premium": 29.16,
+      "premium": 29.09,
       "diesel": 26.93,
       "stations": 22
     },
     "25016": {
-      "regular": 24.12,
-      "premium": 29.44,
+      "regular": 24.24,
+      "premium": 29.61,
       "diesel": 27.0,
       "stations": 4
     },
@@ -7192,34 +7192,34 @@
       "stations": 8
     },
     "25018": {
-      "regular": 24.32,
-      "premium": 28.88,
-      "diesel": 27.05,
+      "regular": 24.33,
+      "premium": 28.71,
+      "diesel": 27.04,
       "stations": 22
     },
     "25019": {
       "regular": 24.0,
-      "premium": 29.22,
+      "premium": 29.18,
       "diesel": 27.33,
       "stations": 6
     },
     "25020": {
-      "regular": 23.99,
+      "regular": 24.05,
       "premium": 29.29,
       "diesel": 27.14,
       "stations": 5
     },
     "26001": {
-      "regular": null,
-      "premium": null,
+      "regular": 24.0,
+      "premium": 29.5,
       "diesel": 27.9,
       "stations": 2
     },
     "26002": {
-      "regular": 19.59,
-      "premium": 25.97,
-      "diesel": 26.16,
-      "stations": 18
+      "regular": 19.55,
+      "premium": 25.79,
+      "diesel": 26.22,
+      "stations": 19
     },
     "26003": {
       "regular": 23.99,
@@ -7229,7 +7229,7 @@
     },
     "26004": {
       "regular": 22.84,
-      "premium": 27.37,
+      "premium": 27.33,
       "diesel": 25.56,
       "stations": 4
     },
@@ -7270,21 +7270,21 @@
       "stations": 1
     },
     "26017": {
-      "regular": 22.46,
-      "premium": 27.56,
+      "regular": 22.44,
+      "premium": 27.55,
       "diesel": 26.03,
       "stations": 21
     },
     "26018": {
-      "regular": 23.93,
-      "premium": 29.29,
+      "regular": 24.01,
+      "premium": 29.31,
       "diesel": 27.01,
       "stations": 79
     },
     "26019": {
       "regular": 23.36,
       "premium": 27.28,
-      "diesel": 27.15,
+      "diesel": 27.25,
       "stations": 7
     },
     "26020": {
@@ -7306,9 +7306,9 @@
       "stations": 2
     },
     "26025": {
-      "regular": 24.54,
+      "regular": 24.38,
       "premium": 29.82,
-      "diesel": 27.73,
+      "diesel": 28.46,
       "stations": 10
     },
     "26026": {
@@ -7324,16 +7324,16 @@
       "stations": 1
     },
     "26029": {
-      "regular": 24.6,
+      "regular": 24.61,
       "premium": 29.97,
-      "diesel": 28.09,
+      "diesel": 28.06,
       "stations": 30
     },
     "26030": {
-      "regular": 24.08,
-      "premium": 29.49,
+      "regular": 23.97,
+      "premium": 29.51,
       "diesel": 27.21,
-      "stations": 162
+      "stations": 161
     },
     "26032": {
       "regular": 24.5,
@@ -7342,9 +7342,9 @@
       "stations": 1
     },
     "26033": {
-      "regular": 23.83,
-      "premium": 29.26,
-      "diesel": 26.92,
+      "regular": 23.82,
+      "premium": 29.19,
+      "diesel": 26.88,
       "stations": 14
     },
     "26035": {
@@ -7372,9 +7372,9 @@
       "stations": 2
     },
     "26040": {
-      "regular": 24.79,
+      "regular": null,
       "premium": null,
-      "diesel": null,
+      "diesel": 28.89,
       "stations": 1
     },
     "26041": {
@@ -7390,19 +7390,19 @@
       "stations": 28
     },
     "26043": {
-      "regular": 20.65,
+      "regular": 20.62,
       "premium": 26.79,
-      "diesel": 25.87,
+      "diesel": 25.84,
       "stations": 36
     },
     "26047": {
-      "regular": null,
+      "regular": 23.99,
       "premium": null,
-      "diesel": 27.0,
+      "diesel": null,
       "stations": 1
     },
     "26048": {
-      "regular": 23.54,
+      "regular": 23.26,
       "premium": 28.45,
       "diesel": 26.59,
       "stations": 18
@@ -7426,8 +7426,8 @@
       "stations": 2
     },
     "26055": {
-      "regular": 20.13,
-      "premium": 25.61,
+      "regular": 20.17,
+      "premium": 25.65,
       "diesel": 25.27,
       "stations": 46
     },
@@ -7439,7 +7439,7 @@
     },
     "26058": {
       "regular": 24.07,
-      "premium": 29.94,
+      "premium": 29.14,
       "diesel": 27.53,
       "stations": 7
     },
@@ -7480,7 +7480,7 @@
       "stations": 5
     },
     "26072": {
-      "regular": 25.34,
+      "regular": 23.99,
       "premium": 27.34,
       "diesel": 27.0,
       "stations": 2
@@ -7492,26 +7492,26 @@
       "stations": 4
     },
     "27002": {
-      "regular": 23.63,
-      "premium": 28.32,
-      "diesel": 27.02,
+      "regular": 23.64,
+      "premium": 28.37,
+      "diesel": 27.0,
       "stations": 21
     },
     "27003": {
       "regular": 23.97,
-      "premium": 28.44,
+      "premium": 28.47,
       "diesel": 27.0,
       "stations": 7
     },
     "27004": {
       "regular": 23.84,
-      "premium": 28.48,
+      "premium": 28.46,
       "diesel": 27.0,
       "stations": 98
     },
     "27005": {
       "regular": 23.42,
-      "premium": 27.58,
+      "premium": 27.52,
       "diesel": 26.57,
       "stations": 21
     },
@@ -7540,8 +7540,8 @@
       "stations": 2
     },
     "27010": {
-      "regular": 23.99,
-      "premium": 28.75,
+      "regular": 23.98,
+      "premium": 28.58,
       "diesel": 27.0,
       "stations": 8
     },
@@ -7564,9 +7564,9 @@
       "stations": 10
     },
     "27014": {
-      "regular": 23.58,
+      "regular": 23.57,
       "premium": 27.56,
-      "diesel": 26.62,
+      "diesel": 26.65,
       "stations": 15
     },
     "27015": {
@@ -7600,7 +7600,7 @@
       "stations": 4
     },
     "28003": {
-      "regular": 23.81,
+      "regular": 23.79,
       "premium": 27.74,
       "diesel": 27.0,
       "stations": 27
@@ -7632,7 +7632,7 @@
     "28010": {
       "regular": 23.98,
       "premium": 27.99,
-      "diesel": 27.39,
+      "diesel": 27.19,
       "stations": 2
     },
     "28011": {
@@ -7648,7 +7648,7 @@
       "stations": 5
     },
     "28013": {
-      "regular": 23.93,
+      "regular": 23.89,
       "premium": 28.38,
       "diesel": 27.0,
       "stations": 3
@@ -7684,21 +7684,21 @@
       "stations": 3
     },
     "28019": {
-      "regular": 24.19,
-      "premium": 29.11,
+      "regular": 24.14,
+      "premium": 29.01,
       "diesel": 27.0,
       "stations": 4
     },
     "28021": {
-      "regular": 23.82,
-      "premium": 28.48,
+      "regular": 23.86,
+      "premium": 28.37,
       "diesel": 26.99,
       "stations": 15
     },
     "28022": {
       "regular": 20.62,
       "premium": 24.19,
-      "diesel": 26.76,
+      "diesel": 26.75,
       "stations": 91
     },
     "28023": {
@@ -7720,9 +7720,9 @@
       "stations": 9
     },
     "28027": {
-      "regular": 21.12,
-      "premium": 26.81,
-      "diesel": 25.98,
+      "regular": 21.11,
+      "premium": 26.8,
+      "diesel": 25.86,
       "stations": 77
     },
     "28029": {
@@ -7733,7 +7733,7 @@
     },
     "28030": {
       "regular": 23.98,
-      "premium": 28.44,
+      "premium": 28.57,
       "diesel": 27.0,
       "stations": 2
     },
@@ -7744,9 +7744,9 @@
       "stations": 1
     },
     "28032": {
-      "regular": 20.49,
-      "premium": 24.54,
-      "diesel": 25.59,
+      "regular": 20.51,
+      "premium": 24.55,
+      "diesel": 25.57,
       "stations": 143
     },
     "28033": {
@@ -7768,10 +7768,10 @@
       "stations": 5
     },
     "28038": {
-      "regular": 23.72,
-      "premium": 27.54,
+      "regular": 23.71,
+      "premium": 27.5,
       "diesel": 27.0,
-      "stations": 44
+      "stations": 46
     },
     "28039": {
       "regular": 24.0,
@@ -7780,14 +7780,14 @@
       "stations": 2
     },
     "28040": {
-      "regular": 20.45,
+      "regular": 20.38,
       "premium": 24.03,
       "diesel": 26.45,
       "stations": 15
     },
     "28041": {
-      "regular": 23.86,
-      "premium": 28.28,
+      "regular": 23.85,
+      "premium": 28.29,
       "diesel": 26.99,
       "stations": 66
     },
@@ -7799,7 +7799,7 @@
     },
     "28043": {
       "regular": 23.82,
-      "premium": 27.62,
+      "premium": 27.59,
       "diesel": 27.0,
       "stations": 3
     },
@@ -7818,30 +7818,30 @@
     "29004": {
       "regular": 23.68,
       "premium": null,
-      "diesel": 26.99,
+      "diesel": null,
       "stations": 1
     },
     "29005": {
-      "regular": 23.7,
-      "premium": 28.15,
-      "diesel": 26.93,
+      "regular": 23.65,
+      "premium": 28.1,
+      "diesel": 26.89,
       "stations": 14
     },
     "29006": {
-      "regular": 23.59,
+      "regular": 23.55,
       "premium": 27.58,
       "diesel": 26.86,
       "stations": 8
     },
     "29007": {
       "regular": 22.99,
-      "premium": 27.99,
+      "premium": 27.69,
       "diesel": 26.62,
       "stations": 2
     },
     "29008": {
-      "regular": 23.32,
-      "premium": 27.99,
+      "regular": 23.49,
+      "premium": 27.49,
       "diesel": 26.77,
       "stations": 4
     },
@@ -7859,14 +7859,14 @@
     },
     "29013": {
       "regular": 23.59,
-      "premium": 27.8,
-      "diesel": 26.85,
+      "premium": 27.72,
+      "diesel": 26.83,
       "stations": 14
     },
     "29014": {
       "regular": 23.7,
       "premium": 27.7,
-      "diesel": 26.99,
+      "diesel": 26.91,
       "stations": 6
     },
     "29015": {
@@ -7894,8 +7894,8 @@
       "stations": 2
     },
     "29021": {
-      "regular": 23.34,
-      "premium": 27.87,
+      "regular": 23.36,
+      "premium": 27.85,
       "diesel": 26.99,
       "stations": 1
     },
@@ -7907,7 +7907,7 @@
     },
     "29023": {
       "regular": 22.99,
-      "premium": 26.69,
+      "premium": 25.69,
       "diesel": 25.93,
       "stations": 3
     },
@@ -7943,7 +7943,7 @@
     },
     "29032": {
       "regular": 23.9,
-      "premium": 28.3,
+      "premium": null,
       "diesel": 27.3,
       "stations": 1
     },
@@ -7991,7 +7991,7 @@
     },
     "29041": {
       "regular": 23.55,
-      "premium": 27.7,
+      "premium": 27.87,
       "diesel": 26.98,
       "stations": 3
     },
@@ -8002,9 +8002,9 @@
       "stations": 2
     },
     "29043": {
-      "regular": 23.44,
-      "premium": 27.64,
-      "diesel": 26.87,
+      "regular": 23.52,
+      "premium": 27.65,
+      "diesel": 26.83,
       "stations": 5
     },
     "29044": {
@@ -8026,8 +8026,8 @@
       "stations": 1
     },
     "29048": {
-      "regular": 23.73,
-      "premium": 28.72,
+      "regular": 23.79,
+      "premium": 28.57,
       "diesel": 26.99,
       "stations": 4
     },
@@ -8093,7 +8093,7 @@
     },
     "30011": {
       "regular": 23.9,
-      "premium": 28.0,
+      "premium": 28.01,
       "diesel": 27.0,
       "stations": 10
     },
@@ -8122,8 +8122,8 @@
       "stations": 3
     },
     "30016": {
-      "regular": 23.89,
-      "premium": 28.1,
+      "regular": 23.86,
+      "premium": 27.85,
       "diesel": 27.13,
       "stations": 5
     },
@@ -8153,8 +8153,8 @@
     },
     "30028": {
       "regular": 23.46,
-      "premium": 27.36,
-      "diesel": 26.91,
+      "premium": 27.33,
+      "diesel": 26.89,
       "stations": 25
     },
     "30030": {
@@ -8189,9 +8189,9 @@
     },
     "30039": {
       "regular": 23.3,
-      "premium": 27.69,
+      "premium": 27.66,
       "diesel": 26.98,
-      "stations": 39
+      "stations": 40
     },
     "30040": {
       "regular": 23.99,
@@ -8200,8 +8200,8 @@
       "stations": 3
     },
     "30044": {
-      "regular": 23.74,
-      "premium": 27.67,
+      "regular": 23.75,
+      "premium": 27.69,
       "diesel": 27.03,
       "stations": 28
     },
@@ -8225,7 +8225,7 @@
     },
     "30048": {
       "regular": 23.45,
-      "premium": 26.92,
+      "premium": 26.91,
       "diesel": 27.0,
       "stations": 9
     },
@@ -8248,8 +8248,8 @@
       "stations": 1
     },
     "30053": {
-      "regular": 23.92,
-      "premium": 27.97,
+      "regular": 23.89,
+      "premium": 27.62,
       "diesel": 26.98,
       "stations": 6
     },
@@ -8267,7 +8267,7 @@
     },
     "30059": {
       "regular": 23.99,
-      "premium": 27.85,
+      "premium": 27.73,
       "diesel": 27.0,
       "stations": 2
     },
@@ -8309,7 +8309,7 @@
     },
     "30068": {
       "regular": 23.94,
-      "premium": 28.16,
+      "premium": 28.17,
       "diesel": 27.0,
       "stations": 8
     },
@@ -8322,7 +8322,7 @@
     "30070": {
       "regular": 23.99,
       "premium": null,
-      "diesel": null,
+      "diesel": 27.49,
       "stations": 1
     },
     "30071": {
@@ -8356,9 +8356,9 @@
       "stations": 1
     },
     "30077": {
-      "regular": 23.82,
+      "regular": 23.79,
       "premium": 27.43,
-      "diesel": 26.99,
+      "diesel": 26.92,
       "stations": 7
     },
     "30081": {
@@ -8380,20 +8380,20 @@
       "stations": 3
     },
     "30085": {
-      "regular": 23.9,
-      "premium": 28.34,
-      "diesel": 27.02,
+      "regular": 23.98,
+      "premium": 28.42,
+      "diesel": 27.01,
       "stations": 6
     },
     "30086": {
-      "regular": 23.51,
+      "regular": 23.48,
       "premium": 28.22,
       "diesel": 27.0,
       "stations": 3
     },
     "30087": {
       "regular": 23.71,
-      "premium": 28.2,
+      "premium": 28.21,
       "diesel": 26.97,
       "stations": 38
     },
@@ -8404,8 +8404,8 @@
       "stations": 3
     },
     "30090": {
-      "regular": 23.54,
-      "premium": 27.14,
+      "regular": null,
+      "premium": null,
       "diesel": 26.97,
       "stations": 1
     },
@@ -8453,7 +8453,7 @@
     },
     "30102": {
       "regular": 23.94,
-      "premium": 28.93,
+      "premium": 28.94,
       "diesel": 26.99,
       "stations": 17
     },
@@ -8472,7 +8472,7 @@
     "30108": {
       "regular": 23.62,
       "premium": 27.9,
-      "diesel": 27.06,
+      "diesel": 27.05,
       "stations": 22
     },
     "30109": {
@@ -8518,9 +8518,9 @@
       "stations": 2
     },
     "30118": {
-      "regular": 23.92,
-      "premium": 28.43,
-      "diesel": 26.99,
+      "regular": 23.93,
+      "premium": 28.46,
+      "diesel": 26.98,
       "stations": 17
     },
     "30120": {
@@ -8536,8 +8536,8 @@
       "stations": 4
     },
     "30123": {
-      "regular": 23.94,
-      "premium": 27.88,
+      "regular": 23.95,
+      "premium": 27.9,
       "diesel": 27.0,
       "stations": 15
     },
@@ -8578,15 +8578,15 @@
       "stations": 5
     },
     "30131": {
-      "regular": 23.89,
+      "regular": 23.87,
       "premium": 28.51,
-      "diesel": 26.99,
+      "diesel": 26.97,
       "stations": 28
     },
     "30132": {
       "regular": 23.99,
       "premium": 28.77,
-      "diesel": 27.05,
+      "diesel": 27.07,
       "stations": 4
     },
     "30133": {
@@ -8621,8 +8621,8 @@
     },
     "30141": {
       "regular": 24.18,
-      "premium": 28.78,
-      "diesel": 27.18,
+      "premium": 28.81,
+      "diesel": 27.14,
       "stations": 9
     },
     "30142": {
@@ -8693,7 +8693,7 @@
     },
     "30160": {
       "regular": 23.98,
-      "premium": 29.1,
+      "premium": 29.11,
       "diesel": 27.0,
       "stations": 13
     },
@@ -8729,7 +8729,7 @@
     },
     "30173": {
       "regular": 23.99,
-      "premium": 27.53,
+      "premium": null,
       "diesel": 27.0,
       "stations": 3
     },
@@ -8741,7 +8741,7 @@
     },
     "30175": {
       "regular": 23.98,
-      "premium": 28.74,
+      "premium": 28.76,
       "diesel": 27.01,
       "stations": 15
     },
@@ -8789,7 +8789,7 @@
     },
     "30191": {
       "regular": 23.93,
-      "premium": 27.84,
+      "premium": 27.83,
       "diesel": 26.98,
       "stations": 5
     },
@@ -8800,15 +8800,15 @@
       "stations": 2
     },
     "30193": {
-      "regular": 23.47,
-      "premium": 27.41,
+      "regular": 23.46,
+      "premium": 27.38,
       "diesel": 26.9,
-      "stations": 93
+      "stations": 92
     },
     "30196": {
       "regular": 23.99,
-      "premium": 28.53,
-      "diesel": 27.0,
+      "premium": 28.35,
+      "diesel": 27.06,
       "stations": 3
     },
     "30197": {
@@ -8830,7 +8830,7 @@
       "stations": 1
     },
     "30201": {
-      "regular": 24.0,
+      "regular": 23.95,
       "premium": 28.96,
       "diesel": 26.95,
       "stations": 2
@@ -8854,8 +8854,8 @@
       "stations": 2
     },
     "30207": {
-      "regular": 23.95,
-      "premium": 28.07,
+      "regular": 23.96,
+      "premium": 27.97,
       "diesel": 26.85,
       "stations": 7
     },
@@ -8920,7 +8920,7 @@
       "stations": 2
     },
     "31013": {
-      "regular": 24.39,
+      "regular": 24.23,
       "premium": 28.43,
       "diesel": 27.0,
       "stations": 5
@@ -8932,7 +8932,7 @@
       "stations": 1
     },
     "31019": {
-      "regular": 24.14,
+      "regular": 24.19,
       "premium": 27.61,
       "diesel": 27.0,
       "stations": 2
@@ -9066,7 +9066,7 @@
     "31059": {
       "regular": 24.13,
       "premium": 28.19,
-      "diesel": 27.0,
+      "diesel": 27.03,
       "stations": 14
     },
     "31061": {
@@ -9161,7 +9161,7 @@
     },
     "31091": {
       "regular": 24.84,
-      "premium": 28.99,
+      "premium": 27.99,
       "diesel": 27.89,
       "stations": 2
     },
@@ -9178,9 +9178,9 @@
       "stations": 1
     },
     "31096": {
-      "regular": 24.13,
-      "premium": 28.09,
-      "diesel": 27.23,
+      "regular": 24.06,
+      "premium": 28.21,
+      "diesel": 27.22,
       "stations": 11
     },
     "31098": {
@@ -9202,9 +9202,9 @@
       "stations": 14
     },
     "31102": {
-      "regular": 24.3,
+      "regular": 24.32,
       "premium": 28.13,
-      "diesel": 27.49,
+      "diesel": 27.53,
       "stations": 19
     },
     "32001": {
@@ -9226,8 +9226,8 @@
       "stations": 1
     },
     "32005": {
-      "regular": 23.98,
-      "premium": 28.6,
+      "regular": 24.0,
+      "premium": 28.63,
       "diesel": 27.0,
       "stations": 7
     },
@@ -9256,9 +9256,9 @@
       "stations": 2
     },
     "32010": {
-      "regular": 23.92,
-      "premium": 28.82,
-      "diesel": 26.98,
+      "regular": 23.95,
+      "premium": 28.79,
+      "diesel": 27.04,
       "stations": 39
     },
     "32011": {
@@ -9286,20 +9286,20 @@
       "stations": 2
     },
     "32017": {
-      "regular": 23.96,
-      "premium": 28.92,
-      "diesel": 27.01,
+      "regular": 23.93,
+      "premium": 28.8,
+      "diesel": 27.02,
       "stations": 28
     },
     "32019": {
       "regular": 23.86,
-      "premium": 28.87,
+      "premium": 28.95,
       "diesel": 27.03,
       "stations": 4
     },
     "32020": {
       "regular": 23.99,
-      "premium": 28.87,
+      "premium": 28.58,
       "diesel": 27.0,
       "stations": 5
     },
@@ -9317,7 +9317,7 @@
     },
     "32024": {
       "regular": 23.94,
-      "premium": 28.81,
+      "premium": 28.77,
       "diesel": 27.0,
       "stations": 5
     },
@@ -9334,9 +9334,9 @@
       "stations": 3
     },
     "32029": {
-      "regular": 23.71,
+      "regular": 23.75,
       "premium": 28.06,
-      "diesel": 26.36,
+      "diesel": 26.26,
       "stations": 7
     },
     "32030": {
@@ -9352,8 +9352,8 @@
       "stations": 2
     },
     "32032": {
-      "regular": 23.96,
-      "premium": 28.72,
+      "regular": 23.92,
+      "premium": 28.64,
       "diesel": 27.0,
       "stations": 5
     },
@@ -9365,7 +9365,7 @@
     },
     "32034": {
       "regular": 23.99,
-      "premium": 29.62,
+      "premium": 29.61,
       "diesel": 27.07,
       "stations": 7
     },
@@ -9389,8 +9389,8 @@
     },
     "32039": {
       "regular": 24.25,
-      "premium": 28.57,
-      "diesel": 27.17,
+      "premium": 28.58,
+      "diesel": 27.28,
       "stations": 9
     },
     "32040": {
@@ -9454,14 +9454,14 @@
       "stations": 3
     },
     "32055": {
-      "regular": 23.97,
+      "regular": 23.98,
       "premium": 29.18,
-      "diesel": 27.09,
+      "diesel": 27.11,
       "stations": 5
     },
     "32056": {
-      "regular": 24.0,
-      "premium": 29.23,
+      "regular": 23.97,
+      "premium": 29.0,
       "diesel": 27.01,
       "stations": 23
     },
@@ -9484,6 +9484,6 @@
     "url": "https://publicacionexterna.azurewebsites.net/publicaciones/prices",
     "places_url": "https://publicacionexterna.azurewebsites.net/publicaciones/places",
     "published_at": null,
-    "retrieved_at": "2026-11-09T07:43:15Z"
+    "retrieved_at": "2026-11-14T07:20:09Z"
   }
 }
