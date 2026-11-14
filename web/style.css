@@ -893,3 +893,30 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
   body.locked.sheet-open .ficha .person-line__name { font-size: 0.8125rem; }
   body.locked.sheet-open .ficha .person-line__role { font-size: 0.6875rem; }
 }
+
+/* ---------- Phone, the other map pages: the colour key as a small dark box on the map; the chamber inset stays off ---------- */
+@media (max-width: 700px) {
+  body.locked .inset.chamber { display: none; }
+  body.locked .legend-box { --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); --sheet: rgba(16, 24, 32, 0.9); position: absolute; top: auto; right: auto; left: 8px; bottom: 8px; width: auto; height: auto; max-height: 42vh; overflow: auto; max-width: 56vw; margin: 0; padding: 6px 9px 7px; border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 8px; background: rgba(16, 24, 32, 0.9); color: #f4f6f8; z-index: 5; box-shadow: none; }
+  body.locked .legend-box > figcaption { font-size: 0.75rem; }
+  body.locked .legend-box .scale { font-size: 0.6875rem; gap: 2px; margin-top: 5px; }
+  body.locked .legend-box .scale__swatch { width: 18px; height: 10px; border-color: rgba(255, 255, 255, 0.35); }
+  body.locked .legend-box p { font-size: 0.6875rem; }
+  body.locked.sheet-open .legend-box { max-width: 36vw; }
+  body.locked .muni-lines { stroke: rgba(255, 255, 255, 0.6); stroke-width: calc(0.8px / var(--k, 1)); }
+  body.locked .sheet__bar .toggle input { width: 14px; height: 14px; accent-color: #f4f6f8; }
+}
+@media (max-width: 700px) {
+  /* The state picker and the roster are desktop conveniences; on a phone the map is the picker. */
+  body.locked.sheet-open .ficha .ficha__picker, body.locked.sheet-open .ficha .roster { display: none; }
+}
+@media (max-width: 700px) {
+  /* Indicator chips in one row that scrolls sideways, so they do not stack five deep over the map. */
+  body.locked .sheet__bar .views { flex-wrap: nowrap; overflow-x: auto; max-width: calc(100vw - 12px); padding-bottom: 2px; scrollbar-width: none; gap: 4px; }
+  body.locked .sheet__bar .views::-webkit-scrollbar { display: none; }
+  body.locked .sheet__bar .views button { flex: none; }
+  /* The key and the inset share the foot of the screen without touching. */
+  body.locked.sheet-open .legend-box { max-width: 34vw; }
+  body.locked.sheet-open .legend-box p { display: none; }
+  body.locked.sheet-open .ficha { width: min(58vw, 290px); }
+}

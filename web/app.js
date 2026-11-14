@@ -84,6 +84,7 @@
       selectedOutline.attr("d", state ? state.outline : null);
       zoomTo(state);
     }
+    openSheet(true);
     renderFicha();
     $("#ficha").scrollIntoView({ block: "nearest", behavior: motionOK ? "smooth" : "auto" });
   }
@@ -98,6 +99,14 @@
   let zoomLayer, stateShapes, hoverState, selectedOutline, zoom, graticuleShape, districtLines;
   // On wide screens the country sits a little left of centre, so the floating inset covers only sea.
   const insetFloats = window.matchMedia("(min-width: 901px)");
+  // On a phone the data column is hidden until a place or person is chosen; then it is a small inset.
+  const phone = window.matchMedia("(max-width: 700px)");
+  const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
+  const closeControl = () => {
+    const full = () => document.body.classList.contains("sheet-full");
+    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
+    return el("p", { class: "ficha__close" }, grow, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar"));
+  };
   const home = () => (insetFloats.matches ? d3.zoomIdentity.translate(-120, 8) : d3.zoomIdentity);
   let transform = home();
 
@@ -545,6 +554,7 @@
     const state = S.states.find((s) => s.code === code) || null;
     selectedOutline.attr("d", state ? state.outline : null);
     if (zoomMap && code !== NATIONAL_LIST) zoomTo(state);
+    openSheet(Boolean(code));
     renderFicha();
   }
 
@@ -554,6 +564,7 @@
     S.selected = district.state_code;
     S.district = district;
     selectedOutline.attr("d", district.outline);
+    openSheet(true);
     renderFicha();
   }
 
@@ -593,7 +604,7 @@
         : S.selected === NATIONAL_LIST
           ? nationalListFicha()
           : stateFicha(S.states.find((s) => s.code === S.selected));
-    $("#ficha").replaceChildren(...content.flat(Infinity));
+    $("#ficha").replaceChildren(closeControl(), ...content.flat(Infinity));
   }
 
   const populationNote = () => el("p", { class: "cite" }, `Población: ${S.mapSource.population_source}.`);

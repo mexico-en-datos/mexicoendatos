@@ -251,11 +251,20 @@
     return [el("p", {}, muni.name), el("p", { class: "tooltip__place" }, stateName(muni.state_code)), el("p", {}, `${ind.label}: ${v == null ? "sin dato" : ind.format(v)}`), el("p", { class: "tooltip__sub" }, "Pulsa para ver las cifras de la entidad")];
   }
 
+  const phone = window.matchMedia("(max-width: 700px)");
+  const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
+  const closeControl = () => {
+    const full = () => document.body.classList.contains("sheet-full");
+    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
+    return el("p", { class: "ficha__close" }, grow, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar"));
+  };
+
   function select(code) {
     S.selected = code;
     const state = code ? stateOf(code) : null;
     chosenOutline.attr("d", state ? state.outline : null);
     zoomTo(state);
+    openSheet(Boolean(code));
     renderPanel();
   }
 
@@ -274,6 +283,7 @@
       const munis = S.munis.filter((m) => m.state_code === S.selected && ind.value(m.code) != null).sort((a, b) => ind.value(b.code) - ind.value(a.code));
       box.replaceChildren(
         ...[
+          closeControl(),
           el("h2", { class: "ficha__place" }, stateName(S.selected)),
           facts(stateRows(S.selected)),
           ind.level === "municipality" && munis.length
