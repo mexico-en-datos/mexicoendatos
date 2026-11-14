@@ -920,3 +920,14 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
   body.locked.sheet-open .legend-box p { display: none; }
   body.locked.sheet-open .ficha { width: min(58vw, 290px); }
 }
+
+@media (max-width: 700px) {
+  body.locked.sheet-open .ficha .ficha__close-back { margin-right: auto; font-weight: 600; }
+}
+@media (max-width: 700px) {
+  /* The key sits above the search box while the box is at the foot, and is smaller. */
+  body.locked.show-key .map-legend { bottom: 58px; max-width: 44vw; padding: 5px 8px 6px; font-size: 0.6875rem; line-height: 1.2; }
+  body.locked.show-key.sheet-open .map-legend { bottom: 8px; max-width: 34vw; }
+  body.locked .map-legend__row { grid-template-columns: 26px minmax(0, 1fr); gap: 0 6px; padding: 1px 0; }
+  body.locked .map-legend svg { width: 26px; height: 16px; }
+}

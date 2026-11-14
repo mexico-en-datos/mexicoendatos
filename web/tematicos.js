@@ -4,7 +4,7 @@
 (() => {
   "use strict";
 
-  const { el, link, integer, oneDecimal, signed, moment, day, motionOK, fact, facts, tooltip, EVERYDAY_NAME } = MXD;
+  const { el, link, integer, oneDecimal, signed, moment, day, motionOK, fact, facts, tooltip, EVERYDAY_NAME , fitAbove, sheetControls } = MXD;
   const $ = (selector) => document.querySelector(selector);
   const THEME = document.body.dataset.tema;
   const S = { topo: null, mapSource: null, gdp: null, crime: null, fuel: null, economy: null, states: [], munis: [], indicator: null, selected: null };
@@ -139,7 +139,9 @@
 
   function zoomTo(state) {
     let target = d3.zoomIdentity;
-    if (state) {
+    if (state && phone.matches) {
+      target = fitAbove(state.box, { W, H, canvas: underlay, fill: 0.9 }); // above the inset, clear of it
+    } else if (state) {
       const [[x0, y0], [x1, y1]] = state.box;
       const k = Math.max(1, Math.min(40, 0.7 / Math.max((x1 - x0) / W, (y1 - y0) / H)));
       target = d3.zoomIdentity.translate(W / 2, H / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
@@ -253,11 +255,7 @@
 
   const phone = window.matchMedia("(max-width: 700px)");
   const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
-  const closeControl = () => {
-    const full = () => document.body.classList.contains("sheet-full");
-    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
-    return el("p", { class: "ficha__close" }, grow, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar"));
-  };
+  const closeControl = () => sheetControls(() => openSheet(false), S.selected ? { label: "México", go: () => select(null) } : null);
 
   function select(code) {
     S.selected = code;

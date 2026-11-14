@@ -4,10 +4,10 @@
 (() => {
   "use strict";
 
-  const { PARTIES, PARTY_ORDER, EVERYDAY_NAME, INSET, el, link, swatch, partyOf, partyRank, partyLabel, fold, integer, moment, day, motionOK, fact, facts, sourceValue, samePerson, districtOf, personLine, personCard, seatingOrder, drawSeats, chamberCounts, seatTipLines } = MXD;
+  const { PARTIES, PARTY_ORDER, EVERYDAY_NAME, INSET, el, link, swatch, partyOf, partyRank, partyLabel, fold, integer, moment, day, motionOK, fact, facts, sourceValue, samePerson, districtOf, personLine, personCard, seatingOrder, drawSeats, chamberCounts, seatTipLines , fitAbove, sheetControls } = MXD;
   const NATIONAL_LIST = "LN";
 
-  const S = { view: "governor", showMunis: false, selected: null, district: null, districtIndex: null, person: null, topo: null, mapSource: null, data: null, states: [], munis: [], districts: [], byState: new Map(), national: [], mayorOf: new Map(), mayorShapes: new Map(), deputyOfDistrict: new Map() };
+  const S = { view: "governor", showMunis: false, selected: null, district: null, muni: null, districtIndex: null, person: null, topo: null, mapSource: null, data: null, states: [], munis: [], districts: [], byState: new Map(), national: [], mayorOf: new Map(), mayorShapes: new Map(), deputyOfDistrict: new Map() };
 
   // ---------- Small helpers ----------
 
@@ -102,10 +102,18 @@
   // On a phone the data column is hidden until a place or person is chosen; then it is a small inset.
   const phone = window.matchMedia("(max-width: 700px)");
   const openSheet = (open) => document.body.classList.toggle("sheet-open", open && phone.matches);
+  /** The inset's top row: back one level, grow, close. */
   const closeControl = () => {
-    const full = () => document.body.classList.contains("sheet-full");
-    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
-    return el("p", { class: "ficha__close" }, grow, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar"));
+    const placeLabel = () => (S.muni ? S.muni.name : S.district ? `Distrito ${S.district.number}` : S.selected === NATIONAL_LIST ? "Lista nacional" : S.selected ? stateName(S.selected) : "México");
+    const backToPlace = () => { S.person = null; if (S.muni) selectMunicipality(S.muni); else if (S.district) selectDistrict(S.district); else select(S.selected, { zoomMap: false }); };
+    const back = S.person
+      ? { label: placeLabel(), go: backToPlace }
+      : S.muni || S.district
+        ? { label: stateName(S.selected), go: () => select(S.selected, { zoomMap: false }) }
+        : S.selected
+          ? { label: "México", go: () => select(null) }
+          : null;
+    return sheetControls(() => openSheet(false), back);
   };
   const home = () => (insetFloats.matches ? d3.zoomIdentity.translate(-120, 8) : d3.zoomIdentity);
   let transform = home();
@@ -139,7 +147,10 @@
       code: feature.properties.cvegeo,
       name: feature.properties.nomgeo,
       state_code: feature.properties.cve_ent,
+      population: feature.properties.pob,
+      outline: path(feature),
       shape: new Path2D(path(feature)),
+      box: path.bounds(feature),
     }));
     stateShapes = zoomLayer.append("g").selectAll("path").data(S.states).join("path").attr("class", "state").attr("d", (d) => d.outline);
     hoverState = zoomLayer.append("path").attr("class", "hover-state");
@@ -168,9 +179,9 @@
         showTip(event, municipalHover() ? `m${cvegeo}` : `e${cve_ent}`, () => placeTip(d.properties));
       })
       .on("click", (event, d) => {
-        // In the municipal view a municipality is the unit: open its president's card when the source names one.
-        const mayor = municipalHover() ? S.mayorOf.get(d.properties.cvegeo) : null;
-        if (mayor) showPerson(mayor);
+        // With municipalities shown, a municipality is the unit: open it (its president is one click further).
+        const muni = municipalHover() ? S.munis.find((m) => m.code === d.properties.cvegeo) : null;
+        if (muni) selectMunicipality(muni);
         else select(d.properties.cve_ent);
       });
 
@@ -181,6 +192,7 @@
       number: feature.properties.dist,
       outline: path(feature),
       shape: new Path2D(path(feature)),
+      box: path.bounds(feature),
     }));
     districtLines = new Path2D(path(topojson.mesh(S.districtTopo, districtLayer, (a, b) => a !== b)));
     zoomLayer
@@ -386,11 +398,13 @@
     for (const state of S.states) drawDots(state, seatsOf(state.code), place, density);
   }
 
-  function zoomTo(state) {
+  function zoomTo(place) {
     let target = home();
-    if (state) {
-      const [[x0, y0], [x1, y1]] = state.box;
-      const k = Math.max(1, Math.min(14, 0.75 / Math.max((x1 - x0) / W, (y1 - y0) / H)));
+    if (place && phone.matches) {
+      target = fitAbove(place.box, { W, H, canvas: underlay, fill: 0.9 }); // above the inset, clear of it
+    } else if (place) {
+      const [[x0, y0], [x1, y1]] = place.box;
+      const k = Math.max(1, Math.min(40, 0.75 / Math.max((x1 - x0) / W, (y1 - y0) / H)));
       target = d3.zoomIdentity.translate(W / 2, H / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
     }
     svg.transition().duration(motionOK ? 650 : 0).call(zoom.transform, target);
@@ -550,6 +564,7 @@
   function select(code, { zoomMap = true } = {}) {
     S.person = null;
     S.district = null;
+    S.muni = null;
     S.selected = code;
     const state = S.states.find((s) => s.code === code) || null;
     selectedOutline.attr("d", state ? state.outline : null);
@@ -561,11 +576,48 @@
   /** A federal district as the chosen place: the map outlines it and its data replace the state's. */
   function selectDistrict(district) {
     S.person = null;
+    S.muni = null;
     S.selected = district.state_code;
     S.district = district;
     selectedOutline.attr("d", district.outline);
+    zoomTo(district);
     openSheet(true);
     renderFicha();
+  }
+
+  /** A municipality as the chosen place: outlined on the map, its data in the column. */
+  function selectMunicipality(muni) {
+    S.person = null;
+    S.district = null;
+    S.muni = muni;
+    S.selected = muni.state_code;
+    selectedOutline.attr("d", muni.outline);
+    zoomTo(muni);
+    openSheet(true);
+    renderFicha();
+  }
+
+  /** The municipality's rows: where it is, its people, the districts it votes in, and its president as a name to click. */
+  function municipalityFicha(muni) {
+    const mayor = S.mayorOf.get(muni.code) || null;
+    const within = S.districtIndex ? S.districtIndex.municipalities[muni.code] || [] : null;
+    const districtLink = (entry) => {
+      const [code, number] = entry.district.split("-");
+      const district = S.districts.find((d) => d.state_code === code && d.number === Number(number));
+      return district ? el("button", { type: "button", class: "persona__link", onclick: () => selectDistrict(district) }, `Distrito ${number}`) : `Distrito ${number}`;
+    };
+    return [
+      el("h2", { class: "ficha__place" }, muni.name),
+      facts(
+        fact("Entidad", stateName(muni.state_code)),
+        fact("Población (2020)", muni.population == null ? "Sin dato: municipio creado después del censo" : integer.format(muni.population)),
+        fact("Clave INEGI", muni.code),
+        within ? fact(within.length > 1 ? "Distritos federales" : "Distrito federal", within.length ? el("ul", { class: "plain" }, within.map((entry) => el("li", {}, districtLink(entry), el("span", { class: "muted" }, entry.share >= 0.98 ? "" : ` · ${Math.round(entry.share * 100)} % de su superficie`)))) : "Sin correspondencia calculada") : null
+      ),
+      el("h3", {}, muni.state_code === "09" ? "Alcaldía" : "Presidencia municipal"),
+      mayor ? people(mayor) : el("p", { class: "ficha__intro" }, "La fuente no da titular para este municipio."),
+      el("p", { class: "ficha__back" }, el("button", { type: "button", class: "link-button", onclick: () => select(muni.state_code, { zoomMap: false }) }, `Volver a ${stateName(muni.state_code)}`)),
+    ];
   }
 
   /** The district's rows: where it is, its deputy (a name to click) and every municipality it covers, whole or in part. */
@@ -596,10 +648,12 @@
     $("#state-picker").value = S.selected || "";
     litSeats(S.selected);
     const content = S.person
-      ? [personCard(S.person, ctx()), el("p", { class: "ficha__back" }, el("button", { type: "button", class: "link-button", onclick: () => (S.district ? selectDistrict(S.district) : select(S.selected === NATIONAL_LIST ? NATIONAL_LIST : S.selected, { zoomMap: false })) }, S.district ? `Volver al distrito ${S.district.number}` : S.selected === NATIONAL_LIST ? "Volver a la lista nacional" : S.selected ? `Volver a ${stateName(S.selected)}` : "Ver todo el país"))]
-      : S.district
-        ? districtFicha(S.district)
-        : !S.selected
+      ? [personCard(S.person, ctx()), el("p", { class: "ficha__back" }, el("button", { type: "button", class: "link-button", onclick: () => (S.muni ? selectMunicipality(S.muni) : S.district ? selectDistrict(S.district) : select(S.selected === NATIONAL_LIST ? NATIONAL_LIST : S.selected, { zoomMap: false })) }, S.muni ? `Volver a ${S.muni.name}` : S.district ? `Volver al distrito ${S.district.number}` : S.selected === NATIONAL_LIST ? "Volver a la lista nacional" : S.selected ? `Volver a ${stateName(S.selected)}` : "Ver todo el país"))]
+      : S.muni
+        ? municipalityFicha(S.muni)
+        : S.district
+          ? districtFicha(S.district)
+          : !S.selected
         ? countryFicha()
         : S.selected === NATIONAL_LIST
           ? nationalListFicha()

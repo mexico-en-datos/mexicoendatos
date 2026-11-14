@@ -340,6 +340,35 @@ window.MXD = (() => {
     return [el("p", {}, swatch(person.party), ` ${person.name}, ${partyLabel(person)}`), el("p", { class: "tooltip__place" }, where), el("p", { class: "tooltip__sub" }, roleText(person)), (person.roles || []).map((role) => el("p", { class: "tooltip__sub tooltip__role" }, roleLine(role))), el("p", { class: "tooltip__sub" }, "Pulsa para ver sus datos")];
   }
 
+  // ---------- Phones: where a chosen place goes, and the inset's top row ----------
+
+  /** On a phone the map is taller than its frame and an inset opens at the lower right. The chosen
+   *  place is fitted into the part above the inset, a little left of centre, so neither covers the
+   *  other. Returns a d3 zoom transform for a map drawn in a W x H frame on `canvas`. */
+  function fitAbove(box, { W, H, canvas, fill = 0.94, barHeight = 92, insetShare = 0.4 }) {
+    const [[x0, y0], [x1, y1]] = box;
+    const fit = Math.min(canvas.clientWidth / W, canvas.clientHeight / H);
+    const seenW = canvas.clientWidth / fit;
+    const seenH = canvas.clientHeight / fit;
+    const insetH = (insetShare * window.innerHeight + 18) / fit;
+    const free = { x0: (W - seenW) / 2 + 6 / fit, y0: (H - seenH) / 2 + barHeight / fit, x1: (W + seenW) / 2 - 6 / fit, y1: (H + seenH) / 2 - insetH };
+    const k = Math.max(1, Math.min(60, fill * Math.min((free.x1 - free.x0) / (x1 - x0), (free.y1 - free.y0) / (y1 - y0))));
+    return d3.zoomIdentity.translate(free.x0 + 0.46 * (free.x1 - free.x0), (free.y0 + free.y1) / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
+  }
+
+  /** The inset's top row on a phone: a way back (when there is a level above), "Ampliar" and "Cerrar". */
+  function sheetControls(onClose, back) {
+    const full = () => document.body.classList.contains("sheet-full");
+    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
+    return el(
+      "p",
+      { class: "ficha__close" },
+      back ? el("button", { type: "button", class: "link-button ficha__close-back", onclick: back.go }, `← ${back.label}`) : null,
+      grow,
+      el("button", { type: "button", class: "link-button", onclick: onClose }, "Cerrar")
+    );
+  }
+
   // ---------- Hover box ----------
 
   /** A hover box inside `area`, positioned near the pointer; `show(event, key, build)` rebuilds only when the key changes. */
@@ -385,6 +414,6 @@ window.MXD = (() => {
     integer, signed, oneDecimal, moment, day, motionOK,
     fact, facts, sourceValue, gloss, GLOSSARY, legislatureLabel,
     samePerson, districtOf, roleText, roleRow, roleLine, personLine, personRows, personCard,
-    hemicycle, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions,
+    hemicycle, seatingOrder, drawSeats, chamberCounts, seatTipLines, tooltip, regions, fitAbove, sheetControls,
   };
 })();

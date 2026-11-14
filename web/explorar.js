@@ -5,7 +5,7 @@
 (() => {
   "use strict";
 
-  const { el, link, swatch, partyOf, partyRank, partyLabel, fold, integer, signed, oneDecimal, moment, day, motionOK, fact, facts, personLine, personCard, regions, EVERYDAY_NAME } = MXD;
+  const { el, link, swatch, partyOf, partyRank, partyLabel, fold, integer, signed, oneDecimal, moment, day, motionOK, fact, facts, personLine, personCard, regions, EVERYDAY_NAME , fitAbove, sheetControls } = MXD;
   // Where a state's mark sits when its centre is too crowded: a nudge in map units, or, for the three
   // smallest central states, a fixed spot in a labelled column over the Pacific, joined by a thin line.
   const MARK_NUDGE = { "22": [-4, -16], "13": [18, -4], "15": [-12, 16], "21": [-4, 14], "06": [-30, 22], "12": [25, 14], "11": [-24, 10] };
@@ -377,17 +377,7 @@
   function zoomToBox(box) {
     let target = d3.zoomIdentity;
     if (box && phone.matches) {
-      // A phone's map is taller than the frame. The place fits the upper part, under the chips and
-      // above the inset that opens at the lower right, so the two never cover each other.
-      const [[x0, y0], [x1, y1]] = box;
-      const fit = Math.min(underlay.clientWidth / W, underlay.clientHeight / H);
-      const seenW = underlay.clientWidth / fit;
-      const seenH = underlay.clientHeight / fit;
-      const insetH = (0.4 * window.innerHeight + 18) / fit; // the inset: 40 % of the screen, plus its margin
-      const free = { x0: (W - seenW) / 2 + 6 / fit, y0: (H - seenH) / 2 + 92 / fit, x1: (W + seenW) / 2 - 6 / fit, y1: (H + seenH) / 2 - insetH };
-      const k = Math.max(1, Math.min(60, 0.94 * Math.min((free.x1 - free.x0) / (x1 - x0), (free.y1 - free.y0) / (y1 - y0))));
-      // A little left of centre, since the inset hangs at the right.
-      target = d3.zoomIdentity.translate(free.x0 + 0.46 * (free.x1 - free.x0), (free.y0 + free.y1) / 2).scale(k).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
+      target = fitAbove(box, { W, H, canvas: underlay }); // above the inset, clear of it
     } else if (box) {
       const [[x0, y0], [x1, y1]] = box;
       const k = Math.max(1, Math.min(60, 0.7 / Math.max((x1 - x0) / W, (y1 - y0) / H)));
@@ -901,10 +891,16 @@
 
   const levelName = () => (S.level === "municipality" ? S.muni.name : S.level === "district" ? `Distrito ${S.district.number}` : S.level === "state" ? stateName(S.state.code) : "México");
 
+  /** The inset's top row: back one level, grow, close. */
   const closeControl = () => {
-    const full = () => document.body.classList.contains("sheet-full");
-    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
-    return el("p", { class: "ficha__close" }, grow, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar"));
+    const back = S.person
+      ? { label: levelName(), go: () => { S.person = null; renderFicha(); } }
+      : S.level === "municipality" || S.level === "district"
+        ? { label: stateName(S.state.code), go: () => go("state", { state: S.state }) }
+        : S.level === "state"
+          ? { label: "México", go: () => go("country", {}) }
+          : null;
+    return sheetControls(() => openSheet(false), back);
   };
 
   function renderFicha() {
