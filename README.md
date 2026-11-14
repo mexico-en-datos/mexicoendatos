@@ -33,6 +33,7 @@ python3 -m venv .venv
 .venv/bin/python tools/fetch_cities.py       # tool 9: cities of 100,000 people or more (on demand)
 .venv/bin/python tools/build_district_index.py  # tool 10: which municipalities each district covers (after tool 1)
 .venv/bin/python tools/fetch_heritage.py     # tool 11: Pueblos Mágicos and World Heritage sites (on demand)
+.venv/bin/python tools/build_neighbors.py    # tool 12: the neighbouring countries, for context (once)
 ```
 
 Run the tests with `.venv/bin/python -m pytest`.
@@ -50,6 +51,7 @@ Run the tests with `.venv/bin/python -m pytest`.
 | `tools/fetch_cities.py` | Reads the Wikipedia annex of Mexico's most populous cities (100,000 or more) and places each in its INEGI municipality (explicit pairs in `informate/cities.py` for the ones named differently, such as Cancún in Benito Juárez). | `web/data/cities.json` |
 | `tools/build_district_index.py` | Overlays INE's district polygons on INEGI's municipal polygons (both from the map cache) and writes, for each of the 300 districts, the municipalities it covers with the share of each one's area inside it (over the ground both maps cover; "whole" from 98 %, slivers under 1 % dropped). | `web/data/distritos_municipios.json` |
 | `tools/fetch_heritage.py` | Reads the Pueblos Mágicos from the Wikipedia annex (each town, the day it was named, coordinates from the annex's maps) and Mexico's World Heritage sites from UNESCO's own XML list (category, year, criteria, points). `--unesco-file` reuses a downloaded copy of the list, since UNESCO refuses repeated downloads. | `web/data/patrimonio.json` |
+| `tools/build_neighbors.py` | Reads Natural Earth's public-domain country boundaries (1:50m), keeps the neighbours that fall in the map's frame (United States, Guatemala, Belize, Honduras, El Salvador, Cuba, Nicaragua), cuts each to the frame and simplifies them, so the maps show where Mexico ends and who is next door. | `web/data/vecinos.topojson` |
 | `tools/fetch_gdp.py` | Reads each state's GDP from INEGI's yearly PIBE press release (a PDF; its cuadro 1). INEGI's indicator API has the same numbers but needs a personal token, which this project avoids. | `web/data/gdp.json` |
 | `tools/serve.py` | Serves `web/` on this computer. The page's "Actualizar datos" button re-runs tool 2 (at most once a minute). | (updates `politicians.json`) |
 

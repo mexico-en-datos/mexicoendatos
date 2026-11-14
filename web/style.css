@@ -795,3 +795,85 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
 .heritage__unesco { fill: #ffffff; stroke: #1b6f8a; stroke-width: 2.4; }
 .heritage__unesco--natural { stroke: #2e7d4f; }
 .heritage__unesco--mixto { stroke: #9a6b1f; }
+
+/* ---------- Map colours as variables, so the phone can draw the same map dark ---------- */
+:root {
+  --map-ground: #ffffff; --map-line: rgba(22, 32, 42, 0.35); --map-district: #16202a;
+  --map-state-line: #ffffff; --map-state-line-inner: rgba(22, 32, 42, 0.55);
+  --map-abroad: #e4e7e3; --map-border: #b8c2ca; --map-grat: #c3d0d9; --map-abroad-text: #8a949d;
+}
+.abroad { pointer-events: none; }
+.abroad__label { font-size: 10px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; fill: var(--map-abroad-text); text-anchor: middle; }
+#key-toggle { display: none; font: inherit; }
+
+/* ---------- Phone: the map is the page. Dark water, the neighbours for context, no white, and
+   every control or datum as a small dark inset at an edge instead of a banner. ---------- */
+@media (max-width: 700px) {
+  /* On :root, because the canvas reads the colours from the root element. */
+  :root:has(body.locked) {
+    --sea: #1b2733; --land: #46545f; --map-ground: #56656f; --map-line: rgba(255, 255, 255, 0.3); --map-district: #e8edf2;
+    --map-state-line: #16202a; --map-state-line-inner: rgba(255, 255, 255, 0.55);
+    --map-abroad: #27333e; --map-border: #4b5a68; --map-grat: #233140; --map-abroad-text: #7d8b98;
+    --chip: rgba(16, 24, 32, 0.88); --chip-ink: #f4f6f8; --chip-line: rgba(255, 255, 255, 0.24);
+  }
+  body.locked, body.locked main, body.locked .sheet, body.locked .map-area { background: var(--sea); }
+  body.locked .masthead { background: #0f171f; color: #f4f6f8; }
+  body.locked .masthead h1 a { color: #f4f6f8; }
+  body.locked .masthead .tabs a { background: transparent; color: #f4f6f8; border-color: rgba(255, 255, 255, 0.3); }
+  body.locked .masthead .tabs a[aria-current="page"] { background: #f4f6f8; color: #16202a; }
+  body.locked .map { border: 0; }
+  body.locked .coast { stroke: #0f171f; }
+  body.locked .mark__halo { fill: rgba(16, 24, 32, 0.78); }
+  body.locked .mark__gov, body.locked .mark__sen { stroke: #0f171f; }
+  body.locked .mark__bar { fill: #d5dde4; }
+  body.locked .capital .star__shape, body.locked .capital__dot { fill: #f4f6f8; stroke: #16202a; }
+  body.locked .capital__label, body.locked .city__label { fill: #f4f6f8; stroke: #16202a; }
+  body.locked .city__dot { fill: #e2e8ee; stroke: #16202a; }
+  body.locked .hover-state { fill: rgba(255, 255, 255, 0.14); }
+  body.locked .hits .hit:hover { fill: rgba(255, 255, 255, 0.12); }
+  body.locked .selected-outline { stroke: #f4f6f8; }
+  body.locked .heritage__pueblo { stroke: #16202a; }
+  body.locked .heritage__unesco { fill: #16202a; }
+
+  /* The bar floats over the top of the map as chips; nothing pushes the map down. */
+  body.locked .sheet { position: relative; }
+  body.locked .sheet__bar { position: absolute; top: 6px; left: 6px; right: 6px; z-index: 6; padding: 0; gap: 6px; align-items: flex-start; pointer-events: none; }
+  body.locked .sheet__bar > * { pointer-events: auto; }
+  body.locked .crumbs { max-width: 62vw; padding: 5px 9px; border-radius: 8px; background: var(--chip); color: var(--chip-ink); font-size: 0.8125rem; }
+  body.locked .crumbs .link-button, body.locked .crumbs [aria-current="page"] { color: inherit; }
+  body.locked .search { flex: 1 1 100px; order: 0; max-width: none; }
+  body.locked .search input { width: 100%; padding: 6px 9px; border: 1px solid var(--chip-line); border-radius: 8px; background: var(--chip); color: var(--chip-ink); font-size: 0.8125rem; }
+  body.locked .search input::placeholder { color: rgba(244, 246, 248, 0.6); }
+  body.locked .search__results { --sheet: #16202a; --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); --rule: rgba(255, 255, 255, 0.18); background: rgba(16, 24, 32, 0.96); color: #f4f6f8; }
+  body.locked .layers { gap: 4px 6px; }
+  body.locked .layer, body.locked .sheet__bar .views button, body.locked .sheet__bar select, body.locked .sheet__bar .toggle, body.locked .zoom #zoom-reset {
+    padding: 4px 9px; border: 1px solid var(--chip-line); border-radius: 999px; background: var(--chip); color: var(--chip-ink); font-size: 0.75rem; font-weight: 500;
+  }
+  body.locked .sheet__bar .views button[aria-pressed="true"] { background: #f4f6f8; color: #16202a; }
+  body.locked .sheet__bar .views button + button { border-left: 1px solid var(--chip-line); }
+  body.locked .toggle { margin-left: 0; }
+  body.locked .zoom { margin-left: auto; }
+  body.locked .zoom button { display: none; }
+  body.locked .zoom #zoom-reset { display: inline-block; }
+  #key-toggle { display: inline-flex; cursor: pointer; }
+  #key-toggle[aria-pressed="true"] { background: #f4f6f8; color: #16202a; }
+
+  /* The data: a small dark inset at the lower right. "Ampliar" opens it wide; "Cerrar" hides it. */
+  body.locked.sheet-open .ficha {
+    --sheet: #16202a; --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.78); --ink-3: rgba(244, 246, 248, 0.62); --rule: rgba(255, 255, 255, 0.16); --rule-2: rgba(255, 255, 255, 0.4); --land: rgba(255, 255, 255, 0.08);
+    display: block; position: fixed; top: auto; left: auto; right: 8px; bottom: 8px; width: min(66vw, 330px); height: auto; max-height: 46vh; overflow: auto; z-index: 20;
+    padding: 8px 12px 12px; border: 1px solid rgba(255, 255, 255, 0.18); border-radius: 10px; background: rgba(16, 24, 32, 0.94); color: #f4f6f8;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); font-size: 0.8125rem;
+  }
+  body.locked.sheet-open.sheet-full .ficha { left: 8px; width: auto; max-height: 84vh; }
+  body.locked.sheet-open .ficha .ficha__place { font-size: 1.125rem; margin-top: 0; }
+  body.locked.sheet-open .ficha h2, body.locked.sheet-open .ficha h3 { color: inherit; }
+  body.locked.sheet-open .ficha a, body.locked.sheet-open .ficha .persona__link, body.locked.sheet-open .ficha .link-button { color: #cfe6ff; }
+  body.locked.sheet-open .ficha .ficha__close { display: flex; justify-content: flex-end; gap: 14px; margin: 0 0 4px; font-size: 0.75rem; }
+  body.locked.sheet-open .ficha .ficha__close .link-button { color: var(--chip-ink); }
+
+  /* The key: hidden until asked for, then a dark box at the lower left. */
+  body.locked .map-legend { display: none; }
+  body.locked.show-key .map-legend { --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); display: block; left: 8px; bottom: 8px; max-width: 48vw; border-color: rgba(255, 255, 255, 0.25); background: rgba(16, 24, 32, 0.92); color: #f4f6f8; }
+  body.locked.show-key .key-star { stroke: #16202a; }
+}

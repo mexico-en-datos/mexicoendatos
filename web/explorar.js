@@ -52,6 +52,7 @@
   const hexCache = new Map();
   const hexOf = (variable) => (hexCache.has(variable) ? hexCache : hexCache.set(variable, cssColor(variable))).get(variable);
   let zoomLayer, hoverShape, chosenOutline, marks, capitalMark, capitalStars, cityMarks, heritageMarks, zoom, graticule, stateLines, districtLines, muniLines, tip;
+  let abroadShapes = [], abroadLines = null, abroadLabels = null;
   const STAR = "M0,-6.5 L1.9,-2 L6.5,-2 L2.8,0.9 L4,5.5 L0,2.6 L-4,5.5 L-2.8,0.9 L-6.5,-2 L-1.9,-2 Z";
   let transform = d3.zoomIdentity;
 
@@ -64,7 +65,9 @@
       municipalities: geometries.length,
       feature: { type: "Feature", geometry: topojson.merge(S.topo, geometries) },
     })).sort((a, b) => a.code.localeCompare(b.code));
-    projection.fitExtent([[24, 24], [W - 24, H - 24]], { type: "Feature", geometry: topojson.merge(S.topo, layer.geometries) });
+    const country = { type: "Feature", geometry: topojson.merge(S.topo, layer.geometries) };
+    projection.fitExtent([[24, 24], [W - 24, H - 24]], country);
+    S.countryBox = path.bounds(country);
     for (const state of S.states) {
       state.outline = path(state.feature);
       state.shape = new Path2D(state.outline);
@@ -99,6 +102,13 @@
     stateLines = new Path2D(path(topojson.mesh(S.topo, layer, (a, b) => a !== b && !sameState(a, b))));
     muniLines = new Path2D(path(topojson.mesh(S.topo, layer, (a, b) => a !== b && sameState(a, b))));
     districtLines = new Path2D(path(topojson.mesh(S.districtTopo, districtLayer, (a, b) => a !== b)));
+    if (S.abroad) {
+      // The countries around Mexico, cut to the frame: drawn under everything, named at the country level.
+      const countries = topojson.feature(S.abroad, S.abroad.objects.vecinos).features;
+      // Names sit at each country's centre, except the United States, whose centre is far above the frame.
+      abroadShapes = countries.map((f) => ({ code: f.properties.code, name: f.properties.name, shape: new Path2D(path(f)), centre: f.properties.code === "USA" ? projection([-104.5, 31.6]) : path.centroid(f) }));
+      abroadLines = new Path2D(path(topojson.mesh(S.abroad, S.abroad.objects.vecinos)));
+    }
 
     zoomLayer = svg.append("g");
     zoomLayer.append("path").attr("class", "coast").attr("d", path(topojson.mesh(S.topo, layer, (a, b) => a === b)));
@@ -146,10 +156,11 @@
       .on("zoom", (event) => {
         transform = event.transform;
         zoomLayer.attr("transform", transform).style("--k", transform.k);
-        marks.attr("transform", (d) => `translate(${d.mark[0]}, ${d.mark[1]}) scale(${1 / transform.k})`);
+        placeMarks();
         placeCapital();
         placeCities();
         placeHeritage();
+        placeAbroad();
         draw();
       });
     svg.call(zoom).on("dblclick.zoom", null);
@@ -266,6 +277,25 @@
     return found;
   }
 
+  /** Where a state's mark sits at this zoom: its designed spot at the country view (some sit in the
+   *  sea, with a leader line), sliding towards the state's centre as you zoom in, since the state
+   *  then has room for it. The leader line follows. */
+  const markAt = (d) => {
+    const k2 = transform.k * transform.k;
+    return [d.centre[0] + (d.mark[0] - d.centre[0]) / k2, d.centre[1] + (d.mark[1] - d.centre[1]) / k2];
+  };
+  function placeMarks() {
+    if (!marks) return;
+    marks.attr("transform", (d) => {
+      const [x, y] = markAt(d);
+      return `translate(${x}, ${y}) scale(${1 / transform.k})`;
+    });
+    marks
+      .select(".mark__leader")
+      .attr("x1", (d) => (d.centre[0] - markAt(d)[0]) * transform.k)
+      .attr("y1", (d) => (d.centre[1] - markAt(d)[1]) * transform.k);
+  }
+
   /** On every state, a square for its governor and three circles for its senators, in party colours,
    *  and under them three bars: unemployment, homicide rate and gasoline price, as places among the 32. */
   function buildMarks() {
@@ -374,9 +404,17 @@
     pen.setTransform(1, 0, 0, 1, 0, 0);
     pen.clearRect(0, 0, width, height);
     pen.setTransform(place);
-    pen.strokeStyle = "#c3d0d9";
+    pen.strokeStyle = hexOf("--map-grat");
     pen.lineWidth = px(0.6);
     pen.stroke(graticule);
+
+    if (abroadLines) {
+      pen.fillStyle = hexOf("--map-abroad");
+      for (const country of abroadShapes) pen.fill(country.shape);
+      pen.strokeStyle = hexOf("--map-border");
+      pen.lineWidth = px(0.9);
+      pen.stroke(abroadLines);
+    }
 
     pen.fillStyle = hexOf("--land");
     for (const state of S.states) pen.fill(state.shape);
@@ -385,26 +423,26 @@
       // Inside the chosen state: a lighter ground, thin municipality lines and dashed district lines, no party colours.
       pen.save();
       pen.clip(S.state.shape);
-      pen.fillStyle = hexOf("--sheet");
+      pen.fillStyle = hexOf("--map-ground");
       pen.fill(S.state.shape);
-      pen.strokeStyle = "rgba(22, 32, 42, 0.35)";
+      pen.strokeStyle = hexOf("--map-line");
       pen.lineWidth = px(0.7);
       pen.stroke(muniLines);
-      pen.strokeStyle = hexOf("--ink");
+      pen.strokeStyle = hexOf("--map-district");
       pen.lineWidth = px(1.5);
       pen.setLineDash([px(5), px(3)]);
       pen.stroke(districtLines);
       pen.setLineDash([]);
       pen.restore();
       if (S.district) {
-        pen.strokeStyle = hexOf("--ink");
+        pen.strokeStyle = hexOf("--map-district");
         pen.lineWidth = px(2.6);
         pen.setLineDash([px(6), px(4)]);
         pen.stroke(S.district.shape);
         pen.setLineDash([]);
       }
     }
-    pen.strokeStyle = S.level === "country" ? "#ffffff" : "rgba(22, 32, 42, 0.55)";
+    pen.strokeStyle = S.level === "country" ? hexOf("--map-state-line") : hexOf("--map-state-line-inner");
     pen.lineWidth = px(S.level === "country" ? 1.5 : 1);
     pen.stroke(stateLines);
   }
@@ -535,6 +573,8 @@
         if (d.muni) go("municipality", { state: d.state, district: null, muni: d.muni });
         else if (d.state) go("state", { state: d.state });
       });
+    const keyToggle = $("#key-toggle");
+    if (keyToggle) keyToggle.addEventListener("click", () => keyToggle.setAttribute("aria-pressed", String(document.body.classList.toggle("show-key"))));
     for (const key of ["pueblos", "unesco"]) {
       const box = $(`#layer-${key}`);
       if (!box) continue;
@@ -545,6 +585,22 @@
       });
     }
     placeHeritage();
+  }
+
+  /** The neighbours' names, kept the same size at any zoom; only the four that fit the frame well. */
+  function placeAbroad() {
+    if (!abroadShapes.length || !zoomLayer) return;
+    if (!abroadLabels) {
+      abroadLabels = zoomLayer
+        .insert("g", ":first-child")
+        .attr("class", "abroad")
+        .selectAll("text")
+        .data(abroadShapes.filter((c) => ["USA", "GTM", "BLZ", "CUB"].includes(c.code)))
+        .join("text")
+        .attr("class", "abroad__label")
+        .text((d) => d.name);
+    }
+    abroadLabels.attr("transform", (d) => `translate(${d.centre[0]}, ${d.centre[1]}) scale(${1 / transform.k})`).style("display", S.level === "country" || transform.k < 2.5 ? null : "none");
   }
 
   function placeHeritage() {
@@ -602,10 +658,11 @@
     chosenOutline.attr("d", focus && level !== "country" ? focus.outline : null);
     tip.hide();
     tip.reset();
-    zoomToBox(focus ? focus.box : null);
+    zoomToBox(focus ? focus.box : phone.matches ? S.countryBox : null); // a phone fills its narrow screen with the country
     placeCapital();
     placeCities();
     placeHeritage();
+    placeAbroad();
     draw();
     $("#hint").textContent = HINTS[level];
     renderLegend(level);
@@ -830,7 +887,11 @@
 
   const levelName = () => (S.level === "municipality" ? S.muni.name : S.level === "district" ? `Distrito ${S.district.number}` : S.level === "state" ? stateName(S.state.code) : "México");
 
-  const closeControl = () => el("p", { class: "ficha__close" }, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar y ver el mapa"));
+  const closeControl = () => {
+    const full = () => document.body.classList.contains("sheet-full");
+    const grow = el("button", { type: "button", class: "link-button", onclick: () => { document.body.classList.toggle("sheet-full"); grow.textContent = full() ? "Reducir" : "Ampliar"; } }, full() ? "Reducir" : "Ampliar");
+    return el("p", { class: "ficha__close" }, grow, el("button", { type: "button", class: "link-button", onclick: () => openSheet(false) }, "Cerrar"));
+  };
 
   function renderFicha() {
     const box = $("#ficha");
@@ -1015,7 +1076,7 @@
       return response.json();
     };
     try {
-      [S.topo, S.districtTopo, S.mapSource, S.data, S.gdp, S.crime, S.fuel, S.economy, S.capitals, S.cities] = await Promise.all([
+      [S.topo, S.districtTopo, S.mapSource, S.data, S.gdp, S.crime, S.fuel, S.economy, S.capitals, S.cities, S.abroad] = await Promise.all([
         getJSON("data/municipios.topojson"),
         getJSON("data/distritos.topojson"),
         getJSON("data/map_source.json"),
@@ -1026,6 +1087,7 @@
         getJSON("data/economy.json", true),
         getJSON("data/capitals.json", true),
         getJSON("data/cities.json", true),
+        getJSON("data/vecinos.topojson", true),
       ]);
     } catch (error) {
       const notice = $("#load-error");

@@ -16,9 +16,9 @@
       }
       return response.json();
     };
-    let data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex, heritage;
+    let data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex, heritage, abroad;
     try {
-      [data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex, heritage] = await Promise.all([
+      [data, map, gdp, crime, fuel, economy, capitals, cities, districtIndex, heritage, abroad] = await Promise.all([
         getJSON("data/politicians.json"),
         getJSON("data/map_source.json"),
         getJSON("data/gdp.json", true),
@@ -29,6 +29,7 @@
         getJSON("data/cities.json", true),
         getJSON("data/distritos_municipios.json", true),
         getJSON("data/patrimonio.json", true),
+        getJSON("data/vecinos.topojson", true),
       ]);
     } catch (error) {
       const notice = $("#load-error");
@@ -60,6 +61,9 @@
               el("p", {}, `${ine.attribution}: la capa ${ine.layer} del archivo publicado por el INE, con ${ine.district_count} distritos federales (distritación de 2023).`),
               el("p", { class: "cite" }, link(ine.url, "Archivo de shapefiles del Marco Geográfico Seccional"), `, con fecha del ${day(ine.published_at)}; descargado el ${day(ine.retrieved_at)}. Límites simplificados para visualización.`)
             )
+          : null,
+        abroad && abroad.source
+          ? block("Países vecinos", "Fuente de dominio público", el("p", {}, link(abroad.source.url, abroad.source.name), `, versión ${abroad.source.version}; descargada el ${day(abroad.source.retrieved_at)}.`), el("p", {}, "Estados Unidos, Guatemala, Belice, Honduras, El Salvador, Cuba y Nicaragua, recortados al marco del mapa y simplificados, solo como contexto: los límites de México son los del INEGI."))
           : null,
         districtIndex
           ? block(
