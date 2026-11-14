@@ -369,6 +369,25 @@ window.MXD = (() => {
     );
   }
 
+  // ---------- The theme switch at the top right: keeps the choice and redraws the page under it ----------
+  const themeButton = document.getElementById("theme-toggle");
+  if (themeButton) {
+    const dark = document.documentElement.dataset.theme === "dark";
+    themeButton.textContent = dark ? "Modo claro" : "Modo oscuro";
+    themeButton.setAttribute("aria-pressed", String(dark));
+    themeButton.addEventListener("click", () => {
+      const next = dark ? "claro" : "oscuro";
+      try {
+        localStorage.setItem("tema", next);
+      } catch (error) {
+        /* no storage: the address carries the choice */
+      }
+      const url = new URL(location.href);
+      url.searchParams.set("tema", next);
+      location.replace(url); // the map reads its colours once, when it is drawn
+    });
+  }
+
   // ---------- Hover box ----------
 
   /** A hover box inside `area`, positioned near the pointer; `show(event, key, build)` rebuilds only when the key changes. */

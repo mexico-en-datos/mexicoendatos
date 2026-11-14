@@ -796,138 +796,128 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
 .heritage__unesco--natural { stroke: #2e7d4f; }
 .heritage__unesco--mixto { stroke: #9a6b1f; }
 
-/* ---------- Map colours as variables, so the phone can draw the same map dark ---------- */
+/* ---------- Themes: light on wide screens, dark on phones, each switchable at the top right ---------- */
 :root {
   --map-ground: #ffffff; --map-line: rgba(22, 32, 42, 0.35); --map-district: #16202a;
   --map-state-line: #ffffff; --map-state-line-inner: rgba(22, 32, 42, 0.55);
   --map-abroad: #e4e7e3; --map-border: #b8c2ca; --map-grat: #c3d0d9; --map-abroad-text: #8a949d;
+  --chip: rgba(255, 255, 255, 0.92); --chip-ink: #16202a; --chip-line: rgba(22, 32, 42, 0.35); --chip-on: #16202a; --chip-on-ink: #ffffff;
+  --shadow: rgba(22, 32, 42, 0.18);
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #121a22; --sheet: #1a2531; --sea: #1b2733; --land: #46545f;
+  --ink: #f1f4f6; --ink-2: #c3ccd4; --ink-3: #98a4ae; --rule: #2f3c48;
+  --map-ground: #56656f; --map-line: rgba(255, 255, 255, 0.3); --map-district: #e8edf2;
+  --map-state-line: #16202a; --map-state-line-inner: rgba(255, 255, 255, 0.55);
+  --map-abroad: #27333e; --map-border: #4b5a68; --map-grat: #233140; --map-abroad-text: #7d8b98;
+  --chip: rgba(16, 24, 32, 0.9); --chip-ink: #f4f6f8; --chip-line: rgba(255, 255, 255, 0.24); --chip-on: #f4f6f8; --chip-on-ink: #16202a;
+  --shadow: rgba(0, 0, 0, 0.45);
 }
 .abroad { pointer-events: none; }
 .abroad__label { font-size: 10px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; fill: var(--map-abroad-text); text-anchor: middle; }
 #key-toggle { display: none; font: inherit; }
+.theme-toggle { margin-left: 12px; padding: 5px 10px; border: 1px solid var(--rule); border-radius: 999px; background: var(--sheet); color: var(--ink-2); font: inherit; font-size: 0.75rem; white-space: nowrap; cursor: pointer; }
+.theme-toggle:hover { border-color: var(--ink); color: var(--ink); }
 
-/* ---------- Phone: the map is the page. Dark water, the neighbours for context, no white, and
-   every control or datum as a small dark inset at an edge instead of a banner. ---------- */
+/* Colours written out by hand elsewhere, as the dark theme needs them. */
+[data-theme="dark"] .masthead .tabs a { background: transparent; }
+[data-theme="dark"] .masthead .tabs a[aria-current="page"] { background: var(--ink); color: var(--paper); }
+[data-theme="dark"] .masthead .tabs a:hover:not([aria-current="page"]) { background: rgba(255, 255, 255, 0.08); }
+[data-theme="dark"] .views button { background: var(--sheet); color: var(--ink); border-color: var(--ink-3); }
+[data-theme="dark"] .views button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+[data-theme="dark"] .zoom button { background: var(--sheet); color: var(--ink); }
+[data-theme="dark"] .coast { stroke: #0f171f; }
+[data-theme="dark"] .state-lines { stroke: #16202a; }
+[data-theme="dark"] .muni-lines { stroke: rgba(255, 255, 255, 0.6); }
+[data-theme="dark"] .mark__halo { fill: rgba(16, 24, 32, 0.78); }
+[data-theme="dark"] .mark__gov, [data-theme="dark"] .mark__sen { stroke: #0f171f; }
+[data-theme="dark"] .mark__bar { fill: #d5dde4; }
+[data-theme="dark"] .capital .star__shape, [data-theme="dark"] .capital__dot { fill: #f4f6f8; stroke: #16202a; }
+[data-theme="dark"] .capital__label, [data-theme="dark"] .city__label { fill: #f4f6f8; stroke: #16202a; }
+[data-theme="dark"] .city__dot { fill: #e2e8ee; stroke: #16202a; }
+[data-theme="dark"] .hover-state { fill: rgba(255, 255, 255, 0.14); }
+[data-theme="dark"] .hits .hit:hover { fill: rgba(255, 255, 255, 0.12); }
+[data-theme="dark"] .selected-outline { stroke: #f4f6f8; }
+[data-theme="dark"] .heritage__pueblo { stroke: #16202a; }
+[data-theme="dark"] .heritage__unesco { fill: #16202a; }
+[data-theme="dark"] .seat { stroke: #1a2531; }
+[data-theme="dark"] .tooltip { background: rgba(26, 37, 49, 0.97); }
+[data-theme="dark"] .map-legend { background: rgba(26, 37, 49, 0.94); }
+[data-theme="dark"] .inset { background: rgba(26, 37, 49, 0.95); }
+[data-theme="dark"] .key-star { stroke: #16202a; }
+[data-theme="dark"] .search__results { background: var(--sheet); }
+[data-theme="dark"] .scale__swatch { border-color: rgba(255, 255, 255, 0.35); }
+[data-theme="dark"] .autonomous__logo { box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5); }
+[data-theme="dark"] .sheet { box-shadow: none; }
+
+/* ---------- Phone: the map is the page; every control or datum is a small inset at an edge, in either theme ---------- */
 @media (max-width: 700px) {
-  /* On :root, because the canvas reads the colours from the root element. */
-  :root:has(body.locked) {
-    --sea: #1b2733; --land: #46545f; --map-ground: #56656f; --map-line: rgba(255, 255, 255, 0.3); --map-district: #e8edf2;
-    --map-state-line: #16202a; --map-state-line-inner: rgba(255, 255, 255, 0.55);
-    --map-abroad: #27333e; --map-border: #4b5a68; --map-grat: #233140; --map-abroad-text: #7d8b98;
-    --chip: rgba(16, 24, 32, 0.88); --chip-ink: #f4f6f8; --chip-line: rgba(255, 255, 255, 0.24);
-  }
   body.locked, body.locked main, body.locked .sheet, body.locked .map-area { background: var(--sea); }
-  body.locked .masthead { background: #0f171f; color: #f4f6f8; }
-  body.locked .masthead h1 a { color: #f4f6f8; }
-  body.locked .masthead .tabs a { background: transparent; color: #f4f6f8; border-color: rgba(255, 255, 255, 0.3); }
-  body.locked .masthead .tabs a[aria-current="page"] { background: #f4f6f8; color: #16202a; }
   body.locked .map { border: 0; }
-  body.locked .coast { stroke: #0f171f; }
-  body.locked .mark__halo { fill: rgba(16, 24, 32, 0.78); }
-  body.locked .mark__gov, body.locked .mark__sen { stroke: #0f171f; }
-  body.locked .mark__bar { fill: #d5dde4; }
-  body.locked .capital .star__shape, body.locked .capital__dot { fill: #f4f6f8; stroke: #16202a; }
-  body.locked .capital__label, body.locked .city__label { fill: #f4f6f8; stroke: #16202a; }
-  body.locked .city__dot { fill: #e2e8ee; stroke: #16202a; }
-  body.locked .hover-state { fill: rgba(255, 255, 255, 0.14); }
-  body.locked .hits .hit:hover { fill: rgba(255, 255, 255, 0.12); }
-  body.locked .selected-outline { stroke: #f4f6f8; }
-  body.locked .heritage__pueblo { stroke: #16202a; }
-  body.locked .heritage__unesco { fill: #16202a; }
-
-  /* The bar floats over the top of the map as chips; nothing pushes the map down. */
   body.locked .sheet { position: relative; }
   body.locked .sheet__bar { position: absolute; top: 6px; left: 6px; right: 6px; z-index: 6; padding: 0; gap: 6px; align-items: flex-start; pointer-events: none; }
   body.locked .sheet__bar > * { pointer-events: auto; }
-  body.locked .crumbs { max-width: 62vw; padding: 5px 9px; border-radius: 8px; background: var(--chip); color: var(--chip-ink); font-size: 0.8125rem; }
-  body.locked .crumbs .link-button, body.locked .crumbs [aria-current="page"] { color: inherit; }
-  body.locked .search { flex: 1 1 100px; order: 0; max-width: none; }
+  body.locked .crumbs { display: none; }
+  body.locked .search { position: fixed; left: 8px; right: 8px; top: auto; bottom: 10px; z-index: 6; flex: none; max-width: none; }
+  body.locked.sheet-open .search { display: none; }
   body.locked .search input { width: 100%; padding: 6px 9px; border: 1px solid var(--chip-line); border-radius: 8px; background: var(--chip); color: var(--chip-ink); font-size: 0.8125rem; }
-  body.locked .search input::placeholder { color: rgba(244, 246, 248, 0.6); }
-  body.locked .search__results { --sheet: #16202a; --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); --rule: rgba(255, 255, 255, 0.18); background: rgba(16, 24, 32, 0.96); color: #f4f6f8; }
+  body.locked .search input::placeholder { color: var(--ink-3); }
+  body.locked .search__results { top: auto; bottom: calc(100% + 4px); max-height: 50vh; background: var(--sheet); color: var(--ink); }
   body.locked .layers { gap: 4px 6px; }
   body.locked .layer, body.locked .sheet__bar .views button, body.locked .sheet__bar select, body.locked .sheet__bar .toggle, body.locked .zoom #zoom-reset {
     padding: 4px 9px; border: 1px solid var(--chip-line); border-radius: 999px; background: var(--chip); color: var(--chip-ink); font-size: 0.75rem; font-weight: 500;
   }
-  body.locked .sheet__bar .views button[aria-pressed="true"] { background: #f4f6f8; color: #16202a; }
+  body.locked .sheet__bar .views { flex-wrap: nowrap; overflow-x: auto; max-width: calc(100vw - 12px); padding-bottom: 2px; scrollbar-width: none; gap: 4px; }
+  body.locked .sheet__bar .views::-webkit-scrollbar { display: none; }
+  body.locked .sheet__bar .views button { flex: none; }
+  body.locked .sheet__bar .views button[aria-pressed="true"], #key-toggle[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-ink); }
   body.locked .sheet__bar .views button + button { border-left: 1px solid var(--chip-line); }
+  body.locked .sheet__bar .toggle input { width: 14px; height: 14px; accent-color: var(--chip-ink); }
   body.locked .toggle { margin-left: 0; }
   body.locked .zoom { margin-left: auto; }
   body.locked .zoom button { display: none; }
   body.locked .zoom #zoom-reset { display: inline-block; }
   #key-toggle { display: inline-flex; cursor: pointer; }
-  #key-toggle[aria-pressed="true"] { background: #f4f6f8; color: #16202a; }
+  body.locked .muni-lines { stroke-width: calc(0.8px / var(--k, 1)); }
 
-  /* The data: a small dark inset at the lower right. "Ampliar" opens it wide; "Cerrar" hides it. */
+  /* The data: a small inset at the lower right, with a way back, "Ampliar" and "Cerrar". */
   body.locked.sheet-open .ficha {
-    --sheet: #16202a; --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.78); --ink-3: rgba(244, 246, 248, 0.62); --rule: rgba(255, 255, 255, 0.16); --rule-2: rgba(255, 255, 255, 0.4); --land: rgba(255, 255, 255, 0.08);
-    display: block; position: fixed; top: auto; left: auto; right: 8px; bottom: 8px; width: min(66vw, 330px); height: auto; max-height: 46vh; overflow: auto; z-index: 20;
-    padding: 8px 12px 12px; border: 1px solid rgba(255, 255, 255, 0.18); border-radius: 10px; background: rgba(16, 24, 32, 0.94); color: #f4f6f8;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); font-size: 0.8125rem;
+    display: block; position: fixed; top: auto; left: auto; right: 8px; bottom: 8px; width: min(58vw, 290px); height: auto; max-height: 40vh; overflow: auto; z-index: 20;
+    padding: 6px 10px 10px; border: 1px solid var(--chip-line); border-radius: 10px; background: var(--chip); color: var(--chip-ink);
+    box-shadow: 0 6px 20px var(--shadow); font-size: 0.6875rem; line-height: 1.35;
   }
   body.locked.sheet-open.sheet-full .ficha { left: 8px; width: auto; max-height: 84vh; }
-  body.locked.sheet-open .ficha .ficha__place { font-size: 1.125rem; margin-top: 0; }
+  body.locked.sheet-open .ficha .ficha__place { font-size: 1rem; margin-top: 0; }
   body.locked.sheet-open .ficha h2, body.locked.sheet-open .ficha h3 { color: inherit; }
-  body.locked.sheet-open .ficha a, body.locked.sheet-open .ficha .persona__link, body.locked.sheet-open .ficha .link-button { color: #cfe6ff; }
-  body.locked.sheet-open .ficha .ficha__close { display: flex; justify-content: flex-end; gap: 14px; margin: 0 0 4px; font-size: 0.75rem; }
-  body.locked.sheet-open .ficha .ficha__close .link-button { color: var(--chip-ink); }
-
-  /* The key: hidden until asked for, then a dark box at the lower left. */
-  body.locked .map-legend { display: none; }
-  body.locked.show-key .map-legend { --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); display: block; left: 8px; bottom: 8px; max-width: 48vw; border-color: rgba(255, 255, 255, 0.25); background: rgba(16, 24, 32, 0.92); color: #f4f6f8; }
-  body.locked.show-key .key-star { stroke: #16202a; }
-}
-
-/* ---------- Phone, second pass: no breadcrumb, the search at the foot when nothing is open, a smaller inset ---------- */
-@media (max-width: 700px) {
-  body.locked .crumbs { display: none; }
-  body.locked .search { position: fixed; left: 8px; right: 8px; top: auto; bottom: 10px; z-index: 6; flex: none; }
-  body.locked.sheet-open .search { display: none; }
-  body.locked .search__results { top: auto; bottom: calc(100% + 4px); max-height: 50vh; }
-  body.locked.sheet-open .ficha { width: min(60vw, 290px); max-height: 40vh; padding: 6px 10px 10px; font-size: 0.6875rem; line-height: 1.35; }
-  body.locked.sheet-open .ficha .ficha__place { font-size: 1rem; }
   body.locked.sheet-open .ficha h3 { font-size: 0.75rem; margin-top: 10px; }
   body.locked.sheet-open .ficha .facts { gap: 1px 10px; margin-top: 6px; }
   body.locked.sheet-open .ficha .facts dt { font-size: 0.6875rem; }
-  body.locked.sheet-open .ficha .ficha__close { font-size: 0.6875rem; }
   body.locked.sheet-open .ficha .person-line__name { font-size: 0.8125rem; }
   body.locked.sheet-open .ficha .person-line__role { font-size: 0.6875rem; }
-}
-
-/* ---------- Phone, the other map pages: the colour key as a small dark box on the map; the chamber inset stays off ---------- */
-@media (max-width: 700px) {
-  body.locked .inset.chamber { display: none; }
-  body.locked .legend-box { --ink: #f4f6f8; --ink-2: rgba(244, 246, 248, 0.75); --sheet: rgba(16, 24, 32, 0.9); position: absolute; top: auto; right: auto; left: 8px; bottom: 8px; width: auto; height: auto; max-height: 42vh; overflow: auto; max-width: 56vw; margin: 0; padding: 6px 9px 7px; border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 8px; background: rgba(16, 24, 32, 0.9); color: #f4f6f8; z-index: 5; box-shadow: none; }
-  body.locked .legend-box > figcaption { font-size: 0.75rem; }
-  body.locked .legend-box .scale { font-size: 0.6875rem; gap: 2px; margin-top: 5px; }
-  body.locked .legend-box .scale__swatch { width: 18px; height: 10px; border-color: rgba(255, 255, 255, 0.35); }
-  body.locked .legend-box p { font-size: 0.6875rem; }
-  body.locked.sheet-open .legend-box { max-width: 36vw; }
-  body.locked .muni-lines { stroke: rgba(255, 255, 255, 0.6); stroke-width: calc(0.8px / var(--k, 1)); }
-  body.locked .sheet__bar .toggle input { width: 14px; height: 14px; accent-color: #f4f6f8; }
-}
-@media (max-width: 700px) {
-  /* The state picker and the roster are desktop conveniences; on a phone the map is the picker. */
-  body.locked.sheet-open .ficha .ficha__picker, body.locked.sheet-open .ficha .roster { display: none; }
-}
-@media (max-width: 700px) {
-  /* Indicator chips in one row that scrolls sideways, so they do not stack five deep over the map. */
-  body.locked .sheet__bar .views { flex-wrap: nowrap; overflow-x: auto; max-width: calc(100vw - 12px); padding-bottom: 2px; scrollbar-width: none; gap: 4px; }
-  body.locked .sheet__bar .views::-webkit-scrollbar { display: none; }
-  body.locked .sheet__bar .views button { flex: none; }
-  /* The key and the inset share the foot of the screen without touching. */
-  body.locked.sheet-open .legend-box { max-width: 34vw; }
-  body.locked.sheet-open .legend-box p { display: none; }
-  body.locked.sheet-open .ficha { width: min(58vw, 290px); }
-}
-
-@media (max-width: 700px) {
+  body.locked.sheet-open .ficha .ficha__close { display: flex; justify-content: flex-end; gap: 14px; margin: 0 0 4px; font-size: 0.6875rem; }
+  body.locked.sheet-open .ficha .ficha__close .link-button { color: var(--chip-ink); }
   body.locked.sheet-open .ficha .ficha__close-back { margin-right: auto; font-weight: 600; }
-}
-@media (max-width: 700px) {
-  /* The key sits above the search box while the box is at the foot, and is smaller. */
-  body.locked.show-key .map-legend { bottom: 58px; max-width: 44vw; padding: 5px 8px 6px; font-size: 0.6875rem; line-height: 1.2; }
+  body.locked.sheet-open .ficha .ficha__picker, body.locked.sheet-open .ficha .roster { display: none; }
+
+  /* The key: hidden until asked for; above the search box while the box is at the foot. */
+  body.locked .map-legend { display: none; }
+  body.locked.show-key .map-legend { display: block; left: 8px; bottom: 58px; max-width: 44vw; padding: 5px 8px 6px; border-color: var(--chip-line); background: var(--chip); color: var(--chip-ink); font-size: 0.6875rem; line-height: 1.2; }
   body.locked.show-key.sheet-open .map-legend { bottom: 8px; max-width: 34vw; }
   body.locked .map-legend__row { grid-template-columns: 26px minmax(0, 1fr); gap: 0 6px; padding: 1px 0; }
   body.locked .map-legend svg { width: 26px; height: 16px; }
+
+  /* The other map pages: the colour key as a small box on the map; the chamber inset stays off. */
+  body.locked .inset.chamber { display: none; }
+  body.locked .legend-box { position: absolute; top: auto; right: auto; left: 8px; bottom: 8px; width: auto; height: auto; max-height: 42vh; overflow: auto; max-width: 56vw; margin: 0; padding: 6px 9px 7px; border: 1px solid var(--chip-line); border-radius: 8px; background: var(--chip); color: var(--chip-ink); z-index: 5; box-shadow: none; }
+  body.locked .legend-box > figcaption { font-size: 0.75rem; }
+  body.locked .legend-box .scale { font-size: 0.6875rem; gap: 2px; margin-top: 5px; }
+  body.locked .legend-box .scale__swatch { width: 18px; height: 10px; border-color: var(--chip-line); }
+  body.locked .legend-box p { font-size: 0.6875rem; }
+  body.locked.sheet-open .legend-box { max-width: 34vw; }
+  body.locked.sheet-open .legend-box p { display: none; }
+
+  /* The theme switch, small, at the top right of the bar. */
+  .masthead { position: relative; padding-right: 96px; }
+  .theme-toggle { position: absolute; right: 10px; top: 9px; margin: 0; padding: 3px 8px; font-size: 0.6875rem; }
 }
