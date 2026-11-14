@@ -817,8 +817,10 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
 .abroad { pointer-events: none; }
 .abroad__label { font-size: 10px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; fill: var(--map-abroad-text); text-anchor: middle; }
 #key-toggle { display: none; font: inherit; }
-.theme-toggle { margin-left: 12px; padding: 5px 10px; border: 1px solid var(--rule); border-radius: 999px; background: var(--sheet); color: var(--ink-2); font: inherit; font-size: 0.75rem; white-space: nowrap; cursor: pointer; }
-.theme-toggle:hover { border-color: var(--ink); color: var(--ink); }
+/* The theme switch: a quiet text control at the far right of the bar, after the date. */
+.theme-toggle { order: 9; margin-left: 14px; padding: 0; border: 0; background: none; color: var(--ink-3); font: inherit; font-size: 0.75rem; text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; white-space: nowrap; cursor: pointer; }
+.theme-toggle:hover { color: var(--ink); text-decoration-color: currentColor; }
+@media (max-width: 900px) { .theme-toggle { display: none; } }
 
 /* Colours written out by hand elsewhere, as the dark theme needs them. */
 [data-theme="dark"] .masthead .tabs a { background: transparent; }
@@ -917,7 +919,6 @@ button.autonomous__logo:hover, button.autonomous__logo:focus-visible { transform
   body.locked.sheet-open .legend-box { max-width: 34vw; }
   body.locked.sheet-open .legend-box p { display: none; }
 
-  /* The theme switch, small, at the top right of the bar. */
-  .masthead { position: relative; padding-right: 96px; }
-  .theme-toggle { position: absolute; right: 10px; top: 9px; margin: 0; padding: 3px 8px; font-size: 0.6875rem; }
+  /* No theme switch on phones: the bar belongs to the title and the tabs. A link with ?tema=claro still works. */
+  .theme-toggle { display: none; }
 }
