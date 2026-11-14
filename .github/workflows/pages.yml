@@ -20,6 +20,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      # Browsers keep style.css and the scripts for a while; stamping their links with the commit
+      # makes every deploy reach phones at once. Only the published copy changes, not the repository.
+      - name: Stamp the style and script links with the commit
+        run: |
+          stamp="${GITHUB_SHA::8}"
+          sed -i -E "s#(href=\"[a-z-]+\.css)\"#\1?v=${stamp}\"#g; s#(src=\"[a-z/-]+\.js)\"#\1?v=${stamp}\"#g" web/*.html
+          grep -o 'style.css?v=[0-9a-f]*' web/index.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web
